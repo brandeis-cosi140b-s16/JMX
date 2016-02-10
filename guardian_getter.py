@@ -5,7 +5,7 @@ import requests, os
 #2 encoding problem to fix
 #3 preprocess html
 
-info = {"api-key": "__",
+info = {"api-key": "test",
         "q": "Chelsea",
         "from-date": "2014-08-16",
         "to-date": "2014-09-15",
@@ -31,18 +31,19 @@ while 1:
             pubdate = pubdate.replace(":", "")
             title = r.json()["response"]["results"][i]["webTitle"]  #have to fix encoding problem
             title = title.replace(":", "")
-            with open(os.path.join(directory,pubdate+title[0])+".txt", "w") as f:
-                
-                """1)have to fix encoding problem, 2)have to preprocess html"""
-                
-                print(r.json()["response"]["results"][i]["webUrl"].encode('utf-8','ignore'), file=f)
-                f.write("\n\n")
-                print(r.json()["response"]["results"][i]["webTitle"].encode('utf-8','ignore'), file=f)
-                f.write("\n\n")
-                try:
-                    print(r.json()["response"]["results"][i]["blocks"]["body"][0]["bodyHtml"].encode('utf-8','ignore'), file=f)
-                except KeyError:
-                    pass
+            if r.json()["response"]["results"][i]["type"] == "article":
+                with open(os.path.join(directory,pubdate+title[0])+".txt", "w") as f:
+                    
+                    """1)have to fix encoding problem, 2)have to preprocess html"""
+                    
+                    print(r.json()["response"]["results"][i]["webUrl"].encode('utf-8','ignore'), file=f)
+                    f.write("\n\n")
+                    print(r.json()["response"]["results"][i]["webTitle"].encode('utf-8','ignore'), file=f)
+                    f.write("\n\n")
+                    try:
+                        print(r.json()["response"]["results"][i]["blocks"]["body"][0]["bodyHtml"].encode('utf-8','ignore'), file=f)
+                    except KeyError:
+                        pass
                 
         info["page"] += 1
 
