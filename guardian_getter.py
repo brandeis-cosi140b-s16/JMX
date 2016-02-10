@@ -1,6 +1,6 @@
 import requests, os, re
 
-info = {"api-key": "9d4e979d-bea1-41c7-9f44-9628f9a57354",
+info = {"api-key": "test",
         "q": "Chelsea",
         "from-date": "2014-08-10",
         "to-date": "2015-05-31",
