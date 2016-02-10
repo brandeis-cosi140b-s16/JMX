@@ -1,0 +1,78 @@
+%!TEX encoding = UTF-8 Unicode
+%preamble
+\documentclass{article}
+\usepackage{titlesec}
+\usepackage[top=1in, left=1in]{geometry}
+\usepackage{fancyhdr}
+%fancy header
+    \pagestyle{fancy}
+    \lhead{\textsc{Cosi} 140B}
+    \chead{\textbf{SoccEval Group Contract}}
+    \rhead{February 4, 2016}
+    \lfoot{}
+    \cfoot{}
+    \rfoot{}
+
+%template fillers
+\newcommand{\groupmember}[1]{#1}
+\newcommand{\role}[1]{#1}
+%signature lines
+\newcommand{\sigline}[2]{\vspace{2em} #1 \hfill \line(1,0){#2}}
+
+%document
+\begin{document}
+
+\section{Group Members} % (fold)
+\label{par:group_members}
+This document represents an agreement between the following parties:
+\begin{itemize}
+    \item \groupmember{Jose Ramirez}
+    \item \groupmember{Matthew Garber}
+    \item \groupmember{Xinhao Wang}
+\end{itemize}
+% paragraph group_members (end)
+
+\section{Goals} % (fold)
+\label{par:expectations}
+Our expectations for the course project are as follows:
+\begin{enumerate}
+    \item To evaluate the performance of a soccer player according to news articles written about them.
+    \item To build a profile of a player that ranks their performance and summarizes important attributes and abilities.
+    \item To annotate attributes that distinguish a good player from a poorly performing player in new articles that describe a player's performance over the course of a game or over the course of a season.
+    \item Utimately, we hope to use this information to compare media portrayals of a player's performance to objective statistics.
+\end{enumerate}
+% paragraph expectations (end)
+
+\section{Skills} % (fold)
+\label{sec:skills}
+
+The relevant skills that each member believes will aid in their contributions are as follows:
+
+\begin{description}
+    \item[\groupmember{Jose}:] Soccer knowledge, familiarity with English-language soccer media
+    \item[\groupmember{Matthew}:] Git, programming, experience with large corpora
+    \item[\groupmember{Xinhao}:] Programming skills, machine learning knowledge, soccer knowledge.
+\end{description}
+% section skills (end)
+
+\section{Roles} % (fold)
+\label{sec:roles}
+
+Leadership roles within the group will be designated as follows, with further additions to be made:
+
+\begin{description}
+    \item[\role{Jose}:] Corpus Selection
+    \item[\role{Matthew}:] Task Description
+    \item[\role{Xinhao}:] Literature review
+\end{description}
+% section roles (end)
+
+\section{Agreement} % (fold)
+\label{par:agreement}
+The undersigned hereby agree, to the best of their respective abilities and skills as outlined in Section \ref{sec:skills}, to contribute to the project according to their roles as designated in Section \ref{sec:roles}.%\footnote{\emph{Disclaimer}: This is a preliminary group contract. As our understanding of the project becomes more clear we reserve the option to revise and resubmit a modified contract to reflect that understanding.}
+% paragraph agreement (end)
+\vspace{2em}\\
+\sigline{\textbf{\groupmember{Jose Ramirez}}}{300}\\
+\sigline{\textbf{\groupmember{Matthew Garber}}}{300}\\
+\sigline{\textbf{\groupmember{Xinhao Wang}}}{300}\\
+\end{document}
