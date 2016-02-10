@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/blog/2014/oct/16/price-of-football-britain-good-value'
+
+
+b'With the price of football rising in Britain, where can you find good value?'
+
+
+b'<p>The cost of football keeps going up. Ticket prices in England have risen by 13% in the last three years. Pies at Kidderminster Harriers now cost \xc2\xa34.50 and a cup of tea will set you back \xc2\xa32.50 at Anfield, Old Trafford and St Mary\xe2\x80\x99s. If you want to attend a football match in the UK, you will probably have to pay a substantial amount of money for the pleasure.</p> <p>But there must be some bargains to be found amid the sky-high prices. Chelsea are not famed for their good value, but their pies are as cheap as any in the Premier League at \xc2\xa32.50. Braintree Town, who play alongside Kidderminster in the Conference Premier, sell their pies for just \xc2\xa31. And, at only \xc2\xa3299, the cheapest season tickets at Manchester City cost \xc2\xa320 less than the \xc2\xa3319 charged by Halifax Town. They may be few and far between, but there are bargains to be found this side of Germany. Can you recommend any economical options for thrifty football supporters?</p>'

@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/2015/feb/02/harry-kane-tottenham-new-contract'
+
+
+b'Harry Kane signs new five-and-a-half year contract with Tottenham'
+
+
+b'<p>Harry Kane\xe2\x80\x99s superb form for Tottenham this season has earned him a new five-and-a-half-year contract at White Hart Lane.</p> <p>The 21-year-old only signed a new deal in August but his 20 goals in all competitions have earned him improved terms and a contract until 2020.</p>       <p>Kane\xe2\x80\x99s goalscoring form in the cup competitions prompted the manager Mauricio Pochettino to give the academy graduate a run in the Premier League and he has not looked back, scoring 10 league goals, including doubles against Chelsea and, on Saturday, West Bromwich Albion.</p>'

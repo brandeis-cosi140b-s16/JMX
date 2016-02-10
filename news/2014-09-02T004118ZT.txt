@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/live/2014/sep/01/transfer-deadline-day-live'
+
+
+b'Transfer deadline day: Falcao, Blind and Welbeck moves \xe2\x80\x93 as they (eventually) happened'
+
+
+b'<p>Right, that\xe2\x80\x99s it from me. Thanks for your company and your emails, comments and tweets. Cheerio!</p>'

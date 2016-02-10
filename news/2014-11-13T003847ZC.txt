@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/2014/nov/13/chelsea-profits-20m-financial-results'
+
+
+b'Chelsea set to announce \xc2\xa320m profits in annual financial results'
+
+
+b'<p>Chelsea are set to announce profits of almost \xc2\xa320m and a record turnover of around \xc2\xa3320m when the Premier League leaders release their annual financial results.</p> <p>They ran up losses of more than \xc2\xa3600m during Roman Abramovich\xe2\x80\x99s first 10 years at the helm and this is only the second time in his tenure that Chelsea have been in the black; they reported profits of \xc2\xa31.4m in 2011-12.</p> <p>However, by returning a profit from player sales in the last two transfer windows, with Juan Mata going to Manchester United for \xc2\xa337.1m in January and David Luiz for \xc2\xa350m to Paris Saint-Germain in the summer, the club offers more evidence that it is no longer reliant on its Russian owner to subsidise its day-to-day running.</p>'

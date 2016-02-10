@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/live/2015/jan/28/atletico-madrid-v-barcelona-copa-del-rey-live'
+
+
+b'Atl\xc3\xa9tico Madrid v Barcelona: Copa del Rey \xe2\x80\x93 as it happened!'
+
+
+b'<p>All the goals were scored in an exhilarating first-half but the match petered out after Gabi managed to get himself sent off for a dust-up in the tunnel during the break. The second-half was a Bar\xc3\xa7a training session punctuated by mad intrusions by Atletico, including Turan throwing his boot toward the linesman. </p>'

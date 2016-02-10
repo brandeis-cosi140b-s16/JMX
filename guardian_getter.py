@@ -1,14 +1,9 @@
-import requests, os
+import requests, os, re
 
-#BUGS to fix:
-#1 not sure why there's list out of range error
-#2 encoding problem to fix
-#3 preprocess html
-
-info = {"api-key": "test",
+info = {"api-key": "9d4e979d-bea1-41c7-9f44-9628f9a57354",
         "q": "Chelsea",
-        "from-date": "2014-08-16",
-        "to-date": "2014-09-15",
+        "from-date": "2014-08-10",
+        "to-date": "2015-05-31",
         "page-size": 200, #default to show 200 articles on each page
         "page": 1, #default to show first page
         "section": "football",
@@ -17,8 +12,7 @@ info = {"api-key": "test",
 url = "http://content.guardianapis.com/search"
 
 r = requests.get(url, info)
-directory = "C:/testgitrepo"  #hard-coded
-
+directory = "/directory"  #hard-coded
 
 while 1:
     r = requests.get(url, info)
@@ -40,10 +34,11 @@ while 1:
                     f.write("\n\n")
                     print(r.json()["response"]["results"][i]["webTitle"].encode('utf-8','ignore'), file=f)
                     f.write("\n\n")
-                    try:
-                        print(r.json()["response"]["results"][i]["blocks"]["body"][0]["bodyHtml"].encode('utf-8','ignore'), file=f)
-                    except KeyError:
-                        pass
+
+                    if "blocks" in r.json()["response"]["results"][i].keys():
+                        content = r.json()["response"]["results"][i]["blocks"]["body"][0]["bodyHtml"]
+                        content = re.sub(r'</?[ahsbfieutv].*?>','',content)  #<p>, <li> are kept
+                        print(content.encode('utf-8','ignore'), file=f)
                 
         info["page"] += 1
 

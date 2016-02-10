@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/live/2014/aug/25/manchester-city-v-liverpool-live'
+
+
+b'Manchester City v Liverpool \xe2\x80\x93 as it happened | Jacob Steinberg'
+
+
+b'<p>Manchester City finish this match looking thoroughly ominous. Liverpool were the better side for 40 minutes, without really creating anything, but then came a lesson in cold-blooded efficiency from City, who proceeded to run away with it after Stevan Jovetic\xe2\x80\x99s opener. That\xe2\x80\x99s why they\xe2\x80\x99re champions. Thanks for reading and emailing. Night.</p>'

@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/live/2014/nov/22/football-clockwatch-premier-league-updates-and-latest-news-live'
+
+
+b'Football clockwatch: Premier League updates and latest news \xe2\x80\x93 as it happened!'
+
+
+b'<p>OK, OK, that\xe2\x80\x99s all from me folks. You can get all the final scores you need here and you can get all the tables you need here. Thanks for all the tweets, emails and comments. Have a nice weekend! Bye!</p>'

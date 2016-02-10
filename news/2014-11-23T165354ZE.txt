@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/live/2014/nov/23/england-v-germany-womens-international-friendly-live'
+
+
+b"England v Germany: women's international friendly - as it happened"
+
+
+b'<p>In truth there wasn\xe2\x80\x99t a colossal amount that England and manager Sampson could have done about that. Germany were just so much stronger, even with five absentees and playing at around 75% for the second-half. Still, decent preparation before the World Cup in Canada next year, and 55,000 for a women\xe2\x80\x99s international at Wembley is terrific. Farewell, and thanks for reading.</p>'

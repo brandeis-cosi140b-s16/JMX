@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/live/2014/aug/22/atletico-madrid-real-madrid-spanish-super-cup-live'
+
+
+b'Atl\xc3\xa9tico Madrid v Real Madrid: Spanish Super Cup \xe2\x80\x93 as it happened | Tom Bryant'
+
+
+b'<p>Well, that\xe2\x80\x99s revenge of sorts for Atletico Madrid after the Champions League final and means the underdogs have laid down their ambitions for the season. They want to win the title again. Real Madrid, for their part, were not at their best.</p> <p>Still, for what is a glorified friendly, this was a pretty good double-legged affair. Certainly you couldn\xe2\x80\x99t fault the speed and commitment of the players. Right, I\xe2\x80\x99m off. Thanks for your emails and for reading. Bye!</p>'

@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/live/2015/mar/04/premier-league-clockwatch-live'
+
+
+b'Premier League clockwatch \xe2\x80\x93 as it happened'
+
+
+b'<p>Liverpool stay fifth, Burnley stay 19th. </p>'

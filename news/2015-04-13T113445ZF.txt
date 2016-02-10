@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/2015/apr/13/chelsea-manchester-city-fa-womens-cup-semi-final'
+
+
+b'FA Women\xe2\x80\x99s Cup: Chelsea drawn against Manchester City in semi-final draw'
+
+
+b'<p>Chelsea will face Manchester City in the semi-finals of the FA Women\xe2\x80\x99s Cup, while last season\xe2\x80\x99s beaten finalists Everton will play Notts County for the other spot in the 3 May final, which takes place at Wembley for the first time.</p> <p>Chelsea, who overcame last year\xe2\x80\x99s winners Arsenal in the quarter-finals, are the early pace-setters in the Women\xe2\x80\x99s Super League after two wins from their opening two games. City lie second after a win and a draw.</p> <p>In the second semi-final, Everton \xe2\x80\x93 the only former winners left in the competition \xe2\x80\x93 go against WSL 1 opposition in Notts County, who thrashed Aston Villa 5-1 in the last round.</p> Semi-final draw <p>Chelsea v Manchester City</p> <p>Everton v Notts County</p>'

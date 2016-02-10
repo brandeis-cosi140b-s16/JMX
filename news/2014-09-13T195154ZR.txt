@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/live/2014/sep/13/real-madrid-v-atletico-madrid-la-liga-live-report'
+
+
+b'Real Madrid v Atl\xc3\xa9tico Madrid: La Liga \xe2\x80\x93 as it happened!'
+
+
+b'<p>That is that! Atl\xc3\xa9tico led against the run of play thanks to Tiago\xe2\x80\x99s header after 10 minutes but Real dominated the rest of the first half. Ronaldo equalised from the penalty spot having been felled by Siqueira but the home team wasted several good opportunities and failed to produce the same intensity after the break. The introductions of Arda Turan and Antoine Griezmann gave Atl\xc3\xa9tico fresh impetus and the former notched that wonderful winner with less than 15 minutes to play. Until next time, enjoy the rest of your weekend \xe2\x80\xa6</p>'

@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/live/2014/dec/02/premier-league-clockwatch-live'
+
+
+b'Premier League clockwatch \xe2\x80\x93 as it happened'
+
+
+b'<p>Well, that was a fairly eventful evening\xe2\x80\x99s entertainment. Burnley\xe2\x80\x99s unbeaten run now stretches to four matches. An increasingly impressive Manchester United\xe2\x80\x99s winning streak extends to four. West Ham and Swansea continue to hover around at the top end of the table. Liverpool still aren\xe2\x80\x99t playing brilliantly, but have turned a corner this week with two victories on the bounce. Aston Villa have sprung away from the danger zone. Not such a good evening for the strugglers Crystal Palace, QPR and Leicester, or for Stoke who will have the radge regarding Manchester United\xe2\x80\x99s faintly controversial winner, plus a plethora of last-minute missed opportunities. The Wednesday fixtures have a lot to live up to.</p>'

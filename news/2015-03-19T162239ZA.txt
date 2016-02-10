@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/2015/mar/19/arsenal-fa-cup-semi-final-clash-chelsea-manchester-united'
+
+
+b'Arsenal\xe2\x80\x99s FA Cup semi-final to clash with Chelsea-Manchester United game'
+
+
+b'<p>The FA Cup semi-final between Arsenal and Reading next month will clash with Chelsea\xe2\x80\x99s Premier League match at home to Manchester United.</p> <p>The Football Association announced on Thursday that the first of the semi-finals would kick off at Wembley at 5.20pm on Saturday 18 April and be broadcast on BBC1. Chelsea\xe2\x80\x99s game against United starts 10 minutes later on Sky Sports.</p> <p>The second semi-final, in which Aston Villa will take on either Liverpool or Blackburn Rovers, who replay on 8 April, will be played on Sunday 19 April.</p> <p>It will start at 3pm and will be broadcast by BT Sport. Newcastle\xe2\x80\x99s Premier League match against Tottenham kicks off an hour later and will be shown on Sky Sports.</p>'

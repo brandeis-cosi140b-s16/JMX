@@ -1,0 +1,7 @@
+b'http://www.theguardian.com/football/2015/may/18/best-goals-week-marco-fabian-hat-trick-hulk-djaniny'
+
+
+b"The best goals of the week: Marco Fabi\xc3\xa1n's hat-trick, Hulk and Djaniny"
+
+
+b'Sebastian Andersen (VIBORG FF v Roskilde)              Marco Fabi\xc3\xa1n\xe2\x80\x99s first goal (Atlas v GUADALAJARA)       Marco Fabi\xc3\xa1n\xe2\x80\x99s second goal (Atlas v GUADALAJARA)       Marco Fabi\xc3\xa1n\xe2\x80\x99s third goal (Atlas v GUADALAJARA)       Josh Cullen (Chelsea U21s v WEST HAM U21s)              Michael Bradley (New England Revolution v TORONTO FC)              Jean Barrientos (WISLA KRAKOW v Lechia Gdansk)       Djaniny (Tigres v SANTOS LAGUNA)              William Fernando da Silva (Veracruz v QUERETARO)       Abby Wambach (USA WOMEN\xe2\x80\x99S v Mexico)              Rub\xc3\xa9n Rochina (Real Sociedad v GRANADA)       Hulk (Ufa v ZENIT ST PETERSBURG)              And \xe2\x80\xa6 an own goal from Brest\xe2\x80\x99s Joan Hartock       And ... an own goal from Gremio\xe2\x80\x99s Frickson Erazo         '
