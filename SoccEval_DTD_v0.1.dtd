@@ -1,0 +1,24 @@
+<!ENTITY name "SoccEval 0.1">
+
+
+<!ELEMENT Player ( #PCDATA ) >
+<!ATTLIST Player playerID CDATA #REQUIRED >
+<!ATTLIST Player name CDATA #IMPLIED >
+
+<!ELEMENT Coref ( #PCDATA ) >
+<!ATTLIST Coref playerID CDATA #REQUIRED >
+
+<!ELEMENT Fact ( #PCDATA ) >
+<!ATTLIST Fact type ( pass | shot | move | position | substitution | injury | tackle | save | other ) #REQUIRED >
+<!ATTLIST Fact number CDATA #IMPLIED >
+<!ATTLIST Fact time ( distant past | recent past | present | future ) #REQUIRED >
+<!ATTLIST Fact completedness ( complete | continuous ) #REQUIRED >
+
+<!ELEMENT Opinion ( #PCDATA ) >
+<!ATTLIST Opinion type ( figurative language | particular skill | general attribute | impact on team | growth/decline | accomplishment | other ) #REQUIRED >
+<!ATTLIST Opinion polarity ( + | - ) #REQUIRED >
+<!ATTLIST Opinion time ( distant past | recent past | present | future ) #REQUIRED >
+<!ATTLIST Opinion completedness ( complete | continuous ) #REQUIRED >
+<!ATTLIST Opinion hypothetical ( true | false ) #REQUIRED >
+
+<!ELEMENT TargetLink EMPTY >
