@@ -1,4 +1,4 @@
-<!ENTITY name "SoccEval 0.1">
+<!ENTITY name "SoccEval0.1">
 
 
 <!ELEMENT Player ( #PCDATA ) >

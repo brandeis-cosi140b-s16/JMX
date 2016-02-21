@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval0.1>
+<TEXT><![CDATA[Welcome to theguardian.com review of the 2014-15 Premier League season. Now that the campaign has ended we would like you to help us choose your favourite goal, the best referee and the best manager, and other winners in a total of 10 categories.
+
+We have nominated some contenders but this is just to get the discussion going: we would like your suggestions so that we can compile the best into final polls that you can vote on. The polls will be published at midday on Tuesday 26 May, so please tell us what you think. Thanks
+Eden Hazard
+
+Chelsea may not have been the most swashbuckling of champions but this nifty mischief-maker was always a joy to watch. This was by far Hazard’s most consistent season since his arrival at Stamford Bridge in 2012 as he successfully shouldered much of the creative burden for his team, embroidering their play with snazzy dribbles, ingenious passes and some decisive finishes.
+John Terry
+
+The centre-back turned 34 during the campaign but delivered performances that ridiculed the suggestion – so common a couple of years ago – that he was past it. He led, masterfully, the title-winning defence for every minute of every match, helping to integrate young Kurt Zouma to the side when Gary Cahill endured an iffy spell. Terry also chipped in with enough goals to make him the highest scoring defender of the Premier League era.
+Harry Kane
+
+At the beginning of the season Tottenham Hotspur were not sure Harry Kane was good enough for them, now their challenge is to hang on to the young striker. Kane’s first full campaign in the Premier League was such a success that Tottenham fans were almost able to forget about Roberto Soldado and Emmanuel Adebayor. The youngster dazzled with his dynamism and deadliness, regularly discombobulating seasoned top-flight defenders.
+David de Gea
+
+For the first half of the season, in particular, the Spaniard was a Winston Wolfe figure at Manchester United, tidying up messes by the goofs around him. United would surely not have been in contention for a Champions League place if not for the agility of their goalkeeper, who earned victories from matches United could otherwise have lost, such as at home to Everton, when his blocks included a save from a Leighton Baines penalty, at home to Liverpool, when even the three goals they scored might not have been enough to secure a point if their goalkeeper had not excelled, and away at Southampton and Crystal Palace. And many others.
+Yannick Bolasie
+
+Yes, he should have scored more goals, but no, there is no other player in the Premier League with the same ability to astonish as Bolasie. His trickery, which Alan Pardew helped to unlock after the departure of the limited and limiting Neil Warnock, was the chief highlight of Crystal Palace’s climb up the table and a regular source of exasperation for defenders, who never knew what Bolasie was going to do next. Blessed with formidable speed and strength to go with his rare skill, the 25-year-old was always worth watching.
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="528~539" text="Eden Hazard" name="Eden Hazard" playerID="p001" />
+<Player id="P1" spans="676~682" text="Hazard" name="Eden Hazard" playerID="p001" />
+<Player id="P2" spans="916~926" text="John Terry" name="John Terry" playerID="p002" />
+<Player id="P3" spans="1195~1205" text="Kurt Zouma" name="Kurt Zouma" playerID="p003" />
+<Player id="P4" spans="1223~1234" text="Gary Cahill" name="Gary Cahill" playerID="p004" />
+<Player id="P5" spans="1258~1263" text="Terry" name="John Terry" playerID="p002" />
+<Player id="P7" spans="1366~1376" text="Harry Kane" name="Harry Kane" playerID="p005" />
+<Player id="P8" spans="1441~1451" text="Harry Kane" name="Harry Kane" playerID="p005" />
+<Player id="P9" spans="1534~1538" text="Kane" name="Harry Kane" playerID="p005" />
+<Player id="P10" spans="1655~1670" text="Roberto Soldado" name="Roberto Soldado" playerID="p006" />
+<Player id="P11" spans="1675~1692" text="Emmanuel Adebayor" name="Emmanuel Adebayor" playerID="p007" />
+<Player id="P6" spans="1808~1820" text="David de Gea" playerID="p008" name="David de Gea" />
+<Player id="P13" spans="2461~2476" text="Yannick Bolasie" playerID="p009" name="Yannick Bolasie" />
+<Player id="P14" spans="2609~2616" text="Bolasie" playerID="p009" name="Yannick Bolasie" />
+<Player id="P15" spans="2864~2871" text="Bolasie" playerID="p009" name="Yannick Bolasie" />
+<Coref id="C0" spans="618~632" text="mischief-maker" playerID="p001" />
+<Coref id="C1" spans="714~717" text="his" playerID="p001" />
+<Coref id="C2" spans="756~758" text="he" playerID="p001" />
+<Coref id="C3" spans="815~818" text="his" playerID="p001" />
+<Coref id="C4" spans="932~943" text="centre-back" playerID="p002" />
+<Coref id="C5" spans="1072~1074" text="he" playerID="p002" />
+<Coref id="C6" spans="1088~1090" text="He" playerID="p002" />
+<Coref id="C7" spans="1306~1309" text="him" playerID="p002" />
+<Coref id="C8" spans="1519~1532" text="young striker" playerID="p005" />
+<Coref id="C9" spans="1698~1707" text="youngster" playerID="p005" />
+<Coref id="C10" spans="1721~1724" text="his" playerID="p005" />
+<Coref id="C11" spans="1871~1883" text="the Spaniard" playerID="p008" />
+<Coref id="C12" spans="1971~1974" text="him" playerID="p008" />
+<Coref id="C13" spans="2079~2095" text="their goalkeeper" playerID="p008" />
+<Coref id="C14" spans="2198~2201" text="his" playerID="p008" />
+<Coref id="C15" spans="2365~2381" text="their goalkeeper" playerID="p008" />
+<Coref id="C16" spans="2483~2485" text="he" playerID="p009" />
+<Coref id="C17" spans="2618~2621" text="His" playerID="p009" />
+<Coref id="C18" spans="2948~2951" text="his" playerID="p009" />
+<Coref id="C19" spans="2968~2979" text="25-year-old" playerID="p009" />
+<Fact id="F0" spans="2202~2208" text="blocks" type="save" time="recent past" completedness="complete" />
+<Fact id="F1" spans="2220~2224" text="save" type="save" number="1" time="recent past" completedness="complete" />
+<Opinion id="O0" spans="612~632" text="nifty mischief-maker" polarity="+" completedness="continuous" time="present" type="figurative language" hypothetical="false" />
+<Opinion id="O1" spans="633~658" text="was always a joy to watch" polarity="+" completedness="continuous" time="recent past" type="figurative language" hypothetical="false" />
+<Opinion id="O2" spans="685~707" text="most consistent season" polarity="+" completedness="complete" time="recent past" type="accomplishment" hypothetical="false" />
+<Opinion id="O3" spans="759~823" text="successfully shouldered much of the creative burden for his team" polarity="+" completedness="complete" time="recent past" type="impact on team" hypothetical="false" />
+<Opinion id="O4" spans="854~869" text="snazzy dribbles" polarity="+" completedness="complete" time="recent past" type="particular skill" hypothetical="false" />
+<Opinion id="O5" spans="871~887" text="ingenious passes" polarity="+" completedness="complete" time="recent past" type="particular skill" hypothetical="false" />
+<Opinion id="O6" spans="897~914" text="decisive finishes" polarity="+" completedness="complete" time="recent past" type="particular skill" hypothetical="false" />
+<Opinion id="O7" spans="825~914" text="embroidering their play with snazzy dribbles, ingenious passes and some decisive finishes" polarity="+" completedness="complete" time="recent past" type="impact on team" hypothetical="false" />
+<Opinion id="O8" spans="978~1086" text="delivered performances that ridiculed the suggestion – so common a couple of years ago – that he was past it" polarity="+" completedness="complete" time="recent past" type="figurative language" hypothetical="false" />
+<Opinion id="O9" spans="1091~1134" text="led, masterfully, the title-winning defence" polarity="+" completedness="complete" time="recent past" type="impact on team" hypothetical="false" />
+<Opinion id="O10" spans="1168~1217" text="helping to integrate young Kurt Zouma to the side" polarity="+" completedness="complete" time="recent past" type="impact on team" hypothetical="false" />
+<Opinion id="O11" spans="1235~1256" text="endured an iffy spell" polarity="-" completedness="complete" time="recent past" type="accomplishment" hypothetical="false" />
+<Opinion id="O12" spans="1269~1297" text="chipped in with enough goals" polarity="+" completedness="complete" time="recent past" type="impact on team" hypothetical="false" />
+<Opinion id="O13" spans="1310~1338" text="the highest scoring defender" polarity="+" completedness="complete" time="recent past" type="accomplishment" hypothetical="false" />
+<Opinion id="O14" spans="1409~1476" text="Tottenham Hotspur were not sure Harry Kane was good enough for them" completedness="complete" time="recent past" type="other" hypothetical="false" polarity="-" />
+<Opinion id="O15" spans="1541~1601" text="first full campaign in the Premier League was such a success" polarity="+" completedness="complete" time="recent past" type="accomplishment" hypothetical="false" />
+<Opinion id="O16" spans="1708~1748" text="dazzled with his dynamism and deadliness" polarity="+" completedness="complete" time="recent past" hypothetical="false" type="general attribute" />
+<Opinion id="O17" spans="1750~1806" text="regularly discombobulating seasoned top-flight defenders" polarity="+" completedness="complete" time="recent past" type="other" hypothetical="false" />
+<Opinion id="O18" spans="1884~1910" text="was a Winston Wolfe figure" type="figurative language" polarity="+" time="recent past" completedness="complete" hypothetical="false" />
+<Opinion id="O19" spans="1933~1974" text="tidying up messes by the goofs around him" type="impact on team" polarity="+" time="recent past" completedness="complete" hypothetical="false" />
+<Opinion id="O20" spans="1976~2052" text="United would surely not have been in contention for a Champions League place" type="impact on team" time="recent past" completedness="complete" hypothetical="true" polarity="+" />
+<Opinion id="O21" spans="2068~2075" text="agility" type="general attribute" polarity="+" time="present" completedness="continuous" hypothetical="false" />
+<Opinion id="O22" spans="2097~2163" text="who earned victories from matches United could otherwise have lost" type="impact on team" time="recent past" completedness="complete" hypothetical="false" polarity="+" />
+<Opinion id="O23" spans="2382~2398" text="had not excelled" type="accomplishment" time="recent past" completedness="complete" hypothetical="true" polarity="+" />
+<Opinion id="O24" spans="2486~2515" text="should have scored more goals" type="accomplishment" polarity="-" time="recent past" completedness="complete" hypothetical="true" />
+<Opinion id="O25" spans="2586~2605" text="ability to astonish" type="figurative language" polarity="+" completedness="continuous" hypothetical="false" time="present" />
+<Opinion id="O26" spans="2622~2630" text="trickery" type="general attribute" polarity="+" time="present" completedness="continuous" hypothetical="false" />
+<Opinion id="O27" spans="2798~2842" text="regular source of exasperation for defenders" polarity="+" time="recent past" completedness="complete" hypothetical="false" type="general attribute" />
+<Opinion id="O28" spans="2907~2923" text="formidable speed" type="general attribute" polarity="+" time="present" completedness="continuous" hypothetical="false" />
+<Opinion id="O29" spans="2928~2936" text="strength" type="general attribute" polarity="+" time="present" completedness="continuous" hypothetical="false" />
+<Opinion id="O30" spans="2952~2962" text="rare skill" type="general attribute" polarity="+" time="present" completedness="continuous" hypothetical="false" />
+<Opinion id="O31" spans="2980~3005" text="was always worth watching" type="figurative language" polarity="+" time="recent past" completedness="complete" hypothetical="false" />
+<TargetLink id="T0" toID="C0" toText="mischief-maker" fromID="O1" fromText="was always a joy to watch" />
+<TargetLink id="T1" fromID="O1" fromText="was always a joy to watch" toID="C0" toText="mischief-maker" />
+<TargetLink id="T2" fromID="O2" fromText="most consistent season" toID="P1" toText="Hazard" />
+<TargetLink id="T3" fromID="O3" fromText="successfully shouldered much of the creative burden for his team" toID="C2" toText="he" />
+<TargetLink id="T4" fromID="O4" fromText="snazzy dribbles" toID="C2" toText="he" />
+<TargetLink id="T5" fromID="O5" fromText="ingenious passes" toID="C2" toText="he" />
+<TargetLink id="T6" fromID="O6" fromText="decisive finishes" toID="C2" toText="he" />
+<TargetLink id="T7" fromID="O7" fromText="embroidering their play with snazzy dribbles, ingenious passes and some decisive finishes" toID="C2" toText="he" />
+<TargetLink id="T8" fromID="O8" fromText="delivered performances that ridiculed the suggestion – so common a couple of years ago – that he was past it" toID="C4" toText="centre-back" />
+<TargetLink id="T9" fromID="O9" fromText="led, masterfully, the title-winning defence" toID="C6" toText="He" />
+<TargetLink id="T10" fromID="O10" fromText="helping to integrate young Kurt Zouma to the side" toID="C6" toText="He" />
+<TargetLink id="T11" fromID="O11" fromText="endured an iffy spell" toID="P4" toText="Gary Cahill" />
+<TargetLink id="T12" fromID="O12" fromText="chipped in with enough goals" toID="P5" toText="Terry" />
+<TargetLink id="T13" fromID="O13" fromText="the highest scoring defender" toID="C7" toText="him" />
+<TargetLink id="T14" fromID="O14" fromText="Tottenham Hotspur were not sure Harry Kane was good enough for them" toID="P8" toText="Harry Kane" />
+<TargetLink id="T15" fromID="O15" fromText="first full campaign in the Premier League was such a success" toID="P9" toText="Kane" />
+<TargetLink id="T16" fromID="O16" fromText="dazzled with his dynamism and deadliness" toID="C9" toText="youngster" />
+<TargetLink id="T17" fromID="O17" fromText="regularly discombobulating seasoned top-flight defenders" toID="C9" toText="youngster" />
+<TargetLink id="T18" fromID="O18" fromText="was a Winston Wolfe figure" toID="C11" toText="the Spaniard" />
+<TargetLink id="T19" fromID="O19" fromText="tidying up messes by the goofs around him" toID="C11" toText="the Spaniard" />
+<TargetLink id="T20" fromID="O20" fromText="United would surely not have been in contention for a Champions League place" toID="C13" toText="their goalkeeper" />
+<TargetLink id="T21" fromID="O21" fromText="agility" toID="C13" toText="their goalkeeper" />
+<TargetLink id="T22" fromID="O22" fromText="who earned victories from matches United could otherwise have lost" toID="C13" toText="their goalkeeper" />
+<TargetLink id="T23" fromID="F0" fromText="blocks" toID="C14" toText="his" />
+<TargetLink id="T24" fromID="F1" fromText="save" toID="C14" toText="his" />
+<TargetLink id="T25" fromID="O23" fromText="had not excelled" toID="C15" toText="their goalkeeper" />
+<TargetLink id="T26" fromID="O24" fromText="should have scored more goals" toID="C16" toText="he" />
+<TargetLink id="T27" fromID="O25" fromText="ability to astonish" toID="P14" toText="Bolasie" />
+<TargetLink id="T28" fromID="O26" fromText="trickery" toID="C17" toText="His" />
+<TargetLink id="T29" fromID="O27" fromText="regular source of exasperation for defenders" toID="C17" toText="His" />
+<TargetLink id="T30" fromID="O28" fromText="formidable speed" toID="C19" toText="25-year-old" />
+<TargetLink id="T31" fromID="O29" fromText="strength" toID="C19" toText="25-year-old" />
+<TargetLink id="T32" fromID="O30" fromText="rare skill" toID="C18" toText="his" />
+<TargetLink id="T33" fromID="O31" fromText="was always worth watching" toID="C19" toText="25-year-old" />
+</TAGS>
+</SoccEval0.1>
