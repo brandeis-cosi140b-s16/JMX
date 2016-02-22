@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval0.1>
+<TEXT><![CDATA[Louis van Gaal admitted Manchester United fans were right to sing “We’re fucking shit” after the dismal 2-1 defeat to Midtjylland in the Europa League last-32 first leg in Herning.
+
+The supporters, who were upset at the £71 ticket price issued by the Danish champions, had their mood darkened further by the defeat to a team whose last competitive match was on 10 December due to the winter break.
+
+United took the lead on 37 minutes through Memphis Depay but they held on for only seven minutes as wayward defending allowed Pione Sisto to equalise. Worse was to come when the second-half substitute Paul Onuachu scored a 77th-minute winner to give Jess Thorup’s side the advantage before next week’s second leg at Old Trafford.
+
+At the final whistle the travelling support signalled their disapproval in stark terms. When Van Gaal was told the precise wording of the chant, he said: “The fans can criticise. They can do because when you see the second half maybe they are right. We have to improve and then the fans shall support us again. We have seen that in the 18 months I am here.
+
+“They are disappointed, like we are. I’m very grateful for the fans who supported us but we wanted to win and we have to win at Old Trafford and then we are in the next round. We have to do it but it’s not easy.”
+
+This was United’s second consecutive defeat but Van Gaal shrugged off any notion he could again be under pressure regarding his job. “Yes, but it’s always like that,” he said.
+
+The goalkeeper David de Gea added to Van Gaal’s problems when he injured a knee in the warm-up and had to be replaced by Sergio Romero, who was United’s stand-out performer. The Spaniard became the 12th frontline player to be injured, with the captain, Wayne Rooney, also absent after injuring his knee in Saturday’s loss at Sunderland.
+
+Van Gaal pointed to the catalogue of injuries as a mitigating factor for the performance and defeat. “It’s the law of Murphy. When you have a list of injured players and a few minutes before the game we can add another player to the list then it is difficult to cope with such a list of injured players.
+
+“Nevertheless after 10-15 minutes we controlled the match and scored a goal but we also gave a goal away one minute before half-time and that’s a difficult time to concede a goal.”
+
+Van Gaal is not concerned that the team have lurched into inconsistency, however. “We have to cope with a list of injured players and that’s not easy. I have to make another lineup every week, more or less, and that isn’t contributing to confidence.” The manager did admit his players were off the pace after the break.
+
+“In the second half I have to say that Midtjylland were winning every ball and that is very disappointing because you know in advance that is the key of this game,” he said. Yet the Dutchman denied this was due to his players lacking fight. “It’s nothing to do with attitude,” said Van Gaal. “Why do you say that? All the players want to perform in an excellent way. Attitude is not the case but we were not winning the second balls, that is my analysis.”
+
+Michael Carrick agreed the display was unpalatable. “‘It’s not acceptable,” said the midfielder. “The performance and the result are just not good enough – it’s got to be a lot better. We scored a good goal and then it’s just not good enough, we haven’t played well enough, we didn’t really kick on.
+
+“They were there for us to win the game, we should have won that. With a performance and a result like that we’re going home very disappointed.”
+
+Regarding De Gea’s injury, Van Gaal said: “We have to wait and see the scan tomorrow and maybe we can say more. It was a big surprise.”
+
+United now have to overturn the deficit in next Thursday’s second leg at Old Trafford. “We have the chance to beat them at home,” said Van Gaal. “I think we have to do that.”
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="442~455" text="Memphis Depay" playerID="1" name="Memphis Depay" />
+<Player id="P1" spans="525~536" text="Pione Sisto" playerID="2" name="Pione Sisto" />
+<Player id="P2" spans="600~612" text="Paul Onuachu" playerID="3" name="Paul Onuachu" />
+<Player id="P3" spans="1494~1506" text="David de Gea" playerID="4" name="David de Gea" />
+<Player id="P4" spans="1600~1613" text="Sergio Romero" playerID="5" name="Sergio Romero" />
+<Player id="P5" spans="1732~1744" text="Wayne Rooney" playerID="6" />
+<Player id="P6" spans="3082~3097" text="Michael Carrick" playerID="7" name="Michael Carrick" />
+<Coref id="C0" spans="1541~1543" text="he" playerID="4" />
+<Coref id="C1" spans="1653~1665" text="The Spaniard" playerID="4" />
+<Coref id="C2" spans="3539~3545" text="De Gea"  />
+<Fact id="F0" spans="540~548" text="equalise" type="other" time="recent past" number="1" completedness="complete" />
+<Fact id="F1" spans="577~599" text="second-half substitute" type="substitution" time="recent past" completedness="complete" />
+<Fact id="F3" spans="1544~1573" text="injured a knee in the warm-up" type="injury" time="recent past" completedness="complete" />
+<Fact id="F4" spans="1578~1596" text="had to be replaced" type="substitution" time="recent past" completedness="complete" />
+<Fact id="F5" spans="1673~1712" text="the 12th frontline player to be injured" type="injury" time="recent past" completedness="complete" />
+<Fact id="F6" spans="1751~1814" text="absent after injuring his knee in Saturday’s loss at Sunderland" type="injury" time="recent past" completedness="complete" />
+<Fact id="F7" spans="3548~3554" text="injury" type="injury" time="recent past" completedness="complete" />
+<Opinion id="O1" spans="399~441" text="United took the lead on 37 minutes through" polarity="+" time="recent past" type="impact on team" completedness="complete" hypothetical="false" />
+<Opinion id="O0" spans="644~727" text="give Jess Thorup’s side the advantage before next week’s second leg at Old Trafford" polarity="+" time="recent past" type="impact on team" completedness="complete" hypothetical="false" />
+<Opinion id="O2" spans="1507~1535" text="added to Van Gaal’s problems" polarity="-" time="recent past" type="impact on team" completedness="complete" hypothetical="false" />
+<Opinion id="O3" spans="1623~1651" text="United’s stand-out performer" polarity="+" time="recent past" type="accomplishment" completedness="complete" hypothetical="false" />
+<TargetLink id="T0" fromID="P0" fromText="Memphis Depay" toID="O1" toText="United took the lead on 37 minutes through" />
+<TargetLink id="T1" fromID="P1" fromText="Pione Sisto" toID="F0" toText="equalise" />
+<TargetLink id="T2" fromID="P2" fromText="Paul Onuachu" toID="F1" toText="second-half substitute" />
+<TargetLink id="T3" fromID="P2" fromText="Paul Onuachu" toID="O0" toText="give Jess Thorup’s side the advantage before next week’s second leg at Old Trafford" />
+<TargetLink id="T4" fromID="P3" fromText="David de Gea" toID="O2" toText="added to Van Gaal’s problems" />
+<TargetLink id="T5" fromID="C0" fromText="he" toID="F3" toText="injured a knee in the warm-up" />
+<TargetLink id="T6" fromID="C0" fromText="he" toID="F4" toText="had to be replaced" />
+<TargetLink id="T7" fromID="P4" fromText="Sergio Romero" toID="O3" toText="United’s stand-out performer" />
+<TargetLink id="T8" fromID="C1" fromText="The Spaniard" toID="F5" toText="the 12th frontline player to be injured" />
+<TargetLink id="T9" fromID="P5" fromText="Wayne Rooney" toID="F6" toText="absent after injuring his knee in Saturday’s loss at Sunderland" />
+</TAGS>
+</SoccEval0.1>
