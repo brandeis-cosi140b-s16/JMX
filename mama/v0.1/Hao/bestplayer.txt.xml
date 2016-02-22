@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval0.1>
+<TEXT><![CDATA[Welcome to theguardian.com review of the 2014-15 Premier League season. Now that the campaign has ended we would like you to help us choose your favourite goal, the best referee and the best manager, and other winners in a total of 10 categories.
+
+We have nominated some contenders but this is just to get the discussion going: we would like your suggestions so that we can compile the best into final polls that you can vote on. The polls will be published at midday on Tuesday 26 May, so please tell us what you think. Thanks
+Eden Hazard
+
+Chelsea may not have been the most swashbuckling of champions but this nifty mischief-maker was always a joy to watch. This was by far Hazard’s most consistent season since his arrival at Stamford Bridge in 2012 as he successfully shouldered much of the creative burden for his team, embroidering their play with snazzy dribbles, ingenious passes and some decisive finishes.
+John Terry
+
+The centre-back turned 34 during the campaign but delivered performances that ridiculed the suggestion – so common a couple of years ago – that he was past it. He led, masterfully, the title-winning defence for every minute of every match, helping to integrate young Kurt Zouma to the side when Gary Cahill endured an iffy spell. Terry also chipped in with enough goals to make him the highest scoring defender of the Premier League era.
+Harry Kane
+
+At the beginning of the season Tottenham Hotspur were not sure Harry Kane was good enough for them, now their challenge is to hang on to the young striker. Kane’s first full campaign in the Premier League was such a success that Tottenham fans were almost able to forget about Roberto Soldado and Emmanuel Adebayor. The youngster dazzled with his dynamism and deadliness, regularly discombobulating seasoned top-flight defenders.
+David de Gea
+
+For the first half of the season, in particular, the Spaniard was a Winston Wolfe figure at Manchester United, tidying up messes by the goofs around him. United would surely not have been in contention for a Champions League place if not for the agility of their goalkeeper, who earned victories from matches United could otherwise have lost, such as at home to Everton, when his blocks included a save from a Leighton Baines penalty, at home to Liverpool, when even the three goals they scored might not have been enough to secure a point if their goalkeeper had not excelled, and away at Southampton and Crystal Palace. And many others.
+Yannick Bolasie
+
+Yes, he should have scored more goals, but no, there is no other player in the Premier League with the same ability to astonish as Bolasie. His trickery, which Alan Pardew helped to unlock after the departure of the limited and limiting Neil Warnock, was the chief highlight of Crystal Palace’s climb up the table and a regular source of exasperation for defenders, who never knew what Bolasie was going to do next. Blessed with formidable speed and strength to go with his rare skill, the 25-year-old was always worth watching.
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="676~682" text="Hazard" playerID="0" name="Eden Hazard" />
+<Player id="P1" spans="528~539" text="Eden Hazard" playerID="0" name="Eden Hazard" />
+<Player id="P2" spans="916~926" text="John Terry" playerID="1" name="John Terry" />
+<Player id="P3" spans="1195~1205" text="Kurt Zouma" playerID="2" name="Kurt Zouma" />
+<Player id="P4" spans="1223~1234" text="Gary Cahill" playerID="3" name="Gary Cahill" />
+<Player id="P5" spans="1258~1263" text="Terry" playerID="1" name="John Terry" />
+<Player id="P6" spans="1366~1376" text="Harry Kane" playerID="4" name="Harry Kane" />
+<Player id="P7" spans="1441~1451" text="Harry Kane" playerID="4" name="Harry Kane" />
+<Player id="P8" spans="1534~1538" text="Kane" playerID="4" name="Harry Kane" />
+<Player id="P9" spans="1655~1670" text="Roberto Soldado" playerID="5" name="Roberto Soldado" />
+<Player id="P10" spans="1675~1692" text="Emmanuel Adebayor" playerID="6" name="Emmanuel Adebayor" />
+<Player id="P12" spans="1808~1820" text="David de Gea" playerID="7" name="David de Gea" />
+<Player id="P13" spans="2232~2247" text="Leighton Baines" playerID="8" name="Leighton Baines" />
+<Player id="P15" spans="2461~2476" text="Yannick Bolasie" playerID="9" name="Yannick Bolasie" />
+<Player id="P16" spans="2609~2616" text="Bolasie" playerID="9" name="Yannick Bolasie" />
+<Coref id="C0" spans="756~758" text="he" playerID="0" />
+<Coref id="C1" spans="1088~1090" text="He" playerID="1" />
+<Coref id="C2" spans="1306~1309" text="him" playerID="1" />
+<Coref id="C3" spans="1694~1707" text="The youngster" playerID="4" />
+<Coref id="C4" spans="1871~1883" text="the Spaniard" playerID="7" />
+<Coref id="C5" spans="1971~1974" text="him" playerID="7" />
+<Coref id="C6" spans="2085~2095" text="goalkeeper" playerID="7" />
+<Coref id="C7" spans="2198~2201" text="his" playerID="7" />
+<Coref id="C8" spans="2371~2381" text="goalkeeper" playerID="7" />
+<Coref id="C9" spans="2483~2485" text="he" playerID="9" />
+<Coref id="C10" spans="2618~2621" text="His" playerID="9" />
+<Coref id="C11" spans="2964~2979" text="the 25-year-old" playerID="9" />
+<Coref id="C12" spans="2948~2951" text="his" playerID="9" />
+<Fact id="F0" spans="685~707" text="most consistent season" time="recent past" completedness="continuous" type="other" />
+<Fact id="F1" spans="944~973" text="turned 34 during the campaign" time="recent past" completedness="complete" type="other" />
+<Fact id="F2" spans="978~1086" text="delivered performances that ridiculed the suggestion – so common a couple of years ago – that he was past it" time="recent past" completedness="continuous" type="other" />
+<Fact id="F3" spans="1168~1217" text="helping to integrate young Kurt Zouma to the side" type="position" time="recent past" completedness="continuous" />
+<Fact id="F4" spans="2101~2117" text="earned victories" type="other" time="recent past" completedness="continuous" />
+<Fact id="F5" spans="2202~2208" text="blocks" type="save" time="recent past" completedness="complete" />
+<Fact id="F6" spans="2218~2255" text="a save from a Leighton Baines penalty" type="save" time="recent past" completedness="complete" />
+<Fact id="F7" spans="2248~2255" text="penalty" type="shot" time="recent past" completedness="complete" />
+<Opinion id="O2" spans="759~810" text="successfully shouldered much of the creative burden" polarity="+" hypothetical="false" type="figurative language" completedness="continuous" time="recent past" />
+<Opinion id="O4" spans="825~914" text="embroidering their play with snazzy dribbles, ingenious passes and some decisive finishes" polarity="+" hypothetical="false" type="figurative language" completedness="continuous" time="recent past" />
+<Opinion id="O5" spans="854~869" text="snazzy dribbles" polarity="+" hypothetical="false" type="particular skill" completedness="continuous" time="recent past" />
+<Opinion id="O6" spans="871~887" text="ingenious passes" polarity="+" hypothetical="false" type="particular skill" completedness="continuous" time="recent past" />
+<Opinion id="O7" spans="897~914" text="decisive finishes" polarity="+" hypothetical="false" type="particular skill" completedness="continuous" time="recent past" />
+<Opinion id="O0" spans="1091~1166" text="led, masterfully, the title-winning defence for every minute of every match" type="particular skill" polarity="+" time="recent past" hypothetical="false" completedness="continuous" />
+<Opinion id="O1" spans="1235~1256" text="endured an iffy spell" polarity="-" time="recent past" completedness="continuous" type="figurative language" hypothetical="false" />
+<Opinion id="O3" spans="1269~1297" text="chipped in with enough goals" type="figurative language" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+<Opinion id="O8" spans="1301~1364" text="make him the highest scoring defender of the Premier League era" type="accomplishment" polarity="+" time="recent past" completedness="complete" hypothetical="false" />
+<Opinion id="O9" spans="1432~1476" text="not sure Harry Kane was good enough for them" type="impact on team" polarity="-" time="distant past" completedness="complete" hypothetical="false" />
+<Opinion id="O10" spans="1504~1532" text="hang on to the young striker" type="figurative language" polarity="+" time="present" completedness="continuous" hypothetical="false" />
+<Opinion id="O11" spans="1587~1601" text="such a success" type="impact on team" polarity="+" time="distant past" completedness="complete" hypothetical="false" />
+<Opinion id="O12" spans="1708~1748" text="dazzled with his dynamism and deadliness" type="particular skill" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+<Opinion id="O13" spans="1750~1806" text="regularly discombobulating seasoned top-flight defenders" type="particular skill" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+<Opinion id="O14" spans="1884~1910" text="was a Winston Wolfe figure" type="figurative language" polarity="+" time="distant past" completedness="continuous" hypothetical="false" />
+<Opinion id="O15" spans="1933~1974" text="tidying up messes by the goofs around him" type="figurative language" polarity="+" time="distant past" completedness="continuous" hypothetical="false" />
+<Opinion id="O16" spans="2068~2095" text="agility of their goalkeeper" type="particular skill" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+<Opinion id="O17" spans="2382~2398" text="had not excelled" type="impact on team" polarity="-" time="recent past" completedness="complete" hypothetical="true" />
+<Opinion id="O18" spans="2486~2515" text="should have scored more goals" type="accomplishment" polarity="+" time="recent past" completedness="continuous" hypothetical="true" />
+<Opinion id="O19" spans="2581~2605" text="same ability to astonish" type="general attribute" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+<Opinion id="O20" spans="2622~2630" text="trickery" type="particular skill" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+<Opinion id="O21" spans="2737~2791" text="chief highlight of Crystal Palace’s climb up the table" type="impact on team" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+<Opinion id="O22" spans="2796~2842" text="a regular source of exasperation for defenders" type="particular skill" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+<Opinion id="O23" spans="2991~3005" text="worth watching" type="general attribute" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+<Opinion id="O24" spans="2907~2923" text="formidable speed" type="particular skill" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+<Opinion id="O25" spans="2928~2962" text="strength to go with his rare skill" type="particular skill" polarity="+" time="recent past" completedness="continuous" hypothetical="false" />
+</TAGS>
+</SoccEval0.1>
