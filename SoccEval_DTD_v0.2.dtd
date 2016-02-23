@@ -17,7 +17,7 @@
 <!ATTLIST Opinion polarity ( + | - ) #REQUIRED >
 <!ATTLIST Opinion time ( distant past | last season | current season | last match | present | future ) #REQUIRED >
 <!ATTLIST Opinion hypothetical ( counterfactive | prediction ) #IMPLIED >
-<!ATTLIST Opinion reported ( true ) #IMPLIED >
+<!ATTLIST Opinion reported ( true | true ) #IMPLIED >
 
 <!ELEMENT TargetLink EMPTY >
 <!ATTLIST TargetLink arg0 IDREF prefix="fact/opinion" #REQUIRED >
