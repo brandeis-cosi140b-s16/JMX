@@ -1,0 +1,24 @@
+<!ENTITY name "SoccEval0.3">
+
+<!ELEMENT Player ( #PCDATA ) >
+<!ATTLIST Player playerID CDATA #REQUIRED >
+<!ATTLIST Player name CDATA #IMPLIED >
+
+<!ELEMENT Coref ( #PCDATA ) >
+<!ATTLIST Coref playerID CDATA #REQUIRED >
+
+<!ELEMENT Fact ( #PCDATA ) >
+<!ATTLIST Fact type ( goal | assist | pass | shot | move | position | substitute out | substitute in | injury | tackle | save | other ) #REQUIRED >
+<!ATTLIST Fact time ( distant past | last season | current season | last match | present | future ) #REQUIRED "last match" >
+<!ATTLIST Fact factID CDATA #REQUIRED >
+
+<!ELEMENT Opinion ( #PCDATA ) >
+<!ATTLIST Opinion type ( figurative language | soccer skill | general attribute | impact on team | growth/decline | accomplishment | other ) #REQUIRED >
+<!ATTLIST Opinion polarity ( + | - ) #REQUIRED >
+<!ATTLIST Opinion time ( distant past | last season | current season | last match | present | future ) #REQUIRED "last match" >
+<!ATTLIST Opinion hypothetical ( counterfactive | prediction ) #IMPLIED >
+<!ATTLIST Opinion reported ( false | true ) #IMPLIED "false" >
+
+<!ELEMENT TargetLink EMPTY >
+<!ATTLIST TargetLink arg0 IDREF prefix="fact/opinion" #REQUIRED >
+<!ATTLIST TargetLink arg1 IDREF prefix="target" #REQUIRED >
