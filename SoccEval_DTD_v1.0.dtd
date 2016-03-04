@@ -1,4 +1,4 @@
-<!ENTITY name "SoccEval0.3">
+<!ENTITY name "SoccEval1.0">
 
 <!ELEMENT Player ( #PCDATA ) >
 <!ATTLIST Player playerID CDATA #REQUIRED >
