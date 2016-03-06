@@ -1,0 +1,42 @@
+﻿1	Hugo Lloris	Keeper	Dec 26, 1986 (27)	France	Tottenham Hotspur	30.06.2019	£12.00m
+13	Michel Vorm	Keeper	Oct 20, 1983 (30)	NetherlandsSuriname	Tottenham Hotspur	30.06.2018	£5.25m
+24	Brad Friedel	Keeper	May 18, 1971 (43)	United States	End of career	-	£750k
+-	Jordan Archer	Keeper	Apr 12, 1993 (21)	ScotlandEngland	Millwall FC	-	-
+-	Luke McGee	Keeper	Sep 2, 1995 (18)	England	Tottenham Hotspur U21	-	-
+5	Jan Vertonghen	Centre Back	Apr 24, 1987 (27)	Belgium	Tottenham Hotspur	30.06.2018	£16.50m
+6	Vlad Chiriches	Centre Back	Nov 14, 1989 (24)	Romania	SSC Napoli	30.06.2018	£8.25m
+-	Michael Dawson	Centre Back	Nov 18, 1983 (30)	England	Hull City	-	£6.00m
+4	Younès Kaboul	Centre Back	Jan 4, 1986 (28)	FranceMorocco	Sunderland AFC	30.06.2016	£6.00m
+21	Federico Fazio	Centre Back	Mar 17, 1987 (27)	ArgentinaItaly	Sevilla FC	30.06.2018	£4.50m
+-	Bongani Khumalo	Centre Back	Jan 6, 1987 (27)	South AfricaSwaziland	Bidvest Wits FC	-	£600k
+-	Grant Hall	Centre Back	Oct 29, 1991 (22)	England	Queens Park Rangers	30.06.2016	-
+-	Dominic Ball	Centre Back	Aug 2, 1995 (18)	EnglandNorthern Ireland	Rangers FC	-	-
+-	Milos Veljkovic	Centre Back	Sep 26, 1995 (18)	SerbiaSwitzerland	SV Werder Bremen	30.06.2016	-
+3	Danny Rose	Left-Back	Jul 2, 1990 (23)	EnglandJamaica	Tottenham Hotspur	30.06.2019	£4.50m
+33	Ben Davies	Left-Back	Apr 24, 1993 (21)	Wales	Tottenham Hotspur	30.06.2019	£4.13m
+2	Kyle Walker	Right-Back	May 28, 1990 (24)	England	Tottenham Hotspur	30.06.2019	£14.25m
+-	Kyle Naughton	Right-Back	Nov 11, 1988 (25)	EnglandIreland	Swansea City	-	£3.00m
+12	DeAndre Yedlin	Right-Back	Jul 9, 1993 (20)	United StatesLatvia	Sunderland AFC	30.06.2018	£188k
+-	Sandro	Defensive Midfield	Mar 15, 1989 (25)	BrazilPortugal	West Bromwich Albion	-	£10.50m
+29	Étienne Capoue	Defensive Midfield	Jul 11, 1988 (25)	FranceGuadeloupe	Watford FC	30.06.2017	£6.75m
+15	Eric Dier	Defensive Midfield	Jan 15, 1994 (20)	England	Tottenham Hotspur	30.06.2020	£3.38m
+25	Benjamin Stambouli	Defensive Midfield	Aug 13, 1990 (23)	France	Paris Saint-Germain	30.06.2019	£2.63m
+42	Nabil Bentaleb	Defensive Midfield	Nov 24, 1994 (19)	AlgeriaFrance	Tottenham Hotspur	30.06.2020	£375k
+19	Moussa Dembélé	Central Midfield	Jul 16, 1987 (26)	BelgiumMali	Tottenham Hotspur	30.06.2019	£15.00m
+8	Paulinho	Central Midfield	Jul 25, 1988 (25)	Brazil	Guangzhou Evergrande Taobao	-	£12.00m
+-	Lewis Holtby	Central Midfield	Sep 18, 1990 (23)	GermanyEngland	Hamburger SV	30.06.2018	£5.63m
+-	Tom Carroll	Central Midfield	May 28, 1992 (22)	England	Tottenham Hotspur	30.06.2016	£1.50m
+-	Dele Alli	Central Midfield	Apr 11, 1996 (18)	EnglandNigeria	Tottenham Hotspur	30.06.2021	£375k
+38	Ryan Mason	Central Midfield	Jun 13, 1991 (23)	England	Tottenham Hotspur	30.06.2020	£188k
+-	Harry Winks	Central Midfield	Feb 2, 1996 (18)	England	Tottenham Hotspur U21	-	-
+23	Christian Eriksen	Attacking Midfield	Feb 14, 1992 (22)	Denmark	Tottenham Hotspur	30.06.2018	£13.50m
+-	Alex Pritchard	Attacking Midfield	May 3, 1993 (21)	England	West Bromwich Albion	30.06.2019	£113k
+-	Josh Onomah	Attacking Midfield	Apr 27, 1997 (17)	EnglandGhana	Tottenham Hotspur	-	-
+22	Nacer Chadli	Left Wing	Aug 2, 1989 (24)	BelgiumMorocco	Tottenham Hotspur	30.06.2018	£6.00m
+11	Érik Lamela	Right Wing	Mar 4, 1992 (22)	ArgentinaSpain	Tottenham Hotspur	30.06.2018	£18.00m
+7	Aaron Lennon	Right Wing	Apr 16, 1987 (27)	England	Everton FC	30.06.2016	£11.25m
+17	Andros Townsend	Right Wing	Jul 16, 1991 (22)	England	Newcastle United	30.06.2017	£5.25m
+-	Cristian Ceballos	Secondary Striker	Dec 3, 1992 (21)	Spain	Charlton Athletic	-	£225k
+9	Roberto Soldado	Centre Forward	May 27, 1985 (29)	Spain	Villarreal CF	30.06.2017	£18.75m
+10	Emmanuel Adebayor	Centre Forward	Feb 26, 1984 (30)	TogoNigeria	Crystal Palace	30.06.2016	£6.00m
+18	Harry Kane	Centre Forward	Jul 28, 1993 (20)	England	Tottenham Hotspur	30.06.2020	£375k

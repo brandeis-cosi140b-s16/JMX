@@ -1,0 +1,42 @@
+﻿13	Wayne Hennessey	KeeperJan 24, 1987 (27)	Wales	Crystal Palace	30.06.2017	£2.25m
+1	Julián Speroni	KeeperMay 18, 1979 (35)	ArgentinaItaly	Crystal Palace	30.06.2016	£375k
+52	Lewis Price	KeeperJul 19, 1984 (29)	WalesEngland	Sheffield Wednesday	-	£375k
+26	Chris Kettings	KeeperOct 25, 1992 (21)	Scotland	Crystal Palace U21	-	-
+4	Brede Hangeland	Centre BackJun 20, 1981 (33)	NorwayUnited States	Crystal Palace	30.06.2016	£2.25m
+6	Scott Dann	Centre BackFeb 14, 1987 (27)	England	Crystal Palace	30.06.2020	£2.25m
+3	Adrian Mariappa	Centre BackOct 3, 1986 (27)	JamaicaFiji	Crystal Palace	30.06.2016	£1.88m
+5	Patrick McCarthy	Centre BackMay 31, 1983 (31)	Ireland	Crystal Palace	30.06.2016	£750k
+27	Damien Delaney	Centre BackJul 20, 1981 (32)	Ireland	Crystal Palace	30.06.2016	£750k
+51	Peter Ramage	Centre BackNov 22, 1983 (30)	England	Coventry City	-	£750k
+40	Pape Souaré	Left-BackJun 6, 1990 (24)	Senegal	Crystal Palace	30.06.2019	£2.25m
+19	Zeki Fryers	Left-BackSep 9, 1992 (21)	England	Crystal Palace	30.06.2017	£1.88m
+21	Jerome Binnom-Williams	Left-BackMar 7, 1995 (19)	England	Leyton Orient	-	-
+34	Martin Kelly	Right-BackApr 27, 1990 (24)	England	Crystal Palace	30.06.2017	£3.75m
+2	Joel Ward	Right-BackOct 29, 1989 (24)	England	Crystal Palace	30.06.2018	£1.50m
+28	Joe Ledley	Central MidfieldJan 23, 1987 (27)	Wales	Crystal Palace	30.06.2017	£2.63m
+18	James McArthur	Central MidfieldOct 7, 1987 (26)	Scotland	Crystal Palace	30.06.2018	£2.25m
+22	Jordon Mutch	Central MidfieldDec 2, 1991 (22)	England	Crystal Palace	30.06.2019	£2.25m
+25	Barry Bannan	Central MidfieldDec 1, 1989 (24)	Scotland	Sheffield Wednesday	30.06.2016	£2.25m
+8	Adlène Guédioura	Central MidfieldNov 12, 1985 (28)	AlgeriaFrance	Watford FC	30.06.2016	£1.88m
+15	Mile Jedinak	Central MidfieldAug 3, 1984 (29)	AustraliaCroatia	Crystal Palace	30.06.2017	£1.88m
+35	Owen Garvan	Central MidfieldJan 29, 1988 (26)	Ireland	Colchester United	-	£1.13m
+-	Stuart O'Keefe	Central MidfieldMar 4, 1991 (23)	England	Cardiff City	-	£375k
+-	Hiram Boateng	Central MidfieldJan 8, 1996 (18)	EnglandGhana	Crystal Palace U21	30.06.2017	-
+-	Jake Gray	Central MidfieldDec 25, 1995 (18)	England	Hartlepool United	30.06.2016	-
+20	Jonathan Williams	Attacking MidfieldOct 9, 1993 (20)	WalesEngland	Milton Keynes Dons	16.01.2016	£1.50m
+11	Wilfried Zaha	Right WingNov 10, 1992 (21)	EnglandCote d'Ivoire	Crystal Palace	30.06.2020	£6.00m
+24	Chung-Yong Lee	Right WingJul 2, 1988 (25)	Korea, South	Crystal Palace	30.06.2018	£3.00m
+42	Jason Puncheon	Right WingJun 26, 1986 (28)	EnglandJamaica	Crystal Palace	30.06.2019	£2.25m
+-	Sullay Kaikai	Right WingAug 26, 1995 (18)	EnglandSierra Leone	Shrewsbury Town	-	-
+7	Yannick Bolasie	Left WingMay 24, 1989 (25)	Congo DREngland	Crystal Palace	30.06.2019	£1.50m
+14	Jerome Thomas	Left WingMar 23, 1983 (31)	EnglandGuyana	Rotherham United	-	£1.13m
+-	Stephen Dobbie	Secondary StrikerDec 5, 1982 (31)	Scotland	Bolton Wanderers	-	£750k
+10	Fraizer Campbell	Centre ForwardSep 13, 1987 (26)	EnglandJamaica	Crystal Palace	30.06.2017	£3.00m
+16	Dwight Gayle	Centre ForwardOct 20, 1990 (23)	EnglandJamaica	Crystal Palace	30.06.2017	£3.00m
+17	Glenn Murray	Centre ForwardSep 25, 1983 (30)	England	AFC Bournemouth	30.06.2017	£2.63m
+29	Marouane Chamakh	Centre ForwardJan 10, 1984 (30)	MoroccoFrance	Crystal Palace	30.06.2016	£1.88m
+-	Yaya Sanogo	Centre ForwardJan 27, 1993 (21)	FranceCote d'Ivoire	Charlton Athletic	-	£1.50m
+-	Kevin Doyle	Centre ForwardSep 18, 1983 (30)	Ireland	Colorado Rapids	-	£1.35m
+23	Shola Ameobi	Centre ForwardOct 12, 1981 (32)	NigeriaEngland	Fleetwood Town	-	£1.13m
+-	Andy Johnson	Centre ForwardFeb 10, 1981 (33)	England	End of career	-	£750k
+32	Kwesi Appiah	Centre ForwardAug 12, 1990 (23)	GhanaEngland	Crystal Palace	30.06.2017	-

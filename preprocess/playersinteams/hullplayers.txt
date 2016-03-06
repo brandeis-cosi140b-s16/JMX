@@ -1,0 +1,35 @@
+﻿1	Allan McGregor	KeeperJan 31, 1982 (32)	Scotland	Hull City	£1.50m
+16	Eldin Jakupovic	KeeperOct 2, 1984 (29)	SwitzerlandBosnia-Herzegovina	Hull City	£375k
+22	Steve Harper	KeeperMar 14, 1975 (39)	England	Sunderland AFC	£188k
+-	Mark Oxley	KeeperJun 2, 1990 (24)	England	Hibernian FC	£113k
+-	Rory Watson	KeeperFeb 5, 1996 (18)	England	Hull City
+21	Michael Dawson	Centre BackNov 18, 1983 (30)	England	Hull City	£6.00m
+6	Curtis Davies	Centre BackMar 15, 1985 (29)	EnglandSierra Leone	Hull City	£3.00m
+5	James Chester	Centre BackJan 23, 1989 (25)	WalesEngland	West Bromwich Albion	£1.88m
+15	Paul McShane	Centre BackJan 6, 1986 (28)	Ireland	Reading FC	£1.13m
+4	Alex Bruce	Centre BackSep 28, 1984 (29)	Northern IrelandIreland	Hull City	£750k
+-	Harry Maguire	Centre BackMar 5, 1993 (21)	England	Hull City	£563k
+3	Maynor Figueroa	Left-BackMay 2, 1983 (31)	Honduras	FC Dallas	£3.00m
+11	Robbie Brady	Left-BackJan 14, 1992 (22)	Ireland	Norwich City	£2.25m
+26	Andrew Robertson	Left-BackMar 11, 1994 (20)	Scotland	Hull City	£450k
+19	Joe Dudgeon	Left-BackNov 26, 1990 (23)	Northern IrelandEngland	Unattached	£375k
+-	Conor Townsend	Left-BackMar 4, 1993 (21)	England	Scunthorpe United
+2	Liam Rosenior	Right-BackJul 9, 1984 (29)	EnglandSierra Leone	Brighton & Hove Albion	£1.13m
+8	Tom Huddlestone	Defensive MidfieldDec 28, 1986 (27)	England	Hull City	£4.50m
+17	Mohamed Diamé	Central MidfieldJun 14, 1987 (27)	SenegalFrance	Hull City	£5.25m
+7	David Meyler	Central MidfieldMay 29, 1989 (25)	Ireland	Hull City	£2.25m
+14	Jake Livermore	Central MidfieldNov 14, 1989 (24)	England	Hull City	£1.88m
+29	Stephen Quinn	Central MidfieldApr 1, 1986 (28)	Ireland	Reading FC	£1.50m
+27	Ahmed Elmohamady	Right MidfieldSep 9, 1987 (26)	Egypt	Hull City	£2.63m
+-	Hatem Ben Arfa	Attacking MidfieldMar 7, 1987 (27)	FranceTunisia	OGC Nice	£9.00m
+-	Gastón Ramírez	Attacking MidfieldDec 2, 1990 (23)	Uruguay	Middlesbrough FC	£5.63m
+-	George Boyd	Left WingOct 2, 1985 (28)	ScotlandEngland	Burnley FC	£1.13m
+-	Tom Ince	Right WingJan 30, 1992 (22)	England	Derby County	£6.00m
+10	Robert Snodgrass	Right WingSep 7, 1987 (26)	Scotland	Hull City	£4.13m
+-	Calaum Jahraldo-Martin	Right WingApr 27, 1993 (21)	Antigua and BarbudaEngland	Leyton Orient
+24	Sone Aluko	Secondary StrikerFeb 19, 1989 (25)	NigeriaEngland	Hull City	£2.63m
+28	Dame N'Doye	Centre ForwardFeb 21, 1985 (29)	Senegal	Sunderland AFC	£6.75m
+-	Shane Long	Centre ForwardJan 22, 1987 (27)	Ireland	Southampton FC	£5.25m
+18	Nikica Jelavic	Centre ForwardAug 27, 1985 (28)	Croatia	Beijing Renhe	£4.88m
+9	Abel Hernández	Centre ForwardAug 8, 1990 (23)	Uruguay	Hull City	£3.75m
+20	Yannick Sagbo	Centre ForwardApr 12, 1988 (26)	Cote d'IvoireFrance	Umm-Salal Sport Club	£1.88m

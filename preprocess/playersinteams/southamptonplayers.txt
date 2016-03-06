@@ -1,0 +1,37 @@
+﻿23	Fraser Forster	KeeperMar 17, 1988 (26)	England	Southampton FC	30.06.2018	£3.38m
+25	Paulo Gazzaniga	KeeperJan 2, 1992 (22)	ArgentinaSpain	Southampton FC	30.06.2019	£1.50m
+31	Artur Boruc	KeeperFeb 20, 1980 (34)	Poland	AFC Bournemouth	-	£1.13m
+1	Kelvin Davis	KeeperSep 29, 1976 (37)	England	Southampton FC	30.06.2016	£188k
+17	Toby Alderweireld	Centre BackMar 2, 1989 (25)	Belgium	Tottenham Hotspur	-	£7.50m
+3	Maya Yoshida	Centre BackAug 24, 1988 (25)	Japan	Southampton FC	30.06.2018	£3.38m
+5	Florin Gardos	Centre BackOct 29, 1988 (25)	Romania	Southampton FC	30.06.2018	£3.00m
+6	José Fonte	Centre BackDec 22, 1983 (30)	Portugal	Southampton FC	30.06.2018	£2.63m
+26	Jos Hooiveld	Centre BackApr 22, 1983 (31)	Netherlands	AIK Solna	-	£1.50m
+-	Jack Stephens	Centre BackJan 27, 1994 (20)	England	Coventry City	30.06.2017	£113k
+-	Jason McCarthy	Centre BackNov 7, 1995 (18)	England	Wycombe Wanderers	30.06.2017	-
+21	Ryan Bertrand	Left-BackAug 5, 1989 (24)	England	Southampton FC	30.06.2019	£4.50m
+33	Matt Targett	Left-BackSep 18, 1995 (18)	EnglandScotland	Southampton FC	30.06.2019	-
+2	Nathaniel Clyne	Right-BackApr 5, 1991 (23)	England	Liverpool FC	30.06.2016	£5.25m
+-	Jake Flannigan	Right-BackFeb 2, 1996 (18)	England	Southampton FC U21	-	-
+12	Victor Wanyama	Defensive MidfieldJun 25, 1991 (23)	Kenya	Southampton FC	30.06.2017	£10.50m
+4	Morgan Schneiderlin	Defensive MidfieldNov 8, 1989 (24)	France	Manchester United	30.06.2017	£6.38m
+-	Jack Cork	Defensive MidfieldJun 25, 1989 (25)	England	Swansea City	-	£2.63m
+-	Dominic Gape	Defensive MidfieldSep 9, 1994 (19)	England	Southampton FC U21	-	-
+-	Saphir Taider	Central MidfieldFeb 29, 1992 (22)	AlgeriaFrance	Bologna FC 1909	-	£7.50m
+8	Steven Davis	Central MidfieldJan 1, 1985 (29)	Northern Ireland	Southampton FC	30.06.2018	£4.13m
+16	James Ward-Prowse	Central MidfieldNov 1, 1994 (19)	England	Southampton FC	30.06.2020	£2.63m
+-	Jake Hesketh	Central MidfieldMar 27, 1996 (18)	England	Southampton FC U21	30.06.2017	-
+28	Harrison Reed	Central MidfieldJan 27, 1995 (19)	England	Southampton FC	30.06.2018	-
+-	Gastón Ramírez	Attacking MidfieldDec 2, 1990 (23)	Uruguay	Middlesbrough FC	30.06.2016	£5.63m
+15	Filip Djuricic	Attacking MidfieldJan 30, 1992 (22)	Serbia	RSC Anderlecht	-	£5.25m
+-	Sam McQueen	Attacking MidfieldFeb 6, 1995 (19)	England	Southend United	30.06.2018	-
+11	Dusan Tadic	Left WingNov 20, 1988 (25)	Serbia	Southampton FC	30.06.2018	£7.50m
+-	Lloyd Isgrove	Left WingJan 12, 1993 (21)	WalesEngland	Barnsley FC	30.06.2017	-
+9	Jay Rodríguez	Left WingJul 29, 1989 (24)	EnglandSpain	Southampton FC	30.06.2019	£5.63m
+10	Sadio Mané	Left WingApr 10, 1992 (22)	Senegal	Southampton FC	30.06.2018	£5.63m
+22	Eljero Elia	Left WingFeb 13, 1987 (27)	NetherlandsSuriname	Feyenoord Rotterdam	-	£3.38m
+7	Shane Long	Centre ForwardJan 22, 1987 (27)	Ireland	Southampton FC	30.06.2018	£5.25m
+19	Graziano Pellè	Centre ForwardJul 15, 1985 (28)	Italy	Southampton FC	30.06.2017	£4.88m
+24	Emmanuel Mayuka	Centre ForwardNov 21, 1990 (23)	Zambia	Zamalek SC	30.06.2017	£1.50m
+-	Sam Gallagher	Centre ForwardSep 15, 1995 (18)	EnglandScotland	Southampton FC	30.06.2018	£375k
+-	Ryan Seager	Centre ForwardFeb 5, 1996 (18)	England	Southampton FC U21	-	-

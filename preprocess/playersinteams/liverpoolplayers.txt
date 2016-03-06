@@ -1,0 +1,35 @@
+﻿22	Simon Mignolet	Keeper	Mar 6, 1988 (26)	Belgium	Liverpool FC	30.06.2021	£9.00m
+1	Brad Jones	Keeper	Mar 19, 1982 (32)	AustraliaEngland	NEC Nijmegen	-	£1.13m
+-	Danny Ward	Keeper	Jun 22, 1993 (21)	Wales	Liverpool FC	30.06.2020	-
+17	Mamadou Sakho	Centre Back	Feb 13, 1990 (24)	FranceSenegal	Liverpool FC	30.06.2020	£14.25m
+37	Martin Skrtel	Centre Back	Dec 15, 1984 (29)	Slovakia	Liverpool FC	30.06.2018	£10.50m
+6	Dejan Lovren	Centre Back	Jul 5, 1989 (24)	Croatia	Liverpool FC	30.06.2019	£9.00m
+4	Kolo Touré	Centre Back	Mar 19, 1981 (33)	Cote d'Ivoire	Liverpool FC	30.06.2016	£3.00m
+16	Sebastián Coates	Centre Back	Oct 7, 1990 (23)	UruguaySpain	Sporting CP	30.06.2016	£1.88m
+3	José Enrique	Left-Back	Jan 23, 1986 (28)	Spain	Liverpool FC	30.06.2016	£9.00m
+18	Alberto Moreno	Left-Back	Jul 5, 1992 (21)	Spain	Liverpool FC	30.06.2019	£7.50m
+2	Glen Johnson	Right-Back	Aug 23, 1984 (29)	England	Stoke City	-	£9.00m
+19	Javier Manquillo	Right-Back	May 5, 1994 (20)	Spain	Olympique Marseille	30.06.2016	£4.50m
+47	Andre Wisdom	Right-Back	May 9, 1993 (21)	EnglandJamaica	Norwich City	30.06.2019	£1.88m
+38	Jon Flanagan	Right-Back	Jan 1, 1993 (21)	England	Liverpool FC	30.06.2016	£750k
+21	Lucas Leiva	Defensive Midfield	Jan 9, 1987 (27)	BrazilItaly	Liverpool FC	30.06.2017	£12.75m
+23	Emre Can	Defensive Midfield	Jan 12, 1994 (20)	Germany	Liverpool FC	30.06.2018	£5.63m
+-	Jordan Williams	Defensive Midfield	Nov 6, 1995 (18)	Wales	Swindon Town	-	-
+14	Jordan Henderson	Central Midfield	Jun 17, 1990 (24)	England	Liverpool FC	30.06.2020	£11.25m
+24	Joe Allen	Central Midfield	Mar 14, 1990 (24)	Wales	Liverpool FC	30.06.2017	£10.50m
+8	Steven Gerrard	Central Midfield	May 30, 1980 (34)	England	Los Angeles Galaxy	-	£5.63m
+-	Jordan Rossiter	Central Midfield	Mar 24, 1997 (17)	England	Liverpool FC U21	30.06.2016	-
+10	Coutinho	Attacking Midfield	Jun 12, 1992 (22)	Brazil	Liverpool FC	30.06.2020	£12.00m
+20	Adam Lallana	Attacking Midfield	May 10, 1988 (26)	England	Liverpool FC	30.06.2019	£5.63m
+-	Cameron Brannagan	Attacking Midfield	May 9, 1996 (18)	England	Liverpool FC U21	-	-
+53	João Carlos Teixeira	Attacking Midfield	Jan 18, 1993 (21)	Portugal	Liverpool FC	30.06.2016	-
+-	Sheyi Ojo	Left Wing	Jun 19, 1997 (17)	EnglandNigeria	Liverpool FC U21	-	-
+50	Lazar Markovic	Right Wing	Mar 2, 1994 (20)	Serbia	Fenerbahce SK	30.06.2019	£7.50m
+33	Jordon Ibe	Right Wing	Dec 8, 1995 (18)	EnglandNigeria	Liverpool FC	30.06.2020	£375k
+31	Raheem Sterling	Left Wing	Dec 8, 1994 (19)	EnglandJamaica	Manchester City	30.06.2017	£9.75m
+29	Fabio Borini	Left Wing	Mar 29, 1991 (23)	Italy	Sunderland AFC	30.06.2017	£6.38m
+-	Suso	Right Wing	Nov 19, 1993 (20)	Spain	Genoa CFC	-	£3.75m
+45	Mario Balotelli	Centre Forward	Aug 12, 1990 (23)	ItalyGhana	AC Milan	30.06.2018	£22.50m
+15	Daniel Sturridge	Centre Forward	Sep 1, 1989 (24)	EnglandJamaica	Liverpool FC	30.06.2019	£15.00m
+9	Rickie Lambert	Centre Forward	Feb 16, 1982 (32)	England	West Bromwich Albion	30.06.2016	£3.75m
+-	Jerome Sinclair	Centre Forward	Sep 20, 1996 (17)	England	Liverpool FC U21	-	-

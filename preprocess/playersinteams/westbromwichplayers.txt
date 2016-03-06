@@ -1,0 +1,34 @@
+﻿1	Ben Foster	KeeperApr 3, 1983 (31)	England	West Bromwich Albion	30.06.2018	£3.00m
+13	Boaz Myhill	KeeperNov 9, 1982 (31)	WalesUnited States	West Bromwich Albion	30.06.2017	£1.50m
+-	Luke Daniels	KeeperJan 5, 1988 (26)	England	Scunthorpe United	-	£188k
+-	Jack Rose	KeeperNov 30, 1994 (19)	England	West Bromwich Albion	-	-
+-	Alex Palmer	KeeperAug 10, 1996 (17)	England	West Bromwich Albion U21	-	-
+6	Joleon Lescott	Centre BackAug 16, 1982 (31)	England	Aston Villa	30.06.2016	£5.25m
+3	Jonas Olsson	Centre BackMar 10, 1983 (31)	Sweden	West Bromwich Albion	30.06.2016	£3.00m
+23	Gareth McAuley	Centre BackDec 5, 1979 (34)	Northern Ireland	West Bromwich Albion	30.06.2016	£750k
+-	Donervon Daniels	Centre BackNov 24, 1993 (20)	EnglandMontserrat	Wigan Athletic	-	-
+15	Sébastien Pocognoli	Left-BackAug 1, 1987 (26)	Belgium	West Bromwich Albion	30.06.2017	£2.06m
+14	Jason Davidson	Left-BackJun 29, 1991 (23)	AustraliaGreece	Huddersfield Town	30.06.2016	£300k
+-	Andre Wisdom	Right-BackMay 9, 1993 (21)	EnglandJamaica	Norwich City	-	£1.88m
+25	Craig Dawson	Right-BackMay 6, 1990 (24)	England	West Bromwich Albion	30.06.2017	£1.13m
+16	Cristian Gamboa	Right-BackOct 24, 1989 (24)	Costa Rica	West Bromwich Albion	30.06.2017	£750k
+4	Chris Baird	Right-BackFeb 25, 1982 (32)	Northern Ireland	Fulham FC	-	£525k
+5	Claudio Yacob	Defensive MidfieldJul 18, 1987 (26)	ArgentinaSpain	West Bromwich Albion	30.06.2017	£4.50m
+21	Youssuf Mulumbu	Defensive MidfieldJan 25, 1987 (27)	Congo DRFrance	Norwich City	-	£3.75m
+-	Liam O'Neil	Defensive MidfieldJul 31, 1993 (20)	EnglandWales	Chesterfield FC	-	-
+7	James Morrison	Central MidfieldMay 25, 1986 (28)	ScotlandEngland	West Bromwich Albion	30.06.2016	£4.50m
+8	Craig Gardner	Central MidfieldNov 25, 1986 (27)	England	West Bromwich Albion	30.06.2017	£3.38m
+24	Darren Fletcher	Central MidfieldFeb 1, 1984 (30)	Scotland	West Bromwich Albion	30.06.2017	£3.00m
+-	Graham Dorrans	Central MidfieldMay 5, 1987 (27)	Scotland	Norwich City	30.06.2017	£1.13m
+11	Chris Brunt	Left MidfieldDec 14, 1984 (29)	Northern Ireland	West Bromwich Albion	30.06.2017	£3.75m
+-	Sebastián Blanco	Attacking MidfieldMar 15, 1988 (26)	ArgentinaSpain	Club Atlético San Lorenzo de Almagro	30.06.2016	£4.50m
+-	Kemar Roofe	Right WingJan 6, 1993 (21)	EnglandJamaica	Oxford United	-	-
+-	Silvestre Varela	Left WingFeb 2, 1985 (29)	PortugalCape Verde	FC Porto	-	£5.63m
+-	Georgios Samaras	Left WingFeb 21, 1985 (29)	GreeceAustralia	Unattached	30.06.2016	£2.25m
+19	Callum McManaman	Right WingApr 25, 1991 (23)	England	West Bromwich Albion	30.06.2018	£2.25m
+29	Stéphane Sessègnon	Secondary StrikerJun 1, 1984 (30)	Benin	West Bromwich Albion	30.06.2016	£5.25m
+-	Adil Nabi	Secondary StrikerFeb 28, 1994 (20)	EnglandPakistan	Peterborough United	-	-
+9	Brown Ideye	Centre ForwardOct 10, 1988 (25)	Nigeria	Olympiacos Piraeus	30.06.2017	£5.25m
+10	Victor Anichebe	Centre ForwardApr 23, 1988 (26)	NigeriaEngland	West Bromwich Albion	30.06.2017	£3.75m
+18	Saido Berahino	Centre ForwardAug 4, 1993 (20)	EnglandBurundi	West Bromwich Albion	30.06.2017	£2.25m
+-	Tyler Roberts	Centre ForwardJan 12, 1998 (16)	Wales	West Bromwich Albion U21	-	-

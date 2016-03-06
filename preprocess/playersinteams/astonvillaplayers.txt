@@ -1,0 +1,38 @@
+﻿1	Brad Guzan	KeeperSep 9, 1984 (29)	United StatesPoland	Aston Villa	30.06.2017	£3.75m
+13	Jed Steer	KeeperSep 23, 1992 (21)	England	Huddersfield Town	30.06.2019	£750k
+31	Shay Given	KeeperApr 20, 1976 (38)	Ireland	Stoke City	30.06.2016	£750k
+4	Ron Vlaar	Centre BackFeb 16, 1985 (29)	Netherlands	AZ Alkmaar	-	£3.75m
+5	Jores Okore	Centre BackAug 11, 1992 (21)	DenmarkCote d'Ivoire	Aston Villa	30.06.2017	£3.38m
+6	Ciaran Clark	Centre BackSep 26, 1989 (24)	IrelandEngland	Aston Villa	30.06.2020	£3.00m
+2	Nathan Baker	Centre BackApr 23, 1991 (23)	England	Bristol City	30.06.2019	£1.88m
+14	Philippe Senderos	Centre BackFeb 14, 1985 (29)	SwitzerlandSpain	Grasshopper Club	30.06.2016	£1.88m
+23	Aly Cissokho	Left-BackSep 15, 1987 (26)	FranceSenegal	Aston Villa	30.06.2018	£4.50m
+18	Kieran Richardson	Left-BackOct 21, 1984 (29)	England	Aston Villa	30.06.2016	£1.88m
+3	Joe Bennett	Left-BackMar 28, 1990 (24)	England	Sheffield Wednesday	30.06.2017	£1.13m
+35	Enda Stevens	Left-BackJul 9, 1990 (23)	Ireland	Portsmouth FC	-	£375k
+-	Lewis Kinsella	Left-BackSep 2, 1994 (19)	England	Kidderminster Harriers	-	-
+34	Matthew Lowton	Right-BackJun 9, 1989 (25)	England	Burnley FC	30.06.2017	£2.25m
+7	Leandro Bacuna	Right-BackAug 21, 1991 (22)	CuracaoNetherlands	Aston Villa	30.06.2020	£1.88m
+21	Alan Hutton	Right-BackNov 30, 1984 (29)	Scotland	Aston Villa	30.06.2017	£1.13m
+15	Ashley Westwood	Defensive MidfieldApr 1, 1990 (24)	England	Aston Villa	30.06.2020	£2.63m
+24	Carlos Sánchez	Defensive MidfieldFeb 6, 1986 (28)	Colombia	Aston Villa	30.06.2018	£1.88m
+17	Chris Herd	Defensive MidfieldApr 4, 1989 (25)	AustraliaScotland	Chesterfield FC	-	£1.13m
+-	Tom Cleverley	Central MidfieldAug 12, 1989 (24)	England	Everton FC	-	£10.50m
+16	Fabian Delph	Central MidfieldNov 21, 1989 (24)	EnglandGuyana	Manchester City	30.06.2019	£3.75m
+-	Karim El Ahmadi	Central MidfieldJan 27, 1985 (29)	MoroccoNetherlands	Feyenoord Rotterdam	-	£1.88m
+22	Gary Gardner	Central MidfieldJun 29, 1992 (22)	England	Nottingham Forest	30.06.2018	£1.13m
+-	Riccardo Calder	Left MidfieldJan 26, 1996 (18)	EnglandJamaica	Doncaster Rovers	-	-
+12	Joe Cole	Attacking MidfieldNov 8, 1981 (32)	England	Coventry City	30.06.2016	£1.88m
+-	Scott Sinclair	Left WingMar 25, 1989 (25)	EnglandJamaica	Aston Villa	-	£4.50m
+40	Jack Grealish	Left WingSep 10, 1995 (18)	EnglandIreland	Aston Villa	30.06.2018	£188k
+25	Carles Gil	Right WingNov 22, 1992 (21)	Spain	Aston Villa	30.06.2019	£2.25m
+28	Charles N'Zogbia	Right WingMay 28, 1986 (28)	FranceCongo DR	Aston Villa	30.06.2016	£2.25m
+-	André Green	Left WingJul 26, 1998 (15)	England	Aston Villa U18	-	-
+-	Graham Burke	Secondary StrikerSep 21, 1993 (20)	Ireland	Notts County	-	-
+20	Christian Benteke	Centre ForwardDec 3, 1990 (23)	BelgiumCongo DR	Liverpool FC	30.06.2017	£13.50m
+11	Gabriel Agbonlahor	Centre ForwardOct 13, 1986 (27)	EnglandNigeria	Aston Villa	30.06.2018	£4.88m
+19	Darren Bent	Centre ForwardFeb 6, 1984 (30)	EnglandJamaica	Derby County	-	£3.75m
+27	Libor Kozák	Centre ForwardMay 30, 1989 (25)	Czech Republic	Aston Villa	30.06.2017	£3.75m
+10	Andreas Weimann	Centre ForwardAug 5, 1991 (22)	Austria	Derby County	30.06.2016	£3.00m
+37	Callum Robinson	Centre ForwardFeb 2, 1995 (19)	England	Preston North End	30.06.2016	£188k
+-	Rushian Hepburn-Murphy	Centre ForwardAug 28, 1998 (15)	England	Aston Villa U18	-	-

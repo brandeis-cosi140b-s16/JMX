@@ -1,0 +1,36 @@
+﻿1	Lukasz Fabianski	KeeperApr 18, 1985 (29)	Poland	Swansea City	30.06.2019	£1.50m
+25	Gerhard Tremmel	KeeperNov 16, 1978 (35)	Germany	SV Werder Bremen	30.06.2017	£750k
+13	David Cornell	KeeperMar 28, 1991 (23)	Wales	Oldham Athletic	-	£75k
+6	Ashley Williams	Centre BackAug 23, 1984 (29)	WalesEngland	Swansea City	30.06.2018	£6.00m
+33	Federico Fernández	Centre BackFeb 21, 1989 (25)	ArgentinaItaly	Swansea City	30.06.2018	£3.00m
+2	Jordi Amat	Centre BackMar 21, 1992 (22)	Spain	Swansea City	30.06.2019	£2.25m
+-	Alan Tate	Centre BackSep 2, 1982 (31)	England	Port Talbot Town FC	-	£750k
+27	Kyle Bartley	Centre BackMay 22, 1991 (23)	EnglandJamaica	Swansea City	30.06.2017	£750k
+3	Neil Taylor	Left-BackFeb 7, 1989 (25)	Wales	Swansea City	30.06.2019	£2.63m
+-	Stephen Kingsley	Left-BackJul 23, 1994 (19)	Scotland	Swansea City	30.06.2017	£150k
+-	Raheem Hanley	Left-BackFeb 24, 1994 (20)	EnglandJamaica	Swansea City U21	-	-
+26	Kyle Naughton	Right-BackNov 11, 1988 (25)	EnglandIreland	Swansea City	30.06.2018	£3.00m
+22	Ángel Rangel	Right-BackOct 28, 1982 (31)	Spain	Swansea City	30.06.2017	£2.25m
+-	Dwight Tiendalli	Right-BackOct 21, 1985 (28)	NetherlandsSuriname	Unattached	30.06.2016	£1.50m
+-	Jazz Richards	Right-BackApr 12, 1991 (23)	Wales	Fulham FC	30.06.2016	£563k
+-	Liam Shephard	Right-BackNov 22, 1994 (19)	Wales	Swansea City U21	-	-
+4	Sung-Yong Ki	Defensive MidfieldJan 24, 1989 (25)	Korea, South	Swansea City	30.06.2018	£4.88m
+24	Jack Cork	Defensive MidfieldJun 25, 1989 (25)	England	Swansea City	30.06.2018	£2.63m
+8	Jonjo Shelvey	Central MidfieldFeb 27, 1992 (22)	England	Newcastle United	30.06.2019	£5.63m
+7	Leon Britton	Central MidfieldSep 16, 1982 (31)	England	Swansea City	30.06.2017	£2.25m
+-	Tom Carroll	Central MidfieldMay 28, 1992 (22)	England	Tottenham Hotspur	-	£1.50m
+-	Jay Fulton	Central MidfieldApr 4, 1994 (20)	ScotlandEngland	Swansea City U21	30.06.2016	£150k
+-	Adam King	Central MidfieldOct 11, 1995 (18)	Scotland	Swansea City U21	30.06.2017	£38k
+-	Josh Sheehan	Central MidfieldMar 30, 1995 (19)	Wales	Swansea City U21	-	-
+21	Matt Grimes	Central MidfieldJul 15, 1995 (18)	England	Blackburn Rovers	30.06.2019	-
+23	Gylfi Sigurdsson	Attacking MidfieldSep 9, 1989 (24)	Iceland	Swansea City	30.06.2018	£6.00m
+15	Wayne Routledge	Left WingJan 7, 1985 (29)	EnglandJamaica	Swansea City	30.06.2018	£3.38m
+20	Jefferson Montero	Left WingSep 1, 1989 (24)	Ecuador	Swansea City	30.06.2018	£2.48m
+-	Kenji Gorré	Left WingSep 29, 1994 (19)	NetherlandsSuriname	Swansea City	30.06.2018	-
+12	Nathan Dyer	Right WingNov 29, 1987 (26)	EnglandJamaica	Leicester City	30.06.2017	£3.38m
+58	Modou Barrow	Right WingOct 13, 1992 (21)	The GambiaSweden	Swansea City	30.06.2018	£75k
+-	Wilfried Bony	Centre ForwardDec 10, 1988 (25)	Cote d'Ivoire	Manchester City	-	£11.25m
+18	Bafetimbi Gomis	Centre ForwardAug 6, 1985 (28)	FranceSenegal	Swansea City	30.06.2018	£7.50m
+17	Nélson Oliveira	Centre ForwardAug 8, 1991 (22)	Portugal	Nottingham Forest	-	£3.38m
+11	Marvin Emnes	Centre ForwardMay 27, 1988 (26)	NetherlandsSuriname	Swansea City	30.06.2017	£1.13m
+-	Rory Donnelly	Centre ForwardFeb 18, 1992 (22)	Northern Ireland	Gillingham FC	-	-

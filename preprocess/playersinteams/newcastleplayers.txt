@@ -1,0 +1,42 @@
+﻿1	Tim Krul	KeeperApr 3, 1988 (26)	Netherlands	Newcastle United	30.06.2017	£6.75m
+-	Karl Darlow	KeeperOct 8, 1990 (23)	EnglandWales	Newcastle United	30.06.2020	£750k
+21	Rob Elliot	KeeperApr 30, 1986 (28)	IrelandEngland	Newcastle United	30.06.2019	£750k
+41	Freddie Woodman	KeeperMar 4, 1997 (17)	England	Newcastle United	30.06.2016	-
+42	Jak Alnwick	KeeperJun 17, 1993 (21)	England	Port Vale FC	-	-
+2	Fabricio Coloccini	Centre BackJan 22, 1982 (32)	ArgentinaItaly	Newcastle United	30.06.2017	£3.38m
+6	Mike Williamson	Centre BackNov 8, 1983 (30)	England	Wolverhampton Wanderers	30.06.2016	£2.63m
+27	Steven Taylor	Centre BackJan 23, 1986 (28)	England	Newcastle United	30.06.2016	£2.63m
+-	Jamaal Lascelles	Centre BackNov 11, 1993 (20)	England	Newcastle United	30.06.2020	£450k
+33	Curtis Good	Centre BackMar 23, 1993 (21)	AustraliaEngland	Newcastle United	30.06.2018	£375k
+-	Lubomir Satka	Centre BackDec 2, 1995 (18)	Slovakia	Newcastle United U21	-	-
+-	Remie Streete	Centre BackNov 2, 1994 (19)	EnglandJamaica	Port Vale FC	-	-
+19	Massadio Haidara	Left-BackDec 2, 1992 (21)	FranceSenegal	Newcastle United	30.06.2018	£2.25m
+36	Paul Dummett	Left-BackSep 26, 1991 (22)	WalesEngland	Newcastle United	30.06.2018	£563k
+-	Davide Santon	Right-BackJan 2, 1991 (23)	Italy	Inter Milan	-	£7.50m
+22	Daryl Janmaat	Right-BackJul 22, 1989 (24)	Netherlands	Newcastle United	30.06.2020	£3.75m
+4	Ryan Taylor	Right-BackAug 19, 1984 (29)	England	Hull City	-	£1.50m
+-	Jamie Sterry	Right-BackNov 21, 1995 (18)	EnglandItaly	Newcastle United U21	30.06.2016	-
+24	Cheik Tioté	Defensive MidfieldJun 21, 1986 (28)	Cote d'Ivoire	Newcastle United	30.06.2017	£7.50m
+8	Vurnon Anita	Defensive MidfieldApr 4, 1989 (25)	NetherlandsCuracao	Newcastle United	30.06.2017	£4.50m
+14	Jack Colback	Defensive MidfieldOct 24, 1989 (24)	England	Newcastle United	30.06.2019	£3.38m
+7	Moussa Sissoko	Central MidfieldAug 16, 1989 (24)	FranceMali	Newcastle United	30.06.2019	£8.25m
+-	Gaël Bigirimana	Central MidfieldOct 22, 1993 (20)	BurundiEngland	Coventry City	30.06.2017	£1.50m
+30	Mehdi Abeid	Central MidfieldAug 6, 1992 (21)	AlgeriaFrance	Panathinaikos Athens	30.06.2016	£563k
+-	Olivier Kemen	Central MidfieldJul 20, 1996 (17)	FranceCameroon	Olympique Lyon	-	-
+18	Jonás Gutiérrez	Left MidfieldJul 5, 1983 (30)	ArgentinaItaly	Deportivo de La Coruña	-	£2.25m
+-	Shane Ferguson	Left MidfieldJul 12, 1991 (22)	Northern Ireland	Millwall FC	30.06.2016	£1.13m
+10	Siem de Jong	Attacking MidfieldJan 28, 1989 (25)	Netherlands	Newcastle United	30.06.2020	£7.50m
+20	Rémy Cabella	Attacking MidfieldMar 8, 1990 (24)	France	Olympique Marseille	30.06.2020	£7.50m
+-	Haris Vuckic	Attacking MidfieldAug 21, 1992 (21)	Slovenia	Wigan Athletic	30.06.2016	£750k
+16	Rolando Aarons	Left WingNov 16, 1995 (18)	EnglandJamaica	Newcastle United	30.06.2016	-
+11	Yoan Gouffran	Left WingMay 25, 1986 (28)	FranceGuadeloupe	Newcastle United	30.06.2017	£6.75m
+28	Sammy Ameobi	Left WingMay 1, 1992 (22)	EnglandNigeria	Cardiff City	-	£1.88m
+25	Gabriel Obertan	Right WingFeb 26, 1989 (25)	France	Newcastle United	30.06.2016	£1.50m
+-	Alex Gilliead	Right WingFeb 11, 1996 (18)	England	Carlisle United	-	-
+9	Papiss Demba Cissé	Centre ForwardJun 3, 1985 (29)	SenegalFrance	Newcastle United	30.06.2017	£7.50m
+15	Facundo Ferreyra	Centre ForwardMar 14, 1991 (23)	ArgentinaItaly	Shakhtar Donetsk	-	£4.50m
+29	Emmanuel Rivière	Centre ForwardMar 3, 1990 (24)	FranceMartinique	Newcastle United	30.06.2017	£3.75m
+17	Ayoze Pérez	Centre ForwardJul 23, 1993 (20)	Spain	Newcastle United	30.06.2021	£750k
+-	Adam Campbell	Centre ForwardJan 1, 1995 (19)	England	Notts County	-	£188k
+-	Callum Roberts	Centre ForwardApr 14, 1997 (17)	England	Newcastle United U21	-	-
+32	Adam Armstrong	Centre ForwardFeb 10, 1997 (17)	England	Coventry City	30.06.2019	-

@@ -1,0 +1,41 @@
+﻿12	Alex McCarthy	KeeperDec 3, 1989 (24)	England	Crystal Palace	£1.50m
+1	Robert Green	KeeperJan 18, 1980 (34)	England	Queens Park Rangers	£1.13m
+21	Brian Murphy	KeeperMay 7, 1983 (31)	Ireland	Portsmouth FC	£375k
+4	Steven Caulker	Centre BackDec 29, 1991 (22)	England	Liverpool FC	£5.63m
+15	Nedum Onuoha	Centre BackNov 12, 1986 (27)	EnglandNigeria	Queens Park Rangers	£1.50m
+5	Rio Ferdinand	Centre BackNov 7, 1978 (35)	England	End of career	£1.13m
+22	Richard Dunne	Centre BackSep 21, 1979 (34)	Ireland	End of career	£525k
+6	Clint Hill	Centre BackOct 19, 1978 (35)	England	Queens Park Rangers	£375k
+-	Max Ehmer	Centre BackFeb 3, 1992 (22)	Germany	Gillingham FC	£75k
+3	Armand Traoré	Left-BackOct 8, 1989 (24)	SenegalFrance	Queens Park Rangers	£1.88m
+-	Jack Robinson	Left-BackSep 1, 1993 (20)	England	Queens Park Rangers	£600k
+13	Yun Suk-Young	Left-BackFeb 13, 1990 (24)	Korea, South	Charlton Athletic	£375k
+-	Cole Kpekawa	Left-BackMay 20, 1996 (18)	EnglandGhana	Queens Park Rangers
+-	Danny Simpson	Right-BackJan 4, 1987 (27)	EnglandJamaica	Leicester City	£1.50m
+-	Michael Harriman	Right-BackOct 23, 1992 (21)	Ireland	Wycombe Wanderers	£75k
+-	Darnell Furlong	Right-BackOct 31, 1995 (18)	EnglandMontserrat	Cambridge United
+30	Sandro	Defensive MidfieldMar 15, 1989 (25)	BrazilPortugal	West Bromwich Albion	£10.50m
+14	Mauricio Isla	Defensive MidfieldJun 12, 1988 (26)	Chile	Olympique Marseille	£7.88m
+-	Samba Diakité	Defensive MidfieldJan 24, 1989 (25)	MaliFrance	Queens Park Rangers	£1.88m
+20	Karl Henry	Defensive MidfieldNov 26, 1982 (31)	EnglandJamaica	Queens Park Rangers	£750k
+10	Leroy Fer	Central MidfieldJan 5, 1990 (24)	NetherlandsCuracao	Swansea City	£6.38m
+-	Jordon Mutch	Central MidfieldDec 2, 1991 (22)	England	Crystal Palace	£2.25m
+18	Alejandro Faurlín	Central MidfieldSep 8, 1986 (27)	ArgentinaItaly	Queens Park Rangers	£2.25m
+8	Joey Barton	Central MidfieldSep 2, 1982 (31)	England	Burnley FC	£1.88m
+-	Michael Doughty	Central MidfieldNov 20, 1992 (21)	WalesEngland	Swindon Town	£38k
+-	Frankie Sutherland	Central MidfieldDec 6, 1993 (20)	IrelandEngland	Crawley Town
+-	Reece Grego-Cox	Central MidfieldNov 12, 1996 (17)	Ireland	Queens Park Rangers
+-	Brandon Comley	Central MidfieldNov 18, 1995 (18)	MontserratEngland	Carlisle United
+-	Aaron Mitchell	Central MidfieldApr 14, 1996 (18)	England	Queens Park Rangers U21
+19	Niko Kranjcar	Attacking MidfieldAug 13, 1984 (29)	Croatia	Unattached	£2.25m
+-	Bruno Andrade	Attacking MidfieldOct 2, 1993 (20)	PortugalCape Verde	Woking FC	-
+27	Adel Taarabt	Left WingMay 24, 1989 (25)	MoroccoFrance	SL Benfica B	£4.50m
+7	Matt Phillips	Right WingMar 13, 1991 (23)	ScotlandEngland	Queens Park Rangers	£3.75m
+11	Shaun Wright-Phillips	Right WingOct 25, 1981 (32)	EnglandJamaica	New York Red Bulls	£975k
+-	Michael Petrasso	Right WingJul 9, 1995 (18)	CanadaItaly	Queens Park Rangers U21
+23	Junior Hoilett	Left WingJun 5, 1990 (24)	CanadaJamaica	Queens Park Rangers	£3.75m
+-	Mauro Zárate	Secondary StrikerMar 18, 1987 (27)	ArgentinaChile	ACF Fiorentina	£3.00m
+-	Loïc Rémy	Centre ForwardJan 2, 1987 (27)	FranceMartinique	Chelsea FC	£9.00m
+24	Eduardo Vargas	Centre ForwardNov 20, 1989 (24)	Chile	TSG 1899 Hoffenheim	£4.50m
+9	Charlie Austin	Centre ForwardJul 5, 1989 (24)	England	Southampton FC	£3.38m
+25	Bobby Zamora	Centre ForwardJan 16, 1981 (33)	EnglandTrinidad and Tobago	Brighton & Hove Albion	£750k

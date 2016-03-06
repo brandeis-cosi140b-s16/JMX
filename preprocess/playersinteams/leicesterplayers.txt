@@ -1,0 +1,37 @@
+﻿1	Kasper Schmeichel	KeeperNov 5, 1986 (27)	Denmark	Leicester City	30.06.2018	£2.63m
+32	Mark Schwarzer	KeeperOct 6, 1972 (41)	AustraliaGermany	Leicester City	30.06.2016	£750k
+12	Ben Hamer	KeeperNov 20, 1987 (26)	England	Leicester City	30.06.2018	£450k
+25	Conrad Logan	KeeperApr 18, 1986 (28)	Ireland	Unknown	-	£188k
+-	Adam Smith	KeeperNov 23, 1992 (21)	England	Northampton Town	-	£38k
+-	Robert Huth	Centre BackAug 18, 1984 (29)	Germany	Leicester City	-	£5.25m
+18	Liam Moore	Centre BackJan 31, 1993 (21)	EnglandJamaica	Leicester City	30.06.2017	£1.50m
+5	Wes Morgan	Centre BackJan 21, 1984 (30)	JamaicaEngland	Leicester City	30.06.2017	£1.28m
+6	Matthew Upson	Centre BackApr 18, 1979 (35)	England	Milton Keynes Dons	-	£375k
+27	Marcin Wasilewski	Centre BackJun 9, 1980 (34)	Poland	Leicester City	30.06.2016	£375k
+15	Jeffrey Schlupp	Left-BackDec 23, 1992 (21)	GhanaGermany	Leicester City	30.06.2019	£675k
+3	Paul Konchesky	Left-BackMay 15, 1981 (33)	England	Queens Park Rangers	30.06.2016	£450k
+21	Zoumana Bakayogo	Left-BackAug 17, 1986 (27)	Cote d'IvoireFrance	Crewe Alexandra	-	£75k
+2	Ritchie de Laet	Right-BackNov 28, 1988 (25)	Belgium	Middlesbrough FC	30.06.2018	£1.50m
+17	Danny Simpson	Right-BackJan 4, 1987 (27)	EnglandJamaica	Leicester City	30.06.2017	£1.50m
+-	James Pearson	Right-BackJan 19, 1993 (21)	England	Barnet FC	-	-
+19	Esteban Cambiasso	Defensive MidfieldAug 18, 1980 (33)	ArgentinaItaly	Olympiacos Piraeus	-	£4.50m
+-	Ryan Watson	Defensive MidfieldJul 7, 1993 (20)	England	Leicester City U21	30.06.2016	-
+4	Danny Drinkwater	Central MidfieldMar 5, 1990 (24)	England	Leicester City	30.06.2018	£1.65m
+10	Andy King	Central MidfieldOct 29, 1988 (25)	WalesEngland	Leicester City	30.06.2018	£1.50m
+8	Matty James	Central MidfieldJul 22, 1991 (22)	England	Leicester City	30.06.2018	£750k
+7	Dean Hammond	Central MidfieldMar 7, 1983 (31)	England	Sheffield United	30.06.2016	£525k
+-	Michael Cain	Central MidfieldFeb 18, 1994 (20)	England	Leicester City U21	-	-
+11	Marc Albrighton	Left MidfieldNov 18, 1989 (24)	England	Leicester City	30.06.2018	£1.88m
+-	Paul Gallagher	Attacking MidfieldAug 9, 1984 (29)	Scotland	Preston North End	-	£300k
+-	Jack Barmby	Attacking MidfieldNov 14, 1994 (19)	England	Leicester City U21	30.06.2016	-
+24	Anthony Knockaert	Right WingNov 20, 1991 (22)	FranceBelgium	Brighton & Hove Albion	-	£1.50m
+26	Riyad Mahrez	Right WingFeb 21, 1991 (23)	AlgeriaFrance	Leicester City	30.06.2019	£938k
+22	Gary Taylor-Fletcher	Right WingJun 4, 1981 (33)	England	Tranmere Rovers	-	£375k
+-	Nick Powell	Secondary StrikerMar 23, 1994 (20)	England	Hull City	-	£3.75m
+16	Tom Lawrence	Secondary StrikerJan 13, 1994 (20)	Wales	Cardiff City	30.06.2018	-
+40	Andrej Kramaric	Centre ForwardJun 19, 1991 (23)	Croatia	TSG 1899 Hoffenheim	30.06.2018	£1.88m
+35	David Nugent	Centre ForwardMay 2, 1985 (29)	England	Middlesbrough FC	30.06.2016	£1.73m
+23	Leonardo Ulloa	Centre ForwardJul 26, 1986 (27)	ArgentinaSpain	Leicester City	30.06.2018	£1.50m
+9	Jamie Vardy	Centre ForwardJan 11, 1987 (27)	England	Leicester City	30.06.2019	£1.13m
+39	Chris Wood	Centre ForwardDec 7, 1991 (22)	New Zealand	Leeds United	30.06.2016	£975k
+-	Tom Hopper	Centre ForwardDec 14, 1993 (20)	England	Scunthorpe United	-	-

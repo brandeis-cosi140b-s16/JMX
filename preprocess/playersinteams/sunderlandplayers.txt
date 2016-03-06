@@ -1,0 +1,34 @@
+﻿25	Vito Mannone	KeeperMar 2, 1988 (26)	Italy	Sunderland AFC	30.06.2017	£2.25m
+1	Costel Pantilimon	KeeperFeb 1, 1987 (27)	Romania	Watford FC	30.06.2018	£1.88m
+13	Jordan Pickford	KeeperMar 7, 1994 (20)	England	Sunderland AFC	30.06.2020	£188k
+-	Max Stryjek	KeeperJul 18, 1996 (17)	Poland	Sunderland AFC U21	-	-
+-	Valentin Roberge	Centre BackJun 9, 1987 (27)	France	Sunderland AFC	30.06.2016	£1.88m
+-	Sebastián Coates	Centre BackOct 7, 1990 (23)	UruguaySpain	Sporting CP	-	£1.88m
+16	John O'Shea	Centre BackApr 30, 1981 (33)	Ireland	Sunderland AFC	30.06.2017	£1.50m
+-	Santiago Vergini	Centre BackAug 3, 1988 (25)	ArgentinaItaly	Getafe CF	-	£750k
+5	Wes Brown	Centre BackOct 13, 1979 (34)	England	Sunderland AFC	30.06.2016	£563k
+-	Tom Beadling	Centre BackJan 16, 1996 (18)	AustraliaEngland	Sunderland AFC U21	-	-
+3	Patrick van Aanholt	Left-BackAug 29, 1990 (23)	NetherlandsCuracao	Sunderland AFC	30.06.2018	£2.63m
+-	Thomas Robson	Left-BackSep 11, 1995 (18)	England	Sunderland AFC U21	-	-
+2	Billy Jones	Right-BackMar 24, 1987 (27)	England	Sunderland AFC	30.06.2018	£1.88m
+15	Anthony Réveillère	Right-BackNov 10, 1979 (34)	France	End of career	-	£525k
+4	Liam Bridcutt	Defensive MidfieldMay 8, 1989 (25)	ScotlandEngland	Leeds United	30.06.2017	£3.38m
+6	Lee Cattermole	Defensive MidfieldMar 21, 1988 (26)	England	Sunderland AFC	30.06.2021	£2.63m
+-	Cabral	Defensive MidfieldOct 22, 1988 (25)	Cape VerdeSwitzerland	FC Zürich	-	£750k
+8	Jack Rodwell	Central MidfieldMar 11, 1991 (23)	England	Sunderland AFC	30.06.2019	£9.00m
+7	Sebastian Larsson	Central MidfieldJun 6, 1985 (29)	Sweden	Sunderland AFC	30.06.2017	£3.75m
+-	Liam Agnew	Central MidfieldApr 11, 1995 (19)	England	Sunderland AFC U21	-	-
+20	Ricardo Álvarez	Attacking MidfieldApr 12, 1988 (26)	ArgentinaItaly	UC Sampdoria	-	£12.38m
+14	Jordi Gómez	Attacking MidfieldMay 24, 1985 (29)	Spain	Blackburn Rovers	30.06.2017	£1.88m
+-	George Honeyman	Attacking MidfieldSep 8, 1994 (19)	England	Sunderland AFC U21	-	-
+11	Adam Johnson	Right WingJul 14, 1987 (26)	England	Unattached	30.06.2016	£5.63m
+23	Emanuele Giaccherini	Right WingMay 5, 1985 (29)	Italy	Bologna FC 1909	30.06.2017	£6.38m
+-	Charalampos Mavrias	Right WingFeb 21, 1994 (20)	Greece	Fortuna Düsseldorf	30.06.2017	£1.88m
+30	Will Buckley	Right WingNov 21, 1989 (24)	EnglandIreland	Birmingham City	30.06.2017	£1.13m
+-	Duncan Watmore	Right WingMar 8, 1994 (20)	England	Sunderland AFC	30.06.2020	£38k
+9	Steven Fletcher	Centre ForwardMar 26, 1987 (27)	Scotland	Olympique Marseille	30.06.2016	£6.75m
+-	Jozy Altidore	Centre ForwardNov 6, 1989 (24)	United StatesHaiti	Toronto FC	-	£4.50m
+28	Jermain Defoe	Centre ForwardOct 7, 1982 (31)	EnglandSt. Lucia	Sunderland AFC	30.06.2018	£4.50m
+10	Connor Wickham	Centre ForwardMar 31, 1993 (21)	EnglandNorthern Ireland	Crystal Palace	30.06.2019	£3.75m
+19	Danny Graham	Centre ForwardAug 12, 1985 (28)	England	Blackburn Rovers	30.06.2016	£2.25m
+-	Mikael Mandron	Centre ForwardOct 11, 1994 (19)	ScotlandFrance	Sunderland AFC U21	30.06.2016	-

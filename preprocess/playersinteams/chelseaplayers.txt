@@ -1,0 +1,38 @@
+﻿13	Thibaut Courtois	Keeper	May 11, 1992 (22)	Belgium	Chelsea FC	30.06.2019	£18.75m
+1	Petr Cech	Keeper	May 20, 1982 (32)	Czech Republic	Arsenal FC	30.06.2016	£15.00m
+-	Mark Schwarzer	Keeper	Oct 6, 1972 (41)	AustraliaGermany	Leicester City	-	£750k
+46	Jamal Blackman	Keeper	Oct 27, 1993 (20)	England	Chelsea FC	30.06.2019	£150k
+-	Mitchell Beeney	Keeper	Oct 3, 1995 (18)	England	Chelsea FC U21	-	-
+24	Gary Cahill	Centre Back	Dec 19, 1985 (28)	England	Chelsea FC	30.06.2019	£14.25m
+5	Kurt Zouma	Centre Back	Oct 27, 1994 (19)	FranceCentral African Republic	Chelsea FC	30.06.2019	£7.50m
+26	John Terry	Centre Back	Dec 7, 1980 (33)	England	Chelsea FC	30.06.2016	£5.63m
+-	Kenneth Omeruo	Centre Back	Oct 17, 1993 (20)	Nigeria	Kasimpasa	30.06.2018	£750k
+31	Andreas Christensen	Centre Back	Apr 10, 1996 (18)	Denmark	Borussia Mönchengladbach	30.06.2020	-
+28	César Azpilicueta	Left-Back	Aug 28, 1989 (24)	Spain	Chelsea FC	30.06.2019	£13.50m
+3	Filipe Luís	Left-Back	Aug 9, 1985 (28)	BrazilItaly	Atlético Madrid	30.06.2017	£11.25m
+6	Nathan Aké	Left-Back	Feb 18, 1995 (19)	Netherlands	Watford FC	-	£1.13m
+2	Branislav Ivanovic	Right-Back	Feb 22, 1984 (30)	Serbia	Chelsea FC	30.06.2017	£14.25m
+29	Tomás Kalas	Right-Back	May 15, 1993 (21)	Czech Republic	Middlesbrough FC	-	£4.50m
+21	Nemanja Matic	Defensive Midfield	Aug 1, 1988 (25)	SerbiaSlovakia	Chelsea FC	30.06.2019	£18.75m
+12	John Obi Mikel	Defensive Midfield	Apr 22, 1987 (27)	NigeriaEngland	Chelsea FC	30.06.2017	£15.00m
+45	Nathaniel Chalobah	Defensive Midfield	Dec 12, 1994 (19)	EnglandSierra Leone	SSC Napoli	30.06.2018	£3.00m
+4	Cesc Fàbregas	Central Midfield	May 4, 1987 (27)	Spain	Chelsea FC	30.06.2019	£37.50m
+7	Ramires	Central Midfield	Mar 24, 1987 (27)	Brazil	Jiangsu Suning	30.06.2019	£22.50m
+-	Lewis Baker	Central Midfield	Apr 25, 1995 (19)	England	Vitesse Arnhem	-	£188k
+36	Ruben Loftus-Cheek	Central Midfield	Jan 23, 1996 (18)	EnglandJamaica	Chelsea FC	30.06.2021	£113k
+8	Oscar	Attacking Midfield	Sep 9, 1991 (22)	Brazil	Chelsea FC	30.06.2019	£25.50m
+-	Jeremie Boga	Attacking Midfield	Jan 3, 1997 (17)	FranceCote d'Ivoire	Stade Rennais FC	30.06.2017	-
+10	Eden Hazard	Left Wing	Jan 7, 1991 (23)	Belgium	Chelsea FC	30.06.2020	£33.75m
+22	Willian	Right Wing	Aug 9, 1988 (25)	Brazil	Chelsea FC	30.06.2018	£22.50m
+-	Victor Moses	Right Wing	Dec 12, 1990 (23)	NigeriaEngland	West Ham United	30.06.2017	£8.25m
+-	Christian Atsu	Right Wing	Jan 10, 1992 (22)	Ghana	Málaga CF	30.06.2018	£4.50m
+-	André Schürrle	Left Wing	Nov 6, 1990 (23)	Germany	VfL Wolfsburg	30.06.2018	£15.00m
+-	Isaiah Brown	Left Wing	Jan 7, 1997 (17)	EnglandJamaica	Vitesse Arnhem	-	-
+23	Juan Cuadrado	Right Wing	May 26, 1988 (26)	Colombia	Juventus FC	30.06.2019	£18.00m
+-	Mohamed Salah	Right Wing	Jun 15, 1992 (22)	Egypt	AS Roma	30.06.2019	£9.75m
+19	Diego Costa	Centre Forward	Oct 7, 1988 (25)	SpainBrazil	Chelsea FC	30.06.2019	£26.25m
+-	Fernando Torres	Centre Forward	Mar 20, 1984 (30)	Spain	Atlético Madrid	30.06.2016	£14.25m
+18	Loïc Rémy	Centre Forward	Jan 2, 1987 (27)	FranceMartinique	Chelsea FC	30.06.2018	£9.00m
+11	Didier Drogba	Centre Forward	Mar 11, 1978 (36)	Cote d'IvoireFrance	Montreal Impact	-	£2.25m
+-	Patrick Bamford	Centre Forward	Sep 5, 1993 (20)	EnglandIreland	Norwich City	30.06.2018	£1.13m
+-	Dominic Solanke	Centre Forward	Sep 14, 1997 (16)	England	Vitesse Arnhem	-	-

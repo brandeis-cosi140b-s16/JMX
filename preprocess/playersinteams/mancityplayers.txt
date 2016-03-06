@@ -1,0 +1,36 @@
+﻿1	Joe Hart	KeeperApr 19, 1987 (27)	England	Manchester City	30.06.2019	£12.00m
+13	Willy Caballero	KeeperSep 28, 1981 (32)	ArgentinaSpain	Manchester City	30.06.2017	£3.75m
+29	Richard Wright	KeeperNov 5, 1977 (36)	England	Manchester City	30.06.2016	£188k
+4	Vincent Kompany	Centre BackApr 10, 1986 (28)	BelgiumCongo DR	Manchester City	30.06.2019	£26.25m
+20	Eliaquim Mangala	Centre BackFeb 13, 1991 (23)	FranceBelgium	Manchester City	30.06.2019	£17.25m
+-	Matija Nastasic	Centre BackMar 28, 1993 (21)	Serbia	FC Schalke 04	-	£15.75m
+-	Micah Richards	Centre BackJun 24, 1988 (26)	EnglandSt. Kitts &Nevis	Aston Villa	-	£9.00m
+-	Karim Rekik	Centre BackDec 2, 1994 (19)	NetherlandsTunisia	Olympique Marseille	30.06.2016	£1.88m
+26	Martín Demichelis	Centre BackDec 20, 1980 (33)	ArgentinaItaly	Manchester City	30.06.2016	£1.88m
+38	Dedryck Boyata	Centre BackNov 28, 1990 (23)	BelgiumCongo DR	Celtic FC	-	£1.31m
+71	Jason Denayer	Centre BackJun 28, 1995 (19)	Belgium	Galatasaray SK	30.06.2020	-
+22	Gaël Clichy	Left-BackJul 26, 1985 (28)	FranceMartinique	Manchester City	30.06.2017	£9.75m
+11	Aleksandar Kolarov	Left-BackNov 10, 1985 (28)	Serbia	Manchester City	30.06.2018	£9.00m
+-	Angelino	Left-BackJan 4, 1997 (17)	Spain	Manchester City U21	30.06.2016	-
+5	Pablo Zabaleta	Right-BackJan 16, 1985 (29)	ArgentinaSpain	Manchester City	30.06.2017	£14.25m
+3	Bacary Sagna	Right-BackFeb 14, 1983 (31)	FranceSenegal	Manchester City	30.06.2017	£9.00m
+6	Fernando	Defensive MidfieldJul 25, 1987 (26)	BrazilPortugal	Manchester City	30.06.2019	£13.13m
+-	George Glendon	Defensive MidfieldMay 3, 1995 (19)	WalesEngland	Manchester City U21	-	-
+25	Fernandinho	Central MidfieldMay 4, 1985 (29)	Brazil	Manchester City	30.06.2017	£24.00m
+42	Yaya Touré	Central MidfieldMay 13, 1983 (31)	Cote d'Ivoire	Manchester City	30.06.2017	£22.50m
+7	James Milner	Central MidfieldJan 4, 1986 (28)	England	Liverpool FC	-	£11.25m
+-	Bruno Zuculini	Central MidfieldApr 2, 1993 (21)	ArgentinaItaly	AEK Athens	30.06.2019	£3.00m
+18	Frank Lampard	Central MidfieldJun 20, 1978 (36)	England	New York City FC	-	£1.50m
+21	David Silva	Attacking MidfieldJan 8, 1986 (28)	Spain	Manchester City	30.06.2019	£30.00m
+-	Sinan Bytyqi	Attacking MidfieldJan 15, 1995 (19)	AustriaKosovo	Manchester City U21	-	-
+-	Bersant Celina	Attacking MidfieldSep 9, 1996 (17)	Norway	Manchester City U21	-	-
+8	Samir Nasri	Left WingJun 26, 1987 (27)	FranceAlgeria	Manchester City	30.06.2019	£16.50m
+12	Scott Sinclair	Left WingMar 25, 1989 (25)	EnglandJamaica	Aston Villa	30.06.2016	£4.50m
+15	Jesús Navas	Right WingNov 21, 1985 (28)	Spain	Manchester City	30.06.2017	£15.00m
+35	Stevan Jovetic	Secondary StrikerNov 2, 1989 (24)	MontenegroSerbia	Inter Milan	30.06.2018	£19.50m
+16	Sergio Agüero	Centre ForwardJun 2, 1988 (26)	ArgentinaSpain	Manchester City	30.06.2019	£33.75m
+10	Edin Dzeko	Centre ForwardMar 17, 1986 (28)	Bosnia-Herzegovina	AS Roma	30.06.2018	£18.00m
+14	Wilfried Bony	Centre ForwardDec 10, 1988 (25)	Cote d'Ivoire	Manchester City	30.06.2019	£11.25m
+60	John Guidetti	Centre ForwardApr 15, 1992 (22)	Sweden	Celta de Vigo	-	£3.38m
+-	José Pozo	Centre ForwardMar 15, 1996 (18)	Spain	UD Almería	30.06.2016	-
+-	Thierry Ambrose	Centre ForwardMar 28, 1997 (17)	FranceGuadeloupe	Manchester City U21	30.06.2020	-

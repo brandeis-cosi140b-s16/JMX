@@ -1,0 +1,40 @@
+﻿1	Joel Robles	KeeperJun 17, 1990 (24)	Spain	Everton FC	30.06.2018	£2.63m
+24	Tim Howard	KeeperMar 6, 1979 (35)	United StatesHungary	Everton FC	30.06.2018	£1.50m
+-	Russell Griffiths	KeeperApr 13, 1996 (18)	England	Everton FC U21	30.06.2017	-
+6	Phil Jagielka	Centre BackAug 17, 1982 (31)	EnglandPoland	Everton FC	30.06.2018	£5.63m
+26	John Stones	Centre BackMay 28, 1994 (20)	England	Everton FC	30.06.2019	£3.00m
+30	Antolín Alcaraz	Centre BackJul 30, 1982 (31)	ParaguayItaly	Club Libertad Asunción	-	£1.88m
+15	Sylvain Distin	Centre BackDec 16, 1977 (36)	FranceGuadeloupe	AFC Bournemouth	-	£750k
+3	Leighton Baines	Left-BackDec 11, 1984 (29)	England	Everton FC	30.06.2019	£15.00m
+8	Bryan Oviedo	Left-BackFeb 18, 1990 (24)	Costa Rica	Everton FC	30.06.2019	£3.38m
+29	Luke Garbutt	Left-BackMay 21, 1993 (21)	England	Fulham FC	30.06.2020	£188k
+-	Brendan Galloway	Left-BackMar 17, 1996 (18)	EnglandZimbabwe	Everton FC	30.06.2020	£38k
+23	Seamus Coleman	Right-BackOct 11, 1988 (25)	Ireland	Everton FC	30.06.2019	£7.50m
+2	Tony Hibbert	Right-BackFeb 20, 1981 (33)	England	Everton FC	30.06.2016	£563k
+-	Tyias Browning	Right-BackMay 27, 1994 (20)	EnglandChina	Everton FC	30.06.2017	-
+-	Gethin Jones	Right-BackOct 13, 1995 (18)	WalesAustralia	Everton FC U21	-	-
+-	Jonjoe Kenny	Right-BackMar 15, 1997 (17)	England	Oxford United	-	-
+18	Gareth Barry	Defensive MidfieldFeb 23, 1981 (33)	England	Everton FC	30.06.2017	£3.75m
+17	Muhamed Besic	Defensive MidfieldSep 10, 1992 (21)	Bosnia-HerzegovinaGermany	Everton FC	30.06.2021	£750k
+16	James McCarthy	Central MidfieldNov 12, 1990 (23)	IrelandScotland	Everton FC	30.06.2020	£9.00m
+4	Darron Gibson	Central MidfieldOct 25, 1987 (26)	IrelandNorthern Ireland	Everton FC	30.06.2016	£3.00m
+21	Leon Osman	Central MidfieldMay 17, 1981 (33)	England	Everton FC	30.06.2016	£2.63m
+-	John Lundstram	Central MidfieldFeb 18, 1994 (20)	England	Oxford United	-	£375k
+-	Francisco Júnior	Central MidfieldJan 18, 1992 (22)	PortugalGuinea-Bissau	Strømsgodset IF	30.06.2016	£188k
+-	Conor Grant	Central MidfieldApr 18, 1995 (19)	England	Doncaster Rovers	-	-
+-	Ryan Ledson	Central MidfieldAug 19, 1997 (16)	England	Everton FC	30.06.2017	-
+-	Joe Williams	Central MidfieldDec 8, 1996 (17)	England	Everton FC U21	-	-
+20	Ross Barkley	Attacking MidfieldDec 5, 1993 (20)	England	Everton FC	30.06.2018	£8.25m
+-	Kieran Dowell	Attacking MidfieldOct 10, 1997 (16)	England	Everton FC U21	30.06.2017	-
+11	Kevin Mirallas	Left WingOct 5, 1987 (26)	BelgiumSpain	Everton FC	30.06.2018	£9.00m
+22	Steven Pienaar	Left WingMar 17, 1982 (32)	South Africa	Everton FC	30.06.2016	£3.00m
+-	Aaron Lennon	Right WingApr 16, 1987 (27)	England	Everton FC	-	£11.25m
+-	Christian Atsu	Right WingJan 10, 1992 (22)	Ghana	Málaga CF	-	£4.50m
+7	Aiden McGeady	Right WingApr 4, 1986 (28)	IrelandScotland	Sheffield Wednesday	30.06.2018	£4.50m
+14	Steven Naismith	Secondary StrikerSep 14, 1986 (27)	Scotland	Norwich City	30.06.2019	£2.63m
+10	Romelu Lukaku	Centre ForwardMay 13, 1993 (21)	BelgiumCongo DR	Everton FC	30.06.2019	£18.75m
+-	Samuel Eto'o	Centre ForwardMar 10, 1981 (33)	CameroonSpain	Antalyaspor	30.06.2016	£6.75m
+9	Arouna Koné	Centre ForwardNov 11, 1983 (30)	Cote d'Ivoire	Everton FC	30.06.2017	£2.63m
+-	Chris Long	Centre ForwardFeb 25, 1995 (19)	England	Burnley FC	-	£150k
+-	Courtney Duffus	Centre ForwardOct 24, 1995 (18)	EnglandJamaica	Everton FC U21	-	-
+35	Conor McAleny	Centre ForwardAug 12, 1992 (21)	England	Wigan Athletic	30.06.2017	-

@@ -1,0 +1,36 @@
+﻿13	Adrián	KeeperJan 3, 1987 (27)	Spain	West Ham United	30.06.2017	£1.50m
+22	Jussi Jääskeläinen	KeeperApr 19, 1975 (39)	Finland	Wigan Athletic	-	£750k
+-	Raphael Spiegel	KeeperDec 19, 1992 (21)	Switzerland	West Ham United	30.06.2016	£375k
+2	Winston Reid	Centre BackJul 3, 1988 (25)	New ZealandDenmark	West Ham United	30.06.2021	£4.50m
+5	James Tomkins	Centre BackMar 29, 1989 (25)	England	West Ham United	30.06.2020	£3.75m
+19	James Collins	Centre BackAug 23, 1983 (30)	Wales	West Ham United	30.06.2018	£2.25m
+25	Doneil Henry	Centre BackApr 20, 1993 (21)	CanadaJamaica	West Ham United	30.06.2018	£113k
+-	Emmanuel Onariase	Centre BackOct 21, 1996 (17)	NigeriaEngland	FC Brentford U21	-	-
+-	Reece Oxford	Centre BackDec 16, 1998 (15)	EnglandJamaica	West Ham United	-	-
+32	Reece Burke	Centre BackSep 2, 1996 (17)	England	Bradford City	-	-
+3	Aaron Cresswell	Left-BackDec 15, 1989 (24)	England	West Ham United	30.06.2020	£1.13m
+-	Dan Potts	Left-BackApr 13, 1994 (20)	EnglandUnited States	Luton Town	-	£188k
+-	Lewis Page	Left-BackMay 20, 1996 (18)	England	Cambridge United	-	-
+-	Carl Jenkinson	Right-BackFeb 8, 1992 (22)	EnglandFinland	Arsenal FC	-	£4.50m
+17	Joey O'Brien	Right-BackFeb 17, 1986 (28)	Ireland	West Ham United	30.06.2016	£2.25m
+30	Alex Song	Defensive MidfieldSep 9, 1987 (26)	CameroonFrance	West Ham United	-	£13.50m
+8	Cheikhou Kouyaté	Defensive MidfieldDec 21, 1989 (24)	SenegalBelgium	West Ham United	30.06.2018	£5.25m
+20	Guy Demel	Defensive MidfieldJun 13, 1981 (33)	Cote d'IvoireFrance	Dundee United FC	-	£1.13m
+23	Diego Poyet	Defensive MidfieldApr 8, 1995 (19)	UruguayEngland	Charlton Athletic	30.06.2018	£375k
+-	Mohamed Diamé	Central MidfieldJun 14, 1987 (27)	SenegalFrance	Hull City	-	£5.25m
+16	Mark Noble	Central MidfieldMay 8, 1987 (27)	EnglandIreland	West Ham United	30.06.2020	£5.25m
+-	Sebastian Lletget	Central MidfieldSep 3, 1992 (21)	United States	Los Angeles Galaxy	-	-
+-	Josh Cullen	Central MidfieldApr 7, 1996 (18)	IrelandEngland	Bradford City	-	-
+4	Kevin Nolan	Attacking MidfieldJun 24, 1982 (32)	England	Leyton Orient	30.06.2016	£3.75m
+-	Ravel Morrison	Attacking MidfieldFeb 2, 1993 (21)	EnglandJamaica	SS Lazio	-	£3.00m
+12	Nenê	Attacking MidfieldJul 19, 1981 (32)	BrazilSpain	Club de Regatas Vasco da Gama	-	£1.13m
+7	Matt Jarvis	Left WingMay 22, 1986 (28)	England	Norwich City	30.06.2017	£4.13m
+11	Stewart Downing	Left WingJul 22, 1984 (29)	England	Middlesbrough FC	30.06.2017	£3.75m
+21	Morgan Amalfitano	Right WingMar 20, 1985 (29)	France	LOSC Lille	30.06.2017	£3.75m
+-	Ricardo Vaz Tê	Right WingOct 1, 1986 (27)	PortugalGuinea-Bissau	Akhisar Belediye Genclik ve Spor	-	£1.88m
+-	Mauro Zárate	Secondary StrikerMar 18, 1987 (27)	ArgentinaChile	ACF Fiorentina	30.06.2017	£3.00m
+9	Andy Carroll	Centre ForwardJan 6, 1989 (25)	England	West Ham United	30.06.2019	£12.00m
+15	Diafra Sakho	Centre ForwardDec 24, 1989 (24)	SenegalFrance	West Ham United	30.06.2018	£1.50m
+31	Enner Valencia	Centre ForwardNov 4, 1989 (24)	Ecuador	West Ham United	30.06.2019	£1.20m
+24	Carlton Cole	Centre ForwardOct 12, 1983 (30)	EnglandNigeria	Celtic FC	-	£1.13m
+-	Elliot Lee	Centre ForwardDec 16, 1994 (19)	England	Colchester United	30.06.2016	-

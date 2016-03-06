@@ -1,0 +1,30 @@
+﻿1	Tom Heaton	KeeperApr 15, 1986 (28)	England	Burnley FC	£900k
+22	Matthew Gilks	KeeperJun 4, 1982 (32)	ScotlandEngland	Burnley FC	£525k
+-	Alex Cisak	KeeperMay 19, 1989 (25)	AustraliaPoland	Leyton Orient	£113k
+5	Jason Shackell	Centre BackSep 27, 1983 (30)	England	Derby County	£900k
+25	Michael Keane	Centre BackJan 11, 1993 (21)	EnglandIreland	Burnley FC	£375k
+28	Kevin Long	Centre BackAug 18, 1990 (23)	Ireland	Burnley FC	£300k
+4	Michael Duff	Centre BackJan 11, 1979 (35)	Northern Ireland	Burnley FC	£188k
+23	Stephen Ward	Left-BackAug 20, 1985 (28)	Ireland	Burnley FC	£1.50m
+6	Ben Mee	Left-BackSep 21, 1989 (24)	England	Burnley FC	£900k
+-	Danny Lafferty	Left-BackApr 1, 1988 (26)	Northern Ireland	Burnley FC	£375k
+2	Kieran Trippier	Right-BackSep 19, 1990 (23)	England	Tottenham Hotspur	£1.58m
+18	Steven Reid	Right-BackMar 10, 1981 (33)	IrelandEngland	End of career	£750k
+-	Luke O'Neill	Right-BackAug 20, 1991 (22)	England	Southend United	£188k
+-	Cameron Dummigan	Right-BackJun 2, 1996 (18)	Northern Ireland	Oldham Athletic
+-	Nathaniel Chalobah	Defensive MidfieldDec 12, 1994 (19)	EnglandSierra Leone	SSC Napoli	£3.00m
+14	David Jones	Central MidfieldNov 4, 1984 (29)	EnglandWales	Burnley FC	£1.13m
+20	Fredrik Ulvestad	Central MidfieldMay 19, 1992 (22)	Norway	Burnley FC	£975k
+37	Scott Arfield	Central MidfieldNov 1, 1988 (25)	ScotlandCanada	Burnley FC	£975k
+8	Dean Marney	Central MidfieldJan 31, 1984 (30)	England	Burnley FC	£900k
+-	Steven Hewitt	Central MidfieldDec 5, 1993 (20)	England	Southport FC
+7	Ross Wallace	Left MidfieldMay 23, 1985 (29)	Scotland	Sheffield Wednesday	£1.13m
+15	Matthew Taylor	Left MidfieldNov 27, 1981 (32)	England	Burnley FC	£1.13m
+21	George Boyd	Left WingOct 2, 1985 (28)	ScotlandEngland	Burnley FC	£1.13m
+11	Michael Kightly	Right WingJan 24, 1986 (28)	England	Burnley FC	£2.03m
+10	Danny Ings	Centre ForwardJul 23, 1992 (21)	England	Liverpool FC	£2.25m
+9	Sam Vokes	Centre ForwardOct 21, 1989 (24)	WalesEngland	Burnley FC	£1.50m
+17	Marvin Sordell	Centre ForwardFeb 17, 1991 (23)	England	Colchester United	£1.35m
+30	Ashley Barnes	Centre ForwardOct 30, 1989 (24)	England	Burnley FC	£900k
+19	Lukas Jutkiewicz	Centre ForwardMar 28, 1989 (25)	EnglandPoland	Burnley FC	£600k
+-	Jason Gilchrist	Centre ForwardDec 17, 1994 (19)	England	Burnley FC

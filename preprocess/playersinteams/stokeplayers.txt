@@ -1,0 +1,30 @@
+﻿1	Asmir Begovic	KeeperJun 20, 1987 (27)	Bosnia-HerzegovinaCanada	Chelsea FC	30.06.2016	£7.50m
+22	Jack Butland	KeeperMar 10, 1993 (21)	England	Stoke City	30.06.2019	£3.75m
+29	Thomas Sörensen	KeeperJun 12, 1976 (38)	Denmark	Melbourne City FC	-	£750k
+17	Ryan Shawcross	Centre BackOct 4, 1987 (26)	EnglandWales	Stoke City	30.06.2018	£6.75m
+26	Philipp Wollscheid	Centre BackMar 6, 1989 (25)	Germany	Stoke City	-	£6.38m
+-	Robert Huth	Centre BackAug 18, 1984 (29)	Germany	Leicester City	-	£5.25m
+20	Geoff Cameron	Centre BackJul 11, 1985 (28)	United States	Stoke City	30.06.2018	£3.38m
+12	Marc Wilson	Centre BackAug 17, 1987 (26)	IrelandNorthern Ireland	Stoke City	30.06.2016	£3.00m
+5	Marc Muniesa	Centre BackMar 27, 1992 (22)	Spain	Stoke City	30.06.2019	£1.50m
+23	Dionatan Teixeira	Centre BackJul 24, 1992 (21)	SlovakiaBrazil	Stoke City	30.06.2017	£263k
+3	Erik Pieters	Left-BackAug 7, 1988 (25)	Netherlands	Stoke City	30.06.2020	£2.63m
+2	Phil Bardsley	Right-BackJun 28, 1985 (29)	ScotlandEngland	Stoke City	30.06.2017	£2.25m
+28	Andy Wilkinson	Right-BackAug 6, 1984 (29)	England	End of career	-	£1.50m
+15	Steven N'Zonzi	Defensive MidfieldDec 15, 1988 (25)	FranceCongo DR	Sevilla FC	-	£4.50m
+6	Glenn Whelan	Defensive MidfieldJan 13, 1984 (30)	Ireland	Stoke City	30.06.2017	£2.63m
+8	Wilson Palacios	Defensive MidfieldJul 29, 1984 (29)	Honduras	Miami FC	-	£1.13m
+16	Charlie Adam	Central MidfieldDec 10, 1985 (28)	Scotland	Stoke City	30.06.2017	£3.75m
+21	Steve Sidwell	Central MidfieldDec 14, 1982 (31)	England	Brighton & Hove Albion	30.06.2016	£1.88m
+-	Jamie Ness	Central MidfieldMar 2, 1991 (23)	Scotland	Scunthorpe United	30.06.2016	£375k
+7	Stephen Ireland	Attacking MidfieldAug 22, 1986 (27)	Ireland	Stoke City	30.06.2017	£2.25m
+-	Oliver Shenton	Attacking MidfieldNov 6, 1997 (16)	England	Stoke City U21	30.06.2020	-
+-	Victor Moses	Right WingDec 12, 1990 (23)	NigeriaEngland	West Ham United	-	£8.25m
+-	Adam Thomas	Right WingFeb 4, 1994 (20)	England	Hednesford Town	-	-
+-	Oussama Assaidi	Left WingAug 15, 1988 (25)	MoroccoNetherlands	Al-Ahli Dubai Club	-	£3.38m
+10	Marko Arnautovic	Left WingApr 19, 1989 (25)	Austria	Stoke City	30.06.2017	£3.38m
+19	Jonathan Walters	Right WingSep 20, 1983 (30)	IrelandEngland	Stoke City	30.06.2018	£3.00m
+9	Peter Odemwingie	Right WingJul 15, 1981 (32)	NigeriaRussia	Stoke City	30.06.2016	£1.88m
+27	Bojan Krkic	Secondary StrikerAug 28, 1990 (23)	SpainSerbia	Stoke City	30.06.2020	£5.25m
+18	Mame Diouf	Centre ForwardDec 16, 1987 (26)	Senegal	Stoke City	30.06.2018	£8.25m
+25	Peter Crouch	Centre ForwardJan 30, 1981 (33)	EnglandIreland	Stoke City	30.06.2017	£1.88m

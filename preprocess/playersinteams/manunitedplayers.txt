@@ -1,0 +1,43 @@
+﻿1	David de Gea	KeeperNov 7, 1990 (23)	Spain	Manchester United	30.06.2019	£12.75m
+32	Víctor Valdés	KeeperJan 14, 1982 (32)	Spain	Standard Liège	30.06.2016	£9.00m
+13	Anders Lindegaard	KeeperApr 13, 1984 (30)	Denmark	Preston North End	30.06.2016	£1.88m
+-	Ben Amos	KeeperApr 10, 1990 (24)	England	Bolton Wanderers	-	£750k
+50	Sam Johnstone	KeeperMar 25, 1993 (21)	England	Manchester United	30.06.2017	£188k
+4	Phil Jones	Centre BackFeb 21, 1992 (22)	England	Manchester United	30.06.2019	£13.50m
+6	Jonny Evans	Centre BackJan 3, 1988 (26)	Northern Ireland	West Bromwich Albion	30.06.2016	£9.75m
+12	Chris Smalling	Centre BackNov 22, 1989 (24)	England	Manchester United	30.06.2019	£9.00m
+17	Daley Blind	Centre BackMar 9, 1990 (24)	Netherlands	Manchester United	30.06.2018	£4.50m
+5	Marcos Rojo	Centre BackMar 20, 1990 (24)	Argentina	Manchester United	30.06.2019	£4.13m
+-	Michael Keane	Centre BackJan 11, 1993 (21)	EnglandIreland	Burnley FC	-	£375k
+-	Tom Thorpe	Centre BackJan 13, 1993 (21)	England	Rotherham United	-	£150k
+33	Patrick McNair	Centre BackApr 27, 1995 (19)	Northern Ireland	Manchester United	30.06.2017	-
+42	Tyler Blackett	Centre BackApr 2, 1994 (20)	EnglandJamaica	Celtic FC	30.06.2017	-
+3	Luke Shaw	Left-BackJul 12, 1995 (18)	England	Manchester United	30.06.2018	£9.75m
+-	Reece James	Left-BackNov 7, 1993 (20)	England	Wigan Athletic	-	-
+25	Antonio Valencia	Right-BackAug 4, 1985 (28)	Ecuador	Manchester United	30.06.2017	£12.00m
+2	Rafael	Right-BackJul 9, 1990 (23)	BrazilPortugal	Olympique Lyon	30.06.2016	£11.25m
+-	Marnick Vermijl	Right-BackJan 13, 1992 (22)	Belgium	Preston North End	-	£488k
+-	Saidy Janko	Right-BackOct 22, 1995 (18)	SwitzerlandThe Gambia	Celtic FC	-	-
+16	Michael Carrick	Defensive MidfieldJul 28, 1981 (32)	England	Manchester United	30.06.2016	£6.38m
+31	Marouane Fellaini	Central MidfieldNov 22, 1987 (26)	BelgiumMorocco	Manchester United	30.06.2018	£17.25m
+21	Ander Herrera	Central MidfieldAug 14, 1989 (24)	Spain	Manchester United	30.06.2018	£15.00m
+23	Tom Cleverley	Central MidfieldAug 12, 1989 (24)	England	Everton FC	-	£10.50m
+-	Anderson	Central MidfieldApr 13, 1988 (26)	Brazil	Sport Club Internacional	-	£3.75m
+-	Darren Fletcher	Central MidfieldFeb 1, 1984 (30)	Scotland	West Bromwich Albion	-	£3.00m
+8	Juan Mata	Attacking MidfieldApr 28, 1988 (26)	Spain	Manchester United	30.06.2018	£30.00m
+-	Shinji Kagawa	Attacking MidfieldMar 17, 1989 (25)	Japan	Borussia Dortmund	30.06.2016	£12.75m
+-	Andreas Pereira	Attacking MidfieldJan 1, 1996 (18)	BrazilBelgium	Manchester United	-	-
+18	Ashley Young	Left WingJul 9, 1985 (28)	EnglandJamaica	Manchester United	30.06.2018	£10.50m
+35	Jesse Lingard	Left WingDec 15, 1992 (21)	England	Manchester United	30.06.2018	£750k
+-	Wilfried Zaha	Right WingNov 10, 1992 (21)	EnglandCote d'Ivoire	Crystal Palace	30.06.2018	£6.00m
+11	Adnan Januzaj	Right WingFeb 5, 1995 (19)	BelgiumKosovo	Manchester United	30.06.2018	£4.50m
+-	Nani	Left WingNov 17, 1986 (27)	PortugalCape Verde	Fenerbahce SK	30.06.2018	£12.00m
+7	Ángel Di María	Right WingFeb 14, 1988 (26)	Argentina	Paris Saint-Germain	30.06.2019	£22.50m
+10	Wayne Rooney	Secondary StrikerOct 24, 1985 (28)	England	Manchester United	30.06.2019	£33.75m
+22	Nick Powell	Secondary StrikerMar 23, 1994 (20)	England	Hull City	30.06.2016	£3.75m
+9	Falcao	Centre ForwardFeb 10, 1986 (28)	Colombia	Chelsea FC	-	£45.00m
+20	Robin van Persie	Centre ForwardAug 6, 1983 (30)	Netherlands	Fenerbahce SK	30.06.2016	£30.00m
+-	Danny Welbeck	Centre ForwardNov 26, 1990 (23)	EnglandGhana	Arsenal FC	-	£12.75m
+-	Chicharito	Centre ForwardJun 1, 1988 (26)	Mexico	Bayer 04 Leverkusen	30.06.2016	£12.00m
+-	Will Keane	Centre ForwardJan 11, 1993 (21)	EnglandIreland	Manchester United	30.06.2018	£225k
+49	James Wilson	Centre ForwardDec 1, 1995 (18)	England	Brighton & Hove Albion	30.06.2019	-

@@ -1,0 +1,42 @@
+﻿1	Wojciech Szczesny	KeeperApr 18, 1990 (24)	Poland	AS Roma	30.06.2018	£11.25m
+13	David Ospina	KeeperAug 31, 1988 (25)	Colombia	Arsenal FC	30.06.2019	£3.75m
+26	Emiliano Martínez	KeeperSep 2, 1992 (21)	Argentina	Wolverhampton Wanderers	-	£225k
+-	Matt Macey	KeeperSep 9, 1994 (19)	England	Arsenal FC	-	-
+-	Ryan Huddart	KeeperMar 6, 1997 (17)	England	Arsenal FC U21	-	-
+4	Per Mertesacker	Centre BackSep 29, 1984 (29)	Germany	Arsenal FC	30.06.2017	£13.50m
+6	Laurent Koscielny	Centre BackSep 10, 1985 (28)	FrancePoland	Arsenal FC	30.06.2017	£13.50m
+21	Calum Chambers	Centre BackJan 20, 1995 (19)	England	Arsenal FC	30.06.2020	£1.50m
+5	Gabriel Paulista	Centre BackNov 26, 1990 (23)	Brazil	Arsenal FC	30.06.2019	£1.13m
+-	Ignasi Miquel	Centre BackSep 28, 1992 (21)	Spain	SD Ponferradina	-	£300k
+-	Semi Ajayi	Centre BackNov 9, 1993 (20)	NigeriaEngland	Cardiff City	-	-
+-	Stefan O'Connor	Centre BackJan 23, 1997 (17)	England	Arsenal FC U21	-	-
+3	Kieran Gibbs	Left-BackSep 26, 1989 (24)	England	Arsenal FC	30.06.2018	£9.75m
+18	Nacho Monreal	Left-BackFeb 26, 1986 (28)	Spain	Arsenal FC	30.06.2019	£8.25m
+2	Mathieu Debuchy	Right-BackJul 28, 1985 (28)	France	FC Girondins Bordeaux	30.06.2019	£7.50m
+25	Carl Jenkinson	Right-BackFeb 8, 1992 (22)	EnglandFinland	Arsenal FC	30.06.2018	£4.50m
+39	Héctor Bellerín	Right-BackMar 19, 1995 (19)	Spain	Arsenal FC	30.06.2019	£375k
+20	Mathieu Flamini	Defensive MidfieldMar 7, 1984 (30)	France	Arsenal FC	30.06.2016	£6.75m
+34	Francis Coquelin	Defensive MidfieldMay 13, 1991 (23)	FranceRéunion	Arsenal FC	30.06.2019	£2.25m
+24	Abou Diaby	Defensive MidfieldMay 11, 1986 (28)	FranceCote d'Ivoire	Olympique Marseille	-	£1.50m
+-	Isaac Hayden	Defensive MidfieldMar 22, 1995 (19)	England	Hull City	-	-
+-	Glen Kamara	Defensive MidfieldOct 28, 1995 (18)	FinlandSierra Leone	Southend United	-	-
+10	Jack Wilshere	Central MidfieldJan 1, 1992 (22)	England	Arsenal FC	30.06.2018	£24.75m
+19	Santi Cazorla	Central MidfieldDec 13, 1984 (29)	Spain	Arsenal FC	30.06.2017	£22.50m
+16	Aaron Ramsey	Central MidfieldDec 26, 1990 (23)	Wales	Arsenal FC	30.06.2018	£15.00m
+8	Mikel Arteta	Central MidfieldMar 26, 1982 (32)	Spain	Arsenal FC	30.06.2016	£6.00m
+-	Gedion Zelalem	Central MidfieldJan 26, 1997 (17)	United StatesGermany	Rangers FC	30.06.2017	-
+-	Ainsley Maitland-Niles	Right MidfieldAug 29, 1997 (16)	England	Ipswich Town	-	-
+11	Mesut Özil	Attacking MidfieldOct 15, 1988 (25)	Germany	Arsenal FC	30.06.2018	£37.50m
+7	Tomás Rosicky	Attacking MidfieldOct 4, 1980 (33)	Czech Republic	Arsenal FC	30.06.2016	£1.50m
+-	Alex Iwobi	Left WingMay 3, 1996 (18)	NigeriaEngland	Arsenal FC	-	-
+15	Alex Oxlade-Chamberlain	Right WingAug 15, 1993 (20)	England	Arsenal FC	30.06.2018	£12.75m
+27	Serge Gnabry	Right WingJul 14, 1995 (18)	GermanyCote d'Ivoire	Arsenal FC	30.06.2017	£3.00m
+58	Wellington Silva	Right WingJan 6, 1993 (21)	BrazilSpain	Bolton Wanderers	30.06.2018	£300k
+17	Alexis Sánchez	Left WingDec 19, 1988 (25)	Chile	Arsenal FC	30.06.2018	£22.50m
+14	Theo Walcott	Right WingMar 16, 1989 (25)	England	Arsenal FC	30.06.2019	£21.00m
+-	Lukas Podolski	Right WingJun 4, 1985 (29)	GermanyPoland	Galatasaray SK	30.06.2016	£17.25m
+-	Joel Campbell	Right WingJun 26, 1992 (22)	Costa Rica	Arsenal FC	30.06.2018	£3.75m
+12	Olivier Giroud	Centre ForwardSep 30, 1986 (27)	France	Arsenal FC	30.06.2018	£15.00m
+23	Danny Welbeck	Centre ForwardNov 26, 1990 (23)	EnglandGhana	Arsenal FC	30.06.2019	£12.75m
+22	Yaya Sanogo	Centre ForwardJan 27, 1993 (21)	FranceCote d'Ivoire	Charlton Athletic	30.06.2017	£1.50m
+-	Chuba Akpom	Centre ForwardOct 9, 1995 (18)	EnglandNigeria	Hull City	-	£188k
