@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/mar/12/wolfsburg-v-inter-europa-league-live'
-
-
-b'Wolfsburg v Inter: Europa League \xe2\x80\x93 as it happened!'
-
-
-b'<p>It\xe2\x80\x99s a decent lead for the Germans, who recovered from a ropey start to well and truly put Inter on the back foot and plunder three goals. Thanks for tuning in. Now go follow Everton-Dynamo Kiev with Scott Murray...</p>'

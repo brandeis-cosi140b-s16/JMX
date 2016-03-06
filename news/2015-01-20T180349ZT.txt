@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/jan/20/transfer-news-live'
-
-
-b'Transfer news: Swansea agree Naughton fee, Milner nears City exit \xe2\x80\x93 as it happened!'
-
-
-b'<p>And what a way to end today\xe2\x80\x99s transfer blog, with Ricardo Vaz T\xc3\xaa. Hope you\xe2\x80\x99ve enjoyed it. I have. We\xe2\x80\x99ll be back tomorrow (hopefully with some deals actually going through...). Have a nice night. </p>'

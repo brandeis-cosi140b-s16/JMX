@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2014/nov/21/manchester-city-swansea-city-match-preview'
-
-
-b'Manchester City v Swansea City: match preview'
-
-
-b'<p>The eight-point gap to Chelsea has the champions playing an unwanted game of catch-up in November. Swansea City arrive only three points behind Manchester City so Manuel Pellegrini, who may well be without Vincent Kompany and David Silva, will be wary of Garry Monk\xe2\x80\x99s side. As Bayern Munich are at the Etihad Stadium on Wednesday for a must-win Champions League encounter City will not want a confidence-sapping afternoon. Jamie Jackson</p> <p>Kick-off Saturday 3pm </p> <p>Venue Etihad Stadium</p> <p>Last season Manchester City 3 Swansea City 0</p> <p>Referee N Swarbrick</p> <p>This season G5, Y28, R1, 5.8 cards per game</p> <p>Odds H 2-5 A 17-2 D 17-4</p>     Manchester City v Swansea City: probable starters in bold, contenders in light    Manchester City <p>Subs from Caballero, Wright, Nastasic, Boyata, Sinclair, Sagna, Fernandinho, Fernando, Dzeko, Milner</p> <p>Doubtful None</p> <p>Injured Kompany (calf, 30 Nov), Silva (knee, 30 Nov), Kolarov (calf, 6 Dec)</p> <p>Suspended None</p> <p>Form WWWLWD</p> <p>Discipline Y26 R1</p> <p>Leading scorer Ag\xc3\xbcero 12</p> Swansea City <p>Subs from Tremmel, Dyer, Gomis, Carroll, Emnes, Fulton, Barrow, Britton, Tiendalli, Amat, Shephard</p> <p>Doubtful None</p> <p>Injured Fern\xc3\xa1ndez (calf, Dec), Donnelly (ankle, unknown), Richards (knee, unknown)</p> <p>Suspended None</p> <p>Form DDLWDW</p> <p>Discipline Y24 R3</p> <p>Leading scorer Bony 4</p>'

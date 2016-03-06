@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2015/jan/16/swansea-city-chelsea-match-preview'
-
-
-b'Swansea City v Chelsea: match preview'
-
-
-b'<p>Jos\xc3\xa9 Mourinho will want nothing but all three points against Swansea City. Chelsea could potentially move further ahead of title rivals Manchester City as the latter could drop points against Arsenal. While Swansea will be relying on Baf\xc3\xa9timbi Gomis to replace the goal threat of Wilfried Bony, the Frenchman may lack the quality needed to break down Chelsea\xe2\x80\x99s solid defensive line. Graham Searles</p> <p>Kick-off Saturday 3pm </p> <p>Venue Liberty Stadium</p> <p>Last season Swansea City 0 Chelsea 1</p> <p>Referee J Moss</p> <p>This season G16, Y55, R5, 3.75 cards per game</p> <p>Odds H 6-1 A 4-7 D 16-5</p>     Swansea City v Chelsea: probable starters in bold, contenders in light    Swansea City <p>Subs from Tremmel, Richards, Amat, Oliveira, Oliveira, Grimes, Tiendalli, Emnes, Obeng, Bartley, Shelvey, Montero</p> <p>Doubtful Montero (hamstring)</p> <p>Injured None</p> <p>Suspended None</p> <p>Form LWWLDD</p> <p>Discipline Y34 R5</p> <p>Leading scorer Sigurdsson 4</p> Chelsea <p>Subs from Blackman, Cech, Zouma, Ak\xc3\xa9, Mikel, Ramires, Drogba, Sch\xc3\xbcrrle, Salah, R\xc3\xa9my, Azpilicueta</p> <p>Doubtful Azpilicueta (groin)</p> <p>Injured None</p> <p>Suspended None</p> <p>Form WWWDLW</p> <p>Discipline Y41 R2</p> <p>Leading scorer Costa 15</p>'

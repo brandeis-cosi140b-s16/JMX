@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/mar/21/premier-league-saturday-football-updates-live'
-
-
-b'Saturday clockwatch: Premier League and more \xe2\x80\x93 as it happened!'
-
-
-b'<p>That\xe2\x80\x99ll probably do us for today. Thanks for reading and for all your (generally) excellent input. I suggest you join Alan Smith shortly for his MBM of West Ham v Sunderland, and in the meantime I wish you a great weekend. See you soon.</p>'

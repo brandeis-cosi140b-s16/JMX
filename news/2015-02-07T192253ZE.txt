@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/feb/07/everton-v-liverpool-premier-league-live'
-
-
-b'Everton v Liverpool: Premier League - as it happened | Scott Murray'
-
-
-b'<p>Another Goodison draw, then. Steven Gerrard looks deflated, there\xe2\x80\x99s no fairytale ending for him in Merseyside derbies. Unless something daft\xe2\x80\x99s going to happen in the Europa League. Something daft\xe2\x80\x99s not going to happen in the Europa League, is it?</p>'

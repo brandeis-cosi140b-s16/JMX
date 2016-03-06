@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/dec/06/football-clockwatch-premier-league-updates-and-latest-news-live'
-
-
-b'Football clockwatch: Premier League updates and latest news \xe2\x80\x93 as it happened | Barry Glendenning'
-
-
-b'<p>That\xe2\x80\x99s all from me for today. Manchester City\xe2\x80\x99s match against Everton kicks off in 20 minutes and we\xe2\x80\x99ll have on-the-whistle reports from all the Premier League matches that kicked off at 3pm up on the website very shortly. A win over Everton would move City to within just three points of Chelsea at the Premier League summit. Follow the action with Scott Murray by clicking on this link. </p>'

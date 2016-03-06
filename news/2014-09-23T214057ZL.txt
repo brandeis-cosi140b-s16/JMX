@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/sep/23/liverpool-v-middlesbrough-capital-one-cup-live'
-
-
-b'Liverpool 2-2 Middlesbrough: Capital One Cup \xe2\x80\x93 as it happened'
-
-
-b'<p>Richard Hooker writes, \xe2\x80\x9cHope the Guardian pays you overtime.\xe2\x80\x9d</p> <p>It does not. So that\xe2\x80\x99s your lot. Thanks for all your emails, tweets and well wishes. Liverpool are into the League Cup fourth round, I\xe2\x80\x99m off to bed. </p>'

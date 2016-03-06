@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2014/aug/15/burnley-chelsea-match-preview'
-
-
-b'Burnley v Chelsea: match preview'
-
-
-b'<p>Chelsea\xe2\x80\x99s new signings Diego Costa, Cesc F\xc3\xa1bregas and Filipe Lu\xc3\xads all make their debuts against a Burnley team who return to the Premier League after four years in the Championship. Jos\xc3\xa9 Mourinho refuses to pick a starting goalkeeper between Petr Cech and Thibaut Courtois. Striker Danny Ings starts for Burnley as Sam Vokes will be sidelined until next year with a knee injury. Graham Searles</p> <p>Kick-off Monday 8pm </p> <p>Venue Turf Moor</p> <p>Last season n/a</p> <p>Live Sky Sports 2</p> <p>Referee Michael Oliver</p> <p>Last season G39, Y141, R4, 3.82 cards per game</p> <p>Odds H 37-4 A 7-17 D 4-1</p>     Burnley v Chelsea: probable starters in bold, contenders in light.    Burnley <p>Subs from Cisak, Lafferty, Wallace, Sordell, Reid, Jutkiewicz, Gilks, Long, Barnes, Hewitt, O\xe2\x80\x99Neill, Howieson</p> <p>Doubtful None</p> <p>Injured Vokes (cruciate, Jan), Dummigan (hip, unknown)</p> <p>Suspended None</p> <p>Form \xe2\x80\x93</p> <p>Discipline Y0 R0</p> <p>Top scorer (last season) Ings 21</p> Chelsea <p>Subs from Courtois, Schwarzer, Ake, Zouma, Ramires, Torres, Sch\xc3\xbcrrle, Salah, Drogba, Van Ginkel, Moses, Mikel, Azpilicueta</p> <p>Doubtful Drogba (ankle)</p> <p>Injured None</p> <p>Suspended None</p> <p>Form \xe2\x80\x93</p> <p>Discipline Y0 R0</p> <p>Top scorer (last season) Hazard 14</p>'

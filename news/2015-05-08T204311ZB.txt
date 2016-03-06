@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/may/08/brentford-middlesbrough-championship-play-off-semi-final-live'
-
-
-b'Brentford v Middlesbrough: Championship play-off semi-final \xe2\x80\x93\xc2\xa0as it happened'
-
-
-b'<p>What a game that was. Both sides were great, but it\xe2\x80\x99s Middlesbrough who have taken command of this play-off semi-final thanks to Fernando Amorebieta\xe2\x80\x99s dramatic winner. Brentford will feel aggrieved and they\xe2\x80\x99ll have it all to do in the second leg at the Riverside next week. Middlesbrough aren\xe2\x80\x99t going to let go of this 2-1 lead easily. Thanks for reading. Bye.</p>'

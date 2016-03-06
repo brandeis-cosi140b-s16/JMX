@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/sep/21/manchester-city-v-chelsea-premier-league-live'
-
-
-b'Manchester City v Chelsea: Premier League \xe2\x80\x93 as it happened'
-
-
-b'<p>So Chelsea have dropped points for the first time this season and will be kicking themselves after the way it happened. They had the game in the bag, a goal and a man up, but they didn\xe2\x80\x99t do enough to kill it after they went ahead and City grew in belief, culminating in Frank Lampard\xe2\x80\x99s equaliser. Jose Mourinho won\xe2\x80\x99t be happy but a on the balance of play, a point is probably the right result given that City were the better side before Zabaleta\xe2\x80\x99s red card. Ah well. Thanks for reading. Bye.</p>'

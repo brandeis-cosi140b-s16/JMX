@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2014/dec/13/referee-chris-foy-chelsea-hull'
-
-
-b'Referee Chris Foy in spotlight for cards after Chelsea\xe2\x80\x99s win over Hull'
-
-
-b'<p>The referee Chris Foy is likely to come under scrutiny after handing out seven yellow cards in addition to a second-half red to Hull\xe2\x80\x99s Tom Huddlestone during Chelsea\xe2\x80\x99s 2-0 win at Stamford Bridge.</p> <p>There could have been more cards had the officials spotted Mikel John Obi\xe2\x80\x99s stamp on Sone Aluko in the buildup to Eden Hazard\xe2\x80\x99s headed goal.</p> <p>Hull\xe2\x80\x99s Alex Bruce smashed through Willian but was only booked, the same punishment dished out to Diego Costa for diving soon afterwards, despite having clearly been caught by Huddlestone.</p>'

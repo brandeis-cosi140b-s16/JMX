@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2014/dec/31/tottenham-chelsea-match-preview'
-
-
-b'Tottenham v Chelsea: match preview'
-
-
-b'<p>Tottenham\xe2\x80\x99s 3-0 defeat at Stamford Bridge in early December led to much head-shaking among the Spurs faithful, with the general consensus being that a coveted top-four place was beyond them. Four wins and two draws since see them still in the mix and this looks a pivotal game. The league leaders dropped points at Southampton on Sunday and will want to regain momentum. Paul Chronnell</p> <p>Kick-off 5.30pm </p> <p>Venue White Hart Lane</p> <p>Last season Tottenham 1 Chelsea 1</p> <p>Live BT Sport 1</p> <p>Referee P Dowd</p> <p>This season G13, Y59, R4, 4.84 cards per game</p> <p>Odds H 21-5 A 4-5 D 11-4</p> Tottenham <p>Subs from Vorm, Friedel, Naughton, Dier, Chiriches, Rose, Capoue, Stambouli, Demb\xc3\xa9l\xc3\xa9, Paulinho, Lennon, Townsend, Ceballos, Adebayor, Soldado</p> <p>Doubtful Kaboul (hip)</p> <p>Injured None</p> <p>Suspended None</p> <p>Form DWWWWL</p> <p>Discipline Y38 R3</p> <p>Leading scorer Eriksen 7</p> Chelsea <p>Subs from Cech, Schwarzer, Zouma, Ake, Ramires, Drogba, Mikel, Sch\xc3\xbcrrle, Salah, R\xc3\xa9my, Azpilicueta</p> <p>Doubtful Oscar (illness)</p> <p>Injured None</p> <p>Suspended None</p> <p>Form DWWWWW</p> <p>Discipline Y37 R2</p> <p>Leading scorer Costa 13</p>'

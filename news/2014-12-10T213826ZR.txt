@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/dec/10/roma-v-manchester-city-champions-league-live'
-
-
-b'Roma v Manchester City: Champions League \xe2\x80\x93 as it happened | Scott Murray'
-
-
-b'<p>They\xe2\x80\x99ve made an unnecessary drama of it, one could argue, but that\xe2\x80\x99ll make progress taste all the sweeter! City are through, after a stunning late comeback against Bayern Munich, and a brilliant second-half performance at Roma. They\xe2\x80\x99re in the hat for the knockout stages, while Roma will have to settle for the Europa League. Richly deserved success for Manuel Pellegrini\xe2\x80\x99s side, who comprehensively won at the Stadio Olimpico tonight without their main man Sergio Aguero. Samir Nasri stepped up to the plate, with a scorching goal and an assist. So yes, perhaps this is the season City finally fall head over heels in love with the European Cup...</p>'

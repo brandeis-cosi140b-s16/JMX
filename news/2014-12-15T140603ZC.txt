@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/blog/live/2014/dec/15/champions-league-last-16-draw-live-webchat-barney-ronay'
-
-
-b'Champions League last-16 draw: webchat with Barney Ronay'
-
-
-b'<p>Barney has signed off. Thanks for reading and commenting.</p> <p>Here are some more things to read:</p> <p> \xe2\x80\xa2 Are Manchester United title contenders? The case for and against \xe2\x80\xa2 Europa League draw: Liverpool face Besiktas in last 32 \xe2\x80\xa2 Banning football fans from drinking alcohol in sight of the pitch is unfair </p> <p>Happy Monday.</p>    <div class="d2-comment-embedded" itemscope itemtype="http://schema.org/Comment"> <div class="d2-left-col">     Guardian staff </div> <div class="d2-right-col"> <div itemscope itemprop="author" itemtype="http://schema.org/Person">  BarneyR  </div> <div class="d2-permalink"> 15 December 2014 2:01pm </div> <div class="d2-body" itemprop="text"><p>That\'s the end of the webchat! Thanks for all your questions. It\'s an interesting draw. And remember - whatever happens in the spring it was all predicted with unerring accuracy to the very last goalscorer here.</p></div> </div> </div>  '

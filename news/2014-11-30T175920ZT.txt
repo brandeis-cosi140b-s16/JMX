@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/nov/30/tottenham-hotspur-v-everton-live'
-
-
-b'Tottenham Hotspur v Everton \xe2\x80\x93 as it happened'
-
-
-b'<p>Thanks all for your company and comments - bye. </p>'

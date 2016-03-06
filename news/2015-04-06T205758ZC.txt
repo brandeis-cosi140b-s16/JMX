@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/apr/06/crystal-palace-v-manchester-city-premier-league-live'
-
-
-b'Crystal Palace v Manchester City: Premier League \xe2\x80\x93 as it happened'
-
-
-b'<p>Anyway, that\xe2\x80\x99s about us - night-night. </p>'

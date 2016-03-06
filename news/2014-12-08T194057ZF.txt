@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/dec/08/fa-cup-third-round-draw-live'
-
-
-b'FA Cup: third-round draw \xe2\x80\x93 as it happened'
-
-
-b'<p>That\xe2\x80\x99s it from me. Thanks for reading and enjoy the FA Cup third round, which is only four weeks away! Bye.</p>'

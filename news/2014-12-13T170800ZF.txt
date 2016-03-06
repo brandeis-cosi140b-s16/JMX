@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/dec/13/football-clockwatch-premier-league-updates-latest-news-live'
-
-
-b'Football clockwatch: Premier League updates and latest news \xe2\x80\x93 as it happened'
-
-
-b'<p>Thanks for your company. Not the most sparky of Premier League afternoons, Burnley\xe2\x80\x99s win over Southampton perhaps making the biggest headlines. Fairly routine wins for Chelsea and Man City in the end, a good derby victory for West Brom over Villa and draws at Sunderland and Palace. Plenty of goals in the Championship, meanwhile, Bournemouth beating Cardiff 5-3 to top it.</p> <p>There\xe2\x80\x99ll be on-the-whistle match reports to savour on this website very shortly. And you can tuck into Nick Miller\xe2\x80\x99s MBM of Arsenal v Newcastle, too. That game start at 5.30, but Nick\xe2\x80\x99s already on it.</p> <p>Cheers, and I\xe2\x80\x99ll see you tomorrow for Manchester United v Liverpool \xe2\x80\x93 live!</p>'

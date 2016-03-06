@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/aug/24/sunderland-v-manchester-united-live'
-
-
-b'Sunderland v Manchester United \xe2\x80\x93 as it happened | Jacob Steinberg'
-
-
-b'<p>It\xe2\x80\x99s over. It\xe2\x80\x99s finally over. Thanks for reading. Bye.</p>'

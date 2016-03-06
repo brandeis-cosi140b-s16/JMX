@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/dec/20/football-clockwatch-premier-league-updates-latest-news-live'
-
-
-b'Football clockwatch: Premier League updates and latest news \xe2\x80\x93 live!'
-
-
-b'<p>And that\xe2\x80\x99s yer lot. Stick around for all the match reports, and we\xe2\x80\x99ll have LIVE! minute-by-minute coverage of the club World Cup final between Real Madrid and the Pope\xe2\x80\x99s boys, San Lorenzo, later on. Cheers. And sorry Blackpool fans.</p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/jan/06/everton-v-west-ham-fa-cup-live'
-
-
-b'Everton v West Ham: FA Cup \xe2\x80\x93 as it happened!'
-
-
-b'<p>A final email from Justin Kavanagh</p> <p>\xe2\x80\x9cClearly West Ham need to sign a holding midfielder. They\xe2\x80\x99re in Liverpool tonight. And Big Sam is the patron saint of resurrecting careers that look to be headed for the knackers\xe2\x80\x99 yard. I\xe2\x80\x99m just saying \xe2\x80\xa6\xe2\x80\x9d</p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/aug/30/premier-league-clockwatch-live'
-
-
-b'Premier League clockwatch \xe2\x80\x93\xc2\xa0as it happened'
-
-
-b'<p>That\xe2\x80\x99s all from me for this afternoon. Thanks for your time and your emails and remember that you can follow Scott Murray\xe2\x80\x99s minute-by-minute report of Everton v Chelsea by clicking on this link. I\xe2\x80\x99ll add links to the other match reports up above just as soon as they\xe2\x80\x99re ready for public consumption. Enjoy the rest of your weekend. </p>'

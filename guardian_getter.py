@@ -4,7 +4,7 @@ def tagChecker(dics):
     count = 0
     for d in dics:
         try:
-            if d['id']=='football/liverpool': #or d['id']=='football/liverpool' or d['id']=='football/tottenham-hotspur'
+            if d['id']=='football/chelsea': #or d['id']=='football/liverpool' or d['id']=='football/tottenham-hotspur'
                 count += 1
             if d['id']=='tone/matchreports':
                 count += 1
@@ -23,17 +23,17 @@ def getArticles(info, url, directory):
         else:
             for i in range(r.json()["response"]["pageSize"]):
                 print(i)
-                tag = r.json()["response"]["results"][i]["tags"]
-                if tagChecker(tag):
-                    continue
+                #tag = r.json()["response"]["results"][i]["tags"]
+                #if not tagChecker(tag):
+                    #continue
                 
                 pubdate = r.json()["response"]["results"][i]["webPublicationDate"]
                 pubdate = pubdate.replace(":", "")
                 pubdate = pubdate[:-1]
                 title = r.json()["response"]["results"][i]["webTitle"]
 
-                #if "match report" not in title or ("Chelsea" not in title and "Liverpool" not in title and "spur" not in title and "Tottenham" not in title):
-                    #continue
+                if ("Chelsea" not in title and "Liverpool" not in title and "spur" not in title and "Tottenham" not in title):
+                    continue
                 
                 title = title.replace(":", "")
                 title = title.replace("*", "")
@@ -65,7 +65,7 @@ def getArticles(info, url, directory):
 
 if __name__ == "__main__":
     info = {"api-key": "test",
-            "q": "match report AND Liverpool",#query
+            "q": "Chelsea OR Liverpool OR Tottenham OR Spur",#query
             "from-date": "2014-08-10",
             "to-date": "2015-05-31",
             "page-size": 200, #default to show 200 articles on each page
@@ -74,5 +74,5 @@ if __name__ == "__main__":
             "show-blocks": "all",
             "show-tags": "all"}
     url = "http://content.guardianapis.com/search"
-    directory = "C://Users//Xinhao//Desktop//matchreport&Liverpool"
+    directory = "C://Users//Xinhao//Desktop//titlewithCLT" #dir
     getArticles(info, url, directory)

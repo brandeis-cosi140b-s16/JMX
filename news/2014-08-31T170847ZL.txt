@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/aug/31/leicester-v-arsenal-premier-league-live'
-
-
-b'Leicester 1-1 Arsenal: Premier League \xe2\x80\x93 as it happened | Simon Burnton'
-
-
-b'<p>Anyway, that\xe2\x80\x99s all from me. Thanks for being there. Bye!</p>'

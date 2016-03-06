@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/sep/13/football-clockwatch-premier-league-updates-and-latest-news-live'
-
-
-b'Football clockwatch: Premier League updates and latest news \xe2\x80\x93 as it happened'
-
-
-b'<p>And that is that. Here are the full-time scores from the Premier League: </p> <p>Chelsea 4-2 SwanseaCrystal Palace 0-0 BurnleySouthampton 4-0 Newcastle Stoke 0-1 LeicesterSunderland 2-2 SpursWest Bromwich Albion 0-2 Everton</p> <p>That\xe2\x80\x99s all from me. Thanks for all the emails and tweets. Talk soon. Bye!</p>'

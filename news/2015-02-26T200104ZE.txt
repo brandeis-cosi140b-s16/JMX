@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/feb/26/europa-league-clockwatch-featuring-tottenham-and-celtic-live'
-
-
-b'Europa League clockwatch, featuring Tottenham and Celtic \xe2\x80\x93 as it happened!'
-
-
-b'<p>And that\xe2\x80\x99s it for me. Celtic battled bravely with 10 men but to no avail, while Tottenham looked to have one eye on Sunday\xe2\x80\x99s Capital One Cup final with Chelsea. </p> <p>The two Merseyside clubs offer the only British hope in the Europa League. </p> <p>Follow Liverpool\xe2\x80\x99s extra time with Paul Doyle here and Everton\xe2\x80\x99s second leg kicks off shortly with Nick Miller here. </p>'

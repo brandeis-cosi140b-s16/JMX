@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/dec/03/premier-league-clockwatch-live'
-
-
-b'Premier League clockwatch \xe2\x80\x93 as it happened'
-
-
-b' <li>Arsenal 1-0 Southampton</li> <li>Chelsea 3-0 Tottenham Hotspur</li> <li>Everton 1-1 Hull City</li> <li>Sunderland 1-4 Manchester City</li>  <p>At the top, Chelsea and City tear clear from defeated Southampton, while Arsenal move up to sixth. Meanwhile at the bottom, Hull leapfrog Burnley to escape the bottom three. And just in time, here\xe2\x80\x99s Kal Hodgson with his top five butties: \xe2\x80\x9cChip, Cheese, Crisp, Fish Finger, Egg. There\xe2\x80\x99s a lot of nonsense being talked here.\xe2\x80\x9d</p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2014/oct/10/belgium-eden-hazard-andorra-qualifier'
-
-
-b'Belgium rule Eden Hazard out of Andorra qualifier because of toe injury'
-
-
-b'<p>Eden Hazard will not play for Belgium in their Euro 2016 qualifier against Andorra on Friday because of a bruised toe, the manager Marc Wilmots confirmed on Twitter.</p> <p>The Chelsea midfielder\xe2\x80\x99s toe was \xe2\x80\x9cblue\xe2\x80\x9d at the beginning of the week, according to the Belgium manager, but his absence is understood to be a precautionary measure.</p> <p>Belgium travel to Bosnia-Herzegovina on Monday, where Hazard is expected to return.</p>'

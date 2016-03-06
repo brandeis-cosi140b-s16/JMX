@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/aug/23/premier-league-clockwatch-live'
-
-
-b'Premier League clockwatch \xe2\x80\x93\xc2\xa0as it happened'
-
-
-b'<p>Thanks for your company and emails, on an afternoon of few surprises, though Chelsea were made to work harder for their victory than might have been expected. Palace\xe2\x80\x99s gloom continued with a bad home defeat in a winnable game against West Ham and Swansea made it two wins out of two. In the Championship, it\xe2\x80\x99s looking good for Derby and Forest, and rather alarming for Fulham and Blackpool. But it\xe2\x80\x99s ridiculously early days yet.</p> <p>Now you can join Scott Murray for hot Everton v Arsenal MBM action. Bye.</p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/nov/01/bayern-munich-borussia-dortmund-live'
-
-
-b'Bayern Munich v Borussia Dortmund \xe2\x80\x93 as it happened'
-
-
-b'<p>Anyway, that\xe2\x80\x99s us done with Der Klassiker for this time. It did not disappoint. Perhaps this fixture really is carving out a legacy, a tradition. Certainly cannot wait until the rematch at Signal Iduna Park. Perhaps we\xe2\x80\x99ll meet again for that one, who knows? Either way, enjoy the rest of your weekend and thanks for your emails \xe2\x80\x93 even the pedantic ones. Cheerio.</p>'

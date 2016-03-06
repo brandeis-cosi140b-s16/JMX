@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2014/aug/26/milan-marco-van-ginkel-chelsea'
-
-
-b'Milan confident of signing Marco van Ginkel on loan from Chelsea'
-
-
-b'<p>Milan have emerged as leading candidates to sign Marco van Ginkel from Chelsea in a move which would solve the club\xe2\x80\x99s need to shed one foreign player from their squad to meet the maximum contingent of 17 for the Premier League.</p> <p>Van Ginkel, a 21-year-old midfielder, is likely to leave Stamford Bridge on loan for the season. Milan are understood to be confident of concluding a deal for the Dutchman.</p> <p>The Italian club are also expected to test Chelsea\xe2\x80\x99s resolve to keep Fernando Torres as they seek a striker to replace Mario Balotelli, who has joined Liverpool.</p> <p>Jos\xc3\xa9 Mourinho has insisted over recent days that Torres will not be leaving. The Chelsea manager\xe2\x80\x99s stance is unlikely to change unless his interest in Roma\xe2\x80\x99s forward Mattia Destro leads to the 23-year-old joining.</p> <p>That would seem unlikely given that Roma on Tuesday sold another of their leading players, the defender Mehdi Benatia, to Bayern Munich.</p>'

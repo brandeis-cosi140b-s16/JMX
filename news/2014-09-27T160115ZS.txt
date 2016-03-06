@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/sep/27/saturday-football-clockwatch-live'
-
-
-b'Saturday football clockwatch - as it happened'
-
-
-b'<p>And that\xe2\x80\x99s your lot from me, cheers for joining in, much appreciated. Apart from that haughty bloke, mind.</p> <p>There\xe2\x80\x99s still more, though - Arsenal v Spurs kicks off in about half an hour, and yer man Nick Ames is on the case. Follow his minute-by-minute report here.</p>'

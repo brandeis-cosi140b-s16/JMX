@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2015/feb/20/chelsea-burnley-match-preview'
-
-
-b'Chelsea v Burnley: match preview'
-
-
-b'<p>Jos\xc3\xa9 Mourinho will be supremely confident Chelsea can sweep Burnley aside and continue their march towards the Premier League title. Diego Costa returns to the starting lineup after suspension, which will strike fear into Burnley hearts. Sean Dyche, however, will remind his players of Bradford\xe2\x80\x99s unbelievable FA Cup upset at Stamford Bridge and will want them to reproduce that magic. Graham Searles</p> <p>Kick-off Saturday 3pm </p> <p>Venue Stamford Bridge</p> <p>Last season n/a</p> <p>Referee M Atkinson</p> <p>This season G21, Y88, R3, 4.3 cards per game</p> <p>Odds H 1-5 A 18-1 D 13-2</p>     Chelsea v Burnley\x08: probable starters in bold, contenders in light    Chelsea <p>Subs from Courtois, Blackman, Ak\xc3\xa9, Christensen, Cahill, Azpilicueta, Loftus-Cheek, Brown, Willian, Drogba, F\xc3\xa0bregas, R\xc3\xa9my</p> <p>Doubtful F\xc3\xa0bregas (illness), Oscar (illness), Willian (calf)</p> <p>Injured Mikel (knee, 1 Mar)</p> <p>Suspended None</p> <p>Form LWWDWW</p> <p>Discipline Y46 R2</p> <p>Leading scorer Costa 17</p> Burnley <p>Subs from Gilks, Ward, Vokes, Cisak, Jutkiewicz, Sordell, Duff, Reid, Wallace, Lafferty, O\xe2\x80\x99Neill</p> <p>Doubtful None</p> <p>Injured Taylor (achilles, 28 Feb), Long (knee, Aug), Marney (knee, Aug)</p> <p>Suspended None</p> <p>Form DWLLDL</p> <p>Discipline Y44 R0</p> <p>Leading scorer Ings 9</p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/may/16/premier-league-clockwatch-live'
-
-
-b'Premier League clockwatch - as it happened'
-
-
-b'<p>Right, that\xe2\x80\x99s it from me. Be sure to join Scott Murray for the day\xe2\x80\x99s main event \xe2\x80\x93 the Steven Gerrard Farewell To Anfield Gala Special \xe2\x80\x93 and stick around for all the reports and reaction from the 3pm kick-offs. But from me, cheerio!</p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/sep/20/qpr-v-stoke-city-premier-league-live'
-
-
-b'QPR v Stoke City: Premier League - as it happened | Scott Murray'
-
-
-b'<p>And that\xe2\x80\x99s that. Stoke really should be going home with all three points, but QPR battled well towards the end, and Kranjcar\xe2\x80\x99s stunning free kick earned a valuable point. A fine game of football. QPR now have four points on the board, Stoke are a wee bit further up the table with five.</p>'

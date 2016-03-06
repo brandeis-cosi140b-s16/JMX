@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/oct/18/atletico-madrid-v-espanyol-la-liga-live'
-
-
-b'Atl\xc3\xa9tico Madrid v Espanyol: La Liga \xe2\x80\x93 as it happened | Nick Miller'
-
-
-b'<p>Routine, you could probably call that. Not spectacular or really even terrifically impressive by any means, but very much a job done by Diego Simeone\xe2\x80\x99s men and a necessary recovery from their defeat last time out. They\xe2\x80\x99re fourth in the table, five points off Barcelona at the top of the table and just one back from Real.</p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/jan/24/fa-cup-africa-cup-of-nations-clockwatch-live'
-
-
-b'FA Cup and Africa Cup of Nations clockwatch \xe2\x80\x93 as it happened'
-
-
-b'<p>The final whistle blows in Malabo, bringing to an end both that game, and this Clockwatch. Cheers for being there with me, it\xe2\x80\x99s been memorable. Bye!</p>'

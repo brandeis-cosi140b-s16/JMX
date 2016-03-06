@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/dec/29/liverpool-v-swansea-city-premier-league-live'
-
-
-b'Liverpool v Swansea City: Premier League \xe2\x80\x93 as it happened | Jacob Steinberg'
-
-
-b'<p>Swansea City helped but Liverpool will be delighted with what may well have been their best performance since the win over Tottenham in August. Adam Lallana was the star with two goals and it\xe2\x80\x99s the first time they\xe2\x80\x99ve scored four in a single match since March. The victory takes them up to eighth place, above Swansea on goals scored and five points off fourth-placed Southampton. That\xe2\x80\x99s all from me. See you next year. Bye!</p>'

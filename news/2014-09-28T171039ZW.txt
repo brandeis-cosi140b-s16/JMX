@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/sep/28/west-bromwich-albion-v-burnley-premier-league-live'
-
-
-b'West Bromwich Albion v Burnley: Premier League \xe2\x80\x93 as it happened | Daniel Harris'
-
-
-b'<p>Anyway, that\xe2\x80\x99s more or less us. Thanks for your company and comments - bye. </p>'

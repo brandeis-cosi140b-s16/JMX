@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2015/apr/16/pfa-player-year-award-shortlist-costa-hazard-de-gea-kane-sanchez'
-
-
-b'PFA Player of the Year nominees: Costa, Coutinho, De Gea, Hazard, Kane, S\xc3\xa1nchez'
-
-
-b'<p>Diego Costa, Philippe Coutinho, David De Gea, Eden Hazard, Harry Kane and Alexis S\xc3\xa1nchez are the six players nominated for this year\xe2\x80\x99s Professional Footballers\xe2\x80\x99 Association\xe2\x80\x99s Players\xe2\x80\x99 Player of the Year award.</p> <p>Coutinho, De Gea, Hazard and Kane are also on the shortlist for the Young Player of the Year award, where they are joined by Thibaut Courtois and Raheem Sterling.</p> <p>Hazard is the only nominee from last year to make the shortlist for the senior award, which was won by Luis Su\xc3\xa1rez, while the Chelsea forward won the youth award.</p> <p>Eniola Aluko, Lucy Bronze, Karen Carney, Jess Clarke, Kelly Smith and Ji So-Yun are the nominees for the women\xe2\x80\x99s award, while Freda Ayisi, Hannah Blundell, Aoife Mannion, Nikita Parris, Amy Turner and England Under 19s penalty hero Leah Williamson make the shortlist for the youth award.</p> <p>The list was voted for by players from 100 clubs from the Premier League, Football League and Women\xe2\x80\x99s Super League.</p>'

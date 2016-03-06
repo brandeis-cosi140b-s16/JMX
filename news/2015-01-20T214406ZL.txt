@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/jan/20/liverpool-v-chelsea-capital-one-cup-semi-final-live'
-
-
-b'Liverpool v Chelsea: Capital One Cup semi-final \xe2\x80\x93 as it happened'
-
-
-b'<p>Post match blather: That was a fairly enjoyable match. Liverpool didn\xe2\x80\x99t half tear into Chelsea for the final 30 minutes, but were unable to get the winner they probably deserved. Steven Gerrard came closest with his shot off the wood-work. Thibaut Courtois was also forced into a wonderful save from Gerrard\xe2\x80\x99s replacement, Adam Lallana. At the other end, Chelsea boss Jose Mourinho has been handed more grist for his conspiracy theory mill by referee Martin Atkinson\xe2\x80\x99s refusal to give Diego Costa a penalty he probably deserved. After a decent game of football, this semi-final is nicely poised for next week\xe2\x80\x99s return leg. </p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/jan/21/transfer-news-live-january-window-updates'
-
-
-b'Transfer news: De Gea wants to stay at Manchester United \xe2\x80\x93 as it happened'
-
-
-b'<p>So, a quick summary of what\xe2\x80\x99s gone down today:</p>  <li>Arsenal have completed the signing of midfielder Krystian Bielik</li> <li>However, their bid to sign Gabriel Paulista from Villarreal may have hit a snag</li> <li>James Milner could be on his way out of Manchester City</li> <li>Chelsea are apparently in talks with Fiorentina over Juan Cuadrado</li> <li>Valencia are holding out for \xe2\x82\xac50m for Manchester United and Arsenal target Nicol\xc3\xa1s Otamendi.</li> <li>West Brom don\xe2\x80\x99t want to sell Saido Berahino</li> <li>Dani Osvaldo is AWOL from Inter</li> <li>Footballers go to loads of gigs</li>  <p>And with that, I\xe2\x80\x99m out. Cheers for reading and sharing. We\xe2\x80\x99ll be back same time tomorrow.</p>'

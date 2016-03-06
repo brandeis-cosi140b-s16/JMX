@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/oct/05/west-ham-v-qpr-live'
-
-
-b'West Ham 2-0 QPR \xe2\x80\x93 as it happened | Simon Burnton'
-
-
-b'<p>West Ham are officially the seventh best team in the entire nation tonight, and they have now kept their first clean sheet of the season as well. QPR\xe2\x80\x99s away record is abysmal, their home record not much better, and they are bottom of the Premier League tonight. This we know. </p> <p>But that was a terrible game of football, with both teams playing football of the kind of standard that will guarantee defeat most weeks in this division, the match marked by two imperfect goals and very little else. Forget it as best you can and move on with your life. Bye!</p>'

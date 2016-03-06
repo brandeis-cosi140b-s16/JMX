@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/dec/26/manchester-united-v-newcastle-live'
-
-
-b'Manchester United 3-1 Newcastle - as it happened'
-
-
-b'<p>Right, I\xe2\x80\x99m off to watch Arsenal play QPR. Follow it with me here. Bye!</p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/nov/29/sunderland-v-chelsea-premier-league-live'
-
-
-b'Sunderland v Chelsea: Premier League \xe2\x80\x93 as it happened'
-
-
-b'<p>Smashing performance from Sunderland, that. They were much the better side in the second half, and could - should - have scored at least once. Still, a splendid point for Gus Poyet, and an off-day for Fabregas. It\xe2\x80\x99s probably not a coincidence that when he didn\xe2\x80\x99t play well, neither did Chelsea.</p>'

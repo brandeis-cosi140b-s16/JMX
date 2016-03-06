@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/jan/28/transfer-news-latest-moves-live'
-
-
-b'Transfer news: Arsenal complete Gabriel deal \xe2\x80\x93 as it happened'
-
-
-b'<p>Right, let\xe2\x80\x99s have a little summary of what has happened today. Or not, as the case may be.</p>  <li>Arsenal have completed the signing of Gabriel from Villarreal</li> <li>Going the other way on loan is Joel Campbell, who has also signed a new contract with the Gunners</li> <li>Meanwhile, Mikel Arteta\xe2\x80\x99s agent claims the Spanish midfielder has signed a one-year extension to his contract at Arsenal</li> <li>Gareth Bale says he\xe2\x80\x99s happy at Real Madrid and can\xe2\x80\x99t picture joining Manchester United</li> <li>Crystal Palace look set to complete three signings, with Jordon Mutch and Pape Souare set to arrive, while negotiations also continue with Manchester United to bring Wilfried Zaha back permanently</li> <li>Newcastle look set to sign three teenagers, but are concerned that Moussa Sissoko may seek a move away this month</li> <li>West Brom have completed the signing of Callum McManaman from Wigan</li> <li>Ravel Morrison has been in Rome to complete the formalities ahead of a move to Lazio</li> <li>Jurgen Klopp is optimistic that Marco Reus will stay at Borussia Dortmund, despite their struggles this season</li> <li>AC Milan are working on the details to sign Matti Destro from Roma</li>  <p>And that\xe2\x80\x99ll do for the day. Cheers for reading, and we shall see you again tomorrow.</p>'

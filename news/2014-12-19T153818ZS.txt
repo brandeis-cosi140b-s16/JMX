@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2014/dec/19/stoke-city-chelsea-matc-preview'
-
-
-b'Stoke City v Chelsea: match preview'
-
-
-b'<p>Chelsea banished the memory of losing to Newcastle by comprehensively beating Hull 2-0 last weekend. Stoke City at the Britannia Stadium is an entirely different prospect though, as Arsenal found out recently. Jos\xc3\xa9 Mourinho\xe2\x80\x99s side can easily match Stoke\xe2\x80\x99s physical style and should have more than enough class to pick up a win and continue leading the Premier League in style. Graham Searles</p> <p>Kick-off Monday 8pm </p> <p>Venue Britannia Stadium</p> <p>Last season Stoke City 3 Chelsea 2</p> <p>Live Sky Sports 1</p> <p>Referee N Swarbrick</p> <p>This season G8, Y37, R1, 4.75 cards per game</p> <p>Odds H 11-2 A 8-13 D 31-10</p>     Stoke City v Chelsea: probable starters in bold, contenders in light    Stoke City <p>Subs from Butland, Huth, Muniesa, Adam, Cameron, Ireland, Arnautovic</p> <p>Doubtful Ireland (knee), Krkic (hip), Muniesa (hamstring)</p> <p>Injured Moses (thigh, Jan), Odemwingie (knee, Jun), Sidwell (knee, Jan), Teixiera (ankle, Jan)</p> <p>Suspended None</p> <p>Form WLLLWD</p> <p>Discipline Y36 R0</p> <p>Leading scorer Crouch 4</p> Chelsea <p>Subs from Cech, Schwarzer, Filipe Lu\xc3\xads, Ak\xc3\xa9, Zouma, Christensen, Mikel, R\xc3\xa9my, Drogba, Salah, Sch\xc3\xbcrrle, Ramires</p> <p>Doubtful None</p> <p>Injured None</p> <p>Suspended None</p> <p>Form WWDWLW</p> <p>Discipline Y36 R2</p> <p>Leading scorer Costa 12</p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/blog/live/2014/nov/26/champions-league-webchat-live-liverpool-ludogorets-arsenal-borussia-dortmund'
-
-
-b'Champions League webchat'
-
-
-b'<p>That\xe2\x80\x99s all folks. Andy is off to have some lunch. If you have already eaten, or would like to read while you knock back your lunch, here are some more stories we have published today:</p>  <li>Is Ag\xc3\xbcero deadlier than even Lionel Messi and Cristiano Ronaldo?</li> <li>Fan\xe2\x80\x99s view: Aston Villa have no plan, no direction and no leadership</li> <li>F\xc3\xa0bregas tells Ramos: \xe2\x80\x98If you have anything to say, say it to my face\xe2\x80\x99 </li>     <div class="d2-comment-embedded" itemscope itemtype="http://schema.org/Comment"> <div class="d2-left-col">     Guardian staff </div> <div class="d2-right-col"> <div itemscope itemprop="author" itemtype="http://schema.org/Person">  AndyHunter  </div> <div class="d2-permalink"> 26 November 2014 1:26pm </div> <div class="d2-body" itemprop="text"><p>Right, I\'m done. I\'ve not had anything to eat yet. Thanks for all your questions and apologies for not replying to them all. Tried to get through as many as possible. Cheers.</p></div> </div> </div>  '

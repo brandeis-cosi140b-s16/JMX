@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2015/jan/06/scunthorpe-chesterfield-fa-cup-third-round'
-
-
-b'Scunthorpe United 2-2 Chesterfield | FA Cup third round match report'
-
-
-b'<p>Chesterfield fought back from two goals down to secure a replay against Scunthorpe United \xe2\x80\x93 with a fourth-round tie at Derby County the prize for the eventual victors.</p> <p>Jay O\xe2\x80\x99Shea converted a cross with five minutes to go to make it 2\xe2\x80\x912 \xe2\x80\x93 14 minutes after Eoin Doyle had pulled a goal back from the penalty spot following a foul on Gary Roberts.</p> <p>The teams will replay at the Proact Stadium on Tuesday.</p> <p>Scunthorpe took the lead when the Chelsea loanee Alex Davey fired in from the edge of the box and after Lyle Taylor capitalised on an error from Ritchie Humphreys to make it 2-0, they looked on course to go through.</p> <p>However Chesterfield \xe2\x80\x93 who had to play and beat MK Dons twice to reach this stage after fielding an ineligible player \xe2\x80\x93 piled on the pressure and eventually found a way past the goalkeeper Sam Slocombe.</p>'

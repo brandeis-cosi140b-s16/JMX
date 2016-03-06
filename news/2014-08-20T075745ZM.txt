@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2014/aug/20/marcos-rojo-medical-manchester-united'
-
-
-b'Marcos Rojo arrives for medical before \xc2\xa316m Manchester United move'
-
-
-b'<p>Marcos Rojo is in Manchester to undergo a medical before completing his \xc2\xa316m move to Manchester United from Sporting Lisbon.</p> <p>The 24-year-old arrived late on Tuesday night, and the examination and the agreement of personal terms is expected to be a formality. Nani is joining Sporting on a season-long loan as part of the transfer.</p> <p>With Luke Shaw injured, Rojo may slot straight into Louis van Gaal\xe2\x80\x99s team for Sunday\xe2\x80\x99s trip to Sunderland, as he is a left-sided player who can play at left-back or as a central defender.</p> <p>Van Gaal\xe2\x80\x99s injury crisis \xe2\x80\x93 he had nine players unavailable due to injury or a lack of match fitness for the 2-1 defeat to Swansea at Old Trafford \xe2\x80\x93 shows little sign of easing as Marouane Fellaini has a suspected foot injury.</p> <p>This throws doubt on his prospective move to Napoli, with the midfielder pictured wearing a protective cast on his left foot having suffered the problem in training.</p> <p>With Michael Carrick out for at least two months due to an ankle issue, Fellaini\xe2\x80\x99s potential unavailability would leave Van Gaal with Tom Cleverley, Ander Herrera and Darren Fletcher as his only three senior central midfielders.</p>'

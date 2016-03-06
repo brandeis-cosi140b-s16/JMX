@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2015/may/24/radamel-falcao-david-de-gea-manchester-united-hull'
-
-
-b'Radamel Falcao and David de Gea out of Manchester United squad at Hull'
-
-
-b'<p>David de Gea and Radamel Falcao were not selected by Louis van Gaal in the Manchester United squad for Sunday\xe2\x80\x99s trip to Hull City, meaning each may have made their last appearance for the club.</p> <p>Van Gaal told MUTV that both players are injured but De Gea is yet to sign a new deal and is considering joining Real Madrid this summer while Falcao may not be retained when his season-long loan from Monaco expires. The Colombian striker is thought to have already been informed by Van Gaal that his services will not be required at Old Trafford next season.</p> <p>While his exit is yet to be confirmed if released Falcao would like to stay in the Premier League next season, with Chelsea and Arsenal his favoured destinations.</p> <p>Falcao was not known to be injured for a game Hull must win to have any chance of avoiding relegation, while De Gea pulled a hamstring towards the end of last weekend\xe2\x80\x99s 1-1 draw with Arsenal at Old Trafford.</p>'

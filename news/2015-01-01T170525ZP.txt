@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/jan/01/premier-league-clockwatch-live'
-
-
-b'Premier League clockwatch \xe2\x80\x93 as it happened'
-
-
-b'<p>Right, I\xe2\x80\x99m off. Thanks for all your emails and tweets. Enjoy this playful new year. And watch Birdman. Just do it. Now! </p>'

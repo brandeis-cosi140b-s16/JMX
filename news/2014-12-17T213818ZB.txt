@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2014/dec/17/bournemouth-v-liverpool-capital-one-cup-live'
-
-
-b'Bournemouth v Liverpool: Capital One Cup \xe2\x80\x93 as it happened'
-
-
-b'<p>Rodgers\xe2\x80\x99 team did what they had to do - and then some: they didn\xe2\x80\x99t merely avoid a confidence-sapping defeat, they strode into the League Cup semi-final with style. Granted, the opposition were from a division below but Bournemouth showed plenty of quality and Liverpool performed in a way that can let them believe they are getting back to what they want to be. It\xe2\x80\x99ll be interesting to see whether they still feel that way after the weekend\xe2\x80\x99s encounter with Arsenal ...</p>'

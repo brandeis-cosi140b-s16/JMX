@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/feb/28/saturday-clockwatch-premier-league-live'
-
-
-b'Saturday clockwatch: Premier League and more \xe2\x80\x93 live! | Nick Ames'
-
-
-b'<p>Anyway, I\xe2\x80\x99m not going to keep you hanging around for that Bournemouth score (still 0-0) for another 20 minutes. You can keep in touch with that, and check out the rest of the scores/results, here. That\xe2\x80\x99s it from me for today \xe2\x80\x93 thanks for your company and contributions, as ever, and keep your eye open for the live match reports that will start popping up on the homepage any moment. Cheers, and enjoy the rest of your weekend.</p>'

@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/2015/may/12/best-goals-week-memphis-depay-leo-messi-jermaine-beckford'
-
-
-b'The best goals of the week: Memphis Depay, Leo Messi and Jermaine Beckford'
-
-
-b'Jermaine Beckford (PRESTON NORTH END v Chesterfield)              Mich\xc3\xa9l Harrer (Havelse v VFR NUEMUNSTER)              Oscar (Recreativo de Huelva v REAL VALLADOLID)       <p>Ludovic Giuly (MONTS D\xe2\x80\x99OR AZERGUES v AS B\xc3\xa9ziers)</p>              <p>Minkyu Joo (Gyengnam v SEOUL E-LAND FC)</p>              Memphis Depay (PSV v Heracles)       Zlatko Junuzovic (Hannover 96 v WERDER BREMEN)              Maxwell (PARIS SAINT-GERMAIN v Guingamp)       Sanne Troelsgaard (KOLDINGQ v Fortuna Hjorring)              Jackson Mart\xc3\xadnez (PORTO v Gil Vicente)       Toni Duggan (MANCHESTER CITY WOMEN v Chelsea)              Thomas Sorum (FK Bodo/Glimt v STROMSGODSET)       Niv Zrian (FC ASHDOD v Hapoel Petah Tikva)              Lionel Messi (BARCELONA v Bayern Munich)       Zak Ansah (PLYMOUTH ARGYLE v Wycombe Wanderers)              <p>Johan Oremo (Helsingborg v GEFLE)</p>       <p>Keith O\xe2\x80\x99Sullivan (BUNRATTY UNITED U16s v Skibbereen) </p>            Djair Parfitt-Williams (WEST HAM U21s v Everton)         '

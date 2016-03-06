@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/feb/16/preston-north-end-v-manchester-united-fa-cup-live'
-
-
-b'Preston North End v Manchester United: FA Cup \xe2\x80\x93 live!'
-
-
-b'<p>Preston North End can be proud of their efforts tonight, but it wasn\xe2\x80\x99t quite enough. They had the lead, but perhaps they had it too early, because Manchester United\xe2\x80\x99s response to strong. While it\xe2\x80\x99s another game where they haven\xe2\x80\x99t impressed with their overall performance, they are into the quarter-finals. Next? A home tie against Arsenal. Thanks for reading and emailing tonight. Bye.</p>'

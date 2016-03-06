@@ -1,7 +1,0 @@
-b'http://www.theguardian.com/football/live/2015/apr/29/leicester-city-v-chelsea-premier-league-live'
-
-
-b'Leicester City v Chelsea: Premier League \xe2\x80\x93 as it happened'
-
-
-b'<p>Briefly it looked like Leicester\xe2\x80\x99s amazing run would continue and Chelsea\xe2\x80\x99s coronation would be delayed. But then reality, and Chelsea, bit back. A commanding fightback by the visitors was crowned by three second-half goals and that means that on Saturday Chelsea could claim the Premier League title by beating Crystal Palace at home. Leicester, meanwhile, must carry on fighting for survival: there was plenty in this performance to keep their belief alive. </p>'
