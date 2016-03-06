@@ -8,7 +8,7 @@
 <!ATTLIST Coref playerID CDATA #REQUIRED >
 
 <!ELEMENT Fact ( #PCDATA ) >
-<!ATTLIST Fact type ( goal | assist | pass | shot | move | position | substitute out | substitute in | injury | tackle | save ) #REQUIRED >
+<!ATTLIST Fact type ( goal | assist | pass | shot | movement | positioning | substitute out | substitute in | injury | tackle | save | foul ) #REQUIRED >
 <!ATTLIST Fact time ( distant past | last season | current season | last match | present | future ) #REQUIRED "last match" >
 <!ATTLIST Fact factID CDATA #REQUIRED >
 
