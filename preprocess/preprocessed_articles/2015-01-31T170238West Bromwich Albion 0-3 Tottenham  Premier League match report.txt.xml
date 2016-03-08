@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/jan/31/west-bromwich-albion-tottenham-hotspur-premier-league-match-report
+
+West Bromwich Albion 0-3 Tottenham | Premier League match report
+
+
+Harry Kane came out on top against Saido Berahino in the battle of the young England strikers as he became the first Tottenham Hotspur player to reach 20 goals in a season since Gareth Bale and helped Mauricio Pochettino’s team pull within two points of the top four in the Premier League.
+ 
+The Londoner scored twice in another excellent performance full of vim and invention and should be a shoo-in for a first senior call-up next month when England face Lithuania in a Euro 2016 qualifier, and Italy. .
+ 
+Tony Pulis said Berahino still has some way to go to match the appetite and the level that Kane has reached and this was clearly illustrated at The Hawthorns where the Spurs striker’s two goals made him the leading Premier League scorer in all competitions.
+ 
+Tottenham, who face Chelsea at Wembley on 1 March after surviving a scare at the hands of Sheffield United in the Capital One Cup semi-final on Wednesday, have now won six of their last eight Premier League games after they ended West Brom’s unbeaten start under Pulis.
+ 
+But if there is a good day to lose this may have been it for Albion. Five of their six rivals around them also suffered and even Sunderland winning could be deemed good news for those battling relegation because it meant defeat for Burnley.
+ 
+Hugo Lloris, the Spurs goalkeeper and captain, was outstanding in the spell after Christian Eriksen and Kane had presented West Brom with a two-goal deficit to chase and Mauricio Pochettino acknowledged his team had needed to start well.
+ 
+“After the semi-final against Sheffield United it was difficult but I think from the beginning we were aggressive and played well with and without the ball,” the Spurs manager said.
+ 
+He paid tribute not only to Kane’s goals and form but to his attitude. “His was a great performance and whenever a striker scores goals it is good for the team,” Pochettino said. “My focus is always that a player can improve –he is young and they need to show that they want to improve.
+ 
+“You can never stop your improvement but it was not only him, all the players showed character.”
+ 
+He refused to look too far ahead, to the possibility of qualifying for the Champions League.
+ 
+“If we show like we show today, this performance, maybe we have the possibility to get there but we need to be consistent from here to the end of the season.”
+ 
+Spurs came from 3-0 down to gain a point at The Hawthorns last season but they did not have to work very hard to gain a two-goal advantage.
+ 
+Pulis has been rebuilding this West Brom side on a “brutal” regime of hard work but the manner in which they capitulated in the opening quarter of an hour made it look as if they had decided to have a day off.
+  
+ Related: Crystal Palace 0-1 Everton | Premier League match report 
+   
+With a copy of the goal he scored at Bramall Lane in midweek to clinch Spurs’ 3-2 aggregate win in the semi-final, Eriksen curled a free-kick into the top corner in the sixth minute after Claudio Yacob had fouled Moussa Dembélé. Then before West Brom had mustered so much as an attack Kane, receiving Dembélé’s pass out wide, stepped inside Andre Wisdom with ease before smacking his shot beyond Ben Foster.
+ 
+West Brom, seeking to extend a five-game unbeaten sequence since Alan Irvine’s departure, rallied and had Hugo Lloris not been in such brilliant form they could have regained a foothold in the match.
+ 
+But Lloris tipped over James Morrison’s exquisite chip and parried Yacob’s close-range effort before Craig Dawson headed against the crossbar.
+ 
+When Kevin Friend adjudged that Joleon Lescott had deliberately handballed as he slid to block Kyle Walker’s cross on the overlap, the home side knew this was not going to be their day. Kane dispatched the penalty with his customary confidence.
+ 
+West Brom went for broke, introducing Brown Ideye into a three-pronged attack, but Craig Gardner struck an effort against the post as Spurs held firm.
+ 
+“We started sloppy,” Pulis said, “and handed them a two-goal lead. We needed a goal but their keeper was absolutely fantastic. If we’d got a goal before half-time it would have given us a lift.”
+  
+ Related: Manchester United 3-1 Leicester City | Premier League match report 
+ 
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="183~193" text="Harry Kane" playerID="null" />
+<Player id="P1" spans="218~232" text="Saido Berahino" playerID="null" />
+<Player id="P2" spans="707~715" text="Berahino" playerID="null" />
+<Player id="P3" spans="782~786" text="Kane" playerID="null" />
+<Player id="P4" spans="1466~1477" text="Hugo Lloris" playerID="null" />
+<Player id="P5" spans="1548~1565" text="Christian Eriksen" playerID="null" />
+<Player id="P6" spans="1570~1574" text="Kane" playerID="null" />
+<Player id="P7" spans="1918~1922" text="Kane" playerID="null" />
+<Player id="P8" spans="3076~3083" text="Eriksen" playerID="null" />
+<Player id="P9" spans="3149~3162" text="Claudio Yacob" playerID="null" />
+<Player id="P10" spans="3174~3188" text="Moussa Dembélé" playerID="null" />
+<Player id="P11" spans="3246~3250" text="Kane" playerID="null" />
+<Player id="P12" spans="3262~3269" text="Dembélé" playerID="null" />
+<Player id="P13" spans="3302~3314" text="Andre Wisdom" playerID="null" />
+<Player id="P14" spans="3357~3367" text="Ben Foster" playerID="null" />
+<Player id="P15" spans="3477~3488" text="Hugo Lloris" playerID="null" />
+<Player id="P16" spans="3577~3583" text="Lloris" playerID="null" />
+<Player id="P17" spans="3596~3610" text="James Morrison" playerID="null" />
+<Player id="P18" spans="3640~3645" text="Yacob" playerID="null" />
+<Player id="P19" spans="3674~3686" text="Craig Dawson" playerID="null" />
+<Player id="P20" spans="3750~3764" text="Joleon Lescott" playerID="null" />
+<Player id="P21" spans="3813~3824" text="Kyle Walker" playerID="null" />
+<Player id="P22" spans="3904~3908" text="Kane" playerID="null" />
+<Player id="P23" spans="4003~4008" text="Brown" playerID="null" />
+<Player id="P24" spans="4003~4014" text="Brown Ideye" playerID="null" />
+<Player id="P25" spans="4048~4061" text="Craig Gardner" playerID="null" />
+<Coref id="C0" spans="280~282" text="he" playerID="null" />
+<Coref id="C1" spans="1669~1672" text="his" playerID="null" />
+<Coref id="C2" spans="1890~1892" text="He" playerID="null" />
+<Coref id="C3" spans="1947~1950" text="his" playerID="null" />
+<Coref id="C4" spans="1962~1965" text="His" playerID="null" />
+<Coref id="C5" spans="2116~2118" text="he" playerID="null" />
+<Coref id="C6" spans="2278~2280" text="He" playerID="null" />
+<Coref id="C7" spans="2985~2987" text="he" playerID="null" />
+<Coref id="C8" spans="3341~3344" text="his" playerID="null" />
+<Coref id="C9" spans="3796~3798" text="he" playerID="null" />
+<Coref id="C10" spans="3937~3940" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

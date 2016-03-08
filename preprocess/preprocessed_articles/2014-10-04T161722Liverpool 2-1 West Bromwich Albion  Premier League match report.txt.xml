@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/oct/04/liverpool-west-bromwich-albion-premier-league-match-report
+
+Liverpool 2-1 West Bromwich Albion | Premier League match report
+
+
+Adam Lallana scored his first goal since his move from Southampton, to set Liverpool on the road to victory against West Bromwich Albion, not the most convincing of victories, as it happens, but Anfield was glad of it just the same. Albion came to Merseyside having won their past three games, form that Liverpool, at the moment, can only dream about.
+ 
+Brendan Rodgers had responded to a fourth Liverpool defeat in the opening nine games by dropping Mario Balotelli and Lazar Markovic to the bench, the former carrying the can – a little unfairly – for a poor overall team performance in Basel, the latter having failed to make a significant impression on English football since signing from Benfica.
+ 
+If the idea was to energise Liverpool and bring back some of the quick-fire confidence of last season, it was not a complete success. Rickie Lambert did not really step up to the plate as line leader in Balotelli’s absence, failing to connect with an early cross from Lallana, and too often finding his first touch letting him down. The former Southampton striker did bring the first save of the game from Ben Foster, midway through the first half, after neatly controlling a searching pass from Martin Skrtel, though – when he took too long over his next penalty-area opportunity, and saw the chance disappear – it was hard to see how Lambert was bringing any more mobility to the Liverpool attack than Balotelli.
+ 
+A lack of meaningful movement seems to be Liverpool’s problem at present. Raheem Sterling and Philippe Coutinho kept getting caught in possession, and though Jordan Henderson was promoted to a more forward role, there were still very few occasions when the home side got runners beyond the West Brom back line.
+              
+Having started quite cautiously, the visitors gradually worked their way into the game, and were arguably getting on top by the end of the first half, when Liverpool took the lead. Saido Berahino brought a save from Simon Mignolet after Javier Manquillo inexplicably gave the ball away on half way, and might have done better with a free header from Sébastien Pocognoli’s cross, three minutes before the interval, than put it wide.
+ 
+Yet, just as West Brom were taking heart from keeping Liverpool scoreless and looking forward to the break, the home side conjured an attack down the left that was out of keeping with their sluggish first-half performance.
+ 
+Henderson farmed the ball out to Lallana, who skipped easily into the penalty area to place a shot across Foster and into the far corner. All of West Brom’s hard work was undone at a stroke and Liverpool had a lead that – while not exactly undeserved – was something of an unexpected bonus at the end of a laboured first half.
+ 
+West Brom are no pushovers under Alan Irvine, however, and came out for the second half showing just as much self belief. The penalty Dejan Lovren conceded to allow them back into the game was unnecessary and, quite possibly, outside the box, too, though the fact that the centre half had to stretch to prevent Berahino reaching Stéphane Sessègnon’s pass on the edge of the area showed the visitors were looking for a way back into the game.
+ 
+Berahino equalised confidently from the spot, though parity only lasted for four minutes. Liverpool might have had a penalty at the other end when Craig Gardner climbed all over Sterling, but the referee was either unmoved or played a good advantage. The ball came back to Henderson, who calmly sidefooted through a crowd of players to restore Liverpool’s lead.
+ 
+With Balotelli already on for the last half hour, the stage was set for Liverpool to put the game to bed and possibly score a few more confidence-boosting goals in the process, yet things are just not happening for them as smoothly this season as they did last. When Balotelli sent Sterling clear on goal with a precisely timed pass, the England player popped up in the right place and showed all the necessary acceleration, only to see the chance go begging when an unwanted touch showed too much of the ball to the goalkeeper. Something similar occurred in Switzerland, so either Liverpool’s luck is out, or it is just Sterling going through a rough patch.
+ 
+The grandstand finish never arrived. While Balotelli and Steven Gerrard both saw shots saved before the end, West Brom refused to collapse, and the score remained the same. 
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="175~187" text="Adam Lallana" playerID="null" />
+<Player id="P1" spans="626~641" text="Mario Balotelli" playerID="null" />
+<Player id="P2" spans="646~660" text="Lazar Markovic" playerID="null" />
+<Player id="P3" spans="1013~1027" text="Rickie Lambert" playerID="null" />
+<Player id="P4" spans="1082~1091" text="Balotelli" playerID="null" />
+<Player id="P5" spans="1147~1154" text="Lallana" playerID="null" />
+<Player id="P6" spans="1285~1295" text="Ben Foster" playerID="null" />
+<Player id="P7" spans="1375~1388" text="Martin Skrtel" playerID="null" />
+<Player id="P8" spans="1515~1522" text="Lambert" playerID="null" />
+<Player id="P9" spans="1583~1592" text="Balotelli" playerID="null" />
+<Player id="P10" spans="1670~1685" text="Raheem Sterling" playerID="null" />
+<Player id="P11" spans="1699~1707" text="Coutinho" playerID="null" />
+<Player id="P12" spans="1754~1770" text="Jordan Henderson" playerID="null" />
+<Player id="P13" spans="2103~2117" text="Saido Berahino" playerID="null" />
+<Player id="P14" spans="2138~2152" text="Simon Mignolet" playerID="null" />
+<Player id="P15" spans="2159~2175" text="Javier Manquillo" playerID="null" />
+<Player id="P16" spans="2272~2291" text="Sébastien Pocognoli" playerID="null" />
+<Player id="P17" spans="2581~2590" text="Henderson" playerID="null" />
+<Player id="P18" spans="2614~2621" text="Lallana" playerID="null" />
+<Player id="P19" spans="2687~2693" text="Foster" playerID="null" />
+<Player id="P20" spans="3044~3056" text="Dejan Lovren" playerID="null" />
+<Player id="P21" spans="3221~3229" text="Berahino" playerID="null" />
+<Player id="P22" spans="3239~3257" text="Stéphane Sessègnon" playerID="null" />
+<Player id="P23" spans="3354~3362" text="Berahino" playerID="null" />
+<Player id="P24" spans="3501~3514" text="Craig Gardner" playerID="null" />
+<Player id="P25" spans="3532~3540" text="Sterling" playerID="null" />
+<Player id="P26" spans="3627~3636" text="Henderson" playerID="null" />
+<Player id="P27" spans="3723~3732" text="Balotelli" playerID="null" />
+<Player id="P28" spans="3985~3994" text="Balotelli" playerID="null" />
+<Player id="P29" spans="4000~4008" text="Sterling" playerID="null" />
+<Player id="P30" spans="4339~4347" text="Sterling" playerID="null" />
+<Player id="P31" spans="4422~4431" text="Balotelli" playerID="null" />
+<Player id="P32" spans="4436~4450" text="Steven Gerrard" playerID="null" />
+<Coref id="C0" spans="195~198" text="his" playerID="null" />
+<Coref id="C1" spans="216~219" text="his" playerID="null" />
+<Coref id="C2" spans="1178~1181" text="his" playerID="null" />
+<Coref id="C3" spans="1404~1406" text="he" playerID="null" />
+<Coref id="C4" spans="1426~1429" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

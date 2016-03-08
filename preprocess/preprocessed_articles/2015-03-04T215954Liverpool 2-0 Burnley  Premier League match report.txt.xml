@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/mar/04/liverpool-burnley-premier-league-match-report
+
+Liverpool 2-0 Burnley | Premier League match report
+
+
+Brendan Rodgers denies it is a foregone conclusion that Jordan Henderson will be promoted from vice- to club captain when Steven Gerrard heads for Los Angeles this summer. Liverpool’s deputy, however, is compiling a strong case while the Anfield judge considers his options.
+ 
+Henderson followed his sublime opener against Manchester City on Sunday with another fine 20-yard goal to puncture a determined display by Burnley at Anfield. Not even Philippe Coutinho could eclipse the midfielder on this occasion and the 25-year-old embellished his night’s work by creating the second goal for Daniel Sturridge. Scored one, made one; and Liverpool required a captain’s performance from Henderson, with Sean Dyche’s men proving predictably obstinate opponents. Burnley have the character to fight for Premier League survival. Liverpool have the class and confidence of Champions League place contenders.
+ 
+“Jordan is improving all the time,” said Rodgers, who argued Liverpool’s display was on a par with the win against City in terms of defensive organisation and professionalism. “As he matures he will be even better tactically. It was a terrific strike for the goal and he showed great technique and precision for the second. He is becoming one of the real leaders of this team.”
+ 
+Whether that is enough to succeed Gerrard as captain remains to be seen and the impasse over a new contract for Henderson, who enters the final 12 months of his current deal this summer, does not help his cause. Maybe that explains Rodgers’ reticence over Liverpool’s next captain. Beyond doubt is the momentum behind Liverpool’s push for the top four, with 29 points now taken from the last 33 available after breaking down Burnley’s resistance.
+ 
+The recalled Sturridge tested Tom Heaton in the Burnley goal after 25 seconds and while that marked the start of a high-tempo contest it was not the signal for Liverpool to dominate against relegation-threatened visitors. Dyche’s side made life difficult until Henderson’s opener in the 29th minute by employing the same high-pressing tactics that Rodgers used to telling effect against the Premier League champions. The number of chances they created regardless was a measure of Liverpool’s quality.
+ 
+Henderson headed over from a Coutinho corner and forced Heaton into another decent save low to his left from the edge of the area. Michael Keane almost gifted Sturridge an opener with a weak header from Emre Can’s deflected shot but Heaton gathered just in time. The keeper was given no chance when Liverpool’s captain for the night reprised his breakthrough act from the City game.
+ 
+Coutinho was under close scrutiny all night but managed to cut inside from the left and evade two Burnley players before his shot was blocked by a third. The rebound bounced towards Henderson on the edge of the area and, having adjusted his body shape to get behind the ball, the midfielder sent an unstoppable half-volley swerving away from Heaton’s grasp and into the Kop goal.
+ 
+Joe Allen and Coutinho went close to doubling Liverpool’s lead from distance and Sturridge had the best opportunity for a second when played clear by a deft pass from the Brazilian midfielder. His low, left-foot effort was well saved by the Burnley keeper. His opposite number, Simon Mignolet, was tested only once before the interval and dealt comfortably with Ashley Barnes’ header from Kieran Trippier’s free-kick.
+ 
+The threat level from Burnley did increase but, unfortunately for Dyche, only after Sturridge had extended Liverpool’s advantage. This time Henderson turned creator, finding space in central midfield to float an inch-perfect cross over the visitors’ defence. Sturridge read the midfielder’s intentions expertly and peeled away from his marker to steer a fine header inside Heaton’s right-hand post. It was the England international’s 10th goal in his last 11 Premier League starts at Anfield and the 17th headed goal that Burnley have conceded this season, the most in the top flight.
+ 
+“They are an expensively assembled side with top-class players who have found their form and belief,” said Dyche. “That was a different side to what we faced on Boxing Day. It is possibly too late for this season but if they carry on like that they will be up there next season.”
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="205~221" text="Jordan Henderson" playerID="null" />
+<Player id="P1" spans="271~285" text="Steven Gerrard" playerID="null" />
+<Player id="P2" spans="426~435" text="Henderson" playerID="null" />
+<Player id="P3" spans="603~611" text="Coutinho" playerID="null" />
+<Player id="P4" spans="739~755" text="Daniel Sturridge" playerID="null" />
+<Player id="P5" spans="831~840" text="Henderson" playerID="null" />
+<Player id="P6" spans="1464~1471" text="Gerrard" playerID="null" />
+<Player id="P7" spans="1542~1551" text="Henderson" playerID="null" />
+<Player id="P8" spans="1892~1901" text="Sturridge" playerID="null" />
+<Player id="P9" spans="1909~1919" text="Tom Heaton" playerID="null" />
+<Player id="P10" spans="2140~2149" text="Henderson" playerID="null" />
+<Player id="P11" spans="2382~2391" text="Henderson" playerID="null" />
+<Player id="P12" spans="2411~2419" text="Coutinho" playerID="null" />
+<Player id="P13" spans="2438~2444" text="Heaton" playerID="null" />
+<Player id="P14" spans="2513~2526" text="Michael Keane" playerID="null" />
+<Player id="P15" spans="2541~2550" text="Sturridge" playerID="null" />
+<Player id="P16" spans="2585~2593" text="Emre Can" playerID="null" />
+<Player id="P17" spans="2615~2621" text="Heaton" playerID="null" />
+<Player id="P18" spans="2767~2775" text="Coutinho" playerID="null" />
+<Player id="P19" spans="2949~2958" text="Henderson" playerID="null" />
+<Player id="P20" spans="3109~3115" text="Heaton" playerID="null" />
+<Player id="P21" spans="3149~3158" text="Joe Allen" playerID="null" />
+<Player id="P22" spans="3163~3171" text="Coutinho" playerID="null" />
+<Player id="P23" spans="3230~3239" text="Sturridge" playerID="null" />
+<Player id="P24" spans="3427~3441" text="Simon Mignolet" playerID="null" />
+<Player id="P25" spans="3511~3524" text="Ashley Barnes" playerID="null" />
+<Player id="P26" spans="3538~3553" text="Kieran Trippier" playerID="null" />
+<Player id="P27" spans="3653~3662" text="Sturridge" playerID="null" />
+<Player id="P28" spans="3709~3718" text="Henderson" playerID="null" />
+<Player id="P29" spans="3828~3837" text="Sturridge" playerID="null" />
+<Player id="P30" spans="3942~3948" text="Heaton" playerID="null" />
+<Coref id="C0" spans="411~414" text="his" playerID="null" />
+<Coref id="C1" spans="445~448" text="his" playerID="null" />
+<Coref id="C2" spans="690~693" text="his" playerID="null" />
+<Coref id="C3" spans="1230~1232" text="he" playerID="null" />
+<Coref id="C4" spans="1241~1243" text="he" playerID="null" />
+<Coref id="C5" spans="1318~1320" text="he" playerID="null" />
+<Coref id="C6" spans="1374~1376" text="He" playerID="null" />
+<Coref id="C7" spans="1587~1590" text="his" playerID="null" />
+<Coref id="C8" spans="1631~1634" text="his" playerID="null" />
+<Coref id="C9" spans="2477~2480" text="his" playerID="null" />
+<Coref id="C10" spans="2724~2727" text="his" playerID="null" />
+<Coref id="C11" spans="2888~2891" text="his" playerID="null" />
+<Coref id="C12" spans="3004~3007" text="his" playerID="null" />
+<Coref id="C13" spans="3342~3345" text="His" playerID="null" />
+<Coref id="C14" spans="3406~3409" text="His" playerID="null" />
+<Coref id="C15" spans="3901~3904" text="his" playerID="null" />
+<Coref id="C16" spans="4016~4019" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

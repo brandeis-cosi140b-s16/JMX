@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/dec/06/tottenham-hotspur-crystal-palace-premier-league-match-report
+
+Tottenham 0-0 Crystal Palace | Premier League match report
+
+
+The person whose job it was to operate the big screen at White Hart Lane was busy here. On three occasions in the first half, he or she pressed the button to roll out the latest scores from elsewhere and, wouldn’t you know it, the updates came after each of Stoke City’s goals against Arsenal.
+ 
+The situation became even more laughable when Bojan Krkic thought he had put Stoke 4-0 up in the second half. Almost immediately, Stoke 4-0 Arsenal scrolled along the bottom of the screen, to great cheers from the home support. The only trouble was that the goal was disallowed. There was no subsequent correction, nor any mention of the Arsenal goals that followed.
+ 
+The reason for mentioning all of this was that there was precious little for Tottenham fans to cheer about their own team’s performance. They failed to extend the Crystal Palace goalkeeper, Julián Speroni, and the feelgood factor of the previous game here, when Everton were beaten after a high-tempo display, felt like a distant memory. It was all desperately ponderous and the scale of the challenge that Mauricio Pochettino faces to revive this club remains clear.
+ 
+Palace deserved to win, and they would have done but for Hugo Lloris, who made wonderful saves to deny Scott Dann and Yannick Bolasie. The substitute Jason Puncheon rattled the crossbar and the visitors created other, presentable opportunities, particularly for Joe Ledley. There was a cut and thrust about Palace, to go with their commitment and organisation, and Neil Warnock described the performance as the “most complete” of the season.
+ 
+He singled out everybody for praise afterwards, apart from Speroni, because he was such a peripheral figure, and the manager gave special mention to the centre-forward, Marouane Chamakh, who he felt had typified Palace’s industry. Most observers had the wingers, Bolasie, Wilfried Zaha and Puncheon, down as the star turns, with each of them providing moments to draw the breath. It spoke volumes that Warnock could be disappointed with the point.
+ 
+“The game was there to be won,” he said. “It’s so frustrating. I also said that if they didn’t get a result today, they could not go on their Christmas party. I have allowed the party to go ahead.”
+ 
+Palace’s players could enjoy their night out but for Tottenham there was a return to the familiar pursuit of soul-searching. It was an afternoon when they had to assert themselves, both mentally and physically, and they failed. It has become a recurring problem at their own stadium against opponents that sit further down the division. The flaw in their mentality is stark.
+ 
+Pochettino complained about his players’ “lack of freshness”, possibly as a result of having played three times in seven days and he voiced his unhappiness at the collective display, although he had to admit that it could have been worse. “Yes,” the manager said. “Lloris made two big saves.” Pochettino was also narked to be asked about Emmanuel Adebayor, who was missing once again because of illness. “I answered that in my press conference on Friday,” he said.
+ 
+Palace called the tune at the outset, with Bolasie tormenting the Tottenham right-back, Eric Dier. He wowed the crowd when he pirouetted, flicked the ball up, span and raced away from Christian Eriksen in one fluid movement. From the subsequent cut-back, Ledley shot high.
+ 
+By then, Ryan Mason had almost headed into his own net following a Palace corner while, on 27 minutes, Dann headed goalwards only for Lloris to thwart him at full stretch. There was also the flash from Zaha when he blitzed past Dier in a blur of quick feet and curled wide of the far post.
+ 
+Tottenham laboured, with Erik Lamela enduring a personal nightmare and being withdrawn at half-time. Roberto Soldado scooped a good chance over the crossbar in the first half and he lashed wide on 64 minutes from Eriksen’s pass. He had to do better.
+ 
+Palace sparked in the closing stages. Puncheon hit the woodwork; he teed up Bolasie, who drew a wonderful save from Lloris and Ledley burst through to shoot off-target. That was the trigger for boos from the home fans. There would be more of them at full-time.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="234~238" text="Hart" playerID="null" />
+<Player id="P1" spans="513~524" text="Bojan Krkic" playerID="null" />
+<Player id="P2" spans="1026~1040" text="Julián Speroni" playerID="null" />
+<Player id="P3" spans="1363~1374" text="Hugo Lloris" playerID="null" />
+<Player id="P4" spans="1409~1419" text="Scott Dann" playerID="null" />
+<Player id="P5" spans="1424~1439" text="Yannick Bolasie" playerID="null" />
+<Player id="P6" spans="1456~1470" text="Jason Puncheon" playerID="null" />
+<Player id="P7" spans="1568~1578" text="Joe Ledley" playerID="null" />
+<Player id="P8" spans="1809~1816" text="Speroni" playerID="null" />
+<Player id="P9" spans="1919~1935" text="Marouane Chamakh" playerID="null" />
+<Player id="P10" spans="2013~2020" text="Bolasie" playerID="null" />
+<Player id="P11" spans="2022~2035" text="Wilfried Zaha" playerID="null" />
+<Player id="P12" spans="2040~2048" text="Puncheon" playerID="null" />
+<Player id="P13" spans="3042~3048" text="Lloris" playerID="null" />
+<Player id="P14" spans="3115~3132" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P15" spans="3287~3294" text="Bolasie" playerID="null" />
+<Player id="P16" spans="3332~3341" text="Eric Dier" playerID="null" />
+<Player id="P17" spans="3428~3445" text="Christian Eriksen" playerID="null" />
+<Player id="P18" spans="3499~3505" text="Ledley" playerID="null" />
+<Player id="P19" spans="3528~3538" text="Ryan Mason" playerID="null" />
+<Player id="P20" spans="3622~3626" text="Dann" playerID="null" />
+<Player id="P21" spans="3653~3659" text="Lloris" playerID="null" />
+<Player id="P22" spans="3721~3725" text="Zaha" playerID="null" />
+<Player id="P23" spans="3747~3751" text="Dier" playerID="null" />
+<Player id="P24" spans="3841~3847" text="Lamela" playerID="null" />
+<Player id="P25" spans="3912~3927" text="Roberto Soldado" playerID="null" />
+<Player id="P26" spans="4024~4031" text="Eriksen" playerID="null" />
+<Player id="P27" spans="4101~4109" text="Puncheon" playerID="null" />
+<Player id="P28" spans="4139~4146" text="Bolasie" playerID="null" />
+<Player id="P29" spans="4179~4185" text="Lloris" playerID="null" />
+<Player id="P30" spans="4190~4196" text="Ledley" playerID="null" />
+<Coref id="C0" spans="297~299" text="he" playerID="null" />
+<Coref id="C1" spans="533~535" text="he" playerID="null" />
+<Coref id="C2" spans="1750~1752" text="He" playerID="null" />
+<Coref id="C3" spans="1826~1828" text="he" playerID="null" />
+<Coref id="C4" spans="1941~1943" text="he" playerID="null" />
+<Coref id="C5" spans="2232~2234" text="he" playerID="null" />
+<Coref id="C6" spans="2805~2808" text="his" playerID="null" />
+<Coref id="C7" spans="2907~2909" text="he" playerID="null" />
+<Coref id="C8" spans="2917~2920" text="his" playerID="null" />
+<Coref id="C9" spans="2969~2971" text="he" playerID="null" />
+<Coref id="C10" spans="3233~3235" text="he" playerID="null" />
+<Coref id="C11" spans="3343~3345" text="He" playerID="null" />
+<Coref id="C12" spans="3367~3369" text="he" playerID="null" />
+<Coref id="C13" spans="3562~3565" text="his" playerID="null" />
+<Coref id="C14" spans="3731~3733" text="he" playerID="null" />
+<Coref id="C15" spans="3990~3992" text="he" playerID="null" />
+<Coref id="C16" spans="4040~4042" text="He" playerID="null" />
+<Coref id="C17" spans="4128~4130" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

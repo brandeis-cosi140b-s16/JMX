@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/may/10/chelsea-liverpool-premier-league-match-report
+
+Chelsea 1-1 Liverpool | Premier League match report
+
+
+For Liverpool, the game is up. An afternoon which had begun with a grudging show of respect for the newly crowned Premier League champions, the visitors lining up along either side of a blue carpet to form a guard of honour as Chelsea trooped triumphantly into the arena, ended with Champions League football effectively out of their reach. Given the constant and bellowed reminders of the destiny of this season’s title, this was a galling occasion for those in red.
+ 
+The deficit from the top four has been extended to six points with two games to play, and goal difference counting horribly against them. As “outstanding” as Brendan Rodgers insisted his team were after the interval, this performance failed to yield the victory which would have preserved those fading chances. Instead, the talk in the aftermath was of a “big summer ahead” when shrewd recruitment, and presumably plenty of persuasion if key targets are to be secured, will be required if their challenge is to prove more persuasive next year. A Europa League campaign most likely awaits, and that will create its own disruption.
+ 
+In truth Liverpool, as the team with something at stake, had felt the more threatening of the sides on show with Chelsea, as José Mourinho conceded, struggling throughout to generate proper intensity to their approach having already secured the campaign’s most glittering prize. Yet, for all that Raheem Sterling, Jordan Ibe and the league debutant, Jerome Sinclair, buzzed disconcertingly in enemy territory, supplied by the elusive Philippe Coutinho, the visitors lacked the quality to prevail. The Brazilian saw a late shot deflected off Gary Cahill to wrong-foot Thibaut Courtois for a split second, though the chance played out in slow motion and the goalkeeper was able to flop down on the loose ball. It all rather summed up Liverpool’s season, a campaign when the goals of Luis Suárez and Daniel Sturridge have been so sorely missed. They lacked bite here to inflict proper wounds.
+ 
+The goals that were mustered in a disjointed contest were supplied by the old guard. John Terry’s opener had been thumped in early, Cesc Fàbregas’s corner veering into the penalty area for the centre-half to rise too easily above Rickie Lambert and plant a header down and beyond Simon Mignolet and Steven Gerrard on the goal-line. The goal was Terry’s 39th in the Premier League, establishing him as the highest scoring defender in the revamped top flight.
+ 
+Liverpool complained, with some justification, that his supplier should not have been on the pitch even then, Fábregas having been guilty of a nasty foul on Sterling’s right ankle in the opening 25 seconds. “He should have been sent off,” said Rodgers. “It was out of control, diving [in], stretching. A poor challenge.” Andre Marriner had actually flashed a red card at Mikel John Obi, so off the pace had he been in that opening minute, before correcting that to a lenient yellow for Fábregas. The confusion hardly inspired confidence.
+ 
+The visitors’ response to the concession had actually been impressive, sparked as it was by Coutinho spitting shots at goal for Branislav Ivanovic to block and Courtois to save, though parity was only restored when their own captain made his presence felt. Ivanovic’s foul on Adam Lallana earned a free-kick which Jordan Henderson arced over the muddle in the six-yard box. Gerrard, having edged away from Mikel, was unmarked as he nodded in his first goal against these opponents in a decade.
+ 
+It was his first ever reward at Stamford Bridge, an arena where he has been mercilessly heckled over the years, memories of which would not be erased by the charitable and admirable ovation granted him by all corners of the ground upon his substitution 11 minutes from time. Mourinho praised that reaction for the “dear enemy” who will not grace this stage again. Gerrard, himself, was not quite ready to forgive and forget.
+ 
+Chelsea had actually been denied a potential farewell of their own, Petr Cech having cried off the fixture with a minor calf injury having been pencilled in to start the game. “The next game, at West Bromwich Albion [on Monday week], he plays,” said Mourinho, who intends to pick the likes of Nathan Aké and Isaiah Brown at the Hawthorns. “Izzy Brown came from West Bromwich so it’ll be special for the kid to play in that house … the boys deserve it, all of them, but I can’t give a special day for everyone.”
+ 
+He offered Ruben Loftus-Cheek an hour here on his first Premier League start, with the teenager doing little wrong in a midfield brief before being withdrawn as his manager sensed Liverpool’s late urgency might leave him exposed. “Coutinho was getting more space between the lines, so it was best for the boy to leave,” added the Portuguese. “But it was a fantastic experience for him, to feel the intensity and the speed of the game. He’s going to be a Chelsea player, that’s no doubt. I’m happy.”
+ 
+The same cannot be said for Liverpool, even with the point secured on a ground where Chelsea remain unbeaten in the league. For Rodgers, and the hierarchy at Anfield, a pivotal summer awaits.
+ 
+Man of the match Philippe Coutinho (Liverpool)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="490~495" text="Given" playerID="null" />
+<Player id="P1" spans="1548~1563" text="Raheem Sterling" playerID="null" />
+<Player id="P2" spans="1572~1575" text="Ibe" playerID="null" />
+<Player id="P3" spans="1601~1616" text="Jerome Sinclair" playerID="null" />
+<Player id="P4" spans="1608~1616" text="Sinclair" playerID="null" />
+<Player id="P5" spans="1694~1702" text="Coutinho" playerID="null" />
+<Player id="P6" spans="1792~1803" text="Gary Cahill" playerID="null" />
+<Player id="P7" spans="1818~1834" text="Thibaut Courtois" playerID="null" />
+<Player id="P8" spans="2048~2064" text="Daniel Sturridge" playerID="null" />
+<Player id="P9" spans="2228~2238" text="John Terry" playerID="null" />
+<Player id="P10" spans="2275~2288" text="Cesc Fàbregas" playerID="null" />
+<Player id="P11" spans="2373~2387" text="Rickie Lambert" playerID="null" />
+<Player id="P12" spans="2423~2437" text="Simon Mignolet" playerID="null" />
+<Player id="P13" spans="2442~2456" text="Steven Gerrard" playerID="null" />
+<Player id="P14" spans="2488~2493" text="Terry" playerID="null" />
+<Player id="P15" spans="2760~2768" text="Sterling" playerID="null" />
+<Player id="P16" spans="2974~2979" text="Mikel" playerID="null" />
+<Player id="P17" spans="3235~3243" text="Coutinho" playerID="null" />
+<Player id="P18" spans="3271~3289" text="Branislav Ivanovic" playerID="null" />
+<Player id="P19" spans="3303~3311" text="Courtois" playerID="null" />
+<Player id="P20" spans="3400~3408" text="Ivanovic" playerID="null" />
+<Player id="P21" spans="3419~3431" text="Adam Lallana" playerID="null" />
+<Player id="P22" spans="3457~3473" text="Jordan Henderson" playerID="null" />
+<Player id="P23" spans="3517~3524" text="Gerrard" playerID="null" />
+<Player id="P24" spans="3549~3554" text="Mikel" playerID="null" />
+<Player id="P25" spans="4003~4010" text="Gerrard" playerID="null" />
+<Player id="P26" spans="4134~4143" text="Petr Cech" playerID="null" />
+<Player id="P27" spans="4359~4369" text="Nathan Aké" playerID="null" />
+<Player id="P28" spans="4374~4386" text="Isaiah Brown" playerID="null" />
+<Player id="P29" spans="4411~4416" text="Brown" playerID="null" />
+<Player id="P30" spans="4590~4608" text="Ruben Loftus-Cheek" playerID="null" />
+<Player id="P31" spans="4810~4818" text="Coutinho" playerID="null" />
+<Player id="P32" spans="5300~5308" text="Coutinho" playerID="null" />
+<Coref id="C0" spans="802~805" text="his" playerID="null" />
+<Coref id="C1" spans="2655~2658" text="his" playerID="null" />
+<Coref id="C2" spans="2811~2813" text="He" playerID="null" />
+<Coref id="C3" spans="3010~3012" text="he" playerID="null" />
+<Coref id="C4" spans="3381~3384" text="his" playerID="null" />
+<Coref id="C5" spans="3572~3574" text="he" playerID="null" />
+<Coref id="C6" spans="3585~3588" text="his" playerID="null" />
+<Coref id="C7" spans="3646~3649" text="his" playerID="null" />
+<Coref id="C8" spans="3703~3705" text="he" playerID="null" />
+<Coref id="C9" spans="3875~3878" text="his" playerID="null" />
+<Coref id="C10" spans="4300~4302" text="he" playerID="null" />
+<Coref id="C11" spans="4579~4581" text="He" playerID="null" />
+<Coref id="C12" spans="4625~4628" text="his" playerID="null" />
+<Coref id="C13" spans="4740~4743" text="his" playerID="null" />
+<Coref id="C14" spans="5014~5016" text="He" playerID="null" />
+</TAGS>
+</SoccEval1.1>

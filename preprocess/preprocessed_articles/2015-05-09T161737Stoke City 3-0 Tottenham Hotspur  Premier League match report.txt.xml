@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/may/09/stoke-city-tottenham-hotspur-premier-league-match-report
+
+Stoke City 3-0 Tottenham Hotspur | Premier League match report
+
+
+Maybe Tottenham are trying to avoid the Europa League this season? It certainly looks like it. They barely raised a whimper to stop Stoke equalling their record points haul in the Premier League and their manager, Mauricio Pochettino, admitted they were desperately poor.
+ 
+The Europa League is a draining, unwanted competition and Spurs, despite their efforts here, are heading for another season in it. This was their 55th game of the season – 10 of those have been spread across the continent – and they looked tired and uninterested.
+ 
+Goals from Charlie Adam, Steven Nzonzi and Mame Diouf embarrassed Spurs, who were left with 10 men from the 51st minute when Vlad Chiriches was sent off for his second offence. But it made no matter whether there were 10 or 11 men out there, Spurs were dreadful and never in a one-sided game.
+ 
+“We were poor from the beginning. We were better in the second half with 10 players,” said Pochettino “We are disappointed for our supporters and for our club. The way we lost the game shows that we need to be stronger, to be ready to compete. In the first half we did not compete. This was the problem.”
+ 
+The crowd showed more passion with prolonged applause after 15 minutes for the Tottenham legend Jimmy Greaves, who is making a cautious recovery following a severe stroke.
+ 
+The win took Stoke to 50 points, equal to last season, with two games to go to improve their best. They attacked from the kick-off, looking to examine Tottenham’s attitude, and they liked what they saw. Spurs were behind after 21 minutes and barely had anything to say throughout the game.
+ 
+Harry Kane might be Mr Goals for Spurs this season, but Adam has also been prolific lately, with four in his past six games. The Tottenham defender Jan Vertonghen failed to head away a cross, sending the ball up and behind him, and there was Adam to head in near the back post. “A headed goal from Charlie? That’s very rare in itself,” said a smiling Mark Hughes. “But Adam played really well. This was such a good performance when our man of the match could have come from any of a number of contenders.”
+ 
+When Spurs needed a bit of luck soon after Adam’s goal, they did not get it. Erik Lamela’s cross was headed up, Vertonghen-like, by Muniesa and looked like being an own goal until the Stoke keeper, Jack Butland, stretched and guided the ball over the bar.
+ 
+Just when the 2,000 Spurs fans thought their team might be rousing themselves to make a fight of it, they were let down again. Lloris and Eric Dier tried to deal with Diouf’s cross, neither of them did, and Nzonzi was able to roll in a gift of a goal.
+ 
+Marko Arnautovic, a constant attacking threat, brought a good save from Lloris just before half time but it was all over when Chiriches – who had looked vulnerable since his booking for a foul on Jon Walters in the 16th minute – brought down Diouf and had to go.
+ 
+“The sending off of Chiriches is no excuse,” said Pochettino. “We have to be better. We made mistakes for the two goals,we are very disappointed for that. In the second half with ten players weshowed spirit but it was too late.”
+ 
+Just before the end Arnautovic made yet another run to set up Diouf to toe-poke in Stoke’s third. There might have been a lot more.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="722~734" text="Charlie Adam" playerID="null" />
+<Player id="P1" spans="754~764" text="Mame Diouf" playerID="null" />
+<Player id="P2" spans="836~850" text="Vlad Chiriches" playerID="null" />
+<Player id="P3" spans="1779~1789" text="Harry Kane" playerID="null" />
+<Player id="P4" spans="1835~1839" text="Adam" playerID="null" />
+<Player id="P5" spans="1927~1941" text="Jan Vertonghen" playerID="null" />
+<Player id="P6" spans="2021~2025" text="Adam" playerID="null" />
+<Player id="P7" spans="2148~2152" text="Adam" playerID="null" />
+<Player id="P8" spans="2330~2334" text="Adam" playerID="null" />
+<Player id="P9" spans="2369~2375" text="Lamela" playerID="null" />
+<Player id="P10" spans="2399~2409" text="Vertonghen" playerID="null" />
+<Player id="P11" spans="2419~2426" text="Muniesa" playerID="null" />
+<Player id="P12" spans="2485~2497" text="Jack Butland" playerID="null" />
+<Player id="P13" spans="2672~2678" text="Lloris" playerID="null" />
+<Player id="P14" spans="2683~2692" text="Eric Dier" playerID="null" />
+<Player id="P15" spans="2712~2717" text="Diouf" playerID="null" />
+<Player id="P16" spans="2799~2815" text="Marko Arnautovic" playerID="null" />
+<Player id="P17" spans="2871~2877" text="Lloris" playerID="null" />
+<Player id="P18" spans="2925~2934" text="Chiriches" playerID="null" />
+<Player id="P19" spans="2999~3006" text="Walters" playerID="null" />
+<Player id="P20" spans="3041~3046" text="Diouf" playerID="null" />
+<Player id="P21" spans="3084~3093" text="Chiriches" playerID="null" />
+<Player id="P22" spans="3315~3325" text="Arnautovic" playerID="null" />
+<Player id="P23" spans="3357~3362" text="Diouf" playerID="null" />
+<Coref id="C0" spans="868~871" text="his" playerID="null" />
+<Coref id="C1" spans="1884~1887" text="his" playerID="null" />
+<Coref id="C2" spans="2969~2972" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

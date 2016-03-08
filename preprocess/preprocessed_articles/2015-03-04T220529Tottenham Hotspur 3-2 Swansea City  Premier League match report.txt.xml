@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/mar/04/tottenham-hotspur-swansea-city-premier-league-match-report
+
+Tottenham Hotspur 3-2 Swansea City | Premier League match report
+
+
+Sometimes, the football does not seem to matter and when Bafétimbi Gomis collapsed to the turf in the sixth minute here, the sense of dread was tangible. Three years on from Fabrice Muamba, it seemed as though it was all happening again. For five minutes, the doctors worked on another fit, young but stricken professional footballer.
+ 
+Mercifully, it was not the same as the infamous Muamba incident, when the then Bolton Wanderers player dropped down and suffered a cardiac arrest but cheated death. After what seemed like an age, Gomis could be seen with his eyes open and moving his head. He was taken off on a stretcher and, at half-time, the word came through that he was “fine”. It seemed like an odd description, and it was one that the manager, Garry Monk, repeated afterwards but the relief was palpable.
+ 
+The Gomis drama overshadowed what was an exciting game. Tottenham were seeking to bounce back from Sunday’s Capital One Cup final defeat to Chelsea and they did so, Ryan Mason scoring in the second-half and Andros Townsend adding what proved to be the winning goal.
+ 
+Swansea have never won at this venue in the league but they almost salvaged a last-gasp point. After Gylfi Sigurdsson had scored to set the nerves jangling for Tottenham, the home team were indebted to Hugo Lloris for an injury-time save from Federico Fernández. The goalkeeper flung himself to claw the Argentinian’s header to safety and make his latest telling contribution to his club’s season.
+ 
+The atmosphere had been subdued at kick-off time – a legacy of Tottenham’s cup final defeat – but the mood dropped sharply when, immediately after Nacer Chadli’s early goal, there was the sight of Gomis lying motionless in the centre circle.
+ 
+When paramedics and doctors from both sides sprinted to the scene, it was impossible not to feel extremely worried. There was the eerie echo of Muamba’s collapse at this stadium in March 2012 and, as Gomis underwent lengthy treatment, everybody was thinking of the former Bolton player.
+ 
+There was concern on the faces of the players but television pictures then showed Gomis looking responsive. As he was taken from the field, with an oxygen mask over his nose and mouth, there was applause from all sides. It was difficult to focus on the football. It seemed like an afterthought – even with so much riding on the game. All anybody wanted from the evening was a positive medical bulletin on Gomis and there was relief when it came.
+ 
+Chadli’s goal had been lovely. He jumped to meet Danny Rose’s driven cross from the left before steering a cushioned volley into the corner of the net. But Swansea hit back on 19 minutes and the concession was dreadful from a Tottenham point of view and, in particular, that of Jan Vertonghen.
+ 
+Sigurdsson, a former Spur, whipped a free-kick against Lloris’ post and the panic seemed to have passed for the home team. Not for long. Swansea worked the ball back towards the six-yard box, Vertonghen hesitated and he failed to clear. Suddenly, there was Ki Sung-Yeung, tip-toeing in, to squeeze a low shot past Lloris from a tight angle.
+ 
+The collective prayers of everybody seemed to have been answered during the interval, when Swansea briefed that Gomis was stable. The shadow had not been entirely removed but the second-half seemed more enjoyable.
+ 
+Jonjo Shelvey extended Lloris and Harry Kane was inches wide with a header before Mason sculpted his memorable moment. Christian Eriksen drove into the area and when Ashley Williams challenged, Mason arrived to take the ball in his stride and finish with a thumping shot high into the net.
+ 
+Townsend also finished smartly, after bombing almost the length of the field and cutting inside, while Sigurdsson’s goal was thumped home from the substitute Jefferson Montero’s cross. Swansea pushed and Fernández thought that he had fashioned the equaliser. Lloris had other ideas.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="242~247" text="Gomis" playerID="null" />
+<Player id="P1" spans="708~713" text="Gomis" playerID="null" />
+<Player id="P2" spans="996~1001" text="Gomis" playerID="null" />
+<Player id="P3" spans="1157~1167" text="Ryan Mason" playerID="null" />
+<Player id="P4" spans="1199~1214" text="Andros Townsend" playerID="null" />
+<Player id="P5" spans="1361~1377" text="Gylfi Sigurdsson" playerID="null" />
+<Player id="P6" spans="1462~1473" text="Hugo Lloris" playerID="null" />
+<Player id="P7" spans="1503~1521" text="Federico Fernández" playerID="null" />
+<Player id="P8" spans="1807~1819" text="Nacer Chadli" playerID="null" />
+<Player id="P9" spans="1857~1862" text="Gomis" playerID="null" />
+<Player id="P10" spans="2104~2109" text="Gomis" playerID="null" />
+<Player id="P11" spans="2275~2280" text="Gomis" playerID="null" />
+<Player id="P12" spans="2598~2603" text="Gomis" playerID="null" />
+<Player id="P13" spans="2641~2647" text="Chadli" playerID="null" />
+<Player id="P14" spans="2690~2700" text="Danny Rose" playerID="null" />
+<Player id="P15" spans="2919~2933" text="Jan Vertonghen" playerID="null" />
+<Player id="P16" spans="2937~2947" text="Sigurdsson" playerID="null" />
+<Player id="P17" spans="2992~2998" text="Lloris" playerID="null" />
+<Player id="P18" spans="3129~3139" text="Vertonghen" playerID="null" />
+<Player id="P19" spans="3194~3196" text="Ki" playerID="null" />
+<Player id="P20" spans="3251~3257" text="Lloris" playerID="null" />
+<Player id="P21" spans="3392~3397" text="Gomis" playerID="null" />
+<Player id="P22" spans="3496~3509" text="Jonjo Shelvey" playerID="null" />
+<Player id="P23" spans="3519~3525" text="Lloris" playerID="null" />
+<Player id="P24" spans="3530~3540" text="Harry Kane" playerID="null" />
+<Player id="P25" spans="3578~3583" text="Mason" playerID="null" />
+<Player id="P26" spans="3615~3632" text="Christian Eriksen" playerID="null" />
+<Player id="P27" spans="3662~3677" text="Ashley Williams" playerID="null" />
+<Player id="P28" spans="3669~3677" text="Williams" playerID="null" />
+<Player id="P29" spans="3690~3695" text="Mason" playerID="null" />
+<Player id="P30" spans="3788~3796" text="Townsend" playerID="null" />
+<Player id="P31" spans="3891~3901" text="Sigurdsson" playerID="null" />
+<Player id="P32" spans="3946~3963" text="Jefferson Montero" playerID="null" />
+<Player id="P33" spans="3992~4001" text="Fernández" playerID="null" />
+<Player id="P34" spans="4047~4053" text="Lloris" playerID="null" />
+<Coref id="C0" spans="733~736" text="his" playerID="null" />
+<Coref id="C1" spans="758~761" text="his" playerID="null" />
+<Coref id="C2" spans="768~770" text="He" playerID="null" />
+<Coref id="C3" spans="846~848" text="he" playerID="null" />
+<Coref id="C4" spans="1604~1607" text="his" playerID="null" />
+<Coref id="C5" spans="1639~1642" text="his" playerID="null" />
+<Coref id="C6" spans="2304~2306" text="he" playerID="null" />
+<Coref id="C7" spans="2358~2361" text="his" playerID="null" />
+<Coref id="C8" spans="2672~2674" text="He" playerID="null" />
+<Coref id="C9" spans="3154~3156" text="he" playerID="null" />
+<Coref id="C10" spans="3593~3596" text="his" playerID="null" />
+<Coref id="C11" spans="3724~3727" text="his" playerID="null" />
+<Coref id="C12" spans="4015~4017" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

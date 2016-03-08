@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/may/24/everton-tottenham-hotspur-premier-league-match-report
+
+Everton 0-1 Tottenham Hotspur | Premier League match report
+
+
+The end reflected all that had gone before. Harry Kane was instrumental in elevating Tottenham Hotspur above Liverpool and straight into the group stage of the Europa League while Everton embarked on a sheepish “lap of appreciation” after the final whistle following one more meek display. It left both managers raising their sights for next season; Mauricio Pochettino out of sheer ambition, Roberto Martínez out of necessity.
+ 
+Kane settled the contest with a precise first-half header to join Jürgen Klinsmann, Teddy Sheringham and Gareth Bale as Tottenham’s record goalscorer in a Premier League season with 21 goals. He provided a threat Everton were unable to match and a finale in keeping with an outstanding individual campaign. For good measure, the 21-year-old also removed the complications from Pochettino’s summer by securing automatic entry into the Europa League, when an earlier qualification round had beckoned before kick-off.
+ 
+“It’s very important that we are straight to the groups,” said the Spurs manager. “It means that for next season we have more time to prepare and this is very important. Finishing above Liverpool, Southampton and Everton is also a very big thing for us. Now our aim for next season is to improve the squad and to aim for the top four from the very start of the season. It will be difficult but you have to be ambitious. It was an unbelievable season, in the end we achieved, and next season we can be better.”
+ 
+There was little at stake other than a fifth-place finish for Spurs but that was sufficient to inspire a one-sided first half. They dominated until Everton roused themselves shortly before the interval, when Hugo Lloris saved well from Seamus Coleman and Kevin Mirallas clipped an angled shot on to the roof of the net.
+ 
+Spurs showed strength, composure and technique in midfield but the hosts were found wanting on each count as Ryan Mason, Érik Lamela and co were afforded the space to dictate. Only when Martínez withdrew Ross Barkley after an error-strewn 45 minutes and introduced Muhamed Besic into a three-man central midfield did Everton find the aggression and urgency their performance required.
+ 
+“We wanted to finish the season on a high in front of our own fans but it wasn’t to be,” said the Everton manager, who confirmed Barkley’s substitution was for tactical reasons. “We lost the game in the first half. It was a really disappointing 45 minutes, we played in a loose manner and allowed them possession too easily. It was much better in the second half but we lost the game before half-time.”
+ 
+Christian Eriksen, Mason and Lamela all had early chances, with Tim Howard saving well from the Argentinian after Brendan Galloway had lost possession. The England Under-21 defender was making his first start at Goodison following his full debut at West Ham United and despite that almost costly slip, he produced a prominent, assured outing from left-back. “Young players normally play at the level of the team but he was above it and that spoke volumes,” said Martínez, who later replaced Galloway with Sylvain Distin to give the veteran the send-off his fine Goodison career deserved.
+ 
+The Everton goal was under pressure throughout the first half and there was little Howard could do to prevent Spurs taking a merited lead. Again, they were allowed to exchange passes around the Everton penalty area unchallenged. The ball was switched out wide to Eric Dier on the right and from his inviting first-time cross Kane of all people was left unmarked at the near post and steered a header beyond Howard into the far corner. As well as equalling a Premier League scoring record for his club, the goal was Kane’s 37th of the season in total for Spurs, England and England Under-21s.
+ 
+Pochettino added: “It is a fantastic season for Harry. I’m happy that Harry has equalled the record because it’s an important thing for the club but I’m happy for the other youngsters too. Nabil Bentaleb, Ryan Mason, Eric Dier – they are very, very young and they deserve all of the praise. I’m very pleased for them, our group is very young and I’m very happy with our season.”
+ 
+Man of the match Harry Kane (Tottenham Hotspur)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="209~219" text="Harry Kane" playerID="null" />
+<Player id="P1" spans="566~574" text="Martínez" playerID="null" />
+<Player id="P2" spans="595~599" text="Kane" playerID="null" />
+<Player id="P3" spans="1832~1843" text="Hugo Lloris" playerID="null" />
+<Player id="P4" spans="1860~1874" text="Seamus Coleman" playerID="null" />
+<Player id="P5" spans="1879~1893" text="Kevin Mirallas" playerID="null" />
+<Player id="P6" spans="2055~2065" text="Ryan Mason" playerID="null" />
+<Player id="P7" spans="2067~2078" text="Érik Lamela" playerID="null" />
+<Player id="P8" spans="2132~2140" text="Martínez" playerID="null" />
+<Player id="P9" spans="2150~2162" text="Ross Barkley" playerID="null" />
+<Player id="P10" spans="2211~2224" text="Muhamed Besic" playerID="null" />
+<Player id="P11" spans="2462~2469" text="Barkley" playerID="null" />
+<Player id="P12" spans="2738~2755" text="Christian Eriksen" playerID="null" />
+<Player id="P13" spans="2757~2762" text="Mason" playerID="null" />
+<Player id="P14" spans="2767~2773" text="Lamela" playerID="null" />
+<Player id="P15" spans="2802~2812" text="Tim Howard" playerID="null" />
+<Player id="P16" spans="2852~2868" text="Brendan Galloway" playerID="null" />
+<Player id="P17" spans="3097~3102" text="Young" playerID="null" />
+<Player id="P18" spans="3200~3208" text="Martínez" playerID="null" />
+<Player id="P19" spans="3229~3237" text="Galloway" playerID="null" />
+<Player id="P20" spans="3243~3257" text="Sylvain Distin" playerID="null" />
+<Player id="P21" spans="3411~3417" text="Howard" playerID="null" />
+<Player id="P22" spans="3591~3600" text="Eric Dier" playerID="null" />
+<Player id="P23" spans="3653~3657" text="Kane" playerID="null" />
+<Player id="P24" spans="3735~3741" text="Howard" playerID="null" />
+<Player id="P25" spans="3843~3847" text="Kane" playerID="null" />
+<Player id="P26" spans="4111~4125" text="Nabil Bentaleb" playerID="null" />
+<Player id="P27" spans="4127~4137" text="Ryan Mason" playerID="null" />
+<Player id="P28" spans="4139~4148" text="Eric Dier" playerID="null" />
+<Player id="P29" spans="4320~4330" text="Harry Kane" playerID="null" />
+<Coref id="C0" spans="787~789" text="He" playerID="null" />
+<Coref id="C1" spans="2931~2934" text="his" playerID="null" />
+<Coref id="C2" spans="2969~2972" text="his" playerID="null" />
+<Coref id="C3" spans="3040~3042" text="he" playerID="null" />
+<Coref id="C4" spans="3154~3156" text="he" playerID="null" />
+<Coref id="C5" spans="3291~3294" text="his" playerID="null" />
+<Coref id="C6" spans="3623~3626" text="his" playerID="null" />
+<Coref id="C7" spans="3820~3823" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

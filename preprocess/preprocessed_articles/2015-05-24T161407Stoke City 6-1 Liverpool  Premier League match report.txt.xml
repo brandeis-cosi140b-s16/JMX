@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/may/24/stoke-city-liverpool-premier-league-match-report
+
+Stoke City 6-1 Liverpool | Premier League match report
+
+
+This was no way for Steven Gerrard to say goodbye, even though he marked his 710th and final appearance in a Liverpool shirt with his 186th goal for the club and, long before the end, the question of whether it might be time for another farewell had elbowed its way to the top of the agenda.
+ 
+Brendan Rodgers faces a review of Liverpool’s season of frustration with the club’s owners and the manager’s demeanour after this wretched afternoon betrayed realism and, perhaps, a little anxiety – not least when he said that he accepted there would be doubts over his future after this and, more generally, the whimper that has been the final two months of the season.
+ 
+Liverpool were 5-0 down at half-time, utterly humiliated at the hands of a rampaging Stoke City, and, to put it bluntly, these are the sort of performances that see clubs and managers part company. It set the seal on a miserable end to the season for Rodgers and Liverpool, one in which the team lost six of 11 matches in all competitions and finished with 52 Premier League goals. They got 101 last season.
+ 
+Rodgers dropped Raheem Sterling in the wake of the negative headlines over the winger’s future intentions, saying he felt that “there were other players mentally better positioned to play in the game”. But the focus here fell upon Rodgers and whether he could recover from this low point. It was Liverpool’s heaviest defeat since the 7-2 at Tottenham Hotspur in 1963.
+ 
+The lone positive for the visitors came when Gerrard ran through in the 70th minute to slot a low shot past Asmir Begovic and there was the heart-warming moment when the Stoke fans rose with their Liverpool counterparts to applaud him. Yet it was otherwise an afternoon of angst and soul-searching for Rodgers and all of those connected to the club.
+ 
+Stoke’s performance was testament to the mentality that Mark Hughes has instilled as well as the fitness methods – the manager’s teams always finish the season strongly. Stoke were already assured of a ninth-placed finish for the second year in succession yet they played as if their lives depended on the result. Their aggression, tempo and precision served to highlight Liverpool’s deficiencies.
+ 
+Sterling’s omission from the starting XI had created the pre-match buzz and the substitute was jeered by plenty of travelling supporters by the tunnel in the corner as he returned to the dressing room after the warm-up. When Sterling emerged to warm up midway through the first half, he ran to the other corner, away from the Liverpool fans. “One greedy bastard,” bellowed the home crowd. Some of those in the visiting enclosure applauded the sentiment.
+ 
+Liverpool’s woes ran far deeper. This was a bitter and unforgiving occasion for them – a little like the micro-climate at this wind-swept arena; Gerrard will miss all of this when he joins Los Angeles Galaxy – and it was shocking to see how Rodgers’ team wilted, after the mess that was the opening goal. Simon Mignolet could only parry Charlie Adam’s shot at the feet of Mame Biram Diouf and the striker scored from close range.
+ 
+Rodgers had started with Adam Lallana and Philippe Coutinho up front – in other words, without an orthodox striker. It looked as though he did not have a defence, either. The manager replaced the full-backs, Emre Can and Alberto Moreno, at the interval. He could have taken off anybody.
+ 
+Liverpool routinely lost out in the one-on-one duels and Stoke simply ran all over them. Diouf got his second with a viciously swerving shot from the edge of the area, which Mignolet could not lay a glove on, while the third followed a comical back header from Can which found only Jon Walters. His first effort was well saved by Mignolet but Walters reacted sharply to loop a header home.
+ 
+Liverpool fans could be seen heading for the exit with 31 minutes on the clock and it did not appear that they were merely trying to beat the half-time pie queue. The Stoke fans were shouting the Olés after 32 minutes and it would get even better for them before the interval. After more slapdash Liverpool defending and with Martin Skrtel backing off, Adam strode through to drive low into the corner before Steve N’Zonzi bent a magnificent shot past Mignolet from outside the area. Rodgers was barracked as he walked into the tunnel at half-time.
+ 
+Liverpool managed to stick their fingers in the dyke during the second half. Skrtel was a little fortunate to escape a second yellow card for a foul on Nzonzi and Lallana was thwarted by Begovic before Gerrard got his goal. But Marko Arnautovic ought to have scored for Stoke on 67 minutes and the substitute and former Liverpool striker, Peter Crouch, enjoyed the last word when he headed home unmarked from Diouf’s cross.
+ 
+Man of the match Mame Biram Diouf (Stoke City)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="175~189" text="Steven Gerrard" playerID="null" />
+<Player id="P1" spans="1248~1263" text="Raheem Sterling" playerID="null" />
+<Player id="P2" spans="1647~1654" text="Gerrard" playerID="null" />
+<Player id="P3" spans="1710~1723" text="Asmir Begovic" playerID="null" />
+<Player id="P4" spans="2354~2362" text="Sterling" playerID="null" />
+<Player id="P5" spans="2579~2587" text="Sterling" playerID="null" />
+<Player id="P6" spans="2955~2962" text="Gerrard" playerID="null" />
+<Player id="P7" spans="3115~3129" text="Simon Mignolet" playerID="null" />
+<Player id="P8" spans="3147~3159" text="Charlie Adam" playerID="null" />
+<Player id="P9" spans="3193~3198" text="Diouf" playerID="null" />
+<Player id="P10" spans="3267~3279" text="Adam Lallana" playerID="null" />
+<Player id="P11" spans="3293~3301" text="Coutinho" playerID="null" />
+<Player id="P12" spans="3450~3458" text="Emre Can" playerID="null" />
+<Player id="P13" spans="3463~3477" text="Alberto Moreno" playerID="null" />
+<Player id="P14" spans="3620~3625" text="Diouf" playerID="null" />
+<Player id="P15" spans="3705~3713" text="Mignolet" playerID="null" />
+<Player id="P16" spans="3792~3795" text="Can" playerID="null" />
+<Player id="P17" spans="3817~3824" text="Walters" playerID="null" />
+<Player id="P18" spans="3861~3869" text="Mignolet" playerID="null" />
+<Player id="P19" spans="3874~3881" text="Walters" playerID="null" />
+<Player id="P20" spans="4249~4262" text="Martin Skrtel" playerID="null" />
+<Player id="P21" spans="4276~4280" text="Adam" playerID="null" />
+<Player id="P22" spans="4375~4383" text="Mignolet" playerID="null" />
+<Player id="P23" spans="4551~4557" text="Skrtel" playerID="null" />
+<Player id="P24" spans="4637~4644" text="Lallana" playerID="null" />
+<Player id="P25" spans="4661~4668" text="Begovic" playerID="null" />
+<Player id="P26" spans="4676~4683" text="Gerrard" playerID="null" />
+<Player id="P27" spans="4702~4718" text="Marko Arnautovic" playerID="null" />
+<Player id="P28" spans="4813~4825" text="Peter Crouch" playerID="null" />
+<Player id="P29" spans="4883~4888" text="Diouf" playerID="null" />
+<Player id="P30" spans="4928~4933" text="Diouf" playerID="null" />
+<Coref id="C0" spans="218~220" text="he" playerID="null" />
+<Coref id="C1" spans="228~231" text="his" playerID="null" />
+<Coref id="C2" spans="285~288" text="his" playerID="null" />
+<Coref id="C3" spans="663~665" text="he" playerID="null" />
+<Coref id="C4" spans="676~678" text="he" playerID="null" />
+<Coref id="C5" spans="715~718" text="his" playerID="null" />
+<Coref id="C6" spans="1346~1348" text="he" playerID="null" />
+<Coref id="C7" spans="1483~1485" text="he" playerID="null" />
+<Coref id="C8" spans="2522~2524" text="he" playerID="null" />
+<Coref id="C9" spans="2638~2640" text="he" playerID="null" />
+<Coref id="C10" spans="2990~2992" text="he" playerID="null" />
+<Coref id="C11" spans="3378~3380" text="he" playerID="null" />
+<Coref id="C12" spans="3496~3498" text="He" playerID="null" />
+<Coref id="C13" spans="3630~3633" text="his" playerID="null" />
+<Coref id="C14" spans="3826~3829" text="His" playerID="null" />
+<Coref id="C15" spans="4432~4434" text="he" playerID="null" />
+<Coref id="C16" spans="4688~4691" text="his" playerID="null" />
+<Coref id="C17" spans="4854~4856" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/aug/16/west-ham-united-tottenham-hotspur-premier-league-match-report
+
+West Ham United 0-1 Tottenham Hotspur | Premier League match report
+
+
+Sam Allardyce spoke about the number of opportunities created by West Ham. He pointed to the penalty that Mark Noble missed in the first half, said that the way his team outplayed Tottenham Hotspur gives him great encouragement for what lies ahead and laughed off suggestions that his job could be under threat after this galling defeat. “If they’re going to do it after one game, they might as well have done it at the end of last season,” he said.
+ 
+They almost did. Yet Allardyce had a point. If Noble had scored, West Ham probably would have won and the boos would not have rung around Upton Park when Chris Foy blew for full-time moments after Eric Dier had given Mauricio Pochettino a perfect start as Tottenham’s manager.
+ 
+Yet Noble dragged his effort from 12 yards wide and supporters are losing patience with the number of times they hear Allardyce bemoaning West Ham’s wastefulness in front of goal. They played the majority of the match against 10 men after Kyle Naughton’s controversial red card in the first half and they were not good enough to capitalise against a team not always noted for its stubbornness in the face of adversity.
+ 
+West Ham paid because, once again, they have started the season without a top-class striker. Andy Carroll is out until November with torn ankle ligaments, Enner Valencia was fit enough only for a place on the bench, Diafra Sakho was left out after arriving from Metz on Thursday night and although Carlton Cole battled hard, he falls well below the standard expected from a striker in the Premier League. Ricardo Vaz Tê, too, will reflect on a number of chances that went begging in the first half. Stewart Downing should have beaten Hugo Lloris from close range near the end.
+ 
+Pochettino, not entirely comfortable speaking in English but giving it a good go nonetheless, was rewarded for the positivity he showed after Naughton was sent off, his decision to move Etienne Capoue from midfield into defence and keep his attacking players on the pitch ensuring that Tottenham retained their threat on the break and ultimately led to the James Collins red card that made it 10 against 10 in the second half.
+ 
+For Pochettino it was about belief. Tottenham collapsed in this fixture last season after Younès Kaboul’s red card. This time they stood firm and stunned West Ham when Dier, 20, the defender who was signed from Sporting Lisbon in the summer, burst on to Harry Kane’s pass in stoppage time, rounded Adrián and tapped the ball into the empty net.
+ 
+“It was an unfair red but the more important thing was that we never gave up and always kept calm,” Pochettino said. “We need to believe, always for 90 or 95 minutes. This is our philosophy.”
+ 
+That philosophy was tested at times and Tottenham did not always keep their cool. After a bright start from the visitors – Pochettino demands everything from his players in training and Tottenham looked sharp in the opening 20 minutes – West Ham began to impose themselves.
+ 
+Vaz Tê and Cheikhou Kouyaté flashed headers wide, before Kevin Nolan’s spin and volley was handled by Naughton. Michael McDonough, Foy’s assistant, flagged, a penalty was awarded and Naughton was sent off for denying a goalscoring opportunity. “It was unfair because the ball was going outside the target,” Pochettino said.
+ 
+It did not matter, though, because Noble missed a penalty for the first time since 2009. Vaz Tê then spurned two fine chances but West Ham grew sloppy and predictable after the break, too reliant on hopeful crosses as Allardyce resisted calls to introduce another striker.
+ 
+The old failings were becoming sorely evident and Tottenham fed off the edginess. Collins was booked for fouling Erik Lamela, then for checking a rampaging Emmanuel Adebayor, and soon Adrián was forced to tip over from the substitute Andros Townsend.
+ 
+Valencia came on for a late cameo and West Ham still might have won it after Nolan released Downing. Yet the winger took too long, Lloris was out quickly to block him and there was still time for Dier to write himself into Tottenham folklore.
+     Kyle Naughton is sent off by Chris Foy. Photograph: Julian Finney/Getty Images       James Collins sees red. Photograph: Julian Finney/Getty Images  
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="287~297" text="Mark Noble" playerID="null" />
+<Player id="P1" spans="680~685" text="Noble" playerID="null" />
+<Player id="P2" spans="830~839" text="Eric Dier" playerID="null" />
+<Player id="P3" spans="916~921" text="Noble" playerID="null" />
+<Player id="P4" spans="1151~1164" text="Kyle Naughton" playerID="null" />
+<Player id="P5" spans="1426~1438" text="Andy Carroll" playerID="null" />
+<Player id="P6" spans="1488~1502" text="Enner Valencia" playerID="null" />
+<Player id="P7" spans="1549~1561" text="Diafra Sakho" playerID="null" />
+<Player id="P8" spans="1556~1561" text="Sakho" playerID="null" />
+<Player id="P9" spans="1631~1643" text="Carlton Cole" playerID="null" />
+<Player id="P10" spans="1639~1643" text="Cole" playerID="null" />
+<Player id="P11" spans="1738~1752" text="Ricardo Vaz Tê" playerID="null" />
+<Player id="P12" spans="1832~1847" text="Stewart Downing" playerID="null" />
+<Player id="P13" spans="1867~1878" text="Hugo Lloris" playerID="null" />
+<Player id="P14" spans="2054~2062" text="Naughton" playerID="null" />
+<Player id="P15" spans="2106~2112" text="Capoue" playerID="null" />
+<Player id="P16" spans="2269~2282" text="James Collins" playerID="null" />
+<Player id="P17" spans="2431~2444" text="Younès Kaboul" playerID="null" />
+<Player id="P18" spans="2509~2513" text="Dier" playerID="null" />
+<Player id="P19" spans="2595~2605" text="Harry Kane" playerID="null" />
+<Player id="P20" spans="2639~2645" text="Adrián" playerID="null" />
+<Player id="P21" spans="3162~3164" text="Tê" playerID="null" />
+<Player id="P22" spans="3169~3185" text="Cheikhou Kouyaté" playerID="null" />
+<Player id="P23" spans="3215~3226" text="Kevin Nolan" playerID="null" />
+<Player id="P24" spans="3260~3268" text="Naughton" playerID="null" />
+<Player id="P25" spans="3341~3349" text="Naughton" playerID="null" />
+<Player id="P26" spans="3519~3524" text="Noble" playerID="null" />
+<Player id="P27" spans="3577~3579" text="Tê" playerID="null" />
+<Player id="P28" spans="3841~3848" text="Collins" playerID="null" />
+<Player id="P29" spans="3877~3883" text="Lamela" playerID="null" />
+<Player id="P30" spans="3915~3932" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P31" spans="3943~3949" text="Adrián" playerID="null" />
+<Player id="P32" spans="3993~4008" text="Andros Townsend" playerID="null" />
+<Player id="P33" spans="4012~4020" text="Valencia" playerID="null" />
+<Player id="P34" spans="4089~4094" text="Nolan" playerID="null" />
+<Player id="P35" spans="4104~4111" text="Downing" playerID="null" />
+<Player id="P36" spans="4143~4149" text="Lloris" playerID="null" />
+<Player id="P37" spans="4208~4212" text="Dier" playerID="null" />
+<Player id="P38" spans="4260~4273" text="Kyle Naughton" playerID="null" />
+<Player id="P39" spans="4345~4358" text="James Collins" playerID="null" />
+<Coref id="C0" spans="256~258" text="He" playerID="null" />
+<Coref id="C1" spans="342~345" text="his" playerID="null" />
+<Coref id="C2" spans="462~465" text="his" playerID="null" />
+<Coref id="C3" spans="622~624" text="he" playerID="null" />
+<Coref id="C4" spans="930~933" text="his" playerID="null" />
+<Coref id="C5" spans="1658~1660" text="he" playerID="null" />
+<Coref id="C6" spans="2038~2040" text="he" playerID="null" />
+<Coref id="C7" spans="2077~2080" text="his" playerID="null" />
+<Coref id="C8" spans="2149~2152" text="his" playerID="null" />
+<Coref id="C9" spans="3040~3043" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

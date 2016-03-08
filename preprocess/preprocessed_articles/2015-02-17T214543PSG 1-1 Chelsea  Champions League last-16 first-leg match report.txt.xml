@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/feb/17/paris-saint-germain-chelsea-champions-league-match-report
+
+PSG 1-1 Chelsea | Champions League last-16 first-leg match report
+
+
+For Chelsea there was a measure of satisfaction but maybe a hint of exasperation too. They had struck first, courtesy of another addition to Branislav Ivanovic’s portfolio of important goals, but what they could not do was further enhance their reputation as possibly the best team anywhere when it comes to absorbing pressure and holding on to a lead.
+ 
+José Mourinho will certainly be aggrieved by the uncharacteristic lapses that let in Edinson Cavani to equalise nine minutes into a second half in which Chelsea barely made any pretence about wanting to commit too many players forward. They invited some prolonged pressure during those moments and, re-energised, Cavani created enough problems in the last half an hour to remind Chelsea that at this level the advantage of taking an away goal into the return leg is only a slight one.
+ 
+Ultimately, though, it was still a reasonable night’s work from Mourinho’s team, particularly when the manager later revealed that five of his players had barely trained since their last match against Everton.
+ 
+Chelsea’s spells of conservatism might not appeal to everyone. They might not be the most exciting team in the world, or the most daring, but they are hugely effective and, though his team just about always operated with restraint, it is not as if Mourinho is against the odd moment of adventure. Ivanovic’s goal was created by a combination of John Terry and Gary Cahill, and how many other occasions will there be in the Champions League’s knockout stages when one centre-half crosses, another flicks the ball on and the right-back is there to apply the finishing touch? It was just a pity, perhaps, that Chelsea rarely showed any real ambition to go for a second goal.
+ 
+For long spells their strategically slow tempo successfully took the sting out of the occasion, making sure their opponents could not build too much momentum, but it was a spirited response from Laurent Blanc’s side in the second half and Chelsea needed Thibaut Courtois to justify why he had been restored to the team.
+ 
+Mourinho’s team selection represented a huge show of faith in the Belgian bearing in mind Petr Cech’s performance against Everton and Courtois certainly warranted his place. His outstanding moment was probably the near-post save to turn away Cavani’s header a couple of minutes before Ivanovic’s goal.
+ 
+There were other times, when he kept out Zlatan Ibrahimovic and again, in stoppage time, when the Swede had a header to win the game but could not get enough power in his neck muscles to beat the goalkeeper.
+ 
+Chelsea’s tactics once they had taken the lead meant Diego Costa was often an isolated figure in their attack. Cesc Fàbregas dropped further back into midfield, joining Nemanja Matic and Ramires in protecting the Chelsea back four.
+ 
+Willian and Eden Hazard tucked inside to cut out even more space and the disappointment for Mourinho was the nature of Cavani’s goal just as it had started to look as if Blanc’s side were low on ideas.
+ 
+The most obvious positional error was Cahill’s, getting under the cross from Blaise Matuidi and allowing a forward of Cavani’s gifts too much space. Yet Mourinho should not apportion all the blame to one man. The delivery had come from Chelsea’s right, with Ivanovic having deserted his position and Willian left with two men to pick up. It was unusual to see Chelsea being prone to this kind of carelessness and Cavani is not the kind of opponent to be generous, flashing his header past Courtois.
+ 
+It was his sixth goal in seven Champions League ties, extending PSG’s run of having scored in home matches to 19 in this competition.
+ 
+Ivanovic’s goal was a typically precise header, reminding one again that he has the qualities of an old-fashioned centre-forward in the opposition’s penalty area. He never again ventured so far forward after that. Chelsea were happy instead to defend for the rest of the match and they rarely strayed from that tactic even after Cavani’s equaliser changed the complexion of the evening.
+ 
+The volume went up several notches and a few minutes later it needed a fortunate block from César Azpilicueta to keep out Ezequiel Lavezzi’s goal-bound shot. Courtois had saved Ibrahimovic’s initial effort and, for the first time, there was the sense that Chelsea might be rattled.
+ 
+Cavani continued to be a menace, wriggling free at one point before stabbing a shot just past the post. Marco Verratti’s indefatigable running was a prominent feature and David Luiz, also operating in midfield, looked eager to do well against his former club.
+ 
+Blanc said it was a better performance than when his team won 3-1 in the match here last season and, even if he was being slightly economical with the truth, they could probably be forgiven for thinking Chelsea might still be vulnerable when the teams renew acquaintance at Stamford Bridge on 11 March.
+ 
+“I must say, Chelsea didn’t show much,” Blanc said. Yet the advantage is still with Chelsea. “Minimal”was the word Mourinho applied.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="316~334" text="Branislav Ivanovic" playerID="null" />
+<Player id="P1" spans="1526~1534" text="Ivanovic" playerID="null" />
+<Player id="P2" spans="1574~1584" text="John Terry" playerID="null" />
+<Player id="P3" spans="1589~1600" text="Gary Cahill" playerID="null" />
+<Player id="P4" spans="2157~2173" text="Thibaut Courtois" playerID="null" />
+<Player id="P5" spans="2315~2324" text="Petr Cech" playerID="null" />
+<Player id="P6" spans="2359~2367" text="Courtois" playerID="null" />
+<Player id="P7" spans="2510~2518" text="Ivanovic" playerID="null" />
+<Player id="P8" spans="2792~2803" text="Diego Costa" playerID="null" />
+<Player id="P9" spans="2850~2863" text="Cesc Fàbregas" playerID="null" />
+<Player id="P10" spans="2908~2921" text="Nemanja Matic" playerID="null" />
+<Player id="P11" spans="2926~2933" text="Ramires" playerID="null" />
+<Player id="P12" spans="2973~2980" text="Willian" playerID="null" />
+<Player id="P13" spans="2985~2996" text="Eden Hazard" playerID="null" />
+<Player id="P14" spans="3215~3221" text="Cahill" playerID="null" />
+<Player id="P15" spans="3435~3443" text="Ivanovic" playerID="null" />
+<Player id="P16" spans="3477~3484" text="Willian" playerID="null" />
+<Player id="P17" spans="3666~3674" text="Courtois" playerID="null" />
+<Player id="P18" spans="3814~3822" text="Ivanovic" playerID="null" />
+<Player id="P19" spans="4295~4312" text="César Azpilicueta" playerID="null" />
+<Player id="P20" spans="4361~4369" text="Courtois" playerID="null" />
+<Coref id="C0" spans="1156~1159" text="his" playerID="null" />
+<Coref id="C1" spans="1409~1412" text="his" playerID="null" />
+<Coref id="C2" spans="2189~2191" text="he" playerID="null" />
+<Coref id="C3" spans="2388~2391" text="his" playerID="null" />
+<Coref id="C4" spans="2399~2402" text="His" playerID="null" />
+<Coref id="C5" spans="2558~2560" text="he" playerID="null" />
+<Coref id="C6" spans="2696~2699" text="his" playerID="null" />
+<Coref id="C7" spans="3460~3463" text="his" playerID="null" />
+<Coref id="C8" spans="3650~3653" text="his" playerID="null" />
+<Coref id="C9" spans="3685~3688" text="his" playerID="null" />
+<Coref id="C10" spans="3887~3889" text="he" playerID="null" />
+<Coref id="C11" spans="3977~3979" text="He" playerID="null" />
+<Coref id="C12" spans="4730~4733" text="his" playerID="null" />
+<Coref id="C13" spans="4798~4801" text="his" playerID="null" />
+<Coref id="C14" spans="4858~4860" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

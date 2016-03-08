@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/dec/06/newcastle-united-chelsea-premier-league-match-report
+
+Newcastle 2-1 Chelsea | Premier League match report
+
+
+All good things must come to an end and, sure enough, Chelsea’s 23-game unbeaten run was brought to a shuddering halt by Alan Pardew’s pace-suffused counterattacking specialists. José Mourinho has never won a league match at Newcastle United and not even the enforced replacement of Pardew’s second-choice goalkeeper, Rob Elliot, with the debutant Jak Alnwick at half-time, followed by the 81st-minute dismissal of the hitherto outstanding Steven Taylor, could turn things the Chelsea manager’s way.
+ 
+With his team stripped of their invincibles label Mourinho was reduced to muttering about a Tyneside time-wasting conspiracy but no one should take any notice.
+ 
+This was not only Newcastle’s day but the sort of match capable of reaffirming a cynic’s faith in Premier League football. It featured Papiss Cissé stepping off the bench to score twice, Jack Colback looking England-class in the home midfield and Daryl Janmaat and Paul Dummett shining in the full-back berths. Alnwick, though, ended up eclipsing everyone courtesy of a stunning performance.
+ 
+With Elliot struggling with thigh trouble, a sizeable chance finally beckoned last week. Yet if Alnwick was not entirely surprised to be called to arms, the bigger shock was that Elliot, deputising for the injured Tim Krul, never need to make a serious first-half save. Admittedly Chelsea had their moments – quite a few of them – but bar a spectacular overhead kick from Oscar that flew fractionally wide, Mourinho’s players generally huffed and puffed to little ultimate avail.
+ 
+Granted Chelsea struggles were of an unusually elegant, invariably exciting variety, with Eden Hazard especially hinting at trouble ahead for Newcastle but they still ended up hitting brick walls. As the minutes slipped by, Diego Costa and company found Taylor and the wonderfully assured Fabricio Coloccini a particularly obdurate central defensive barrier. Even when Cheik Tioté did his bit to help Mourinho’s cause with one horribly heavy touch and then a slide-rule pass to a slightly startled Oscar’s feet, Pardew’s defence rode to the rescue.
+ 
+Chelsea’s growing frustration was underscored by a certain anxiety; when Mourinho’s team were not pressing and probing in the home half they invariably could be found coping with lightning counterattacks.
+ 
+If the cameo when Taylor decided to treat everyone to his Franz Beckenbauer impression, exchanging passes with Sammy Ameobi as he surged towards the visiting penalty area was never going to end in a goal, Colback could have scored a couple. Taking a break from disrupting Chelsea’s passing rhythm, the former Sunderland midfielder burst late into the area, met Ayoze Pérez’s clever delivery and forced the advancing Thibault Courtois into a good save as he attempted to chip him. A little later, Colback shot narrowly wide.
+ 
+While Chelsea were sporadically ruffled by Moussa Sissoko’s advances, Pérez’s counterattacking pace threatened to undo them. Receiving the ball on the halfway line, the young Spaniard drew Gary Cahill into a challenge before dodging the centre-half’s lunge and leaving Cahill a fast receding speck in his rear-view mirror. Mourinho had plenty to ponder but with Elliot limping off at the interval but the Portuguese could surely not have envisaged that Pardew would shortly be punching thin air with joy.
+ 
+Cissé had only just replaced Rémy Cabella when Ameobi crossed from the left, Cahill mis-kicked and, from six yards, shot unerringly beyond Courtois.
+ 
+Hazard subsequently hit a post from around 12 yards but as Chelsea’s chased an equaliser another Newcastle counterattack resulted in a goal. This time Colback’s superlative pass picked out Sissoko down the left. The France midfielder shaped to shoot but, crowded by defenders, the ball seemed to become tangled in his feet and he ended up somehow hooking it in Cissé’s direction.
+ 
+With a host of markers distracted and Courtois by now off his line, the Senegal striker took full advantage, whipping the ball into the empty net.
+ 
+Mourinho shook his head, repeatedly, a disbelieving smile playing across his face. It became considerably broader when Taylor, already booked for a silly foul on Willian, received a second yellow card for flying in late on Andre Schürrle. Off he trudged, with only himself to blame for spoiling an otherwise stellar display.
+ 
+By then Didier Drogba was on as a substitute and, as he emphasised when heading Cesc Fàbregas’s free-kick past Alnwick, making quite an impact. The Ivorian’s introduction coincided with Mourinho ordering a switch to direct tactics and, aided by a somewhat astonishing six minutes of stoppage time, Chelsea launched an attacking blitz.
+ 
+Commendably Alnwick held firm, dealing brilliantly with a barrage of high balls and crosses while also performing wonders to tip Costa’s drive over the bar and parry Filipe Luís’s long-range shot.
+ 
+Tuesday marks the fourth anniversary of Pardew’s installation as Newcastle’s manager; it promises to be a very happy occasion.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="474~484" text="Rob Elliot" playerID="null" />
+<Player id="P1" spans="504~515" text="Jak Alnwick" playerID="null" />
+<Player id="P2" spans="596~609" text="Steven Taylor" playerID="null" />
+<Player id="P3" spans="603~609" text="Taylor" playerID="null" />
+<Player id="P4" spans="962~967" text="Cissé" playerID="null" />
+<Player id="P5" spans="1007~1019" text="Jack Colback" playerID="null" />
+<Player id="P6" spans="1067~1080" text="Daryl Janmaat" playerID="null" />
+<Player id="P7" spans="1085~1097" text="Paul Dummett" playerID="null" />
+<Player id="P8" spans="1131~1138" text="Alnwick" playerID="null" />
+<Player id="P9" spans="1219~1225" text="Elliot" playerID="null" />
+<Player id="P10" spans="1310~1317" text="Alnwick" playerID="null" />
+<Player id="P11" spans="1393~1399" text="Elliot" playerID="null" />
+<Player id="P12" spans="1428~1436" text="Tim Krul" playerID="null" />
+<Player id="P13" spans="1586~1591" text="Oscar" playerID="null" />
+<Player id="P14" spans="1786~1797" text="Eden Hazard" playerID="null" />
+<Player id="P15" spans="1920~1931" text="Diego Costa" playerID="null" />
+<Player id="P16" spans="1950~1956" text="Taylor" playerID="null" />
+<Player id="P17" spans="1985~2003" text="Fabricio Coloccini" playerID="null" />
+<Player id="P18" spans="2065~2076" text="Cheik Tioté" playerID="null" />
+<Player id="P19" spans="2194~2199" text="Oscar" playerID="null" />
+<Player id="P20" spans="2472~2478" text="Taylor" playerID="null" />
+<Player id="P21" spans="2565~2577" text="Sammy Ameobi" playerID="null" />
+<Player id="P22" spans="2571~2577" text="Ameobi" playerID="null" />
+<Player id="P23" spans="2659~2666" text="Colback" playerID="null" />
+<Player id="P24" spans="2815~2826" text="Ayoze Pérez" playerID="null" />
+<Player id="P25" spans="2879~2887" text="Courtois" playerID="null" />
+<Player id="P26" spans="2950~2957" text="Colback" playerID="null" />
+<Player id="P27" spans="3023~3037" text="Moussa Sissoko" playerID="null" />
+<Player id="P28" spans="3050~3055" text="Pérez" playerID="null" />
+<Player id="P29" spans="3169~3180" text="Gary Cahill" playerID="null" />
+<Player id="P30" spans="3249~3255" text="Cahill" playerID="null" />
+<Player id="P31" spans="3342~3348" text="Elliot" playerID="null" />
+<Player id="P32" spans="3487~3492" text="Cissé" playerID="null" />
+<Player id="P33" spans="3516~3528" text="Rémy Cabella" playerID="null" />
+<Player id="P34" spans="3534~3540" text="Ameobi" playerID="null" />
+<Player id="P35" spans="3564~3570" text="Cahill" playerID="null" />
+<Player id="P36" spans="3626~3634" text="Courtois" playerID="null" />
+<Player id="P37" spans="3638~3644" text="Hazard" playerID="null" />
+<Player id="P38" spans="3789~3796" text="Colback" playerID="null" />
+<Player id="P39" spans="3827~3834" text="Sissoko" playerID="null" />
+<Player id="P40" spans="3999~4004" text="Cissé" playerID="null" />
+<Player id="P41" spans="4058~4066" text="Courtois" playerID="null" />
+<Player id="P42" spans="4288~4294" text="Taylor" playerID="null" />
+<Player id="P43" spans="4331~4338" text="Willian" playerID="null" />
+<Player id="P44" spans="4398~4406" text="Schürrle" playerID="null" />
+<Player id="P45" spans="4504~4517" text="Didier Drogba" playerID="null" />
+<Player id="P46" spans="4576~4589" text="Cesc Fàbregas" playerID="null" />
+<Player id="P47" spans="4607~4614" text="Alnwick" playerID="null" />
+<Player id="P48" spans="4845~4852" text="Alnwick" playerID="null" />
+<Player id="P49" spans="4962~4967" text="Costa" playerID="null" />
+<Player id="P50" spans="4999~5010" text="Filipe Luís" playerID="null" />
+<Coref id="C0" spans="663~666" text="his" playerID="null" />
+<Coref id="C1" spans="2081~2084" text="his" playerID="null" />
+<Coref id="C2" spans="2508~2511" text="his" playerID="null" />
+<Coref id="C3" spans="2581~2583" text="he" playerID="null" />
+<Coref id="C4" spans="2908~2910" text="he" playerID="null" />
+<Coref id="C5" spans="3281~3284" text="his" playerID="null" />
+<Coref id="C6" spans="3952~3955" text="his" playerID="null" />
+<Coref id="C7" spans="3965~3967" text="he" playerID="null" />
+<Coref id="C8" spans="4078~4081" text="his" playerID="null" />
+<Coref id="C9" spans="4184~4187" text="his" playerID="null" />
+<Coref id="C10" spans="4242~4245" text="his" playerID="null" />
+<Coref id="C11" spans="4412~4414" text="he" playerID="null" />
+<Coref id="C12" spans="4549~4551" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

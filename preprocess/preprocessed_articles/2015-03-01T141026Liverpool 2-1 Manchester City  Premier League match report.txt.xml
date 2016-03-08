@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/mar/01/liverpool-manchester-city-premier-league-match-report
+
+Liverpool 2-1 Manchester City | Premier League match report
+
+
+The only fatigue in evidence at Anfield lay in Manchester City’s defence of the Premier League title. Liverpool were supposed to be travel-weary following Europa League exertions in Istanbul yet were revitalised by Brazilian brilliance from Philippe Coutinho. Brendan Rodgers’ “young magician” may have conjured a Champions League ticket and the end of a title contest at a stroke.
+ 
+Coutinho created one stunning goal for Jordan Henderson and scored another of his own to condemn Manuel Pellegrini’s champions to a second damaging 2-1 defeat in six days. City, for all their title-winning expertise and the incentive of closing the gap on Chelsea to two points, could not match the vibrancy or potency of the 22-year-old from Rio de Janeiro or the intensity of Liverpool’s overall performance.
+ 
+Sergio Agüero and David Silva offered hope in flashes for the visitors but, with the exception of their stellar talents, City were fresh out of ideas.
+ 
+The recent failure to sign players with the pedigree of Silva, Agüero and Yaya Touré, anonymous here until a late surging run into the Liverpool area, combined with Vincent Kompany’s regression in the heart of defence has added to Pellegrini’s problems in attempting to keep pace with Chelsea.
+ 
+Liverpool extended City’s wait for a first win at Anfield since 2003 with a result that will change their own perceptions of what is achievable in the league this season.
+ 
+Rodgers did all he could to minimise the impact of Thursday’s 120-minute outing against Besiktas and his decision to rest the mesmerising Coutinho in Turkey paid dividends. The opening suggested his concerns at Friday’s 4.19am return had substance as City controlled possession but they imploded during an error-strewn five-minute spell that energised Liverpool and a previously flat atmosphere.
+ 
+Central to the shift were Coutinho and Kompany. The first chance of the game set a template for much that followed as Coutinho played Adam Lallana into a gaping hole in the City defence created by Kompany’s and Eliaquim Mangala’s decision to track Raheem Sterling. Lallana shot tamely at Joe Hart, and also had two goals disallowed for offside, but more City mistakes ensured the reprieve was short-lived.
+ 
+Fernandinho, who replaced Fernando following the Brazilian’s ineffectual performance against Barcelona, sold his captain short with a careless pass on the halfway line. Kompany lost out in the challenge to the slight Coutinho who broke with speed and found Sterling. The 20-year-old squared to Henderson and Liverpool’s captain for the day cut in from the left to send an outstanding finish into the top corner from 20 yards. It was an exquisite breakthrough from a midfielder determined to take responsibility in the absence of the injured Steven Gerrard, but also a worrying sign for Pellegrini in terms of his own captain’s contribution.
+ 
+Kompany had struggled in the Champions League on Tuesday and City’s centre defence was vulnerable again at Anfield. The Belgian has resorted to the creaking centre-half’s refuge of instinctively blocking a striker’s run by any means necessary, as he no longer backs his powers of recovery, yet Kompany was immune to a yellow card from the referee, Mark Clattenburg. Wilfried Bony also benefited from the referee’s leniency when he caught Lallana in the face with a raised arm but the substitute was only booked.
+ 
+City almost levelled immediately when Agüero latched onto Silva’s ball over the top and sent a first time shot beyond Simon Mignolet but also against the foot of a post. The visitors gradually rediscovered their composure on the ball, in the final third at least, and demonstrated their ability to grind down opponents with fine team goal.
+ 
+The equaliser originated from a loose pass by Coutinho of all people. Pablo Zabaleta intercepted a pass intended for Sterling, Touré picked out Silva, the Spaniard released Agüero into space in front of Liverpool’s back three and the striker picked out Edin Dzeko’s run in behind. Dzeko duly despatched a measured finish into Mignolet’s bottom corner.
+ 
+Despite regaining a measure of control City’s defence repeatedly struggled against Liverpool’s fast-moving forward line and it was the home side who continued to create the clearer openings. Lallana swept a half-volley wide of the far post from Lazar Markovic’s chip into the box, Kompany blocked a Sterling shot and the winger scuffed an excellent chance wide from Lallana’s inviting cross shortly after the restart.
+ 
+The second half developed into a scrappy, even affair in desperate need of a moment of class to lift it beyond the ordinary. Coutinho was the man to oblige. There were 15 minutes remaining when Sterling spun away from his marker and found Liverpool’s No10 lurking with intent to the left of the City area. Coutinho stepped inside Samir Nasri and, without needing to glance up, curled a superb shot over Hart’s despairing dive into the far corner. A goal worthy of winning any game and, quite possibly, flooring a title challenge in the process.
+ 
+Man of the match Philippe Coutinho (Liverpool)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="415~423" text="Coutinho" playerID="null" />
+<Player id="P1" spans="549~557" text="Coutinho" playerID="null" />
+<Player id="P2" spans="588~604" text="Jordan Henderson" playerID="null" />
+<Player id="P3" spans="962~975" text="Sergio Agüero" playerID="null" />
+<Player id="P4" spans="980~991" text="David Silva" playerID="null" />
+<Player id="P5" spans="986~991" text="Silva" playerID="null" />
+<Player id="P6" spans="1171~1176" text="Silva" playerID="null" />
+<Player id="P7" spans="1178~1184" text="Agüero" playerID="null" />
+<Player id="P8" spans="1189~1199" text="Yaya Touré" playerID="null" />
+<Player id="P9" spans="1194~1199" text="Touré" playerID="null" />
+<Player id="P10" spans="1280~1295" text="Vincent Kompany" playerID="null" />
+<Player id="P11" spans="1722~1730" text="Coutinho" playerID="null" />
+<Player id="P12" spans="2008~2016" text="Coutinho" playerID="null" />
+<Player id="P13" spans="2021~2028" text="Kompany" playerID="null" />
+<Player id="P14" spans="2100~2108" text="Coutinho" playerID="null" />
+<Player id="P15" spans="2116~2128" text="Adam Lallana" playerID="null" />
+<Player id="P16" spans="2179~2186" text="Kompany" playerID="null" />
+<Player id="P17" spans="2193~2209" text="Eliaquim Mangala" playerID="null" />
+<Player id="P18" spans="2230~2245" text="Raheem Sterling" playerID="null" />
+<Player id="P19" spans="2247~2254" text="Lallana" playerID="null" />
+<Player id="P20" spans="2270~2278" text="Joe Hart" playerID="null" />
+<Player id="P21" spans="2390~2401" text="Fernandinho" playerID="null" />
+<Player id="P22" spans="2416~2424" text="Fernando" playerID="null" />
+<Player id="P23" spans="2559~2566" text="Kompany" playerID="null" />
+<Player id="P24" spans="2607~2615" text="Coutinho" playerID="null" />
+<Player id="P25" spans="2647~2655" text="Sterling" playerID="null" />
+<Player id="P26" spans="2684~2693" text="Henderson" playerID="null" />
+<Player id="P27" spans="2931~2945" text="Steven Gerrard" playerID="null" />
+<Player id="P28" spans="3033~3040" text="Kompany" playerID="null" />
+<Player id="P29" spans="3327~3334" text="Kompany" playerID="null" />
+<Player id="P30" spans="3399~3412" text="Wilfried Bony" playerID="null" />
+<Player id="P31" spans="3471~3478" text="Lallana" playerID="null" />
+<Player id="P32" spans="3585~3591" text="Agüero" playerID="null" />
+<Player id="P33" spans="3605~3610" text="Silva" playerID="null" />
+<Player id="P34" spans="3665~3679" text="Simon Mignolet" playerID="null" />
+<Player id="P35" spans="3935~3943" text="Coutinho" playerID="null" />
+<Player id="P36" spans="3959~3973" text="Pablo Zabaleta" playerID="null" />
+<Player id="P37" spans="4006~4014" text="Sterling" playerID="null" />
+<Player id="P38" spans="4016~4021" text="Touré" playerID="null" />
+<Player id="P39" spans="4033~4038" text="Silva" playerID="null" />
+<Player id="P40" spans="4062~4068" text="Agüero" playerID="null" />
+<Player id="P41" spans="4142~4152" text="Edin Dzeko" playerID="null" />
+<Player id="P42" spans="4170~4175" text="Dzeko" playerID="null" />
+<Player id="P43" spans="4215~4223" text="Mignolet" playerID="null" />
+<Player id="P44" spans="4434~4441" text="Lallana" playerID="null" />
+<Player id="P45" spans="4488~4502" text="Lazar Markovic" playerID="null" />
+<Player id="P46" spans="4524~4531" text="Kompany" playerID="null" />
+<Player id="P47" spans="4542~4550" text="Sterling" playerID="null" />
+<Player id="P48" spans="4609~4616" text="Lallana" playerID="null" />
+<Player id="P49" spans="4788~4796" text="Coutinho" playerID="null" />
+<Player id="P50" spans="4857~4865" text="Sterling" playerID="null" />
+<Player id="P51" spans="4969~4977" text="Coutinho" playerID="null" />
+<Player id="P52" spans="4993~5004" text="Samir Nasri" playerID="null" />
+<Player id="P53" spans="5066~5070" text="Hart" playerID="null" />
+<Player id="P54" spans="5236~5244" text="Coutinho" playerID="null" />
+<Coref id="C0" spans="627~630" text="his" playerID="null" />
+<Coref id="C1" spans="1600~1602" text="he" playerID="null" />
+<Coref id="C2" spans="1685~1688" text="his" playerID="null" />
+<Coref id="C3" spans="1779~1782" text="his" playerID="null" />
+<Coref id="C4" spans="2499~2502" text="his" playerID="null" />
+<Coref id="C5" spans="2999~3002" text="his" playerID="null" />
+<Coref id="C6" spans="3280~3282" text="he" playerID="null" />
+<Coref id="C7" spans="3299~3302" text="his" playerID="null" />
+<Coref id="C8" spans="3461~3463" text="he" playerID="null" />
+<Coref id="C9" spans="4881~4884" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/jan/10/sunderland-liverpool-premier-league-match-report
+
+Sunderland 0-1 Liverpool | Premier League match report
+
+
+Has all the talk about Liverpool’s decline been exaggerated? Or is it more a case of Sunderland’s deficiencies being under-estimated?
+ 
+Forget the deceptively narrow scoreline, Brendan Rodgers’s side could easily have won by three or four goals on a day when they were comfortably in control long before Liam Bridcutt’s 49th-minute dismissal for a second bookable offence.
+ 
+With Lazar Markovic excelling in a howling wind, a significantly under-strength Liverpool enhanced their hopes of a top-four push while Gus Poyet contemplated another painful struggle against relegation.
+ 
+Good as the quietly renascent visitors were at times they still endured a few defensive wobbles, leaving Sunderland supporters increasingly alarmed by their team’s failure to give the returning Simon Mignolet a proper work-out in goal.
+ 
+Those fans know that theories about the Wearsiders being difficult to break down would have been thoroughly deconstructed had Philippe Coutinho and company taken their chances. Indeed, without the injured Lee Cattermole around to break up play and set the tempo Sunderland looked worryingly fragile.
+ 
+It left Poyet suitably downcast. “I’m disappointed because I thought by now I’d have had a better impact on how the team plays,” he said. “It’s taking longer than I thought. Some players are taking a long time to learn the basics of how I play.”
+ 
+Liverpool should have had a very early penalty but Craig Pawson refused to accept that Wes Brown had blatantly brought Markovic down in the area. Rodgers looked aggrieved but soon he must have felt deeply relieved as a piece of first-class officiating on Pawson’s part enabled Markovic finally to score. When Fabio Borini was fouled in the preamble to the goal, the referee played an excellent advantage, thereby permitting the ball to drop to Markovic. The Serb staggered his way into the area before punishing Costel Pantilimon courtesy of a slightly unorthodox shot directed through the Romanian’s legs.
+ 
+“Lazar was fantastic,” said Rodgers, evidently relieved his summer signing from Benfica is finally confounding the doubters. “He’s taken time to adapt to a new country but he was very, very good indeed – and not just with the ball.”
+ 
+With Steven Gerrard deployed in a more advanced role than usual during the final north-east leg of his farewell tour, Liverpool were omnipotent. Tellingly, Rodgers’s 3-4-3 formation – initially featuring the impressively influential Gerrard on the right of an attacking trident that also included Borini and Coutinho – seemed to be fully fazing a Sunderland ensemble apparently unable to fathom this configuration.
+ 
+Taking full advantage of the hosts’ extreme politeness in persistently standing off him, Markovic very nearly scored a second with a sumptuous right-foot volley in the wake of a half-cleared corner. All high-calibre technique, it was unleashed, acrobatically, in mid-air and rebounded off a post before Pantilimon tipped it to safety.
+ 
+Noting that Jordan Henderson – once of this parish and a man described by Rodgers as “a real leader who, without question can become captain of this club” – and Lucas were controlling central midfield, home fans greeted the half-time whistle with resounding boos. “I understand their frustration,” said Poyet. “But I think they should be a little more patient. They have to be realistic … but it’s unfair to ask the fans for anything – and it’s true that we don’t give them much.”
+ 
+If locals were relieved to see Liverpool’s current captain replaced by Dejan Lovren in a half-time switch necessitated by Gerrard’s tight hamstring, which provoked Emre Can’s relocation from Rodgers’s back three to midfield, any sense of euphoria proved short-lived.
+ 
+Bridcutt had spent the first period looking a very poor man’s Cattermole in the midfield anchoring role but he saw precious little of the remaining 45 minutes after being sent off for a second bookable offence. Having earlier been shown a yellow card for fouling Gerrard, his subsequent push on Can gave Pawson little choice but to issue a red.
+ 
+At that point Sunderland’s cause appeared forlorn but, strangely, they instead upped the tempo, began closing opponents down and proceeded to enjoy their best patch of the afternoon.
+ 
+At its zenith Adam Johnson unleashed a fabulous swerving shot that bounced back tantalisingly from the underside of the bar with Mignolet surely beaten and Liverpool thankful somehow to scramble the ball clear.
+ 
+“The sending-off threw us for 10 minutes,” said Rodgers, whose replacement of Borini with Mario Balotelli subsequently helped his team reassert much of their earlier authority. “The only disappointment is that we didn’t win by more.”
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="459~472" text="Liam Bridcutt" playerID="null" />
+<Player id="P1" spans="535~549" text="Lazar Markovic" playerID="null" />
+<Player id="P2" spans="670~675" text="Poyet" playerID="null" />
+<Player id="P3" spans="736~740" text="Good" playerID="null" />
+<Player id="P4" spans="930~944" text="Simon Mignolet" playerID="null" />
+<Player id="P5" spans="1109~1117" text="Coutinho" playerID="null" />
+<Player id="P6" spans="1179~1193" text="Lee Cattermole" playerID="null" />
+<Player id="P7" spans="1284~1289" text="Poyet" playerID="null" />
+<Player id="P8" spans="1611~1620" text="Wes Brown" playerID="null" />
+<Player id="P9" spans="1615~1620" text="Brown" playerID="null" />
+<Player id="P10" spans="1643~1651" text="Markovic" playerID="null" />
+<Player id="P11" spans="1801~1809" text="Markovic" playerID="null" />
+<Player id="P12" spans="1833~1845" text="Fabio Borini" playerID="null" />
+<Player id="P13" spans="1968~1976" text="Markovic" playerID="null" />
+<Player id="P14" spans="2036~2053" text="Costel Pantilimon" playerID="null" />
+<Player id="P15" spans="2373~2387" text="Steven Gerrard" playerID="null" />
+<Player id="P16" spans="2601~2608" text="Gerrard" playerID="null" />
+<Player id="P17" spans="2665~2671" text="Borini" playerID="null" />
+<Player id="P18" spans="2676~2684" text="Coutinho" playerID="null" />
+<Player id="P19" spans="2874~2882" text="Markovic" playerID="null" />
+<Player id="P20" spans="3088~3098" text="Pantilimon" playerID="null" />
+<Player id="P21" spans="3134~3150" text="Jordan Henderson" playerID="null" />
+<Player id="P22" spans="3425~3430" text="Poyet" playerID="null" />
+<Player id="P23" spans="3676~3688" text="Dejan Lovren" playerID="null" />
+<Player id="P24" spans="3727~3734" text="Gerrard" playerID="null" />
+<Player id="P25" spans="3769~3777" text="Emre Can" playerID="null" />
+<Player id="P26" spans="3874~3882" text="Bridcutt" playerID="null" />
+<Player id="P27" spans="3936~3946" text="Cattermole" playerID="null" />
+<Player id="P28" spans="4137~4144" text="Gerrard" playerID="null" />
+<Player id="P29" spans="4169~4172" text="Can" playerID="null" />
+<Player id="P30" spans="4420~4432" text="Adam Johnson" playerID="null" />
+<Player id="P31" spans="4535~4543" text="Mignolet" playerID="null" />
+<Player id="P32" spans="4697~4703" text="Borini" playerID="null" />
+<Player id="P33" spans="4709~4724" text="Mario Balotelli" playerID="null" />
+<Coref id="C0" spans="1405~1407" text="he" playerID="null" />
+<Coref id="C1" spans="1704~1706" text="he" playerID="null" />
+<Coref id="C2" spans="1997~2000" text="his" playerID="null" />
+<Coref id="C3" spans="2189~2192" text="his" playerID="null" />
+<Coref id="C4" spans="2259~2261" text="He" playerID="null" />
+<Coref id="C5" spans="2305~2307" text="he" playerID="null" />
+<Coref id="C6" spans="2467~2470" text="his" playerID="null" />
+<Coref id="C7" spans="3982~3984" text="he" playerID="null" />
+<Coref id="C8" spans="4146~4149" text="his" playerID="null" />
+<Coref id="C9" spans="4745~4748" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

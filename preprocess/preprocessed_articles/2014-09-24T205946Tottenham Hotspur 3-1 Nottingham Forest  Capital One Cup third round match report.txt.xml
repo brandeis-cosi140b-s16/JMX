@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/24/tottenham-hotspur-nottingham-forest-capital-one-cup-match-report
+
+Tottenham Hotspur 3-1 Nottingham Forest | Capital One Cup third round match report
+
+
+For 82 minutes it had been difficult to remember whether Roberto Soldado had contributed anything to this Capital One Cup tie. Then, with one opportunistic stab of his boot, he effectively settled the issue to inspire plenty of emotions in those connected to Tottenham Hotspur, but principally relief.
+ 
+It was one of those nights when the London club had rather more to lose. And they almost did. When Jorge Grant, the 19-year-old midfielder with only two minutes of previous first-team experience to his name, shot Nottingham Forest into the lead, it was easy to fear the worst for Tottenham.
+ 
+Mauricio Pochettino had made 11 changes to the team that slumped here against West Bromwich Albion in the Premier League on Sunday and he sorely needed a response, in terms of the performance and result. His team had not won in four matches in all competitions and they had drawn blanks in three of them.
+ 
+But up until Grant’s goal they had again been flat; the search for ideas was painful. White Hart Lane fretted. And yet Pochettino and his team picked themselves up, with the catalyst being the introduction in the 64th minute of the midfielder Ryan Mason and the striker Harry Kane as a partner for Soldado .
+ 
+Mason’s impact was immediate. His rasping long-range drive swerved beyond the clutches of the Forest goalkeeper Dorus De Vries to bring up his first goal for the club. De Vries might have done better and there was a comic moment when the ball bounced out of the net and Soldado, from point-blank range, moved to thump it back in. Only he missed the target.
+ 
+It seemed to sum up his evening, one in which he had little support while he toiled on his own and, equally, did little to seek it. But, after the lively Andros Townsend had rattled the crossbar with a free-kick, Soldado drifted in from the fringes to divert the winger’s low drive past De Vries. Minutes later Soldado was substituted to great acclaim. The support that he has enjoyed in these parts since his £26m move from Valencia in the summer of last year has been tremendous.
+ 
+Tottenham’s response to the concession was impressive and, when the final substitute, Érik Lamela, fed Kane with a glorious reverse ball, the young striker applied a gloss to the scoreline that seemed harsh on Forest.
+ 
+“I was calm [at 0-1] because we needed to be calm, after this disaster,” Pochettino said. “We always believed we could come back. When the moment is difficult, we need to show character. In the last 15 minutes we played how we need to play. This is the way.”
+ 
+Stuart Pearce, the Forest manager, was proud in defeat and he had much to be proud of, particularly the performances of his younger players. Grant, who turns 20 on Friday, shone as part of a five-man midfield alongside Ben Osborn, 20, and Jamie Paterson, 22.
+ 
+Pearce made nine changes from the team that drew 0-0 at Millwall on Saturday and he left out a host of his regulars from the match-day squad, including Britt Assombalonga, the in-form striker. On paper at least, Pearce’s starting line-up in the previous round at Tranmere Rovers had looked stronger.But Pearce got his tactics spot on, even if it does not take a genius to see that Tottenham can struggle at home against well-organised teams who look to stay compact and punch quickly on the counter.
+ 
+The Championship leaders had their moments in the first half, not least when Osborn picked up possession inside his own half, ran away from Benjamin Stambouli and Federico Fazio before slamming a shot against the crossbar. From the follow-up Grant tested Michel Vorm with a curler at the far corner.
+ 
+Townsend was fortunate to avoid conceding a penalty when he misjudged a high clearance and the ball struck his outstretched arm, while Fazio needed to make a saving tackle on Lars Veldwijk after initially misreading a long punt forward. The Forest fans, many of them resplendent in Brian Clough green, enjoyed themselves.
+ 
+Despite Townsend’s pace and willingness, Tottenham mustered nothing on target in the first half and the tie became a test of the players’ character, especially after Grant’s goal, which followed Lars Veldwijk’s cross and Stephen McLaughlin’s touch. Grant was unmarked inside the six-yard box.
+ 
+The disappointing Paulinho had gone close with one excellent flick on 56 minutes but Pochettino’s team eventually found the answers. “Tottenham have had a big scare,” Pearce said. Nobody was arguing.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="256~271" text="Roberto Soldado" playerID="null" />
+<Player id="P1" spans="608~613" text="Grant" playerID="null" />
+<Player id="P2" spans="1116~1121" text="Grant" playerID="null" />
+<Player id="P3" spans="1195~1199" text="Hart" playerID="null" />
+<Player id="P4" spans="1346~1356" text="Ryan Mason" playerID="null" />
+<Player id="P5" spans="1373~1383" text="Harry Kane" playerID="null" />
+<Player id="P6" spans="1401~1408" text="Soldado" playerID="null" />
+<Player id="P7" spans="1413~1418" text="Mason" playerID="null" />
+<Player id="P8" spans="1683~1690" text="Soldado" playerID="null" />
+<Player id="P9" spans="1926~1941" text="Andros Townsend" playerID="null" />
+<Player id="P10" spans="1985~1992" text="Soldado" playerID="null" />
+<Player id="P11" spans="2083~2090" text="Soldado" playerID="null" />
+<Player id="P12" spans="2197~2205" text="Valencia" playerID="null" />
+<Player id="P13" spans="2342~2353" text="Érik Lamela" playerID="null" />
+<Player id="P14" spans="2359~2363" text="Kane" playerID="null" />
+<Player id="P15" spans="2878~2883" text="Grant" playerID="null" />
+<Player id="P16" spans="3640~3658" text="Benjamin Stambouli" playerID="null" />
+<Player id="P17" spans="3663~3677" text="Federico Fazio" playerID="null" />
+<Player id="P18" spans="3742~3747" text="Grant" playerID="null" />
+<Player id="P19" spans="3755~3766" text="Michel Vorm" playerID="null" />
+<Player id="P20" spans="3802~3810" text="Townsend" playerID="null" />
+<Player id="P21" spans="3937~3942" text="Fazio" playerID="null" />
+<Player id="P22" spans="4134~4142" text="Townsend" playerID="null" />
+<Player id="P23" spans="4292~4297" text="Grant" playerID="null" />
+<Player id="P24" spans="4375~4380" text="Grant" playerID="null" />
+<Player id="P25" spans="4439~4447" text="Paulinho" playerID="null" />
+<Coref id="C0" spans="363~366" text="his" playerID="null" />
+<Coref id="C1" spans="373~375" text="he" playerID="null" />
+<Coref id="C2" spans="701~704" text="his" playerID="null" />
+<Coref id="C3" spans="931~933" text="he" playerID="null" />
+<Coref id="C4" spans="1000~1003" text="His" playerID="null" />
+<Coref id="C5" spans="1237~1240" text="his" playerID="null" />
+<Coref id="C6" spans="1443~1446" text="His" playerID="null" />
+<Coref id="C7" spans="1552~1555" text="his" playerID="null" />
+<Coref id="C8" spans="1748~1750" text="he" playerID="null" />
+<Coref id="C9" spans="1792~1795" text="his" playerID="null" />
+<Coref id="C10" spans="1818~1820" text="he" playerID="null" />
+<Coref id="C11" spans="1846~1848" text="he" playerID="null" />
+<Coref id="C12" spans="1859~1862" text="his" playerID="null" />
+<Coref id="C13" spans="2142~2144" text="he" playerID="null" />
+<Coref id="C14" spans="2178~2181" text="his" playerID="null" />
+<Coref id="C15" spans="2796~2798" text="he" playerID="null" />
+<Coref id="C16" spans="2857~2860" text="his" playerID="null" />
+<Coref id="C17" spans="3079~3081" text="he" playerID="null" />
+<Coref id="C18" spans="3101~3104" text="his" playerID="null" />
+<Coref id="C19" spans="3312~3315" text="his" playerID="null" />
+<Coref id="C20" spans="3612~3615" text="his" playerID="null" />
+<Coref id="C21" spans="3859~3861" text="he" playerID="null" />
+<Coref id="C22" spans="3909~3912" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

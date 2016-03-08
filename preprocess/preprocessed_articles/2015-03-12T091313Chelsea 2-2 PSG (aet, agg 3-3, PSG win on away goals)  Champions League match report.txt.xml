@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/mar/11/chelsea-psg-champions-league-match-report
+
+Chelsea 2-2 PSG (aet, agg: 3-3, PSG win on away goals) | Champions League match report
+
+
+It was a wild, draining night and for a long time before that dramatic finale, when the Paris Saint-Germain players still had the energy to party and Diego Costa looked like he wanted to fight anyone who got in his way, it had threatened to be a personal ordeal for Zlatan Ibrahimovic. Instead, it was a show of competitive courage from Laurent Blanc’s team. A lot will be said of Chelsea’s shortcomings but this also seemed like the night the French champions announced their arrival on the highest stage.
+ 
+What an introduction it was, too, bearing in mind Ibrahimovic’s red card meant they had to play all but the first 31 minutes with 10 men. Twice, they found themselves behind, seemingly on their way out, and on both occasions they absolutely refused to let their lack of numbers debilitate them. Thiago Silva’s decisive header looped over Thibaut Courtois with six minutes to go in the second period of extra time. David Luiz, outstanding against his former club, had taken the game into the additional half-hour with another headed goal four minutes from the end of normal time and the fact both came direct from corners seemed to sum up the unusual nature of Chelsea’s performance.
+ 
+It was a stodgy, weary display from Mourinho’s team with only sporadic moments when they threatened Salvatore Sirigu’s goal and their manager seemed bewildered afterwards when he tried to explain what had gone wrong. Mourinho was entitled to think his team should have had a first-half penalty when Edinson Cavani tripped Costa. Yet those complaints were undermined by the nature of Ibrahimovic’s sending-off. Chelsea were given a debatable penalty for Eden Hazard to make it 2-1 in the first period of extra-time and it was another night of repeat offending from Costa. Mourinho, in fairness, focused on his team’s shortcomings rather than any misplaced sense of injustice and even called for Uefa to let Ibrahimovic off. He did, however, follow that up by saying David Luiz should be suspended instead for elbowing Costa.
+           Chelsea could not handle PSG pressure, says José Mourinho    
+As always, there were a bundle of different side issues. The bigger point, however, is that Chelsea should have been capable of controlling the tie once Ibrahimovic was removed from the game. Hazard’s penalty, after the ball had taken the merest of flicks off Silva’s hand, had looked like putting Chelsea into the quarter-finals for the seventh time in nine years. Then again, it had been tempting to think the same after Gary Cahill opened the scoring in the 81st minute. Their opponents simply refused to give up. Other teams might have wilted. Yet this was a fit team, as well as one playing with self-belief, and the defensive errors at the end, with John Terry losing Silva for the killer goal, suggested it was Chelsea rather than their opponents who were tiring.
+ 
+Blanc could also reflect afterwards on the moment, after 57 minutes, when Thiago Motta’s pass sent Cavani running clear; the Uruguayan went around Courtois, only for his shot to clip the inside of one post then flash past the other.
+ 
+The corner for Silva’s goal came about after Courtois had saved another header from the same player. Again, it was from a cross into the penalty area, with plenty of defenders around. When was the last time Chelsea were so vulnerable from the corner spot?
+ 
+Ibrahimovic’s challenge on Oscar was clumsy and mistimed – and a player of his size, leaping in at full speed, is asking for trouble – but he did turn his leg away when he realised he was too late to connect with the ball. His studs were not showing and PSG’s players clearly thought was the reaction of Oscar’s team-mates that influenced the Dutch referee, Bjorn Kuipers. Terry and César Azpilicueta led the outrage while Cesc Fàbregas went from demanding a red card to consoling Ibrahimovic within a matter of seconds. Nine Chelsea players were in close proximity to the referee and the PSG players, in turn, remonstrated with their opponents for taking the protests too far. That set the tone for the night, with Costa and David Luiz prominently involved in the different flash points.
+ 
+Until that point, it had been a strangely subdued game, with both teams using the opening half an hour to size one another up. Hazard had looked determined to lift the quality but it needed the sending-off to spark the game into life.
+ 
+It is rare to see Chelsea so susceptible defensively. Yet they also lacked penetration in attack, despite Hazard’s menace. Blanc had switched Cavani to a more central role after the red card and the forward excelled in place of Ibrahimovic. Oscar was substituted at half-time. Fàbregas is having a lapse in form and Costa seems so preoccupied with alpha-male aggro it possibly distracts him from the rather more important task of beating the opposition goalkeeper.
+ 
+It was Costa’s miscued shot, after Terry had knocked down a half-cleared corner, that gave Cahill the chance to open the scoring. Yet Mourinho talked afterwards about a team that “could not handle the pressure”. David Luiz seemed inspired by that pressure. His header for the equaliser was the type that could be prefixed with the word “bullet”. Silva’s was a measured effort, weighted perfectly to drop beyond Courtois, and Mourinho did not hide from the truth. Chelsea, he said, deserved to be beaten.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="330~341" text="Diego Costa" playerID="null" />
+<Player id="P1" spans="991~996" text="Silva" playerID="null" />
+<Player id="P2" spans="1027~1043" text="Thibaut Courtois" playerID="null" />
+<Player id="P3" spans="1696~1701" text="Costa" playerID="null" />
+<Player id="P4" spans="1827~1838" text="Eden Hazard" playerID="null" />
+<Player id="P5" spans="1938~1943" text="Costa" playerID="null" />
+<Player id="P6" spans="2191~2196" text="Costa" playerID="null" />
+<Player id="P7" spans="2463~2469" text="Hazard" playerID="null" />
+<Player id="P8" spans="2531~2536" text="Silva" playerID="null" />
+<Player id="P9" spans="2694~2705" text="Gary Cahill" playerID="null" />
+<Player id="P10" spans="2927~2937" text="John Terry" playerID="null" />
+<Player id="P11" spans="2945~2950" text="Silva" playerID="null" />
+<Player id="P12" spans="3191~3199" text="Courtois" playerID="null" />
+<Player id="P13" spans="3294~3299" text="Silva" playerID="null" />
+<Player id="P14" spans="3324~3332" text="Courtois" playerID="null" />
+<Player id="P15" spans="3564~3569" text="Oscar" playerID="null" />
+<Player id="P16" spans="3841~3846" text="Oscar" playerID="null" />
+<Player id="P17" spans="3910~3915" text="Terry" playerID="null" />
+<Player id="P18" spans="3920~3937" text="César Azpilicueta" playerID="null" />
+<Player id="P19" spans="3960~3973" text="Cesc Fàbregas" playerID="null" />
+<Player id="P20" spans="4253~4258" text="Costa" playerID="null" />
+<Player id="P21" spans="4455~4461" text="Hazard" playerID="null" />
+<Player id="P22" spans="4671~4677" text="Hazard" playerID="null" />
+<Player id="P23" spans="4806~4811" text="Oscar" playerID="null" />
+<Player id="P24" spans="4842~4850" text="Fàbregas" playerID="null" />
+<Player id="P25" spans="4881~4886" text="Costa" playerID="null" />
+<Player id="P26" spans="5039~5044" text="Costa" playerID="null" />
+<Player id="P27" spans="5067~5072" text="Terry" playerID="null" />
+<Player id="P28" spans="5123~5129" text="Cahill" playerID="null" />
+<Player id="P29" spans="5378~5383" text="Silva" playerID="null" />
+<Player id="P30" spans="5443~5451" text="Courtois" playerID="null" />
+<Coref id="C0" spans="354~356" text="he" playerID="null" />
+<Coref id="C1" spans="391~394" text="his" playerID="null" />
+<Coref id="C2" spans="1135~1138" text="his" playerID="null" />
+<Coref id="C3" spans="1550~1552" text="he" playerID="null" />
+<Coref id="C4" spans="1622~1625" text="his" playerID="null" />
+<Coref id="C5" spans="1979~1982" text="his" playerID="null" />
+<Coref id="C6" spans="2097~2099" text="He" playerID="null" />
+<Coref id="C7" spans="3210~3213" text="his" playerID="null" />
+<Coref id="C8" spans="3612~3615" text="his" playerID="null" />
+<Coref id="C9" spans="3676~3678" text="he" playerID="null" />
+<Coref id="C10" spans="3688~3691" text="his" playerID="null" />
+<Coref id="C11" spans="3706~3708" text="he" playerID="null" />
+<Coref id="C12" spans="3718~3720" text="he" playerID="null" />
+<Coref id="C13" spans="3760~3763" text="His" playerID="null" />
+<Coref id="C14" spans="5289~5292" text="His" playerID="null" />
+<Coref id="C15" spans="5504~5506" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

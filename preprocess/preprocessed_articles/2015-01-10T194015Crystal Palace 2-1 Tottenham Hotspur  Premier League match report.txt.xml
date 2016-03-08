@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/jan/10/crystal-palace-tottenham-hotspur-premier-league-match-report
+
+Crystal Palace 2-1 Tottenham Hotspur | Premier League match report
+
+
+As Alan Pardew walked off the pitch punching the air and blowing kisses to the Selhurst Park faithful, it became crystal clear why he had left a top-half club for a team fighting against relegation. The relationship between Pardew and Newcastle United supporters had deteriorated to the point that it was hard to envisage them sharing such joy on a regular basis again, and Pardew is a manager who thrives on positive emotion.
+ 
+Palace, too, needed to stoke fresh passion. This is a club that had fallen into the grip of uncharacteristic sullenness during the first half of the season. Results and performances had not been atrocious under Neil Warnock but they had been dispiriting, lacking the qualities required to instil hope. By the end of this slow burner of a match, Palace were showcasing those qualities again. Suddenly their survival prospects look brighter. This Palace were effervescent, disciplined and sharp. “If I could pay credit to Tony Pulis, in the last 15 minutes the team looked like the team from last year,” said Pardew, who still felt it prudent to give a reminder that fortunes can switch quickly. He knows that better than most.
+ 
+“Football is highs and lows,” he said. “Spurs probably had one of the performances of the season against Chelsea last time and then they come and get beaten at Crystal Palace, so it changes quickly. It’ll be the same for us if we lose at Burnley next week, so you have to keep your feet on the floor.”
+ 
+Pardew’s impact was not instantaneous. Indeed, he admitted he was disappointed with his team’s start to this match. They pressed with great vigour and even mustered the first shot, albeit a wayward long-range effort from Barry Bannan, but Spurs soon began to look ominously comfortable. Mauricio Pochettino’s team had come into the match on the back of a six-match unbeaten streak that included that exhilarating victory over Chelsea. When Harry Kane forced a save from Julián Speroni with a decent drive in the 17th minute, it seemed like the Palace goalkeeper might be in for a busy afternoon.
+ 
+Palace were granted a surprising pardon in the 22nd minute when Christian Eriksen slashed wide from seven yards after Spurs had cut the home defence asunder, Kyle Walker serving the Dane with a low cross after racing past Martin Kelly.
+ 
+Pardew’s side responded well and two minutes later James McArthur headed a Dwight Gayle cross over from 16 yards. Then, in the 35th minute, Kelly won the ball deep in Tottenham territory before passing to McArthur, whose canny pass gave Glenn Murray exactly the sort of chance that the striker had been recalled from his loan spell at Reading to take. But Hugo Lloris dashed off his line and saved the striker’s shot with his legs.
+ 
+Murray’s inclusion was one of two personnel changes that Pardew had made. With Murray stationed ahead of a four-man midfield featuring Gayle on the left, Palace deployed two specialist predators in a bid to solve the scoring problems that have hampered them all season. Joe Ledley was entrusted with Mile Jedinak’s deeper midfield role, while the other noticeable formation change saw the full-backs Kelly and Joel Ward switch sides to enable the latter to revert to the right.
+ 
+A half-time change by Pardew helped give Palace the edge, as Adlène Guedioura’s intelligence in midfield enabled them to gain a platform higher up the pitch. That, however, did not become apparent until after Spurs had taken the lead. In the 49th minute Kane produced a flash of the form that has enabled him to plunder six goals in six league games, collecting a through-ball from Nacer Chadli before adjusting his feet and firing a precise low shot into the corner of the net from the edge of the Palace box.
+ 
+Palace’s immediate reply was promising. Twice in the next four minutes Scott Dann headed free-kicks from Jason Puncheon on to Gayle, who was thwarted both times by Lloris. Gayle would not be denied in the 69th minute, however, after Palace were awarded a penalty following an ill-advised challenge by Benjamin Stambouli on Ledley. Gayle rammed the spot-kick into the bottom corner.
+ 
+Both managers altered their strikeforces as they pursued three points. Pardew introduced Wilfried Zaha for Murray while Pochettino replaced Stambouli with Roberto Soldado. Pardew’s switch was to prove more effective, as Zaha created the winning goal with a run from the left that combined trickery and determination. Puncheon complemented that build-up by finishing superbly, whacking a low shot into the net from 16 yards.
+ 
+Spurs appealed for a penalty when Kane tumbled in the box moments later – Pardew admitted the visitors had a good case – and Speroni had to make an awkward save from a swirling shot by Mousa Dembélé. But that is not to say Palace finished by clinging on - for they, too, threatened to score again, Zaha bringing a notable late save from Lloris.
+ 
+By the end Palace positively fizzed with a vigour and unpredictability that augurs well and that will worry anyone who had been counting on them taking one of the relegation spots.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="1861~1866" text="Barry" playerID="null" />
+<Player id="P1" spans="1861~1873" text="Barry Bannan" playerID="null" />
+<Player id="P2" spans="2080~2090" text="Harry Kane" playerID="null" />
+<Player id="P3" spans="2110~2124" text="Julián Speroni" playerID="null" />
+<Player id="P4" spans="2302~2319" text="Christian Eriksen" playerID="null" />
+<Player id="P5" spans="2396~2407" text="Kyle Walker" playerID="null" />
+<Player id="P6" spans="2460~2472" text="Martin Kelly" playerID="null" />
+<Player id="P7" spans="2527~2541" text="James McArthur" playerID="null" />
+<Player id="P8" spans="2551~2563" text="Dwight Gayle" playerID="null" />
+<Player id="P9" spans="2616~2621" text="Kelly" playerID="null" />
+<Player id="P10" spans="2681~2689" text="McArthur" playerID="null" />
+<Player id="P11" spans="2713~2725" text="Glenn Murray" playerID="null" />
+<Player id="P12" spans="2832~2843" text="Hugo Lloris" playerID="null" />
+<Player id="P13" spans="2910~2916" text="Murray" playerID="null" />
+<Player id="P14" spans="2989~2995" text="Murray" playerID="null" />
+<Player id="P15" spans="3045~3050" text="Gayle" playerID="null" />
+<Player id="P16" spans="3180~3190" text="Joe Ledley" playerID="null" />
+<Player id="P17" spans="3210~3222" text="Mile Jedinak" playerID="null" />
+<Player id="P18" spans="3310~3315" text="Kelly" playerID="null" />
+<Player id="P19" spans="3320~3329" text="Joel Ward" playerID="null" />
+<Player id="P20" spans="3325~3329" text="Ward" playerID="null" />
+<Player id="P21" spans="3644~3648" text="Kane" playerID="null" />
+<Player id="P22" spans="3772~3784" text="Nacer Chadli" playerID="null" />
+<Player id="P23" spans="3974~3984" text="Scott Dann" playerID="null" />
+<Player id="P24" spans="4008~4022" text="Jason Puncheon" playerID="null" />
+<Player id="P25" spans="4029~4034" text="Gayle" playerID="null" />
+<Player id="P26" spans="4067~4073" text="Lloris" playerID="null" />
+<Player id="P27" spans="4075~4080" text="Gayle" playerID="null" />
+<Player id="P28" spans="4204~4222" text="Benjamin Stambouli" playerID="null" />
+<Player id="P29" spans="4226~4232" text="Ledley" playerID="null" />
+<Player id="P30" spans="4234~4239" text="Gayle" playerID="null" />
+<Player id="P31" spans="4376~4389" text="Wilfried Zaha" playerID="null" />
+<Player id="P32" spans="4394~4400" text="Murray" playerID="null" />
+<Player id="P33" spans="4427~4436" text="Stambouli" playerID="null" />
+<Player id="P34" spans="4442~4457" text="Roberto Soldado" playerID="null" />
+<Player id="P35" spans="4507~4511" text="Zaha" playerID="null" />
+<Player id="P36" spans="4604~4612" text="Puncheon" playerID="null" />
+<Player id="P37" spans="4747~4751" text="Kane" playerID="null" />
+<Player id="P38" spans="4838~4845" text="Speroni" playerID="null" />
+<Player id="P39" spans="4904~4911" text="Dembélé" playerID="null" />
+<Player id="P40" spans="5011~5015" text="Zaha" playerID="null" />
+<Player id="P41" spans="5050~5056" text="Lloris" playerID="null" />
+<Coref id="C0" spans="310~312" text="he" playerID="null" />
+<Coref id="C1" spans="1302~1304" text="He" playerID="null" />
+<Coref id="C2" spans="1366~1368" text="he" playerID="null" />
+<Coref id="C3" spans="1687~1689" text="he" playerID="null" />
+<Coref id="C4" spans="1699~1701" text="he" playerID="null" />
+<Coref id="C5" spans="1724~1727" text="his" playerID="null" />
+<Coref id="C6" spans="2793~2796" text="his" playerID="null" />
+<Coref id="C7" spans="2855~2858" text="his" playerID="null" />
+<Coref id="C8" spans="2898~2901" text="his" playerID="null" />
+<Coref id="C9" spans="3802~3805" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

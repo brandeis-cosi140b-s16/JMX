@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/jan/17/tottenham-hotspur-sunderland-premier-league-match-report
+
+Tottenham 2-1 Sunderland | Premier League match report
+
+
+Jermain Defoe was reminded of what a treasured part of Tottenham Hotspur’s past he is, and how precarious his new club’s Premier League future looks. The 32-year-old’s return to the ground where he spent the best part of a decade ended with a galling defeat for Sunderland, who teeter a point above the relegation zone after falling to a late winner from Christian Eriksen.
+ 
+Defoe was acclaimed by both sets of fans before kick-off and his manager watched with renewed optimism. Believing he had finally been given the high-calibre striker he craved, Gus Poyet had heralded this match as the dawn of a new era for his team. He switched formation in an effort to play to Defoe’s strengths, deploying a 3-5-2 system with Steven Fletcher partnering the new striker. But even the finest plans are vulnerable to rudimentary mistakes and things took an ominous turn when Sunderland conceded after three minutes.
+ 
+Santiago Vergini, one of the visitors’ three centre backs, struck an attempted clearance straight to Jan Vertonghen on the edge of the area. The Belgian’s shot looked harmless until it deflected off John O’Shea and into the net.
+ 
+Sunderland tried to reply immediately and appealed for a penalty when Defoe went down under a challenge from Vertonghen. The referee, Chris Foy, was unmoved. Much of the visitors’ play was haphazard in the first period and they struggled to create chances for Defoe – and when they did send the ball towards him he tended to be offside. Fletcher, however, was presented with a wonderful opportunity to score for the visitors but wafted badly wide from close range after a fine cross by Billy Jones.
+ 
+Spurs, without sparkling, created chances to increase their lead. Eriksen shot weakly at Costel Pantilimon after a cross by Danny Rose and then, in the 24th minute, the goalkeeper raced off his line to deny Roberto Soldado after Vergini’s dawdling kept the striker onside.
+ 
+Two minutes later Pantilimon was in action again, hurling himself across his goal to turn away an excellent 25-yard drive from Eriksen, the brains behind most of Tottenham’s good play. Fortune then turned in Sunderland’s favour and perhaps it bodes well that Defoe was involved. Having benefited from a questionable offside decision, the striker was awarded a contested free-kick after a challenge by Vertonghen. There was no debate about Sebastian Larsson’s execution, however, as the Swede curled a superb shot over the wall and into the net from 23 yards. Harry Kane, the most promising of Tottenham’s post-Defoe strikers, was peripheral to proceedings until just before half-time, when his long-range shot rebounded off the base of the post. Pantilimon saved Rose’s follow-up.
+ 
+Pantilimon thwarted Kane early in the second half as Spurs dominated but lacked sharpness. Mauricio Pochettino resorted to replacing Soldado with Emmanuel Adebayor, whose standing with Spurs fans is such that some of them booed as he was given a first appearance since November.
+ 
+Defoe had a proud record of scoring on his debuts for all five of his previous clubs but his attempt to extend that ended in the 74th minute when he was replaced by Danny Graham. Poyet said he was encouraged by the striker’s display.
+ 
+“He started bright, he was sharp, if he gets the penalty and scores we would be talking about a great debut but the referee did not see what everyone else saw clearly,” said Poyet. “[Defoe] is going to get better and better and I’m sure when he gets that chance he’s going to put the ball in the back of the net.”
+ 
+Graham got chances that Defoe might have relished. In the 81st minute Hugo Lloris parried a long-range shot from Adam Johnson into his path but the goalkeeper saved his follow-up. As Sunderland, suddenly emboldened, sought a late winning goal, they were felled by a swift counterattack.
+ 
+Andros Townsend rampaged 60 yards down the left before sending a low centre to Eriksen, who put an immaculate shot in off the post from 18 yards. Lloris preserved that lead by making a brilliant reflex save from Graham in stoppage time. Vertonghen had a third goal wrongly ruled out for offside as Spurs finished strongly yet again.
+ 
+Tottenham have now won 10 points this season with goals scored in the 88th minute or later, four more than any other team in the Premier League. “Our fitness is very good,” said Pochettino. “The sports science and medical staff is doing a great job so far. And our mentality – in football you have to always believe it is possible to win.”
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="163~176" text="Jermain Defoe" playerID="null" />
+<Player id="P1" spans="518~535" text="Christian Eriksen" playerID="null" />
+<Player id="P2" spans="539~544" text="Defoe" playerID="null" />
+<Player id="P3" spans="719~724" text="Poyet" playerID="null" />
+<Player id="P4" spans="834~839" text="Defoe" playerID="null" />
+<Player id="P5" spans="883~898" text="Steven Fletcher" playerID="null" />
+<Player id="P6" spans="1072~1088" text="Santiago Vergini" playerID="null" />
+<Player id="P7" spans="1173~1187" text="Jan Vertonghen" playerID="null" />
+<Player id="P8" spans="1373~1378" text="Defoe" playerID="null" />
+<Player id="P9" spans="1412~1422" text="Vertonghen" playerID="null" />
+<Player id="P10" spans="1563~1568" text="Defoe" playerID="null" />
+<Player id="P11" spans="1640~1648" text="Fletcher" playerID="null" />
+<Player id="P12" spans="1789~1800" text="Billy Jones" playerID="null" />
+<Player id="P13" spans="1870~1877" text="Eriksen" playerID="null" />
+<Player id="P14" spans="1893~1910" text="Costel Pantilimon" playerID="null" />
+<Player id="P15" spans="1928~1938" text="Danny Rose" playerID="null" />
+<Player id="P16" spans="2011~2026" text="Roberto Soldado" playerID="null" />
+<Player id="P17" spans="2033~2040" text="Vergini" playerID="null" />
+<Player id="P18" spans="2097~2107" text="Pantilimon" playerID="null" />
+<Player id="P19" spans="2206~2213" text="Eriksen" playerID="null" />
+<Player id="P20" spans="2338~2343" text="Defoe" playerID="null" />
+<Player id="P21" spans="2480~2490" text="Vertonghen" playerID="null" />
+<Player id="P22" spans="2518~2535" text="Sebastian Larsson" playerID="null" />
+<Player id="P23" spans="2638~2648" text="Harry Kane" playerID="null" />
+<Player id="P24" spans="2689~2694" text="Defoe" playerID="null" />
+<Player id="P25" spans="2825~2835" text="Pantilimon" playerID="null" />
+<Player id="P26" spans="2842~2846" text="Rose" playerID="null" />
+<Player id="P27" spans="2862~2872" text="Pantilimon" playerID="null" />
+<Player id="P28" spans="2882~2886" text="Kane" playerID="null" />
+<Player id="P29" spans="2995~3002" text="Soldado" playerID="null" />
+<Player id="P30" spans="3008~3025" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P31" spans="3143~3148" text="Defoe" playerID="null" />
+<Player id="P32" spans="3308~3320" text="Danny Graham" playerID="null" />
+<Player id="P33" spans="3322~3327" text="Poyet" playerID="null" />
+<Player id="P34" spans="3553~3558" text="Poyet" playerID="null" />
+<Player id="P35" spans="3562~3567" text="Defoe" playerID="null" />
+<Player id="P36" spans="3695~3701" text="Graham" playerID="null" />
+<Player id="P37" spans="3719~3724" text="Defoe" playerID="null" />
+<Player id="P38" spans="3765~3776" text="Hugo Lloris" playerID="null" />
+<Player id="P39" spans="3808~3820" text="Adam Johnson" playerID="null" />
+<Player id="P40" spans="3984~3999" text="Andros Townsend" playerID="null" />
+<Player id="P41" spans="4063~4070" text="Eriksen" playerID="null" />
+<Player id="P42" spans="4130~4136" text="Lloris" playerID="null" />
+<Player id="P43" spans="4196~4202" text="Graham" playerID="null" />
+<Player id="P44" spans="4221~4231" text="Vertonghen" playerID="null" />
+<Coref id="C0" spans="243~245" text="he" playerID="null" />
+<Coref id="C1" spans="269~272" text="his" playerID="null" />
+<Coref id="C2" spans="358~360" text="he" playerID="null" />
+<Coref id="C3" spans="600~603" text="his" playerID="null" />
+<Coref id="C4" spans="653~655" text="he" playerID="null" />
+<Coref id="C5" spans="704~706" text="he" playerID="null" />
+<Coref id="C6" spans="778~781" text="his" playerID="null" />
+<Coref id="C7" spans="788~790" text="He" playerID="null" />
+<Coref id="C8" spans="1615~1617" text="he" playerID="null" />
+<Coref id="C9" spans="1994~1997" text="his" playerID="null" />
+<Coref id="C10" spans="2152~2155" text="his" playerID="null" />
+<Coref id="C11" spans="2769~2772" text="his" playerID="null" />
+<Coref id="C12" spans="3093~3095" text="he" playerID="null" />
+<Coref id="C13" spans="3182~3185" text="his" playerID="null" />
+<Coref id="C14" spans="3209~3212" text="his" playerID="null" />
+<Coref id="C15" spans="3232~3235" text="his" playerID="null" />
+<Coref id="C16" spans="3289~3291" text="he" playerID="null" />
+<Coref id="C17" spans="3333~3335" text="he" playerID="null" />
+<Coref id="C18" spans="3380~3382" text="He" playerID="null" />
+<Coref id="C19" spans="3399~3401" text="he" playerID="null" />
+<Coref id="C20" spans="3416~3418" text="he" playerID="null" />
+<Coref id="C21" spans="3621~3623" text="he" playerID="null" />
+<Coref id="C22" spans="3641~3643" text="he" playerID="null" />
+<Coref id="C23" spans="3826~3829" text="his" playerID="null" />
+<Coref id="C24" spans="3860~3863" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

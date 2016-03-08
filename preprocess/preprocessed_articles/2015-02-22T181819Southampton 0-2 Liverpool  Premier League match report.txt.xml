@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/feb/22/southampton-liverpool-premier-league-match-report
+
+Southampton 0-2 Liverpool | Premier League match report
+
+
+The Liverpool revival is carrying them inexorably towards the Champions League. A glance at the manic celebrations among visiting players at the final whistle here, all pumped fists and satisfied smiles amid the deluge, showed the significance of this win. Damage has been inflicted on direct rivals in pursuit of European qualification, victory at Southampton’s expense reinforcing the sense that momentum is increasingly with the Merseyside club.
+ 
+This ended up as a show of strength, a win chiselled out from opponents who remain a point clear in fifth but who now feel Liverpudlian breath on their necks. The locals whipped themselves into a frenzy at the perceived oversights of the referee, Kevin Friend, with some of their complaints at the refusal of spot-kicks justified, but even they had played through the latter stages as if resigned to the inevitability of this reverse. When Liverpool succumbed 3-0 at Old Trafford in mid-December they had trailed Manchester United by 10 points. Fast forward through 10 unbeaten league games and they are two points adrift of those opponents and only one more from Arsenal in third.
+ 
+The management’s ability to coax such a persuasive renaissance from a campaign that had once been on the point of unravelling merits considerable praise. Certainly that spluttering return to Europe’s elite competition back in the autumn, which so affected their domestic form, seems a world away. Brendan Rodgers can approach collisions with Manchester City, United and Arsenal in their next five matches with the thrill of anticipation.
+ 
+“There might have been anxiety at the beginning of the season ahead of games like that, given how we were playing at the time, but we can relish every match we play now,” he said. “For us this was a big step. To go three points behind Arsenal, considering the start we had … that shows the consistency we have found. We’ll use the experience of last year in the run-in, when we just missed out (on the title). Hopefully we can keep the focus and mentality and the performance levels.”
+ 
+There is conviction fuelling their challenge at present. A reshaped defence – even with one of the locals’ hate figures, Dejan Lovren, standing in for the injured Mamadou Sakho – rode its luck amid the calls for a home penalty but emerged with a fifth successive clean sheet away from home in the league for the first time in 30 years. Their closest shave was when Joe Allen swung a leg and up-ended Filip Djuricic in the penalty box, the ball breaking to Eljero Elia who should have scored only for Simon Mignolet to save with his feet. Djuricic felt he might have earned a penalty in the opening 20 seconds, sensing Emre Can’s hand on his shoulder if then tumbling too theatrically. “The first one was a little bit light, and this is England, so there are a different type of criteria for the penalty,” said the Serbian midfielder. “But the second one, definitely.”
+ 
+“Maybe Djuricic, in that first moment, fell down a bit too easily in the box,” said Ronald Koeman. “The second, there’s no question. I don’t understand the referee. But OK, human people can do mistakes.” Lovren also appeared to handle at a corner just before the interval, while Mignolet deflected Elia’s shot from his chest on to his outstretched arm having charged out of his area to block. List the flashpoints and local displeasure at Friend’s display felt more understandable.
+ 
+Yet the home side’s threat was more fitful after the interval, their rhythm not as menacing as it has often been this season. Quality rather drowned in the incessant downpour, with anxiety inevitably creeping in. The contest’s decisive second goal, stemming from Morgan Schneiderlin’s surrender of possession and Matt Targett’s slip, was born of frustration and dispatched with glee by Raheem Sterling.
+ 
+That settled a game which had been illuminated by Philippe Coutinho’s glorious opener while Southampton were still digesting that first denial of a spot-kick. The Brazilian had been granted a pocket of space 30 yards out in which to collect Lazar Markovic’s pass, spin the ball out of his feet and conjure a shot of such vicious whip and dip that Fraser Forster was rendered utterly helpless as it careered in off the underside of the bar.
+ 
+Coutinho has appeared leggy at times of late, struggling with a cluttered schedule, but that was sparkling reward. With Sterling ,Jordan Ibe and Daniel Sturridge in the ranks there was scope to stretch the home side on the counter thereafter. Adam Lallana and Lovren, the focus of local vitriol, could busy themselves with the task in hand as the boos rang out to mark their every touch. Liverpool cared little.
+ 
+They have lost only once in 18 matches in all competitions, a sequence taking them from lower mid-table into contention. “An outstanding win, a wonderful win, very controlled,” added Rodgers. “It’s still about taking small steps. The first period of this season was nothing like what we’ve been during my time at the club. We had to find a solution, so we restructured the team, organised it in a different way to get that solidity back and the players’ response has been magnificent. This was a huge win.”
+ 
+Man of the match Philippe Coutinho (Liverpool)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="2340~2352" text="Dejan Lovren" playerID="null" />
+<Player id="P1" spans="2382~2395" text="Mamadou Sakho" playerID="null" />
+<Player id="P2" spans="2584~2593" text="Joe Allen" playerID="null" />
+<Player id="P3" spans="2619~2633" text="Filip Djuricic" playerID="null" />
+<Player id="P4" spans="2675~2686" text="Eljero Elia" playerID="null" />
+<Player id="P5" spans="2719~2733" text="Simon Mignolet" playerID="null" />
+<Player id="P6" spans="2757~2765" text="Djuricic" playerID="null" />
+<Player id="P7" spans="2837~2845" text="Emre Can" playerID="null" />
+<Player id="P8" spans="3096~3104" text="Djuricic" playerID="null" />
+<Player id="P9" spans="3293~3299" text="Lovren" playerID="null" />
+<Player id="P10" spans="3368~3376" text="Mignolet" playerID="null" />
+<Player id="P11" spans="3387~3391" text="Elia" playerID="null" />
+<Player id="P12" spans="3836~3842" text="Morgan" playerID="null" />
+<Player id="P13" spans="3836~3855" text="Morgan Schneiderlin" playerID="null" />
+<Player id="P14" spans="3886~3898" text="Matt Targett" playerID="null" />
+<Player id="P15" spans="3959~3974" text="Raheem Sterling" playerID="null" />
+<Player id="P16" spans="4037~4045" text="Coutinho" playerID="null" />
+<Player id="P17" spans="4219~4233" text="Lazar Markovic" playerID="null" />
+<Player id="P18" spans="4325~4339" text="Fraser Forster" playerID="null" />
+<Player id="P19" spans="4420~4428" text="Coutinho" playerID="null" />
+<Player id="P20" spans="4540~4548" text="Sterling" playerID="null" />
+<Player id="P21" spans="4557~4560" text="Ibe" playerID="null" />
+<Player id="P22" spans="4565~4581" text="Daniel Sturridge" playerID="null" />
+<Player id="P23" spans="4663~4675" text="Adam Lallana" playerID="null" />
+<Player id="P24" spans="4680~4686" text="Lovren" playerID="null" />
+<Player id="P25" spans="5369~5377" text="Coutinho" playerID="null" />
+<Coref id="C0" spans="1903~1905" text="he" playerID="null" />
+<Coref id="C1" spans="2747~2750" text="his" playerID="null" />
+<Coref id="C2" spans="2771~2773" text="he" playerID="null" />
+<Coref id="C3" spans="2856~2859" text="his" playerID="null" />
+<Coref id="C4" spans="3404~3407" text="his" playerID="null" />
+<Coref id="C5" spans="3420~3423" text="his" playerID="null" />
+<Coref id="C6" spans="3463~3466" text="his" playerID="null" />
+<Coref id="C7" spans="4263~4266" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

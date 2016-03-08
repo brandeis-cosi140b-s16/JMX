@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/17/chelsea-schalke-champions-league-match-report
+
+Chelsea 1-1 Schalke | Champions League match report
+
+
+The Champions League has checked Chelsea’s early season momentum. An opportunity to ease themselves into their European campaign was passed up here, a lead surrendered against patched-up opponents who had apparently been there for the taking. The sight of Schalke players celebrating wildly on the turf at the final whistle, all hugs and punches of the air, while the hosts skulked off down the tunnel told its own story.
+ 
+This had been a strangely fitful performance from the Premier League leaders. They had summoned up brilliance at times, usually through Eden Hazard’s twisting dribbles which drove them up-field, and threatened to batter in a winner in their frantic swathe of late attacks when Ralf Fährman’s excellence retained the visitors their point. Yet Chelsea had also been overpowered in midfield too often, with their defence unable to stamp out the threat posed by the slippery Julian Draxler once the youngster, bed-ridden with flu last week, found his rhythm. The German club benefited from their hosts’ vulnerability. Manchester City will hope to do likewise at the Etihad Stadium on Sunday.
+ 
+The frustration for José Mourinho was that this all felt so wasteful. Chelsea should have run riot against a team stripped of nine injured senior players and forced to field a makeshift defence with three others, Draxler included, having been under the weather over the past fortnight. His team had secured an early lead, albeit controversially, as Cesc Fàbregas’s clear foul on Max Meyer was waved away by Ivan Bebek. The Croatian referee, called up late when the original squad of Serbian officials had been denied entry after a visa oversight, offered what was, at best, an unpredictable display throughout. Hazard had slipped a pass inside Kaan Ayhan for Fàbregas to convert his first goal for the club, with Schalke players already peeling away to make their livid protests.
+ 
+That advantage should have been the prelude to a thrashing, yet initial dominance steadily eroded. The visitors closed down feverishly in central midfield, as Swansea had initially done so successfully last Saturday. Their mere refusal to wilt prompted anxiety among the locals with this team denied the bite and presence of Diego Costa in its forward line. Didier Drogba was making the first start of his second coming in these parts, but was understandably rusty and, long before the end, rather wheezing. Some of the old runs and instincts remain, his presence unnerving Roman Neustädter and Ayhan at times, though the telepathic supply line from Frank Lampard is no more.
+ 
+His best chances came after the interval, with an air-kick from Willian’s fizzed centre, and then a one-on-one from Hazard’s fine pass. Yet the veteran’s touch betrayed weary limbs, forcing him wide, with his shot dribbling beyond the far post and behind. “I’m happy with what he did,” Mourinho said. “If that had gone in we’d be talking about him scoring a goal with fantastic movement and a great shot. I’m not disappointed with a striker because, by one inch, he doesn’t score or not.” Costa and Loïc Rémy were flung on for late cameos, the latter almost scoring with his first touch, only for Neustädter to head from the line. Indeed, Schalke strained to retain parity through those desperate late exchanges, with Hazard twice close to restoring the home side’s lead and Fährmann forced to perform heroics.
+ 
+It should not really have come to that. Mourinho will wonder how his midfield, with Ramires relatively becalmed, could be overrun from the moment Draxler charged forward on the stroke of half-time, eking space from Gary Cahill before dragging a shot marginally wide of the far post. This was a display to justify all the hype about the young forward, with Meyer bright at his side and Sidney Sam all eager running on the opposite flank. Chelsea have not been defensively tight this term, their frailties masked by attacking prowess at the other end, but the sight of Draxler gliding through them at will was disturbing.
+ 
+Bebek might have choked the visitors’ reward had he deemed Klaas-Jan Huntelaar’s challenge on Fàbregas to be a foul – there was a whiff of retribution about that oversight – with Draxler sweeping down-field and away from Ramires. Branislav Ivanovic’s tackle actually speared the ball back to the Dutch international, who had ghosted unnoticed down the left. Huntelaar duly cut inside and finished crisply and precisely beyond Thibaut Courtois to the delight of a raucous visiting support. “We made one mistake not to make a foul immediately when they recovered the ball,” Mourinho said, “and another given I’d told my players 20 times that Draxler wants to come inside off his right foot and Sam inside on his left, so we have to close and press his right foot. So there was also a mistake in the box.
+ 
+“But, after that situation, only one team tried to win and had so many chances to win the game in a short period of time. In the last 15 minutes, Rémy, Terry, Hazard could all score, but that’s football. Defending like they did is also football. A good point for them. Not a fantastic point for us, but still a point.” Chelsea had started last season’s campaign with a home defeat by Basel, so this represented improvement of sorts. Even so, theirs was a lingering sense of frustration.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="709~720" text="Eden Hazard" playerID="null" />
+<Player id="P1" spans="1612~1625" text="Cesc Fàbregas" playerID="null" />
+<Player id="P2" spans="1874~1880" text="Hazard" playerID="null" />
+<Player id="P3" spans="1922~1930" text="Fàbregas" playerID="null" />
+<Player id="P4" spans="2370~2381" text="Diego Costa" playerID="null" />
+<Player id="P5" spans="2403~2416" text="Didier Drogba" playerID="null" />
+<Player id="P6" spans="2695~2708" text="Frank Lampard" playerID="null" />
+<Player id="P7" spans="2787~2794" text="Willian" playerID="null" />
+<Player id="P8" spans="2839~2845" text="Hazard" playerID="null" />
+<Player id="P9" spans="3212~3217" text="Costa" playerID="null" />
+<Player id="P10" spans="3222~3231" text="Loïc Rémy" playerID="null" />
+<Player id="P11" spans="3441~3447" text="Hazard" playerID="null" />
+<Player id="P12" spans="3620~3627" text="Ramires" playerID="null" />
+<Player id="P13" spans="3751~3762" text="Gary Cahill" playerID="null" />
+<Player id="P14" spans="4252~4260" text="Fàbregas" playerID="null" />
+<Player id="P15" spans="4379~4386" text="Ramires" playerID="null" />
+<Player id="P16" spans="4388~4406" text="Branislav Ivanovic" playerID="null" />
+<Player id="P17" spans="4584~4600" text="Thibaut Courtois" playerID="null" />
+<Player id="P18" spans="5108~5112" text="Rémy" playerID="null" />
+<Player id="P19" spans="5114~5119" text="Terry" playerID="null" />
+<Player id="P20" spans="5121~5127" text="Hazard" playerID="null" />
+<Coref id="C0" spans="1116~1119" text="his" playerID="null" />
+<Coref id="C1" spans="1549~1552" text="His" playerID="null" />
+<Coref id="C2" spans="1942~1945" text="his" playerID="null" />
+<Coref id="C3" spans="2447~2450" text="his" playerID="null" />
+<Coref id="C4" spans="2596~2599" text="his" playerID="null" />
+<Coref id="C5" spans="2723~2726" text="His" playerID="null" />
+<Coref id="C6" spans="2928~2931" text="his" playerID="null" />
+<Coref id="C7" spans="3000~3002" text="he" playerID="null" />
+<Coref id="C8" spans="3186~3188" text="he" playerID="null" />
+<Coref id="C9" spans="3294~3297" text="his" playerID="null" />
+<Coref id="C10" spans="3601~3604" text="his" playerID="null" />
+<Coref id="C11" spans="3908~3911" text="his" playerID="null" />
+<Coref id="C12" spans="4207~4209" text="he" playerID="null" />
+<Coref id="C13" spans="4831~4834" text="his" playerID="null" />
+<Coref id="C14" spans="4864~4867" text="his" playerID="null" />
+<Coref id="C15" spans="4904~4907" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

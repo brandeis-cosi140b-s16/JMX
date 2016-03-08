@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/apr/25/west-bromwich-albion-liverpool-premier-league-match-report
+
+West Bromwich Albion 0-0 Liverpool | Premier League match report
+
+
+In the end it was a game that confirmed to Brendan Rodgers what he already knew. With Luis Suárez long gone and Daniel Sturridge absent once again, Liverpool are unrecognisable from the team that swept opponents aside last season and it is easy to see why the manager talked on the eve of this match about signing a consistent goalscorer who can perform “at a top level every week”.
+ 
+Mario Balotelli, making his first league start for five months, showed why he is not that man, on a day when Steven Gerrard’s 500th Premier League appearance for Liverpool turned into something of a nonevent.
+  
+ Related: Burnley 0-1 Leicester City | Premier League match report 
+   
+The Italian was involved in Liverpool’s best moment of the match, when he released Jordon Ibe and the winger struck the crossbar, but it was hardly a performance that pointed to a brighter future at Anfield.
+ 
+As for Gerrard, the 34-year-old spent the afternoon patrolling the area in front of the back four, watching Liverpool dominate the ball but struggle time and again to break Tony Pulis’s team down. There was plenty of huffing and puffing from the visitors but not much penetration or refinement, as the statistics showed. Liverpool enjoyed 74% of possession but managed only five shots on target, one more than Albion.
+ 
+With Liverpool’s hopes of finishing in the top four looking slim beforehand, Rodgers conceded after another two points were dropped that it would be “very difficult” to qualify for the Champions League. The Liverpool manager talked about the need to win all five of their remaining games “to give ourselves a chance”.
+ 
+That looks unlikely on this evidence. “We just needed a little break,” Rodgers said. “West Brom defended very well, they play with a really low block, so you’ve got to be patient and work your way through. In the first half the idea was good but we were probably just a little bit slow in our play. The second half was much better but we needed that little bit of luck or quality that didn’t come our way.”
+ 
+Liverpool, in truth, were toothless as an attacking force and Rodgers needs no telling why. “If you take 52 goals out of our team it doesn’t help you,” he said. “We had two players last year who played in our front three and between them got 50-plus goals, and we don’t have that. We just don’t score as many goals, it’s as simple as that. It’s an area that we will look at in the summer and definitely one that we have to do some work on.”
+ 
+After a soporific first half that felt more like a pre-season friendly, the game flickered into life after the interval. Boaz Myhill, the Albion goalkeeper, denied Philippe Coutinho and Jordan Henderson after Balotelli’s close-range effort had been blocked, while at the other end Craig Gardner, meeting Chris Brunt’s deep cross on the full, volleyed into the side-netting.
+  
+ Related: Manchester City 3-2 Aston Villa | Premier League match report 
+   
+Then came that opportunity for Ibe. Cutting in from the left, the 19-year-old swapped passes with Balotelli, darted into the area and struck a rising left-footed shot that cannoned off the top of the crossbar. At the other end, James Morrison’s far-post header was hacked clear by Dejan Lovren and Simon Mignolet stuck out a boot to keep out Callum McManaman’s low effort.
+ 
+Lovren was one of Liverpool’s better players and had a late chance to win the game but his injury-time header, from Gerrard’s diagonal cross, sailed the wrong side of the upright. Seconds later the Albion supporters were celebrating the point that inches them closer to safety.
+ 
+Pulis praised the effort and commitment of his players but, even with 37 points on the board, Albion’s head coach refuses to accept that they are safe. “Four games [left] and we need to pick points up,” he said. “I’ve been in this game long enough to know that strange things can happen.”
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="287~303" text="Daniel Sturridge" playerID="null" />
+<Player id="P1" spans="560~575" text="Mario Balotelli" playerID="null" />
+<Player id="P2" spans="669~683" text="Steven Gerrard" playerID="null" />
+<Player id="P3" spans="927~937" text="Jordon Ibe" playerID="null" />
+<Player id="P4" spans="1061~1068" text="Gerrard" playerID="null" />
+<Player id="P5" spans="2767~2778" text="Boaz Myhill" playerID="null" />
+<Player id="P6" spans="2819~2827" text="Coutinho" playerID="null" />
+<Player id="P7" spans="2832~2848" text="Jordan Henderson" playerID="null" />
+<Player id="P8" spans="2855~2864" text="Balotelli" playerID="null" />
+<Player id="P9" spans="2927~2940" text="Craig Gardner" playerID="null" />
+<Player id="P10" spans="2950~2961" text="Chris Brunt" playerID="null" />
+<Player id="P11" spans="3131~3134" text="Ibe" playerID="null" />
+<Player id="P12" spans="3198~3207" text="Balotelli" playerID="null" />
+<Player id="P13" spans="3328~3342" text="James Morrison" playerID="null" />
+<Player id="P14" spans="3381~3393" text="Dejan Lovren" playerID="null" />
+<Player id="P15" spans="3398~3412" text="Simon Mignolet" playerID="null" />
+<Player id="P16" spans="3442~3458" text="Callum McManaman" playerID="null" />
+<Player id="P17" spans="3475~3481" text="Lovren" playerID="null" />
+<Player id="P18" spans="3591~3598" text="Gerrard" playerID="null" />
+<Coref id="C0" spans="239~241" text="he" playerID="null" />
+<Coref id="C1" spans="584~587" text="his" playerID="null" />
+<Coref id="C2" spans="635~637" text="he" playerID="null" />
+<Coref id="C3" spans="915~917" text="he" playerID="null" />
+<Coref id="C4" spans="2355~2357" text="he" playerID="null" />
+<Coref id="C5" spans="3562~3565" text="his" playerID="null" />
+<Coref id="C6" spans="3798~3801" text="his" playerID="null" />
+<Coref id="C7" spans="3958~3960" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

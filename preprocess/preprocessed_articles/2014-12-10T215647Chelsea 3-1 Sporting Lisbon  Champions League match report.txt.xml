@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/dec/10/chelsea-sporting-lisbon-champions-league-match-report
+
+Chelsea 3-1 Sporting Lisbon | Champions League match report
+
+
+Chelsea’s progress into the knockout phase proved serene to the last. Sporting Lisbon were outclassed here, and consigned to the Europa League in the process, by a rejigged lineup who flourished in a tie devoid of tension. José Mourinho had not been disconcerted by that first loss of the campaign at Newcastle United last Saturday. His fringe players clearly shared his confidence.
+ 
+This was a stroll from the opening exchanges, against opponents who appeared nervy and gripped by self-doubt from the moment they slipped behind. The only local disappointment stemmed from the fact the teenage debutant, Ruben Loftus-Cheek, was granted a relatively meagre seven minutes on the pitch. This had felt an apt opportunity to blood him for longer even if the flurry of fine touches mustered during his cameo confirmed underlying quality. The midfielder’s chance will surely come again.
+ 
+His presence, coupled with impressive displays from those who have been champing at the bit on the sidelines, offered a reminder of the depth of quality at Mourinho’s disposal. This squad can aspire to compete on domestic and European fronts, and they will not be daunted by the identity of their last-16 opponents, to be drawn on Monday. “But there are a few sharks in the ocean,” the manager said. His subsequent admission that he had, albeit reluctantly, himself swum with sharks while on holiday in French Polynesia rather confused the metaphor, but there was still a public wariness ahead of Monday’s draw.
+ 
+The worst case scenario would appear to be Juventus or Paris Saint-Germain – the alternatives are Shakhtar Donetsk, Basel and Bayer Leverkusen – yet Chelsea have lost at all five in recent years. “Paris would be good as it’s easy to travel for us and the fans,” he said. “Every one is hard. You think Basel is easy? We lost twice to them last year and they beat Liverpool. Two or three years ago they beat Manchester United. Leverkusen are a German team. Shakhtar … I don’t think there are easy teams at this moment.
+ 
+“But I don’t think any of the big teams – I’m not talking about big clubs, but ‘big teams’ – are out of the Champions League now. Maybe Liverpool. But all the teams that want to win the competition are all still in it. The real Champions League starts now: Barcelona, Real Madrid, Juventus, Bayern Munich, Dortmund, Chelsea, Manchester City, Paris … it starts now. Last season we were not one of the top four, for sure, and we played in the semi-finals. Let’s see what we can do this season, step by step.” There was also some satisfaction to be had in the knowledge City and Arsenal, “direct opponents in the Premier League”, will also have the distraction of continental competition in the new year.
+ 
+Life will become trickier from now on. Whereas the Portuguese club boasted the clearer incentive – avoid defeat and they would have ensured progress at Schalke’s expense – it was Chelsea’s also-rans who made their mark. Mohamed Salah, on his first start outside the Capital One Cup since the final day of last season, darted up and down the left flank to discomfort the visiting right-back, Ricardo Esgaio. Filipe Luís was upended by the same defender just inside the area seven minutes in for Cesc Fàbregas to open the scoring from the spot, while André Schürrle, a World Cup winner turned forgotten man, skimmed a fine second on the turn from the edge of the area as Maurício laboured to close him down.
+ 
+The German needed that reward and might have added a second had Rui Patrício not pushed away his deflected volley. As it was, the hosts’ third was provided by Fàbregas’s inswinging free-kick and Gary Cahill’s flick, which was prodded into the net by Mikel John Obi from virtually on the goalline. The Nigerian had never previously scored in 55 appearances in this competition, though no other side in this year’s group phase can match the London club’s tally of 17 goals. Diego Costa missed out but still worked feverishly and will be sharper for the experience. “His confidence is not high, his condition is not the best,” Mourinho said, “but this was very important for him.”
+ 
+Even defensively, the stand-ins made an impression. Kurt Zouma was aggressive and eager alongside Cahill, while Petr Cech twice denied Islam Slimani from close range when his centre-backs were bypassed. André Carrillo alone of the visiting number proved pesky, and it was his cross – half-cleared by Schürrle – that provided Jonathan Silva with their consolation. Thereafter the main attraction was Loftus-Cheek’s impressive involvement. “I said to him: ‘I gave you this, you have to give me a nice bottle of red wine,’” added Mourinho. “He said immediately: ‘No problem.’” Everything about the midfielder suggests he belongs.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="770~788" text="Ruben Loftus-Cheek" playerID="null" />
+<Player id="P1" spans="3105~3118" text="Mohamed Salah" playerID="null" />
+<Player id="P2" spans="3292~3303" text="Filipe Luís" playerID="null" />
+<Player id="P3" spans="3379~3392" text="Cesc Fàbregas" playerID="null" />
+<Player id="P4" spans="3434~3448" text="André Schürrle" playerID="null" />
+<Player id="P5" spans="3752~3760" text="Fàbregas" playerID="null" />
+<Player id="P6" spans="3788~3799" text="Gary Cahill" playerID="null" />
+<Player id="P7" spans="3843~3848" text="Mikel" playerID="null" />
+<Player id="P8" spans="4065~4076" text="Diego Costa" playerID="null" />
+<Player id="P9" spans="4325~4335" text="Kurt Zouma" playerID="null" />
+<Player id="P10" spans="4371~4377" text="Cahill" playerID="null" />
+<Player id="P11" spans="4385~4394" text="Petr Cech" playerID="null" />
+<Player id="P12" spans="4573~4581" text="Schürrle" playerID="null" />
+<Player id="P13" spans="4607~4612" text="Silva" playerID="null" />
+<Player id="P14" spans="4672~4684" text="Loftus-Cheek" playerID="null" />
+<Coref id="C0" spans="498~501" text="His" playerID="null" />
+<Coref id="C1" spans="532~535" text="his" playerID="null" />
+<Coref id="C2" spans="958~961" text="his" playerID="null" />
+<Coref id="C3" spans="1048~1051" text="His" playerID="null" />
+<Coref id="C4" spans="1448~1451" text="His" playerID="null" />
+<Coref id="C5" spans="1478~1480" text="he" playerID="null" />
+<Coref id="C6" spans="1924~1926" text="he" playerID="null" />
+<Coref id="C7" spans="3123~3126" text="his" playerID="null" />
+<Coref id="C8" spans="3686~3689" text="his" playerID="null" />
+<Coref id="C9" spans="4157~4160" text="His" playerID="null" />
+<Coref id="C10" spans="4185~4188" text="his" playerID="null" />
+<Coref id="C11" spans="4444~4447" text="his" playerID="null" />
+<Coref id="C12" spans="4545~4548" text="his" playerID="null" />
+<Coref id="C13" spans="4811~4813" text="He" playerID="null" />
+<Coref id="C14" spans="4888~4890" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

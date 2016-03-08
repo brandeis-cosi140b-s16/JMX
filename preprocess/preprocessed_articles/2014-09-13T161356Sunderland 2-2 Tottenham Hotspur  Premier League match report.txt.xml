@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/13/sunderland-tottenham-hotspur-premier-league-match-report
+
+Sunderland 2-2 Tottenham Hotspur | Premier League match report
+
+
+Gus Poyet and Mauricio Pochettino believe possession is king. This shared conviction left Sunderland’s manager looking on disconsolate as, inspired by Christian Eriksen, Pochettino’s Tottenham monopolised the ball. Somehow, however, the Uruguayan ended the afternoon smiling.
+ 
+His side’s sheer bloody-minded resilience – aided by Harry Kane’s own goal – secured a point. Not that it will be lost on Poyet that his largely outclassed Wearsiders had looked sunk until Emanuele Giaccherini’s liberation from the bench.
+ 
+“I’m really, really pleased,” Poyet said. “Spurs are by the far the best team we’ve played. It was a really hard point.”
+ 
+While Sunderland sought their first league win of the season, Tottenham were determined to exorcise memories of their 3-0 home defeat against Liverpool a fortnight ago and made a suitably high-octane start in the warm sunshine.
+ 
+A compelling game had barely kicked off when the outstanding Eriksen slipped a sublime pass to Danny Rose, whose shot was parried to safety by a somewhat startled Vito Mannone. A minute later Sunderland’s goalkeeper failed to hold an Emmanuel Adebayor shot and watched Nacer Chadli direct the rebound beyond his reach.
+ 
+The visiting fans hardly had time to celebrate before they were reminded that their defence remains a work in progress. That unit seemed to momentarily stand back and admire Adam Johnson as the winger sashayed in from the left and unleashed a right-foot shot that was deflected beyond Hugo Lloris.
+ 
+Mannone did extremely well to block Adebayor’s volley following the striker’s cute one-two with Eriksen but gradually things turned slightly more sedate. There were some lovely little passing triangles to observe from Spurs as, with the excellent Mousa Dembélé controlling central midfield, they emphasised just how far Sunderland have to travel if they are to become similarly assured in the arts of pass and move and positional interchange.
+ 
+Poyet is very keen to turn his team into a possession-hogging, controlled passing outfit and, under his tutelage, they have made big strides away from the deep defending, counterattacking strategy that was their hallmark under Martin O’Neill. Here, though, Tottenham’s superiority on the ball forced them to spend long periods without it, defending in numbers. It made life horribly tough for Ricardo Álvarez, the Argentinian making his debut wide on the right of Poyet’s midfield after arriving on a season-long loan from Internazionale.
+ 
+Álvarez and company enjoyed some fortunate moments – most notably when Dembélé’s 30-yard shot rebounded off a post with Mannone well beaten and when Erik Lamela’s attempted pass to Adebayor was diverted by Santiago Vergini’s arm, only for the referee to dismiss visiting penalty appeals – yet still appeared destined for inevitable defeat.
+ 
+Despite Lee Cattermole’s best efforts to hold Sunderland together, the immensely impressive Eriksen restored the visiting lead. Untypically from such a delicately subtle player the goal was somewhat untidy. It resulted from a home failure to clear Chadli’s cross, with Eriksen extending a boot and bundling the ball across the line from close range.
+ 
+On came Giaccherini – who surely should have started – and Will Buckley in place of Sebastian Larsson and Álvarez. Giaccherini, particularly, improved Sunderland and Johnson was unlucky to see a long-range shot fly fractionally wide.
+ 
+Taking the hint, Pochettino replaced Chadli with his new defensive midfielder, Benjamin Stambouli. Suitably fortified, Spurs might have extended their lead had Lamela’s clever chip not rebounded back off the bar but instead Sunderland stole a highly unlikely point.
+ 
+It featured two substitutes fresh from the bench and involved Jordi Gómez’s curving free kick being diverted past his own goalkeeper by the unfortunate Kane as Connor Wickham, technically accomplished throughout, provided invaluable nuisance value.
+ 
+“I’m very disappointed,” said Pochettino. “We had a lot of chances. We didn’t kill the game but we were unlucky.”
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="175~180" text="Poyet" playerID="null" />
+<Player id="P1" spans="322~339" text="Christian Eriksen" playerID="null" />
+<Player id="P2" spans="502~512" text="Harry Kane" playerID="null" />
+<Player id="P3" spans="571~576" text="Poyet" playerID="null" />
+<Player id="P4" spans="638~658" text="Emanuele Giaccherini" playerID="null" />
+<Player id="P5" spans="720~725" text="Poyet" playerID="null" />
+<Player id="P6" spans="1104~1111" text="Eriksen" playerID="null" />
+<Player id="P7" spans="1138~1148" text="Danny Rose" playerID="null" />
+<Player id="P8" spans="1206~1218" text="Vito Mannone" playerID="null" />
+<Player id="P9" spans="1277~1294" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P10" spans="1312~1324" text="Nacer Chadli" playerID="null" />
+<Player id="P11" spans="1538~1550" text="Adam Johnson" playerID="null" />
+<Player id="P12" spans="1649~1660" text="Hugo Lloris" playerID="null" />
+<Player id="P13" spans="1664~1671" text="Mannone" playerID="null" />
+<Player id="P14" spans="1700~1708" text="Adebayor" playerID="null" />
+<Player id="P15" spans="1760~1767" text="Eriksen" playerID="null" />
+<Player id="P16" spans="1917~1924" text="Dembélé" playerID="null" />
+<Player id="P17" spans="2109~2114" text="Poyet" playerID="null" />
+<Player id="P18" spans="2502~2517" text="Ricardo Álvarez" playerID="null" />
+<Player id="P19" spans="2573~2578" text="Poyet" playerID="null" />
+<Player id="P20" spans="2650~2657" text="Álvarez" playerID="null" />
+<Player id="P21" spans="2721~2728" text="Dembélé" playerID="null" />
+<Player id="P22" spans="2770~2777" text="Mannone" playerID="null" />
+<Player id="P23" spans="2804~2810" text="Lamela" playerID="null" />
+<Player id="P24" spans="2831~2839" text="Adebayor" playerID="null" />
+<Player id="P25" spans="2856~2872" text="Santiago Vergini" playerID="null" />
+<Player id="P26" spans="3000~3014" text="Lee Cattermole" playerID="null" />
+<Player id="P27" spans="3084~3091" text="Eriksen" playerID="null" />
+<Player id="P28" spans="3240~3246" text="Chadli" playerID="null" />
+<Player id="P29" spans="3261~3268" text="Eriksen" playerID="null" />
+<Player id="P30" spans="3352~3363" text="Giaccherini" playerID="null" />
+<Player id="P31" spans="3403~3415" text="Will Buckley" playerID="null" />
+<Player id="P32" spans="3428~3445" text="Sebastian Larsson" playerID="null" />
+<Player id="P33" spans="3450~3457" text="Álvarez" playerID="null" />
+<Player id="P34" spans="3459~3470" text="Giaccherini" playerID="null" />
+<Player id="P35" spans="3510~3517" text="Johnson" playerID="null" />
+<Player id="P36" spans="3617~3623" text="Chadli" playerID="null" />
+<Player id="P37" spans="3659~3677" text="Benjamin Stambouli" playerID="null" />
+<Player id="P38" spans="3740~3746" text="Lamela" playerID="null" />
+<Player id="P39" spans="3910~3921" text="Jordi Gómez" playerID="null" />
+<Player id="P40" spans="4000~4004" text="Kane" playerID="null" />
+<Player id="P41" spans="4008~4022" text="Connor Wickham" playerID="null" />
+<Coref id="C0" spans="449~452" text="His" playerID="null" />
+<Coref id="C1" spans="582~585" text="his" playerID="null" />
+<Coref id="C2" spans="1351~1354" text="his" playerID="null" />
+<Coref id="C3" spans="2136~2139" text="his" playerID="null" />
+<Coref id="C4" spans="2209~2212" text="his" playerID="null" />
+<Coref id="C5" spans="2542~2545" text="his" playerID="null" />
+<Coref id="C6" spans="3629~3632" text="his" playerID="null" />
+<Coref id="C7" spans="3962~3965" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

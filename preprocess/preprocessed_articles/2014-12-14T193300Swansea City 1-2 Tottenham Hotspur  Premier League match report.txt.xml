@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/dec/14/swansea-city-tottenham-hotspur-premier-league-match-report
+
+Swansea City 1-2 Tottenham Hotspur | Premier League match report
+
+
+Two teams who play a pleasing passing game produced a smashing match on Sunday with a surprising denouement. Swansea were the better side, created the lion’s share of the chances and know they should have won but Tottenham dug deep and were rewarded for their resilience when Christian Eriksen burgled the winner after 89 minutes.
+ 
+Nobody in the Premier League concedes potentially winning positions more often than Garry Monk’s Swans and so it was here. Equalising after 48 minutes, they went on to create sufficient goalscoring opportunities to have won comfortably, yet were left without so much as a point and only one victory in their past five league matches.
+ 
+Spurs took optimum advantage of their opponents’ profligacy to move up to seventh in the table. Mauricio Pochettino, their Argentinian manager, said he did not understand the English phrase “smash and grab” but admitted: “Swansea played better than us. It is very important to show character and fight in such situations and we did that to get a very important win against a very good team.”
+ 
+They took the lead in the fourth minute when Eriksen’s corner from the right led to Harry Kane, seven yards out, outjumping Àngel Rangel to head into the far corner. Tottenham’s supporters saluted the scorer, who represents an endangered species as a youth-team product, as “one of our own”. Kane has 11 goals from 20 appearances in all competitions this season.
+ 
+The Swans hit back hard, Wilfried Bony threatening to equalise almost immediately when his low drive from the edge of the D brought a decent save from Hugo Lloris. After 20 minutes it took a last-ditch tackle by Ben Davies, playing against his former club, to dispossess the burly Ivorian in front of goal.
+ 
+Bony, predatory and persistent, was soon back, fastening eagerly on to Rangel’s cross only to be denied again by Lloris. When he tried his luck again his shot, which was on target, was deflected behind off Federico Fazio.
+ 
+Swansea should have been ahead by half-time but for once Bony’s finishing was less than exemplary. He put that right within three minutes of the resumption, stabbing the ball home at the second attempt after his initial one rebounded to him off Fazio’s body. It was Bony’s eighth goal in his past 10 Premier League appearances and no player has scored more than his 20 in 2014.
+ 
+Spurs tried to sign him last summer but were unable to come up with the money required. Their interest was entirely understandable here. In comparison their own No9, Roberto Soldado, was utterly anonymous, again looking anything but a £26m striker. He was substituted after 56 minutes after a contribution that was in stark contrast to that of the combative Bony, who cost Swansea less than half the Spaniard’s fee.
+ 
+Kane, with a twisting header, was only inches away for Tottenham but a draw was the least Swansea deserved. Instead, right at the end Ashley Richards, on as substitute, carelessly conceded possession to Davies and Eriksen scored with a low shot from 18 yards which flew in past Gerhard Tremmel’s right hand.
+ 
+Monk described the outcome as “sickening”. He said: “I couldn’t see that coming. Two individual errors cost us two goals and the result. We created enough chances to have scored a number of goals but didn’t do it because we weren’t clinical enough.
+ 
+“You have to kill teams off in that situation and we didn’t do that but coming away with nothing is hard to take. In the second half it was one-way traffic and, if it had been a boxing match, it would have been stopped. It was an injustice but you don’t always get what you deserve. “
+ 
+Pochettino, Spurs’ third manager since Harry Redknapp left in June 2012, believes he is at last getting across the philosophy which served Southampton so well last season.
+ 
+He said: “When you arrive at a different club with different players, as I found at Southampton, you need time to put your ideas into practice.
+ 
+“We are in a very good way now, and I am very happy with the players. I was very pleased today because we started to show the character we want. We are fighting in every situation and we have a lot of good players and young talent. With time we will improve even more.”
+ 
+Man of the match Harry Kane (Tottenham Hotspur)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="451~468" text="Christian Eriksen" playerID="null" />
+<Player id="P1" spans="1283~1290" text="Eriksen" playerID="null" />
+<Player id="P2" spans="1322~1332" text="Harry Kane" playerID="null" />
+<Player id="P3" spans="1368~1374" text="Rangel" playerID="null" />
+<Player id="P4" spans="1530~1534" text="Kane" playerID="null" />
+<Player id="P5" spans="1628~1641" text="Wilfried Bony" playerID="null" />
+<Player id="P6" spans="1754~1765" text="Hugo Lloris" playerID="null" />
+<Player id="P7" spans="1815~1825" text="Ben Davies" playerID="null" />
+<Player id="P8" spans="1912~1916" text="Bony" playerID="null" />
+<Player id="P9" spans="1983~1989" text="Rangel" playerID="null" />
+<Player id="P10" spans="2025~2031" text="Lloris" playerID="null" />
+<Player id="P11" spans="2118~2132" text="Federico Fazio" playerID="null" />
+<Player id="P12" spans="2193~2197" text="Bony" playerID="null" />
+<Player id="P13" spans="2381~2386" text="Fazio" playerID="null" />
+<Player id="P14" spans="2402~2406" text="Bony" playerID="null" />
+<Player id="P15" spans="2682~2697" text="Roberto Soldado" playerID="null" />
+<Player id="P16" spans="2874~2878" text="Bony" playerID="null" />
+<Player id="P17" spans="2934~2938" text="Kane" playerID="null" />
+<Player id="P18" spans="3075~3083" text="Richards" playerID="null" />
+<Player id="P19" spans="3137~3143" text="Davies" playerID="null" />
+<Player id="P20" spans="3148~3155" text="Eriksen" playerID="null" />
+<Player id="P21" spans="3212~3227" text="Gerhard Tremmel" playerID="null" />
+<Player id="P22" spans="4391~4401" text="Harry Kane" playerID="null" />
+<Coref id="C0" spans="993~995" text="he" playerID="null" />
+<Coref id="C1" spans="1690~1693" text="his" playerID="null" />
+<Coref id="C2" spans="1843~1846" text="his" playerID="null" />
+<Coref id="C3" spans="2038~2040" text="he" playerID="null" />
+<Coref id="C4" spans="2047~2050" text="his" playerID="null" />
+<Coref id="C5" spans="2062~2065" text="his" playerID="null" />
+<Coref id="C6" spans="2235~2237" text="He" playerID="null" />
+<Coref id="C7" spans="2344~2347" text="his" playerID="null" />
+<Coref id="C8" spans="2424~2427" text="his" playerID="null" />
+<Coref id="C9" spans="2498~2501" text="his" playerID="null" />
+<Coref id="C10" spans="2765~2767" text="He" playerID="null" />
+<Coref id="C11" spans="3287~3289" text="He" playerID="null" />
+<Coref id="C12" spans="3864~3866" text="he" playerID="null" />
+<Coref id="C13" spans="3956~3958" text="He" playerID="null" />
+</TAGS>
+</SoccEval1.1>

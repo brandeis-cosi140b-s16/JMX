@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/nov/25/schalke-chelsea-champions-league-match-report
+
+Schalke 0-5 Chelsea | Champions League match report
+
+
+Roberto Di Matteo had been right to suppose sentimentality would go ignored against the team he had guided to Champions League success two years ago. All that awaited him here was abject humiliation. The travelling fans chorused the Italian’s name from afar almost in sympathy, but he could only watch helplessly as his recently-adopted Schalke team were ruthlessly put to the sword. Chelsea appear unstoppable.
+ 
+This resounding win, described by José Mourinho as the club’s most impressive away from home, secured top spot in Group G and passage into the knockout phase, but it also sent a powerful message to the other contenders for the trophy. The west London club are now unbeaten in 19 games this season, and 21 stretching back to last April. When they click, as is fast becoming the norm, they are untouchable. The final game of the section, at home to Sporting Lisbon while others home and abroad fret over their destiny, has become an opportunity to rest legs ahead of the Christmas clutter. They have created their own breathing space.
+ 
+Mourinho justifiably spoke of qualities that, in the past, have not instantly sprung to mind when describing teams he has managed. He pointed to “something quite new in Chelsea’s football: this happiness, this flair, this beauty”. “I don’t remember Chelsea playing in this way away from home,” he said. “Obviously, [there have been] great victories away from home with me, with Roberto, even … I don’t remember … even with other managers. But this was very impressive. Very complete.”
+ 
+Was there any consolation he could offer his hosts? “The best comfort they can have is that they lost to the best team, a team who put in a perfect performance. It was not their fault. It was our fault.”
+ 
+It is Chelsea’s balance which sets them apart. They appear to have the perfect blend: there is strength and physical presence, skill and creation, lightening pace and a streetwise edge if required. They converted five of the eight attempts they had on target, dominated possession and imposed their class when the mood took them. They were ahead after 86 seconds, out of sight by the interval. Just as Schalke thought they might escape with some dignity, the visiting substitutes roused themselves to score twice in two minutes late on. A five-goal thrashing almost felt inadequate.
+ 
+Di Matteo took over as manager of the Bundesliga side last month and this was no way for the Italian to renew acquaintance with the club for whom he had excelled as a player and subsequently steered to a first Champions League title, as interim manager in 2012. The visiting fans granted him his 16th-minute applause, as they had to mark his shirt number in the immediate aftermath of his sacking two years ago, but everything else about this was as brutal as that dismissal.
+ 
+Cesc Fàbregas, who dictated the visitors’ rhythm alongside the leggy and dominant Nemanja Matic, had delivered both the first-half corners from which Chelsea scored. John Terry rose above Benedikt Höwedes to convert the club’s fastest Champions League goal, rendering Ralf Fährmann’s even-earlier save to deny Diego Costa all rather meaningless. The goalkeeper’s display rather disintegrated thereafter.
+ 
+It was Fàbregas’s wicked delivery again on the stroke of half-time which saw a panicked Jan Kirchhoff head the ball into his own goal. The home support had already resorted to booing their own by then, so dismayed had they been the team’s inferiority even if Chelsea’s second – a well-worked team move even Barcelona in their pomp might have cherished – had actually provoked appreciative applause. That move started inside their own half, all intricate passes and darts upfield, with at least 24 touches bypassing flustered opponents before Willian spied space to collect and dispatch a low shot inside Fährmann’s near post in the 29th minute.
+ 
+The goalkeeper should have done better with the finish, but Schalke’s players had all been left dizzied and disorientated as those in yellow poured forward. Di Matteo could only wince at the mismatch this had become, complaining that his players were “not aggressive enough” and “allowed Chelsea too much space to play”. His own team struck the bar when Eric Maxim Choupo-Moting’s shot deflected off Gary Cahill’s ankle on to the woodwork, but that was exceptional. The home manager even felt compelled to apologise for his team’s performance, which summed it up.
+ 
+They wilted again once exhaustion kicked in. Fàbregas’s diagonal pass was all it took to liberate Willian, who squared for the substitute Didier Drogba to tap in his 50th European goal with 14 minutes left. Two minutes later the veteran – summoned when Costa took a knock, though the Spain forward will be fit to face Sunderland on Saturday – was crossing for Ramires to head into a gaping net to complete the thrashing.
+ 
+“For this team to be as good or better than other Chelsea teams, they need to win,” added Mourinho. “At this moment: zero titles. We have to try and win things so this team goes down in Chelsea’s history as a brilliant team who won something.”
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="2954~2967" text="Cesc Fàbregas" playerID="null" />
+<Player id="P1" spans="3036~3049" text="Nemanja Matic" playerID="null" />
+<Player id="P2" spans="3120~3130" text="John Terry" playerID="null" />
+<Player id="P3" spans="3264~3275" text="Diego Costa" playerID="null" />
+<Player id="P4" spans="3367~3375" text="Fàbregas" playerID="null" />
+<Player id="P5" spans="3902~3909" text="Willian" playerID="null" />
+<Player id="P6" spans="4407~4418" text="Gary Cahill" playerID="null" />
+<Player id="P7" spans="4618~4626" text="Fàbregas" playerID="null" />
+<Player id="P8" spans="4671~4678" text="Willian" playerID="null" />
+<Player id="P9" spans="4711~4724" text="Didier Drogba" playerID="null" />
+<Player id="P10" spans="4826~4831" text="Costa" playerID="null" />
+<Player id="P11" spans="4933~4940" text="Ramires" playerID="null" />
+<Coref id="C0" spans="242~244" text="he" playerID="null" />
+<Coref id="C1" spans="431~433" text="he" playerID="null" />
+<Coref id="C2" spans="465~468" text="his" playerID="null" />
+<Coref id="C3" spans="1313~1315" text="he" playerID="null" />
+<Coref id="C4" spans="1329~1331" text="He" playerID="null" />
+<Coref id="C5" spans="1492~1494" text="he" playerID="null" />
+<Coref id="C6" spans="1711~1713" text="he" playerID="null" />
+<Coref id="C7" spans="1726~1729" text="his" playerID="null" />
+<Coref id="C8" spans="2622~2624" text="he" playerID="null" />
+<Coref id="C9" spans="2768~2771" text="his" playerID="null" />
+<Coref id="C10" spans="2814~2817" text="his" playerID="null" />
+<Coref id="C11" spans="2861~2864" text="his" playerID="null" />
+<Coref id="C12" spans="3481~3484" text="his" playerID="null" />
+<Coref id="C13" spans="4241~4244" text="his" playerID="null" />
+<Coref id="C14" spans="4328~4331" text="His" playerID="null" />
+<Coref id="C15" spans="4527~4530" text="his" playerID="null" />
+<Coref id="C16" spans="4735~4738" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

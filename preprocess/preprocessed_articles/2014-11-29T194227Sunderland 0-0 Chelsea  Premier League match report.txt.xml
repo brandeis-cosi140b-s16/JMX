@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/nov/29/sunderland-chelsea-premier-league-match-report
+
+Sunderland 0-0 Chelsea | Premier League match report
+
+
+As the final whistle blew José Mourinho wore the contemplative frown of a man minded to cancel Christmas but it could have been much worse for the Chelsea manager.
+ 
+After all, had Adam Johnson not missed a simple late chance for Sunderland his side would have lost their unbeaten Premier League record. Similarly, standing at another angle, Kevin Friend might arguably have sent Diego Costa off after a tangle with Wes Brown.
+ 
+Instead all that Chelsea sacrificed was their record of scoring in every Premier League game this season and the chance to have gone nine points – rather than a mere seven – clear at the top of the table.
+ 
+Some might even argue Mourinho escaped relatively lightly against opponents who have a bit of an Indian sign over them. Inspired by Lee Cattermole’s exceptional midfield dynamism and some impressive defending on John O’Shea’s part, the Wearsiders deserved their point but may feel they should have been celebrating an unlikely hat-trick on Saturday night.
+ 
+Mourinho scrapped Chelsea’s Christmas party in the wake of his side’s League Cup quarter-final defeat here a year ago and, even worse for the Portuguese, Sunderland won at Stamford Bridge in the Premier League in April.
+ 
+Failure to exert proper revenge must have been galling but, by the time he faced the media, his technical area scowl had been replaced by an air of sanguine resignation.
+ 
+“Of course this year’s party’s still on,” said the Chelsea manager. “Sunderland defended very, very well. Some people, some football Einsteins, criticise defensive teams, they say defending is a crime but I don’t, they were playing for a clean sheet, they were successful in that objective and I praise them. We tried everything to win but we couldn’t win – and don’t forget we arrived home from Schalke at 5am in midweek.”
+ 
+Perhaps tiredness did catch up with his team because Chelsea began deceptively brightly with Willian, particularly, worrying Sunderland while also hitting a post with a first-half shot.
+ 
+At that point Gus Poyet’s players were penned far too deep in their own half but, then, partway through the first half, came one of those moments on which matches can turn.
+ 
+Liberated by Cesc Fàbregas’s defence-bisecting pass from deep, Costa advanced with menace only to be denied by O’Shea’s excellent, immaculately timed, sliding tackle.
+ 
+Galvanised by that interception, Santiago Vergini cleverly deceived César Azpilicueta, enabling Jack Rodwell to test Thibaut Courtois from 30 yards. It was a routine save but marked the start of a proper contest.
+ 
+Poyet could have won prizes for moaning at referees during his days as a Chelsea player, but it was his assistant Mauricio Taricco who incurred Friend’s wrath here. Taricco was ordered down the tunnel, apparently sent off after complaining, somewhat vehemently, about Friend’s decisions to Lee Mason, the fourth official.
+ 
+More positively, Connor Wickham’s highly effective deployment wide on the home left was giving Bransilav Ivanovic several uncomfortable moments and when Wickham stole in front of the right-back, his resultant cross forced Courtois into an uncharacterstically awkward punch. A little later Vergini met Cattermole’s deflected cross and lifted the ball imperiously over Courtois but also narrowly over the bar.
+ 
+It was not Mourinho’s only cause for concern on an evening when Costa appeared lucky to escape unpunished after kicking out at O’Shea.
+ 
+As if taking a growing dislike to the Ireland centre-half was not sufficient the much lauded striker could arguably count himself fortunate not to be sent off after appearing to accidentally on purpose catch Brown in the mouth with a flailing, non-leading arm as the pair challenged for a header.
+ 
+To considerable local chagrin, Costa was merely booked – and, under the totting up rule, will consequently be suspended for Chelsea’s midweek game against Tottenham. “I don’t know,” said Mourinho when asked if he should have been dismissed. “I’ve been told he was unlucky to get a yellow.”
+ 
+Desperate to change the direction the game was taking, he subsequently replaced Costa and Oscar with Didier Drogba and Loïc Rémy but still the excellent Cattermole- (Roy Hodgson surely has to issue him an England summons) - kept destroying their previously assured passing rhythm.
+ 
+When Jozy Altidore’s cross was deflected to Johnson’s feet, time momentarily stood still. It was a highly inviting chance but the winger, on his weaker foot, directed the ensuing shot fractionally the wrong side of a post before covering his face with his hands.
+ 
+Not that his manager was overly dismayed at the end of an evening that left John Terry bristling with barely concealed aggression. “We need to be pleased with a point,” said Poyet. “We’ve stopped Chelsea scoring for the first time this season. It would have taken something very special from them to beat us.”
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="332~344" text="Adam Johnson" playerID="null" />
+<Player id="P1" spans="531~542" text="Diego Costa" playerID="null" />
+<Player id="P2" spans="567~576" text="Wes Brown" playerID="null" />
+<Player id="P3" spans="571~576" text="Brown" playerID="null" />
+<Player id="P4" spans="919~933" text="Lee Cattermole" playerID="null" />
+<Player id="P5" spans="2058~2065" text="Willian" playerID="null" />
+<Player id="P6" spans="2171~2176" text="Poyet" playerID="null" />
+<Player id="P7" spans="2341~2354" text="Cesc Fàbregas" playerID="null" />
+<Player id="P8" spans="2391~2396" text="Costa" playerID="null" />
+<Player id="P9" spans="2530~2546" text="Santiago Vergini" playerID="null" />
+<Player id="P10" spans="2565~2582" text="César Azpilicueta" playerID="null" />
+<Player id="P11" spans="2593~2605" text="Jack Rodwell" playerID="null" />
+<Player id="P12" spans="2614~2630" text="Thibaut Courtois" playerID="null" />
+<Player id="P13" spans="2712~2717" text="Poyet" playerID="null" />
+<Player id="P14" spans="3002~3005" text="Lee" playerID="null" />
+<Player id="P15" spans="3006~3011" text="Mason" playerID="null" />
+<Player id="P16" spans="3053~3067" text="Connor Wickham" playerID="null" />
+<Player id="P17" spans="3141~3149" text="Ivanovic" playerID="null" />
+<Player id="P18" spans="3189~3196" text="Wickham" playerID="null" />
+<Player id="P19" spans="3258~3266" text="Courtois" playerID="null" />
+<Player id="P20" spans="3325~3332" text="Vergini" playerID="null" />
+<Player id="P21" spans="3337~3347" text="Cattermole" playerID="null" />
+<Player id="P22" spans="3403~3411" text="Courtois" playerID="null" />
+<Player id="P23" spans="3510~3515" text="Costa" playerID="null" />
+<Player id="P24" spans="3621~3628" text="Ireland" playerID="null" />
+<Player id="P25" spans="3791~3796" text="Brown" playerID="null" />
+<Player id="P26" spans="3913~3918" text="Costa" playerID="null" />
+<Player id="P27" spans="4254~4259" text="Costa" playerID="null" />
+<Player id="P28" spans="4264~4269" text="Oscar" playerID="null" />
+<Player id="P29" spans="4275~4288" text="Didier Drogba" playerID="null" />
+<Player id="P30" spans="4293~4302" text="Loïc Rémy" playerID="null" />
+<Player id="P31" spans="4327~4337" text="Cattermole" playerID="null" />
+<Player id="P32" spans="4462~4475" text="Jozy Altidore" playerID="null" />
+<Player id="P33" spans="4501~4508" text="Johnson" playerID="null" />
+<Player id="P34" spans="4798~4808" text="John Terry" playerID="null" />
+<Player id="P35" spans="4896~4901" text="Poyet" playerID="null" />
+<Coref id="C0" spans="392~395" text="his" playerID="null" />
+<Coref id="C1" spans="1204~1207" text="his" playerID="null" />
+<Coref id="C2" spans="1439~1441" text="he" playerID="null" />
+<Coref id="C3" spans="1459~1462" text="his" playerID="null" />
+<Coref id="C4" spans="2001~2004" text="his" playerID="null" />
+<Coref id="C5" spans="2771~2774" text="his" playerID="null" />
+<Coref id="C6" spans="2812~2815" text="his" playerID="null" />
+<Coref id="C7" spans="3231~3234" text="his" playerID="null" />
+<Coref id="C8" spans="4092~4094" text="he" playerID="null" />
+<Coref id="C9" spans="4139~4141" text="he" playerID="null" />
+<Coref id="C10" spans="4229~4231" text="he" playerID="null" />
+<Coref id="C11" spans="4598~4601" text="his" playerID="null" />
+<Coref id="C12" spans="4695~4698" text="his" playerID="null" />
+<Coref id="C13" spans="4709~4712" text="his" playerID="null" />
+<Coref id="C14" spans="4731~4734" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

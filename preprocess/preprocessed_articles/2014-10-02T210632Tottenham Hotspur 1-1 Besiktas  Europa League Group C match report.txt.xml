@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/oct/02/tottenham-besiktas-europa-league-group-c-match-report
+
+Tottenham Hotspur 1-1 Besiktas | Europa League Group C match report
+
+
+ 
+ 
+Quite how Tottenham led until the final minute of this match was a mystery. Ultimately they left with only a point after a calamitous error by their centre-back Vlad Chiriches – and even a draw was rightly viewed by the Besiktas manager, Slaven Bilic, as an injustice.
+ 
+Chiriches, who endured a torrid evening, handled just inside the penalty area to allow Demba Ba to convert the equaliser from the spot. Harry Kane’s goal midway through the first half, coupled with Hugo Lloris’s wonderful goalkeeping, had almost stymied the visitors. That duo were the only reasons for Spurs cheer, however, as the home side laboured against a Besiktas team who, for chunks of this match, looked like they would run amok.
+ 
+“I don’t want to sound big-headed but every team that comes here and gets a point thinks it is a good result,” said Bilic. “But we were excellent and the only thing I’m not happy with is the result. We were so good. I told them at half-time just keep passing it. It had to come.”
+ 
+In Ba and Olcay Sahan, Besiktas possessed two menacing outlets in attack. Throughout the match, the pair teased and tested Tottenham’s all too porous backline and were denied only by the reflexes of Lloris. Conversely, when Mauricio Pochettino assessed his attacking options beforehand he must have squirmed. His three main strikers, Kane, Roberto Soldado and Emmanuel Adebayor, had managed just six goals in 17 appearances – and if that statistic is not immediately damning, the inadequacy of their attacking threat has been. This was a night for Kane and Soldado to set the record straight. Yet, in the opening exchanges, they did anything but.
+ 
+The visitors, meanwhile, operated with pace and precision down both flanks, the left especially, and Ba almost helped to create a goal in the second minute after Sahan, driving in off the left wing, pounced on an awful lapse by Chiriches. The Senegal striker outmuscled his marker only to see Sahan blaze wide. Ba soon leathered a shot against the bar from an awkward angle. Lloris had it covered but he scarcely seemed to believe the former Chelsea frontman could go so close from such a position.
+ 
+Tottenham’s attacks were tame by comparison and Soldado and Kane were like ghosts at first. Then, out of nowhere, Kane struck low into the bottom corner and Tottenham were ahead. It was the 27th minute, and although the 21-year-old’s run and shot from the edge of the box was not spectacular, it was perfectly placed.
+ 
+Besiktas came again. Lloris made a stunning save with his outstretched boot to deny Sahan, and Kane was thwarted by a fine save at the other end when he pummelled a shot goalwards from a tight angle. Tottenham were, at least, improving.
+ 
+Promise in the second half came via the industry of Kane and the skill of Nabil Bentaleb. Kane was at the heart of a slick move which saw Andros Townsend curl a shot over, and momentarily Spurs looked lively. But, again, Besiktas began to dominate possession and their fervent fans, who at one point let off flares – actions which could have ramifications for both clubs, should Uefa opt to sanction them – sensed an equaliser would come.
+ 
+Lloris made a magnificent fingertip save from Sahan after another slip by Chiriches. In truth though, Sahan would have done better to pick a spot low down, where the keeper would surely have had no chance.
+ 
+Besiktas then resorted to outlandish efforts in their quest to score the goal they deserved: Ba tried a piece of skill befitting Zlatan Ibrahimovic as he cartwheeled his right leg to steer a shot goalwards, then Sahan mirrored the technique of Wayne Rooney’s memorable goal against Manchester City, with a scissor-volley which flew inches wide. It was so nearly the perfect strike.
+ 
+Ba would be denied yet again by Lloris before the night was out as the Frenchman, standing tall, pushed over a poked effort. It was a remarkable save by a goalkeeper who looked unbeatable. “I didn’t need tonight’s game to rate him,” said Bilic. “He’s brilliant. One of the top, top keepers.”
+ 
+Ultimately, Chiriches’s indiscretion meant Ba, after a stunted run-up, was finally able to beat Lloris. “I don’t talk about the action by Vlad,” said Pochettino, skirting the embarrassing issue entirely. “It is an unfortunate action but in football you can always make a mistake.”
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="338~352" text="Vlad Chiriches" playerID="null" />
+<Player id="P1" spans="448~457" text="Chiriches" playerID="null" />
+<Player id="P2" spans="584~594" text="Harry Kane" playerID="null" />
+<Player id="P3" spans="646~657" text="Hugo Lloris" playerID="null" />
+<Player id="P4" spans="1370~1376" text="Lloris" playerID="null" />
+<Player id="P5" spans="1505~1509" text="Kane" playerID="null" />
+<Player id="P6" spans="1511~1526" text="Roberto Soldado" playerID="null" />
+<Player id="P7" spans="1531~1548" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P8" spans="1719~1723" text="Kane" playerID="null" />
+<Player id="P9" spans="1728~1735" text="Soldado" playerID="null" />
+<Player id="P10" spans="2048~2057" text="Chiriches" playerID="null" />
+<Player id="P11" spans="2195~2201" text="Lloris" playerID="null" />
+<Player id="P12" spans="2369~2376" text="Soldado" playerID="null" />
+<Player id="P13" spans="2381~2385" text="Kane" playerID="null" />
+<Player id="P14" spans="2435~2439" text="Kane" playerID="null" />
+<Player id="P15" spans="2662~2668" text="Lloris" playerID="null" />
+<Player id="P16" spans="2736~2740" text="Kane" playerID="null" />
+<Player id="P17" spans="2932~2936" text="Kane" playerID="null" />
+<Player id="P18" spans="2954~2968" text="Nabil Bentaleb" playerID="null" />
+<Player id="P19" spans="2970~2974" text="Kane" playerID="null" />
+<Player id="P20" spans="3018~3033" text="Andros Townsend" playerID="null" />
+<Player id="P21" spans="3321~3327" text="Lloris" playerID="null" />
+<Player id="P22" spans="3395~3404" text="Chiriches" playerID="null" />
+<Player id="P23" spans="3773~3785" text="Wayne Rooney" playerID="null" />
+<Player id="P24" spans="3945~3951" text="Lloris" playerID="null" />
+<Player id="P25" spans="4219~4228" text="Chiriches" playerID="null" />
+<Player id="P26" spans="4303~4309" text="Lloris" playerID="null" />
+<Coref id="C0" spans="1424~1427" text="his" playerID="null" />
+<Coref id="C1" spans="1457~1459" text="he" playerID="null" />
+<Coref id="C2" spans="1480~1483" text="His" playerID="null" />
+<Coref id="C3" spans="2090~2093" text="his" playerID="null" />
+<Coref id="C4" spans="2221~2223" text="he" playerID="null" />
+<Coref id="C5" spans="2695~2698" text="his" playerID="null" />
+<Coref id="C6" spans="2791~2793" text="he" playerID="null" />
+<Coref id="C7" spans="3680~3682" text="he" playerID="null" />
+<Coref id="C8" spans="3695~3698" text="his" playerID="null" />
+<Coref id="C9" spans="4159~4161" text="He" playerID="null" />
+</TAGS>
+</SoccEval1.1>

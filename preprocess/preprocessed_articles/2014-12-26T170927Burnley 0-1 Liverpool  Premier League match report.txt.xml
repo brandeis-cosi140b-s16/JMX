@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/dec/26/burnley-liverpool-premier-league-match-report
+
+Burnley 0-1 Liverpool | Premier League match report
+
+
+Liverpool’s plan to climb out of mid-table mediocrity and into the top four is up and running thanks to a decisive finish by Raheem Sterling that enlivened a forgettable game. With just seven wins from 18 matches there is still work to do in the second part of the season but at least they made a start here, playing a patient game that gradually wore down Burnley’s resistance.
+ 
+In the first half especially Liverpool were a long way from irresistible but they kept possession better the longer the game went on and in Sterling they possessed the sort of matchwinner Burnley would dearly love to have, someone capable of seizing on the most fleeting of opportunities and taking full advantage. Sterling is still learning as a centre-forward, it is not his normal position, and he finished his one opportunity with much more aplomb than he showed in similar situations when one on one with David de Gea in the recent defeat at Old Trafford.
+ 
+“Playing in that position Raheem will get those chances because of his pace,” Brendan Rodgers said. “He’s been working on his finishing and he is learning fast. He showed great composure with his finish, and that’s what I told the players we needed as half-time. As a team we were more composed in the second half.”
+           Brendan Rodgers predicts a strong finish to Liverpool’s season    
+This is not the easiest of grounds to visit for teams low on confidence and Rodgers will have been pleased to earn three points, particularly as the Liverpool goalkeeping saga took another unexpected twist after 16 minutes when Brad Jones’s “indefinite” stay between the posts came to an end. The Australian pulled a thigh muscle taking a kick, was unable to get anywhere near a Danny Ings shot that struck the foot of a post in Burnley’s first real attack, and seconds later Simon Mignolet was sent on in his place. The Belgian’s concentration does not appear to have been improved by the events of the past two weeks. He sliced his first clearance towards the touchline and took so long over his second that Ings almost charged it down. Unsurprisingly, he had the home crowd on his back after that, every time the ball came his way.
+ 
+Mignolet and his defenders reached the interval without further incident, though by the end of the first half Burnley were doing almost all the attacking, with an Ashley Barnes header and a George Boyd shot the closest they came to opening the scoring. While Liverpool had begun brightly enough, with Sterling finding plenty of space and Philippe Coutinho picking him up with pinpoint deliveries, by midway through the first half too many passes were going astray, Lazar Markovic was unable to bring his pace to bear on the left, and Sterling and Coutinho became isolated. Adam Lallana did bring a save from Tom Heaton but it was just about all the Burnley goalkeeper had to deal with in the first half.
+ 
+Liverpool improved when Emre Can came on for the second half, though the action remained stodgy until the deadlock was broken just past the hour.
+ 
+Neither side was creating much and Burnley were perhaps just starting to think a point might not be the worst of outcomes when Coutinho and Sterling combined in an instant to create a goal out of nothing. All it took was a lofted prod forward by the former for the latter to run on to, and Sterling’s pace did the rest. Just about managing to stay onside, he turned into space and took the ball round an over-committed Heaton to score into an empty net in front of the Liverpool supporters in the Fishwick Stand.
+ 
+There was still time for a little more goalkeeping drama, Mignolet letting a backpass roll out for an unnecessary corner when he had all the time in the world to clear it, but Burnley were unable to take advantage. Although Sam Vokes made a welcome return for his first appearance of the season Ings found little space in which to work and Burnley were unable to put a clearly vulnerable Mignolet under any sustained pressure. For a team in their position that has got to be a worry.
+ 
+“We dominated for good spells of the game, against Liverpool, but the challenge is to win,” Sean Dyche said. “We accept that, we’ve just got to make better chances for ourselves. With our mentality I feel we can keep growing.”
+ 
+Man of the match Adam Lallana (Liverpool)
+ 
+Burnley 4-4-2 Heaton; Trippier, Keane, Shackell, Mee (Jutkiewicz, 90); Boyd, Marney, Jones (Wallace, 83), Arfield; Ings, Barnes (Vokes, 80).
+ 
+Subs not used Kightly, Reid, JGilks, Long.
+ 
+Liverpool 3-4-3 Jones (Mignolet, 16); Touré (Can, h-t), Skrtel, Sakho; Henderson, Gerrard, Lucas, Markovic; Coutinho (Lambert, 73); Sterling, Lallana.
+ 
+Subs not used Moreno, Manquillo, Ojo, Ballotelli.
+ 
+Booked Lucas.
+ 
+Referee A Taylor.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="274~289" text="Raheem Sterling" playerID="null" />
+<Player id="P1" spans="670~678" text="Sterling" playerID="null" />
+<Player id="P2" spans="845~853" text="Sterling" playerID="null" />
+<Player id="P3" spans="1040~1052" text="David de Gea" playerID="null" />
+<Player id="P4" spans="1715~1725" text="Brad Jones" playerID="null" />
+<Player id="P5" spans="1720~1725" text="Jones" playerID="null" />
+<Player id="P6" spans="1866~1876" text="Danny Ings" playerID="null" />
+<Player id="P7" spans="1963~1977" text="Simon Mignolet" playerID="null" />
+<Player id="P8" spans="2197~2201" text="Ings" playerID="null" />
+<Player id="P9" spans="2324~2332" text="Mignolet" playerID="null" />
+<Player id="P10" spans="2487~2500" text="Ashley Barnes" playerID="null" />
+<Player id="P11" spans="2514~2525" text="George Boyd" playerID="null" />
+<Player id="P12" spans="2625~2633" text="Sterling" playerID="null" />
+<Player id="P13" spans="2671~2679" text="Coutinho" playerID="null" />
+<Player id="P14" spans="2789~2803" text="Lazar Markovic" playerID="null" />
+<Player id="P15" spans="2858~2866" text="Sterling" playerID="null" />
+<Player id="P16" spans="2871~2879" text="Coutinho" playerID="null" />
+<Player id="P17" spans="2897~2909" text="Adam Lallana" playerID="null" />
+<Player id="P18" spans="2932~2942" text="Tom Heaton" playerID="null" />
+<Player id="P19" spans="3054~3062" text="Emre Can" playerID="null" />
+<Player id="P20" spans="3305~3313" text="Coutinho" playerID="null" />
+<Player id="P21" spans="3318~3326" text="Sterling" playerID="null" />
+<Player id="P22" spans="3468~3476" text="Sterling" playerID="null" />
+<Player id="P23" spans="3597~3603" text="Heaton" playerID="null" />
+<Player id="P24" spans="3751~3759" text="Mignolet" playerID="null" />
+<Player id="P25" spans="3917~3926" text="Sam Vokes" playerID="null" />
+<Player id="P26" spans="3988~3992" text="Ings" playerID="null" />
+<Player id="P27" spans="4081~4089" text="Mignolet" playerID="null" />
+<Player id="P28" spans="4425~4437" text="Adam Lallana" playerID="null" />
+<Player id="P29" spans="4466~4472" text="Heaton" playerID="null" />
+<Player id="P30" spans="4474~4482" text="Trippier" playerID="null" />
+<Player id="P31" spans="4484~4489" text="Keane" playerID="null" />
+<Player id="P32" spans="4491~4499" text="Shackell" playerID="null" />
+<Player id="P33" spans="4501~4504" text="Mee" playerID="null" />
+<Player id="P34" spans="4506~4516" text="Jutkiewicz" playerID="null" />
+<Player id="P35" spans="4523~4527" text="Boyd" playerID="null" />
+<Player id="P36" spans="4529~4535" text="Marney" playerID="null" />
+<Player id="P37" spans="4537~4542" text="Jones" playerID="null" />
+<Player id="P38" spans="4544~4551" text="Wallace" playerID="null" />
+<Player id="P39" spans="4558~4565" text="Arfield" playerID="null" />
+<Player id="P40" spans="4567~4571" text="Ings" playerID="null" />
+<Player id="P41" spans="4573~4579" text="Barnes" playerID="null" />
+<Player id="P42" spans="4581~4586" text="Vokes" playerID="null" />
+<Player id="P43" spans="4609~4616" text="Kightly" playerID="null" />
+<Player id="P44" spans="4618~4622" text="Reid" playerID="null" />
+<Player id="P45" spans="4632~4636" text="Long" playerID="null" />
+<Player id="P46" spans="4656~4661" text="Jones" playerID="null" />
+<Player id="P47" spans="4663~4671" text="Mignolet" playerID="null" />
+<Player id="P48" spans="4678~4683" text="Touré" playerID="null" />
+<Player id="P49" spans="4685~4688" text="Can" playerID="null" />
+<Player id="P50" spans="4696~4702" text="Skrtel" playerID="null" />
+<Player id="P51" spans="4704~4709" text="Sakho" playerID="null" />
+<Player id="P52" spans="4711~4720" text="Henderson" playerID="null" />
+<Player id="P53" spans="4722~4729" text="Gerrard" playerID="null" />
+<Player id="P54" spans="4738~4746" text="Markovic" playerID="null" />
+<Player id="P55" spans="4748~4756" text="Coutinho" playerID="null" />
+<Player id="P56" spans="4758~4765" text="Lambert" playerID="null" />
+<Player id="P57" spans="4772~4780" text="Sterling" playerID="null" />
+<Player id="P58" spans="4782~4789" text="Lallana" playerID="null" />
+<Player id="P59" spans="4807~4813" text="Moreno" playerID="null" />
+<Player id="P60" spans="4815~4824" text="Manquillo" playerID="null" />
+<Player id="P61" spans="4826~4829" text="Ojo" playerID="null" />
+<Player id="P62" spans="4871~4877" text="Taylor" playerID="null" />
+<Coref id="C0" spans="903~906" text="his" playerID="null" />
+<Coref id="C1" spans="928~930" text="he" playerID="null" />
+<Coref id="C2" spans="940~943" text="his" playerID="null" />
+<Coref id="C3" spans="987~989" text="he" playerID="null" />
+<Coref id="C4" spans="1160~1163" text="his" playerID="null" />
+<Coref id="C5" spans="1194~1196" text="He" playerID="null" />
+<Coref id="C6" spans="1215~1218" text="his" playerID="null" />
+<Coref id="C7" spans="1233~1235" text="he" playerID="null" />
+<Coref id="C8" spans="1254~1256" text="He" playerID="null" />
+<Coref id="C9" spans="1285~1288" text="his" playerID="null" />
+<Coref id="C10" spans="1993~1996" text="his" playerID="null" />
+<Coref id="C11" spans="2107~2109" text="He" playerID="null" />
+<Coref id="C12" spans="2117~2120" text="his" playerID="null" />
+<Coref id="C13" spans="2181~2184" text="his" playerID="null" />
+<Coref id="C14" spans="2242~2244" text="he" playerID="null" />
+<Coref id="C15" spans="2267~2270" text="his" playerID="null" />
+<Coref id="C16" spans="2313~2316" text="his" playerID="null" />
+<Coref id="C17" spans="2337~2340" text="his" playerID="null" />
+<Coref id="C18" spans="2824~2827" text="his" playerID="null" />
+<Coref id="C19" spans="3534~3536" text="he" playerID="null" />
+<Coref id="C20" spans="3819~3821" text="he" playerID="null" />
+<Coref id="C21" spans="3953~3956" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

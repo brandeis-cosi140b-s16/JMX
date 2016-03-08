@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/oct/25/liverpool-hull-city-premier-league-match-report
+
+Liverpool 0-0 Hull City | Premier League match report
+
+
+Mario Balotelli went from whipping boy to Liverpool’s most effective player in the space of four days. That was Steve Bruce’s opinion, at any rate. Unfortunately standing out in a performance like this does not count for a great deal. Philippe Coutinho was arguably more effective in the half-hour he was granted, and Balotelli is still looking for his first league goal for Liverpool in spite of a couple of presentable late chances.
+ 
+The Italian starting the game was a mild surprise, and it is true he accomplished more of note in the first 45 minutes than he managed in his half a game against Real Madrid in midweek, though Hull City’s defence are not quite of the standard of the European champions’. Balotelli brought a good save from Eldin Jakupovic after 12 minutes, sent Alberto Moreno galloping down the left wing with an elegant backheel a little later, and even passed to colleagues on occasions instead of shooting every time he received the ball.
+ 
+The first half was still a dreary non-event, proof not even Balotelli’s presence can guarantee an eventful game. “Just like a library,” the Hull fans chanted midway through the first half, correctly observing Anfield’s famous atmosphere had all but evaporated. Apart from the Kop making unkind remarks about the size of Steve Bruce’s head, which the Hull manager took in good spirit, Liverpool produced almost nothing before the interval. Dejan Lovren saw an early header from a corner saved, Balotelli tested Jakupovic’s reactions again, and that was about it. By half-time the home crowd was practically falling asleep.
+ 
+The visitors were only slightly less soporific, although of course holding your own at Anfield and silencing a Liverpool crowd can both be regarded as achievements in themselves. Hull had a commanding attacking presence in Mohamed Diamé, who seemed to make the right side of Liverpool’s defence melt away every time he made a muscular run down the left. Their most likely source of inspiration was the enigmatic Hatem ben Arfa, who gets called enigmatic because he brings his delightful touch and vision to bear roughly two or three times on any given Saturday afternoon. Here, he made a thrilling run after three minutes then disappeared for the next half-hour, rematerialising just before the break to slip effortlessly behind the defence and create a shooting chance for Jake Livermore that the midfielder put too close to Simon Mignolet. Half-time came just as Hull were showing a little adventure, or at least putting a few tidy attacks together. Liverpool, with Raheem Sterling isolated on the right and Balotelli mostly a spectator in the middle, were increasingly relying on set pieces and corners.
+ 
+Steven Gerrard drilled a couple of low shots narrowly wide early in the second half, but Liverpool improved as soon as Brendan Rodgers sent on Coutinho and Rickie Lambert for the last half hour. A Coutinho corner, headed on by Emre Can, almost brought a first league goal for Balotelli but the striker was unable to force the ball over the line from close range. Then Lambert sent Sterling away down the right for a cross Balotelli might have converted had he not taken his eye off the ball to foul a defender.
+ 
+Suddenly Anfield was a noisy place again, Hull were being trapped in their own half for long periods, and the contest had become a question of how long the visitors could hang on. As it happened the answer was 90 minutes. For all their pressure in the second half Liverpool never managed a shot on target until stoppage time, when Sterling, Coutinho and Balotelli came up with three in quick succession, all stopped by Jakupovic.
+ 
+Things might have been different had Lovren come up with more than an air shot on the six-yard line after Balotelli had teed him up, or had Lambert shown a better first touch when neatly played clear by Coutinho, but as the Hull goalkeeper was only busy for the added four minutes it was hard to argue the visitors did not deserve their point.
+ 
+Balotelli was involved in a late penalty appeal against Alex Bruce, but even Rodgers accepted his player was falling over anyway, concealing his disappointment that a stronger finisher would have stayed on his feet and put away the chance.
+ 
+More frustration for Liverpool, for Hull another impressive point at a difficult ground.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="153~168" text="Mario Balotelli" playerID="null" />
+<Player id="P1" spans="271~276" text="Bruce" playerID="null" />
+<Player id="P2" spans="397~405" text="Coutinho" playerID="null" />
+<Player id="P3" spans="471~480" text="Balotelli" playerID="null" />
+<Player id="P4" spans="861~870" text="Balotelli" playerID="null" />
+<Player id="P5" spans="896~911" text="Eldin Jakupovic" playerID="null" />
+<Player id="P6" spans="935~949" text="Alberto Moreno" playerID="null" />
+<Player id="P7" spans="1178~1187" text="Balotelli" playerID="null" />
+<Player id="P8" spans="1444~1449" text="Bruce" playerID="null" />
+<Player id="P9" spans="1557~1569" text="Dejan Lovren" playerID="null" />
+<Player id="P10" spans="1611~1620" text="Balotelli" playerID="null" />
+<Player id="P11" spans="1628~1637" text="Jakupovic" playerID="null" />
+<Player id="P12" spans="1965~1978" text="Mohamed Diamé" playerID="null" />
+<Player id="P13" spans="2164~2168" text="Arfa" playerID="null" />
+<Player id="P14" spans="2516~2530" text="Jake Livermore" playerID="null" />
+<Player id="P15" spans="2568~2582" text="Simon Mignolet" playerID="null" />
+<Player id="P16" spans="2710~2725" text="Raheem Sterling" playerID="null" />
+<Player id="P17" spans="2752~2761" text="Balotelli" playerID="null" />
+<Player id="P18" spans="2851~2865" text="Steven Gerrard" playerID="null" />
+<Player id="P19" spans="2994~3002" text="Coutinho" playerID="null" />
+<Player id="P20" spans="3007~3021" text="Rickie Lambert" playerID="null" />
+<Player id="P21" spans="3048~3056" text="Coutinho" playerID="null" />
+<Player id="P22" spans="3078~3086" text="Emre Can" playerID="null" />
+<Player id="P23" spans="3127~3136" text="Balotelli" playerID="null" />
+<Player id="P24" spans="3219~3226" text="Lambert" playerID="null" />
+<Player id="P25" spans="3232~3240" text="Sterling" playerID="null" />
+<Player id="P26" spans="3273~3282" text="Balotelli" playerID="null" />
+<Player id="P27" spans="3695~3703" text="Sterling" playerID="null" />
+<Player id="P28" spans="3705~3713" text="Coutinho" playerID="null" />
+<Player id="P29" spans="3718~3727" text="Balotelli" playerID="null" />
+<Player id="P30" spans="3783~3792" text="Jakupovic" playerID="null" />
+<Player id="P31" spans="3833~3839" text="Lovren" playerID="null" />
+<Player id="P32" spans="3902~3911" text="Balotelli" playerID="null" />
+<Player id="P33" spans="3936~3943" text="Lambert" playerID="null" />
+<Player id="P34" spans="3999~4007" text="Coutinho" playerID="null" />
+<Player id="P35" spans="4142~4151" text="Balotelli" playerID="null" />
+<Player id="P36" spans="4198~4208" text="Alex Bruce" playerID="null" />
+<Coref id="C0" spans="451~453" text="he" playerID="null" />
+<Coref id="C1" spans="502~505" text="his" playerID="null" />
+<Coref id="C2" spans="656~658" text="he" playerID="null" />
+<Coref id="C3" spans="714~716" text="he" playerID="null" />
+<Coref id="C4" spans="728~731" text="his" playerID="null" />
+<Coref id="C5" spans="1094~1096" text="he" playerID="null" />
+<Coref id="C6" spans="2058~2060" text="he" playerID="null" />
+<Coref id="C7" spans="2204~2206" text="he" playerID="null" />
+<Coref id="C8" spans="2214~2217" text="his" playerID="null" />
+<Coref id="C9" spans="2320~2322" text="he" playerID="null" />
+<Coref id="C10" spans="3308~3310" text="he" playerID="null" />
+<Coref id="C11" spans="3321~3324" text="his" playerID="null" />
+<Coref id="C12" spans="4236~4239" text="his" playerID="null" />
+<Coref id="C13" spans="4283~4286" text="his" playerID="null" />
+<Coref id="C14" spans="4348~4351" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

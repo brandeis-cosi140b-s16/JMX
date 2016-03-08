@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/nov/27/tottenham-hotspur-partizan-belgrade-europa-league-match-report
+
+Tottenham Hotspur 1-0 Partizan Belgrade | Europa League match report
+
+
+Few pulses raced when Tottenham were drawn with Partizan Belgrade, Besiktas and Asteras Tripoli in Group C of the Europa League but Thursday night’s visitors to White Hart Lane cannot say their evenings have been bereft of intrigue. This time there were no rabonas, unexpected goalkeeping cameos or 89th-minute equalisers. The consequences of the three first-half pitch invasions that led to the match briefly being suspended will surely be less edifying.
+ 
+There already seems a sense that Spurs’ European campaign is determined to fly in the face of their manager’s view that it is primarily a distraction. Benjamin Stambouli’s 49th-minute goal, his first for the club, was enough to send them through to the last 32 after a patchy performance but the bigger conversation lay elsewhere.
+ 
+The prospects of any dramatic tension against a Partizan side whose only point had come in the meeting between these sides in Belgrade did not seem promising at the outset – an impression confirmed by the number of empty seats inside White Hart Lane. When Roberto Soldado dragged a reasonable opening wide inside a minute it seemed that Tottenham, whose play has lacked zip this season, might find their stride against opponents unused to playing at Premier League tempo.
+ 
+There was to be no early whirlwind, though, and Partizan were happy to commit men forward on the counter. After 10 minutes Petar Grbic – a curiosity of a 6ft 3in right-winger – sprinted past Stambouli and crossed for the centre-forward Petar Skuletic, who should perhaps have scored, to head narrowly wide. They then came even closer when Danko Lazovic placed a half-volley within centimetres of Hugo Lloris’s left post after Branko Ilic’s ball from the same side.
+ 
+The atmosphere needed something and it came via an undesirable source when a supporter entered the pitch, took pictures alongside Kyle Naughton and Vertonghen and then led security staff on a Benny Hill-style chase for a full minute. A less successful intruder then made off with a snap of Soldado before seeing his own night curtailed when the Tottenham striker pulled his shirt from his body, allowing security staff to make up ground
+ 
+Enough was enough when a third intruder entered the surface, and eventually sent flying by a Mousa Dembélé trip. The referee Yevhen Aranovsky, presumably acting according to edit but perhaps as exasperated by this stage as everybody else, led the players from the pitch; after a nine-minute delay, they emerged to play out the half’s final four minutes. There were strong suggestions that all three intruders were part of the same PR stunt, with the three encroachers’ shirts bearing the name of a headphone manufacturer, BassBuds, but nothing about the first half had felt like positive publicity for the host club and they went in to face an earful from Mauricio Pochettino, who had been increasingly agitated even before the disturbances.
+ 
+Whatever the Argentinian, whose English has improved but not to the point of perfection, uttered had instant consequence. This time Tottenham did fly out of the blocks and, four minutes into the second half, Stambouli slipped Soldado through to the right of goal. If the Spaniard’s bad luck in hitting a post was expected, the sight of Stambouli, a lumbering figure in the first 45 minutes, confidently sweeping home the rebound certainly prompted a double take.
+ 
+It prompted a wave of near-misses from Spurs, Soldado being denied by Milan Lukac and Paulinho, otherwise disappointing, seeing a 25-yarder flapped wide. Érik Lamela, all quick feet and stepovers but without ever looking especially penetrative, would come close twice before the end too.
+ 
+Partizan had not been baited by the sight of several Albanian flags in the home stands during the first half and, with Grbic perhaps the game’s most impressive player, retained a threat. They should have equalised when the substitute Andrija Zivkovic shot over from close range, and then contributed to the game’s one genuine moment of quality six minutes before the end when Hugo Lloris, who played well, made a remarkable save to his right from Vladimir Volkov. It was a reminder that, for all Spurs’ renewed thrust and purpose, this was an evening upon which White Hart Lane’s vulnerabilities were the main topic of debate.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="350~354" text="Hart" playerID="null" />
+<Player id="P1" spans="792~810" text="Benjamin Stambouli" playerID="null" />
+<Player id="P2" spans="1214~1218" text="Hart" playerID="null" />
+<Player id="P3" spans="1230~1245" text="Roberto Soldado" playerID="null" />
+<Player id="P4" spans="1639~1648" text="Stambouli" playerID="null" />
+<Player id="P5" spans="1844~1855" text="Hugo Lloris" playerID="null" />
+<Player id="P6" spans="2045~2058" text="Kyle Naughton" playerID="null" />
+<Player id="P7" spans="2063~2073" text="Vertonghen" playerID="null" />
+<Player id="P8" spans="2113~2117" text="Hill" playerID="null" />
+<Player id="P9" spans="2205~2212" text="Soldado" playerID="null" />
+<Player id="P10" spans="2453~2460" text="Dembélé" playerID="null" />
+<Player id="P11" spans="3306~3315" text="Stambouli" playerID="null" />
+<Player id="P12" spans="3324~3331" text="Soldado" playerID="null" />
+<Player id="P13" spans="3434~3443" text="Stambouli" playerID="null" />
+<Player id="P14" spans="3609~3616" text="Soldado" playerID="null" />
+<Player id="P15" spans="3649~3657" text="Paulinho" playerID="null" />
+<Player id="P16" spans="3717~3728" text="Érik Lamela" playerID="null" />
+<Player id="P17" spans="4229~4240" text="Hugo Lloris" playerID="null" />
+<Player id="P18" spans="4421~4425" text="Hart" playerID="null" />
+<Coref id="C0" spans="831~834" text="his" playerID="null" />
+<Coref id="C1" spans="2227~2230" text="his" playerID="null" />
+<Coref id="C2" spans="2285~2288" text="his" playerID="null" />
+<Coref id="C3" spans="2300~2303" text="his" playerID="null" />
+<Coref id="C4" spans="4285~4288" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

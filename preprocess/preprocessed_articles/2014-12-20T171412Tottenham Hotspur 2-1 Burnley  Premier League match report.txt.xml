@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/dec/20/tottenham-hotspur-burnley-premier-league-match-report
+
+Tottenham Hotspur 2-1 Burnley | Premier League match report
+
+
+When Érik Lamela’s left-footed rocket fizzed into the far corner of the Burnley net, it was tempting to think that it had been worth the wait. This was Lamela’s 26th Premier League appearance for Tottenham Hotspur since his record £30m move from Roma in the summer of last year and it was his first goal in the competition.
+ 
+What a goal it was, one that was worthy of deciding any match and one that fired a bit of momentum for his club, on the back of Wednesday’s Capital One Cup quarter-final win here over Newcastle United. Tottenham’s season has been scarred by their inability to beat teams who sit below them in the table at home and Burnley’s visit presented a test of their mentality.
+ 
+Lamela’s goal helped them to pass it. He picked up the ball on the right and, with Ben Mee backing off, drifted inside before unleashing a vicious shot from 25 yards that had too much on it for the Burnley goalkeeper Tom Heaton. It was the high point of an individual performance that was marked by attacking menace but also a certain flakiness in defensive terms.
+ 
+Tottenham dominated the possession but they came to look a little laboured in the second half, possibly as a result of it being their third game in seven days. The schedule does not get any easier.
+ 
+There were positives for Burnley, which the manager, Sean Dyche, was keen to talk up, namely how they “affected Tottenham’s back four” and got forward more quickly than normal. Dyche’s habit of sticking with two up front away from home is extremely praiseworthy. “Sometimes you have to see through the result,” he said. “There is a future in that performance.”
+ 
+There were patches of neat and energetic football and Burnley’s travelling fans, almost all of them resplendent in Santa hats, fervently believed. However, they could not bend the result to their will.
+ 
+Harry Kane put Tottenham in front with his 14th goal of the season and it followed a piece of quick thinking from him. Dyche complained about the award of a free-kick for handball against Michael Keane, arguing that the defender could not get out of the way, and Kane took it immediately, rolling the ball up towards Christian Eriksen. The Dane was offside, so he stopped and so did Burnley. Nacer Chadli did not and when he crossed, Kane was alone to nod home from close range.
+ 
+He does not miss from that range. Well, actually, he can, as he proved on 31 minutes after Lamela had beaten Mee to cross. The ball then found its way to Kane who, from two yards out, somehow failed to make any connection.
+ 
+By then, Burnley were level. David Jones robbed Lamela and George Boyd worked it to Ashley Barnes. The striker bent a beautiful shot into the roof of the net from outside the area.
+ 
+Tottenham lost Ryan Mason to an ankle twist that looked serious, although Mauricio Pochettino later said that it was not, and the action continued to crackle. Kane was always a threat – aside from his goal he also banged one first-half effort beyond the far post – and Lamela’s screamer had the home team back in charge.
+ 
+Burnley enjoyed a purple patch at the beginning of the second half, with Danny Ings wriggling into space to work Hugo Lloris on three occasions. Pochettino had a simple instruction for his players: “Wake up,” he bellowed.
+ 
+Tottenham were ragged in the second half; Burnley were the better team but, after the initial flurry, they never truly looked as though they would find a second equaliser, although the substitute Ross Wallace did test Lloris with a 90th-minute free-kick. Tottenham got the job done.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="170~181" text="Érik Lamela" playerID="null" />
+<Player id="P1" spans="317~323" text="Lamela" playerID="null" />
+<Player id="P2" spans="861~867" text="Lamela" playerID="null" />
+<Player id="P3" spans="944~951" text="Ben Mee" playerID="null" />
+<Player id="P4" spans="1078~1088" text="Tom Heaton" playerID="null" />
+<Player id="P5" spans="1995~2005" text="Harry Kane" playerID="null" />
+<Player id="P6" spans="2183~2196" text="Michael Keane" playerID="null" />
+<Player id="P7" spans="2258~2262" text="Kane" playerID="null" />
+<Player id="P8" spans="2312~2329" text="Christian Eriksen" playerID="null" />
+<Player id="P9" spans="2387~2399" text="Nacer Chadli" playerID="null" />
+<Player id="P10" spans="2429~2433" text="Kane" playerID="null" />
+<Player id="P11" spans="2567~2573" text="Lamela" playerID="null" />
+<Player id="P12" spans="2585~2588" text="Mee" playerID="null" />
+<Player id="P13" spans="2630~2634" text="Kane" playerID="null" />
+<Player id="P14" spans="2730~2741" text="David Jones" playerID="null" />
+<Player id="P15" spans="2736~2741" text="Jones" playerID="null" />
+<Player id="P16" spans="2749~2755" text="Lamela" playerID="null" />
+<Player id="P17" spans="2760~2771" text="George Boyd" playerID="null" />
+<Player id="P18" spans="2785~2798" text="Ashley Barnes" playerID="null" />
+<Player id="P19" spans="2899~2909" text="Ryan Mason" playerID="null" />
+<Player id="P20" spans="3043~3047" text="Kane" playerID="null" />
+<Player id="P21" spans="3153~3159" text="Lamela" playerID="null" />
+<Player id="P22" spans="3280~3290" text="Danny Ings" playerID="null" />
+<Player id="P23" spans="3320~3331" text="Hugo Lloris" playerID="null" />
+<Player id="P24" spans="3627~3639" text="Ross Wallace" playerID="null" />
+<Player id="P25" spans="3649~3655" text="Lloris" playerID="null" />
+<Coref id="C0" spans="385~388" text="his" playerID="null" />
+<Coref id="C1" spans="454~457" text="his" playerID="null" />
+<Coref id="C2" spans="594~597" text="his" playerID="null" />
+<Coref id="C3" spans="899~901" text="He" playerID="null" />
+<Coref id="C4" spans="1739~1741" text="he" playerID="null" />
+<Coref id="C5" spans="2034~2037" text="his" playerID="null" />
+<Coref id="C6" spans="2356~2358" text="he" playerID="null" />
+<Coref id="C7" spans="2417~2419" text="he" playerID="null" />
+<Coref id="C8" spans="2476~2478" text="He" playerID="null" />
+<Coref id="C9" spans="2526~2528" text="he" playerID="null" />
+<Coref id="C10" spans="2537~2539" text="he" playerID="null" />
+<Coref id="C11" spans="3081~3084" text="his" playerID="null" />
+<Coref id="C12" spans="3090~3092" text="he" playerID="null" />
+<Coref id="C13" spans="3392~3395" text="his" playerID="null" />
+<Coref id="C14" spans="3416~3418" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

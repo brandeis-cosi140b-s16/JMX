@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/oct/05/chelsea-arsenal-premier-league-match-report
+
+Chelsea 2-0 Arsenal | Premier League match report
+
+
+There was a point of this match when Arsène Wenger seemed to have gone into Begbie-from-Trainspotting mode and was squaring up to José Mourinho by the side of the pitch, as if someone had spilled his pint one time too many. Wenger had already shoved his bete noire in the chest and when he went back to prolong the argument the Arsenal manager briefly pushed his face towards his old adversary so they were almost nose to nose. Those were the lingering images of a sometimes wild game when, once again, Mourinho came out on top and everyone could see exactly how far he has got under Wenger’s skin.
+ 
+Mourinho’s superiority over Wenger has stretched now to 12 games unbeaten and the man he branded a “specialist in failure” will be fortunate to escape further action from the Football Association. Chelsea have won seven matches during that sequence and once we had waded through all the varying subplots and controversies the bottom line is the Premier League leaders have re-established a five-point advantage ahead of Manchester City – and gone nine clear of Arsenal – courtesy of Eden Hazard’s expertly taken penalty and the latest demonstration of Diego Costa’s penalty-box prowess.
+ 
+That list of side-issues is fairly considerable, though, even ignoring for one moment the first-half spat between Wenger and Mourinho, with the older man very much the aggressor, that brought no apology from the Arsenal manager, but a wry offer to the journalists in his presence that it was only a “little shove” and he could show us a real one if requested.
+ 
+The referee, Martin Atkinson, could feasibly have shown four red cards and his leniency was starting to feel absurd when Danny Welbeck lunged in two-footed on Cesc Fàbregas during the closing exchanges and it was deemed worthy only of a booking.
+ 
+Yet this was not a good day for keeping by the rules and Chelsea will face some awkward questions about the head injury suffered by the goalkeeper, Thibaut Courtois, and why they let him carry on after he had been left flat out on his back, eyes closed, after his collision with Alexis Sánchez. Courtois carried on for 13 minutes before suffering a relapse and it was alarming in the extreme to see blood coming from his right ear and, later, ambulance staff sprinting into the home dressing room. He was taken to hospital and Chelsea’s decision-making is clearly open to scrutiny bearing in mind the FA brought in new regulations for head injuries at the start of the season.
+           Arsène Wenger discusses his shoving match with José Mourinho.    
+When the two sides met last season it finished 6-0 to Chelsea to sabotage Wenger’s 1,000th match as Arsenal’s manager and left him so distressed that, for the first time ever, he refused to do his press conference. Arsenal, to give them their due, were better this time. They had spells when they looked mildly threatening and Wenger’s tete-a-tete with Mourinho followed the theme of a team that seemed determined to stand up to their opponents and show they were no soft touch.
+ 
+They also have a good case for thinking that Gary Cahill should have been sent off for the scything challenge on Sánchez that persuaded Wenger to stride from his technical area to the one designated for Chelsea personnel and respond to Mourinho’s orders for a retreat by putting both hands into his chest to give him a shove and then reminding him, close-up, who was the taller, more imposing man. Wenger was justified in saying it was a red-card offence and he could also reflect on the moment, at 1-0, when Fàbregas threw himself at Jack Wilshere’s shot and the ball deflected off his hands inside the penalty area only for Atkinson to wave play on.
+ 
+Equally, Laurent Koscielny should have been shown a red card for halting Hazard’s brilliant run for his penalty, after the Belgian had already gone past Santi Cazorla and Calum Chambers and would have been running clear on goal if he had eluded a third man. Chambers could feasibly have been dismissed for two bookable offences before half-time and Welbeck’s studs-up challenge on Fàbregas was an even more obvious sending-off than Cahill’s. Both teams will deflect the other side’s complaints with grievances of their own but ultimately the victory came down to Chelsea’s greater penetration in attack and solidity in defence. It has become a recurring theme when these sides lock horns and the deja vu for Arsenal was compounded by the fact it was the brilliantly influential Fàbregas playing the ball for Costa to run clear and lob Wojciech Szczesny in the 78th minute.
+ 
+That was Costa’s ninth goal for his new club and an offside flag spared him too much embarrassment from an inexplicable open-goal miss late on. Hazard had been a constant menace, flustering Arsenal to the extent that Mathieu Flamini strayed dangerously close to turning one of his crosses into his own net, and Wenger was entitled to be disappointed that his team did not do more to look for rustiness in Petr Cech, the replacement for Courtois.
+ 
+At other points of the match, Mourinho could be seen gesturing for Wenger that it was time he stopped yapping away at the officials. The two men clearly cannot stand one another and there was no handshake at the final whistle but it was noticeable how Mourinho did not go after him in the post-match interviews. Then again, he did not have to. His team had already inflicted the more grievous damage and that, more than anything, is why Wenger gets so worked up.
+ 
+Man of the match Eden Hazard (Chelsea)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="1229~1240" text="Eden Hazard" playerID="null" />
+<Player id="P1" spans="1298~1309" text="Diego Costa" playerID="null" />
+<Player id="P2" spans="1818~1831" text="Danny Welbeck" playerID="null" />
+<Player id="P3" spans="1856~1869" text="Cesc Fàbregas" playerID="null" />
+<Player id="P4" spans="2093~2109" text="Thibaut Courtois" playerID="null" />
+<Player id="P5" spans="2224~2238" text="Alexis Sánchez" playerID="null" />
+<Player id="P6" spans="2231~2238" text="Sánchez" playerID="null" />
+<Player id="P7" spans="2240~2248" text="Courtois" playerID="null" />
+<Player id="P8" spans="3225~3236" text="Gary Cahill" playerID="null" />
+<Player id="P9" spans="3293~3300" text="Sánchez" playerID="null" />
+<Player id="P10" spans="3689~3697" text="Fàbregas" playerID="null" />
+<Player id="P11" spans="3715~3728" text="Jack Wilshere" playerID="null" />
+<Player id="P12" spans="3843~3860" text="Laurent Koscielny" playerID="null" />
+<Player id="P13" spans="3907~3913" text="Hazard" playerID="null" />
+<Player id="P14" spans="3987~4000" text="Santi Cazorla" playerID="null" />
+<Player id="P15" spans="4005~4019" text="Calum Chambers" playerID="null" />
+<Player id="P16" spans="4092~4100" text="Chambers" playerID="null" />
+<Player id="P17" spans="4183~4190" text="Welbeck" playerID="null" />
+<Player id="P18" spans="4215~4223" text="Fàbregas" playerID="null" />
+<Player id="P19" spans="4266~4272" text="Cahill" playerID="null" />
+<Player id="P20" spans="4612~4620" text="Fàbregas" playerID="null" />
+<Player id="P21" spans="4642~4647" text="Costa" playerID="null" />
+<Player id="P22" spans="4669~4686" text="Wojciech Szczesny" playerID="null" />
+<Player id="P23" spans="4718~4723" text="Costa" playerID="null" />
+<Player id="P24" spans="4853~4859" text="Hazard" playerID="null" />
+<Player id="P25" spans="4926~4941" text="Mathieu Flamini" playerID="null" />
+<Player id="P26" spans="5114~5123" text="Petr Cech" playerID="null" />
+<Player id="P27" spans="5145~5153" text="Courtois" playerID="null" />
+<Player id="P28" spans="5639~5650" text="Eden Hazard" playerID="null" />
+<Coref id="C0" spans="341~344" text="his" playerID="null" />
+<Coref id="C1" spans="395~398" text="his" playerID="null" />
+<Coref id="C2" spans="432~434" text="he" playerID="null" />
+<Coref id="C3" spans="504~507" text="his" playerID="null" />
+<Coref id="C4" spans="521~524" text="his" playerID="null" />
+<Coref id="C5" spans="712~714" text="he" playerID="null" />
+<Coref id="C6" spans="832~834" text="he" playerID="null" />
+<Coref id="C7" spans="1602~1605" text="his" playerID="null" />
+<Coref id="C8" spans="1653~1655" text="he" playerID="null" />
+<Coref id="C9" spans="1772~1775" text="his" playerID="null" />
+<Coref id="C10" spans="2147~2149" text="he" playerID="null" />
+<Coref id="C11" spans="2176~2179" text="his" playerID="null" />
+<Coref id="C12" spans="2205~2208" text="his" playerID="null" />
+<Coref id="C13" spans="2362~2365" text="his" playerID="null" />
+<Coref id="C14" spans="2443~2445" text="He" playerID="null" />
+<Coref id="C15" spans="2657~2660" text="his" playerID="null" />
+<Coref id="C16" spans="2875~2877" text="he" playerID="null" />
+<Coref id="C17" spans="2892~2895" text="his" playerID="null" />
+<Coref id="C18" spans="3338~3341" text="his" playerID="null" />
+<Coref id="C19" spans="3475~3478" text="his" playerID="null" />
+<Coref id="C20" spans="3639~3641" text="he" playerID="null" />
+<Coref id="C21" spans="3763~3766" text="his" playerID="null" />
+<Coref id="C22" spans="3934~3937" text="his" playerID="null" />
+<Coref id="C23" spans="4065~4067" text="he" playerID="null" />
+<Coref id="C24" spans="4741~4744" text="his" playerID="null" />
+<Coref id="C25" spans="4986~4989" text="his" playerID="null" />
+<Coref id="C26" spans="5003~5006" text="his" playerID="null" />
+<Coref id="C27" spans="5064~5067" text="his" playerID="null" />
+<Coref id="C28" spans="5248~5250" text="he" playerID="null" />
+<Coref id="C29" spans="5481~5483" text="he" playerID="null" />
+<Coref id="C30" spans="5501~5504" text="His" playerID="null" />
+</TAGS>
+</SoccEval1.1>

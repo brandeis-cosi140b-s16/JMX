@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/aug/18/burnley-chelsea-premier-league-match-report
+
+Burnley 1-3 Chelsea | Premier League match report
+
+
+It turned out to be a deception. Burnley had taken the lead and, briefly, their supporters must have dared wonder whether they would be talking about Scott Arfield’s goal in years to come with the fondness they reserve for Robbie Blake’s finest moment for the club. Then Chelsea snapped them out of their dreams, ruthlessly and brilliantly. It was pass-them-to-death football during that blitz of retaliatory strikes and, by the time they were done, José Mourinho’s team had left the team that came up from the Championship looking in need of smelling salts.
+ 
+Another side might have been badly affected by that early setback, in a strange environment, with an excitable home crowd. Mourinho’s players simply rolled up their sleeves and set about turning the game upside down. Diego Costa, on his first Premier League start, quickly settled them down with the equaliser. They took the lead four minutes later when André Schürrle finished off a wonderful exchange of passes and they were rampant by the time Branislav Ivanovic added the third. Cesc Fábregas was superb on his re-introduction to English football and there was a vibrancy to Chelsea’s attacking that was not always evident last season.
+ 
+Sean Dyche, the Burnley manager, talked later about a side “with a touch of arrogance”. He meant it as a compliment and Mourinho’s team could be excused for slacking off in the second half when the game was effectively over as a contest. Chelsea still left the clear impression that the arrival of Costa and, in particular, Fábregas had already improved them.
+ 
+Dyche can take a flicker of encouragement from the way the team he described as “the biggest underdogs in the history of the league” bared their teeth early on. Unfortunately for them, they also quickly discovered Chelsea are not a side to wilt the moment something goes wrong. “Emotionally we were not affected,” Mourinho said. “We never lost our composure.”
+ 
+Their response was a reminder to Burnley about the gulf between the sides they now have to face compared with last season. It was a blur of speed and movement and a lesson, too, about what can happen when a team built for £5m bumps into one with a valuation of £190m. Burnley are simply not accustomed to playing sides that move the ball this devastatingly.
+ 
+Chelsea’s equaliser came within four minutes when Ivanovic broke forward on the right. His low centre took a slight flick off Michael Duff and then went across the goalmouth before coming back off the post. From six yards Costa had his first chance of the evening. He was on the ball in a flash, scoring emphatically with his left foot.
+ 
+If that carried a touch of good fortune, the next goal left Chelsea’s opponents dizzy. Eden Hazard’s mazy run through the middle started the move. Ivanovic turned the ball into Fábregas and the former Arsenal and Barcelona player clipped a beautifully weighted pass into Schürrle’s path. Schürrle had anticipated what was coming and did not break stride as he stroked the ball past Tom Heaton.
+ 
+Burnley’s ordeal might have been worse but for the referee, Michael Oliver, deciding Costa had dived when he intercepted Ben Mee’s back-pass in front of Burnley’s goalkeeper. Costa looked appalled, as strikers always do in those moments, but it was only a passing irritation and within three minutes Fábregas had swung over a corner from the left for Ivanovic to volley in Chelsea’s third goal.
+ 
+For Burnley the first lesson must be that they cannot continue defending this obligingly. The tone was set in the fourth minute when the right-back Kieran Tripper underhit a pass to Heaton and the mistake almost led to Schürrle scoring. Mee was culpable for losing Ivanovic for his goal and Dyche, who talked afterwards about urgently needing to strengthen his squad, must have been startled by the frequency of their lapses.
+ 
+There are walls at Turf Moor lined with the match reports – “Fergie Tamed” – from that night, the last time they began a Premier League season, when Blake lashed the winning goal into the roof of Manchester United’s net. “Our Turf,” was the message in the claret and blue mosaic in the Jimmy McIlroy Stand and Arfield’s 14th-minute strike fleetingly raised the possibility of another shock. A free transfer from Huddersfield Town last year, Arfield had taken the goal brilliantly, firing through a crowded penalty area to beat the static Thibaut Courtois. After that, however, Burnley did not really test Courtois, on the night he took over from Petr Cech as Chelsea’s first-choice goalkeeper, until early in the second half when he palmed away another Arfield effort.
+ 
+Didier Drogba, back at the club where he fits best, came on as a second-half substitute and showed a glimpse of his old gifts, taking down Courtois’s long kick on his knee and volleying a shot just wide with his next touch. Majestic in the first half, comfortable in the second, Chelsea look like a team who mean business.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="295~308" text="Scott Arfield" playerID="null" />
+<Player id="P1" spans="923~934" text="Diego Costa" playerID="null" />
+<Player id="P2" spans="1060~1074" text="André Schürrle" playerID="null" />
+<Player id="P3" spans="1153~1171" text="Branislav Ivanovic" playerID="null" />
+<Player id="P4" spans="1646~1651" text="Costa" playerID="null" />
+<Player id="P5" spans="2482~2490" text="Ivanovic" playerID="null" />
+<Player id="P6" spans="2558~2570" text="Michael Duff" playerID="null" />
+<Player id="P7" spans="2654~2659" text="Costa" playerID="null" />
+<Player id="P8" spans="2858~2869" text="Eden Hazard" playerID="null" />
+<Player id="P9" spans="2918~2926" text="Ivanovic" playerID="null" />
+<Player id="P10" spans="3042~3050" text="Schürrle" playerID="null" />
+<Player id="P11" spans="3059~3067" text="Schürrle" playerID="null" />
+<Player id="P12" spans="3153~3163" text="Tom Heaton" playerID="null" />
+<Player id="P13" spans="3252~3257" text="Costa" playerID="null" />
+<Player id="P14" spans="3288~3295" text="Ben Mee" playerID="null" />
+<Player id="P15" spans="3342~3347" text="Costa" playerID="null" />
+<Player id="P16" spans="3518~3526" text="Ivanovic" playerID="null" />
+<Player id="P17" spans="3746~3752" text="Heaton" playerID="null" />
+<Player id="P18" spans="3783~3791" text="Schürrle" playerID="null" />
+<Player id="P19" spans="3801~3804" text="Mee" playerID="null" />
+<Player id="P20" spans="3829~3837" text="Ivanovic" playerID="null" />
+<Player id="P21" spans="4302~4309" text="Arfield" playerID="null" />
+<Player id="P22" spans="4433~4440" text="Arfield" playerID="null" />
+<Player id="P23" spans="4530~4546" text="Thibaut Courtois" playerID="null" />
+<Player id="P24" spans="4597~4605" text="Courtois" playerID="null" />
+<Player id="P25" spans="4638~4647" text="Petr Cech" playerID="null" />
+<Player id="P26" spans="4745~4752" text="Arfield" playerID="null" />
+<Player id="P27" spans="4763~4776" text="Didier Drogba" playerID="null" />
+<Player id="P28" spans="4902~4910" text="Courtois" playerID="null" />
+<Coref id="C0" spans="939~942" text="his" playerID="null" />
+<Coref id="C1" spans="1217~1220" text="his" playerID="null" />
+<Coref id="C2" spans="1436~1438" text="He" playerID="null" />
+<Coref id="C3" spans="1774~1776" text="he" playerID="null" />
+<Coref id="C4" spans="2519~2522" text="His" playerID="null" />
+<Coref id="C5" spans="2664~2667" text="his" playerID="null" />
+<Coref id="C6" spans="2697~2699" text="He" playerID="null" />
+<Coref id="C7" spans="2754~2757" text="his" playerID="null" />
+<Coref id="C8" spans="3128~3130" text="he" playerID="null" />
+<Coref id="C9" spans="3273~3275" text="he" playerID="null" />
+<Coref id="C10" spans="3842~3845" text="his" playerID="null" />
+<Coref id="C11" spans="3921~3924" text="his" playerID="null" />
+<Coref id="C12" spans="4620~4622" text="he" playerID="null" />
+<Coref id="C13" spans="4722~4724" text="he" playerID="null" />
+<Coref id="C14" spans="4801~4803" text="he" playerID="null" />
+<Coref id="C15" spans="4875~4878" text="his" playerID="null" />
+<Coref id="C16" spans="4926~4929" text="his" playerID="null" />
+<Coref id="C17" spans="4971~4974" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

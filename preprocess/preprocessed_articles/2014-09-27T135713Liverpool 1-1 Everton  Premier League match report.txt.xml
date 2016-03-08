@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/27/liverpool-everton-premier-league-match-report
+
+Liverpool 1-1 Everton | Premier League match report
+
+
+Merseyside derbies seldom go to plan and, with both teams starting this game in the bottom half of the table and both defences coming in for criticism, a tight, low-scoring game was never the goalfest many had expected.
+ 
+Though the back lines held up well enough, it was the paucity of attacking invention that kept the score down. Meetings between these two last season were exciting affairs with subplots of title ambitions and Champions League qualification.
+ 
+This was a more humdrum version, which looked like being settled by Steven Gerrard’s 10th derby goal until Phil Jagielka stole a point with a thunderous drive in stoppage time.
+ 
+That was a twist in the tail a plodding script hardly merited. Liverpool were deserving of a win on the basis that Everton had hardly produced an attack of note, yet they switched off a few seconds too early in assuming Jagielka would recycle Dejan Lovren’s clearing header by conventional means. The Everton captain decided to try his luck instead, hitting an unstoppable shot from 25 yards that was heading for Simon Mignolet’s top corner as soon as it left the outside of his right boot.
+ 
+“It was an incredible strike,” a relieved Roberto Martínez said. “It would have been in any game, but as it happened to be in the last minute of this one it might just have been the best strike I’ve ever seen.
+ 
+“We weren’t at our best, but we passed a test of character. We refused to accept defeat, and for that reason it might be our most pleasing result of the season.”
+ 
+Naturally, Liverpool did not see it quite like that. “We didn’t get what we deserved,” Brendan Rodgers said. “We are getting back to the intensity we need, the performance was at a much better level, we were excellent for 91 minutes but that wasn’t quite enough. And we should have had a penalty.”
+ 
+When the dust had settled after a dramatic finale honours were even, both captains were on the scoresheet, and both sides looked a shadow of their last season selves.
+ 
+A predictably frantic first 20 minutes were dominated by Liverpool, who had the Everton penalty area under siege from the outset and were only kept out by Tim Howard’s reactions and Gareth Barry’s spiky resilience. The goalkeeper produced a save from Mario Balotelli’s long-range free-kick, then bettered it with a close-range stop when Adam Lallana was allowed a free header from the resultant corner.
+ 
+Treading a fine line after picking up an early booking for a foul on Lallana, Barry also gave away the free-kick against Balotelli and was lucky not to concede a penalty when Raheem Sterling’s rising shot struck his upraised arm. The referee, Martin Atkinson, remained unmoved despite Liverpool’s furious protests. “It was practically a save,” Rodgers said. “Short of grabbing the ball with both arms it could hardly have been more obvious. Martin Atkinson had a good look at it as well. Maybe the fact that Barry had already been booked was at the back of his mind.”
+ 
+On this occasion, fortune evened itself out. Television replays showed Romelu Lukaku had a legitimate penalty claim turned down in the opening minutes when a tug by Alberto Moreno pulled the Belgian off balance out of sight of the referee.
+ 
+After weathering the early storm, the visitors began to get forward a little more when the giddiness died down and a regular game broke out. Lukaku produced a shot from the edge of the area that Mignolet saved comfortably, then when Leighton Baines beat Lazar Markovic to find his way behind the Liverpool defence on the left, his low cross intended for Lukaku was cut out in front of goal by Lovren.
+ 
+As the interval approached, the contest was enjoyably end to end, with Jordan Henderson seeing a shot beaten out by Howard and Kevin Mirallas skipping away down the left only to injure himself as he prepared to cross, leaving on a stretcher and playing no further part in the game.
+ 
+Wide out on the left, Sterling was not as involved in the game as much as Liverpool would have liked, though he had the best chance of opening the scoring in the first half right on the stroke of the interval. Barry uncharacteristically gave the ball away on halfway, inviting Henderson to break forward and find Sterling advancing into the area, but Howard once again came to Everton’s rescue by keeping out an angled shot.
+ 
+After an hour, Rodgers introduced Philippe Coutinho for the ineffective Markovic, doubtless hoping the Brazilian could inject some cleverness or creativity into a game sorely lacking either. Though Coutinho did improve Liverpool’s passing options, the goal that broke the deadlock shortly after his arrival was an old Anfield standby, a shot from Steve Gerrard straight from a free-kick. Baines was adjudged to have brought down Balotelli on the edge of the area and Gerrard beat Howard from 20 yards. After his earlier heroics, the goalkeeper must have been disappointed. He seemed in a reasonable position to deal with a strike that was neither unstoppable nor unreachable but could not get a firm enough hand to the ball.
+ 
+Howard was relieved Liverpool did not extend their lead two minutes later when Balotelli’s effort from Sterling’s cross struck his bar, a miss that Liverpool only started to rue in the first minute of added time when Jagielka stepped up to claim his place in derby history.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="682~696" text="Steven Gerrard" playerID="null" />
+<Player id="P1" spans="721~734" text="Phil Jagielka" playerID="null" />
+<Player id="P2" spans="1013~1021" text="Jagielka" playerID="null" />
+<Player id="P3" spans="1036~1048" text="Dejan Lovren" playerID="null" />
+<Player id="P4" spans="1206~1220" text="Simon Mignolet" playerID="null" />
+<Player id="P5" spans="1336~1344" text="Martínez" playerID="null" />
+<Player id="P6" spans="2286~2296" text="Tim Howard" playerID="null" />
+<Player id="P7" spans="2313~2325" text="Gareth Barry" playerID="null" />
+<Player id="P8" spans="2382~2397" text="Mario Balotelli" playerID="null" />
+<Player id="P9" spans="2468~2480" text="Adam Lallana" playerID="null" />
+<Player id="P10" spans="2605~2612" text="Lallana" playerID="null" />
+<Player id="P11" spans="2614~2619" text="Barry" playerID="null" />
+<Player id="P12" spans="2657~2666" text="Balotelli" playerID="null" />
+<Player id="P13" spans="2711~2726" text="Raheem Sterling" playerID="null" />
+<Player id="P14" spans="3044~3049" text="Barry" playerID="null" />
+<Player id="P15" spans="3177~3190" text="Romelu Lukaku" playerID="null" />
+<Player id="P16" spans="3271~3285" text="Alberto Moreno" playerID="null" />
+<Player id="P17" spans="3489~3495" text="Lukaku" playerID="null" />
+<Player id="P18" spans="3543~3551" text="Mignolet" playerID="null" />
+<Player id="P19" spans="3581~3596" text="Leighton Baines" playerID="null" />
+<Player id="P20" spans="3602~3616" text="Lazar Markovic" playerID="null" />
+<Player id="P21" spans="3702~3708" text="Lukaku" playerID="null" />
+<Player id="P22" spans="3741~3747" text="Lovren" playerID="null" />
+<Player id="P23" spans="3822~3838" text="Jordan Henderson" playerID="null" />
+<Player id="P24" spans="3867~3873" text="Howard" playerID="null" />
+<Player id="P25" spans="3878~3892" text="Kevin Mirallas" playerID="null" />
+<Player id="P26" spans="4057~4065" text="Sterling" playerID="null" />
+<Player id="P27" spans="4245~4250" text="Barry" playerID="null" />
+<Player id="P28" spans="4312~4321" text="Henderson" playerID="null" />
+<Player id="P29" spans="4348~4356" text="Sterling" playerID="null" />
+<Player id="P30" spans="4386~4392" text="Howard" playerID="null" />
+<Player id="P31" spans="4505~4513" text="Coutinho" playerID="null" />
+<Player id="P32" spans="4534~4542" text="Markovic" playerID="null" />
+<Player id="P33" spans="4660~4668" text="Coutinho" playerID="null" />
+<Player id="P34" spans="4815~4822" text="Gerrard" playerID="null" />
+<Player id="P35" spans="4850~4856" text="Baines" playerID="null" />
+<Player id="P36" spans="4891~4900" text="Balotelli" playerID="null" />
+<Player id="P37" spans="4929~4936" text="Gerrard" playerID="null" />
+<Player id="P38" spans="4942~4948" text="Howard" playerID="null" />
+<Player id="P39" spans="5189~5195" text="Howard" playerID="null" />
+<Player id="P40" spans="5268~5277" text="Balotelli" playerID="null" />
+<Player id="P41" spans="5292~5300" text="Sterling" playerID="null" />
+<Player id="P42" spans="5406~5414" text="Jagielka" playerID="null" />
+<Coref id="C0" spans="1125~1128" text="his" playerID="null" />
+<Coref id="C1" spans="1268~1271" text="his" playerID="null" />
+<Coref id="C2" spans="2748~2751" text="his" playerID="null" />
+<Coref id="C3" spans="3093~3096" text="his" playerID="null" />
+<Coref id="C4" spans="3625~3628" text="his" playerID="null" />
+<Coref id="C5" spans="3675~3678" text="his" playerID="null" />
+<Coref id="C6" spans="3947~3949" text="he" playerID="null" />
+<Coref id="C7" spans="4144~4146" text="he" playerID="null" />
+<Coref id="C8" spans="4757~4760" text="his" playerID="null" />
+<Coref id="C9" spans="4970~4973" text="his" playerID="null" />
+<Coref id="C10" spans="5035~5037" text="He" playerID="null" />
+<Coref id="C11" spans="5316~5319" text="his" playerID="null" />
+<Coref id="C12" spans="5435~5438" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

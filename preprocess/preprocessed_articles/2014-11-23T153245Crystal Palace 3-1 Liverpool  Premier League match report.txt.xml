@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/nov/23/crystal-palace-liverpool-premier-league-match-report
+
+Crystal Palace 3-1 Liverpool | Premier League match report
+
+
+All the fight appeared to have drained out of Brendan Rodgers in the aftermath. The Liverpool manager mumbled through his post-match assessment as he struggled to comprehend another damaging result, his team’s spluttering campaign sinking ever further into the mire. While he offered up a few defiant words, stressing the need for immediate improvement with a cluttered schedule upon his team, his downbeat delivery said more.
+ 
+As telling was his admission that, even after last season’s rapid development and near miss in terms of the title race, he cannot count himself immune from dismissal. This campaign’s more onerous workload, with the added demand of Champions League football and tighter scope for domestic improvement, is taking its toll.
+ 
+“That was bitterly disappointing,” he admitted, “and it’s my responsibility as the manager, ultimately. Overall, that intensity and togetherness in our game isn’t there.” His side are saddled with a minus goal difference and languish closer to the relegation zone than the top four. They were outfought here by a Crystal Palace side who started the match below the cut-off. That is damning in itself.
+ 
+This performance was arguably more troubling than the infamous late capitulation in May. Back in spring, dismayed by that damaging home loss to Chelsea a few days earlier, the visitors’ thinking had been muddled in pursuit of inflating their goal difference, all focus blurred and panic gripping over a madcap 11-minute period in the contest’s finale. Here they led within 90 seconds against a team whose fragility has been all too clear this term, and still contrived to wilt almost apologetically.
+ 
+The plight of those across their back-line rather summed them up: Dejan Lovren and Martin Skrtel are diminished in the centre, their vulnerability exposed by Dwight Gayle and Marouane Chamakh; both full-backs were flummoxed throughout by the pace on Palace’s flanks; the goalkeeper, Simon Mignolet, is bereft of confidence, with his every error punished.
+ 
+Yannick Bolasie, all elastic limbs and blistering pace, illuminated this occasion, with his extravagant skill striking terror into his markers. It had been his shot which skimmed across Mignolet and on to the far post just after the quarter-hour mark, Gayle converting the rebound smartly on his first league start since mid-September, and his flick over Lovren was thumped through the goalkeeper by Joe Ledley to thrust the hosts ahead. Bolasie returned from DR Congo only on Thursday after scoring a brace to propel his country to the Africa Cup of Nations. Sensing his opportunity, he had been irrepressible until replaced late on. “He doesn’t know what he’s going to do next,” said Neil Warnock, “so the full-back doesn’t have a chance, does he?”
+ 
+Mile Jedinak belted in a third from a 25-yard free-kick and, while Liverpool could complain over the softness of that award, they still ended bedraggled and well beaten. There was no obvious plan to their approach, short of tapping into the understanding enjoyed by Adam Lallana and Rickie Lambert from their Southampton days.
+ 
+That combination had earned them the lead, the England striker’s first Liverpool goal converted slickly to suggest a cakewalk ahead. But the visitors were stodgy in their approach thereafter, all that zest from last term a faint memory, offering neither width in attack nor zip through the middle. The post-match statistics suggested both Steven Gerrard and Skrtel had not won a single tackle, with Jedinak the most authoritative midfielder on the pitch and Ledley snapping at his side.
+ 
+Palace should have scored more, so eagerly did they wrest back the initiative after that poor start, with Liverpool wincing at the ferocity of the home side’s breaks upfield. Jason Puncheon recaptured last year’s form – his combinations with Bolasie cutting Rodgers’ side apart, and there was no one among the visitors’ ranks to stamp authority on the occasion.
+ 
+“We can’t complain,” said their manager, whose side have won only twice in nine Premier League matches. “We’d hoped to build on the last two years but we need to get back to basics, to get back to fighting and working hard.” This smacked of a surrender.
+ 
+Man of the match Yannick Bolasie (Crystal Palace)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="1886~1898" text="Dejan Lovren" playerID="null" />
+<Player id="P1" spans="1903~1916" text="Martin Skrtel" playerID="null" />
+<Player id="P2" spans="1978~1990" text="Dwight Gayle" playerID="null" />
+<Player id="P3" spans="1995~2011" text="Marouane Chamakh" playerID="null" />
+<Player id="P4" spans="2103~2117" text="Simon Mignolet" playerID="null" />
+<Player id="P5" spans="2177~2192" text="Yannick Bolasie" playerID="null" />
+<Player id="P6" spans="2363~2371" text="Mignolet" playerID="null" />
+<Player id="P7" spans="2429~2434" text="Gayle" playerID="null" />
+<Player id="P8" spans="2532~2538" text="Lovren" playerID="null" />
+<Player id="P9" spans="2577~2587" text="Joe Ledley" playerID="null" />
+<Player id="P10" spans="2615~2622" text="Bolasie" playerID="null" />
+<Player id="P11" spans="2930~2942" text="Mile Jedinak" playerID="null" />
+<Player id="P12" spans="3196~3208" text="Adam Lallana" playerID="null" />
+<Player id="P13" spans="3213~3227" text="Rickie Lambert" playerID="null" />
+<Player id="P14" spans="3598~3612" text="Steven Gerrard" playerID="null" />
+<Player id="P15" spans="3617~3623" text="Skrtel" playerID="null" />
+<Player id="P16" spans="3658~3665" text="Jedinak" playerID="null" />
+<Player id="P17" spans="3717~3723" text="Ledley" playerID="null" />
+<Player id="P18" spans="3923~3937" text="Jason Puncheon" playerID="null" />
+<Player id="P19" spans="3990~3997" text="Bolasie" playerID="null" />
+<Player id="P20" spans="4385~4400" text="Yannick Bolasie" playerID="null" />
+<Coref id="C0" spans="281~284" text="his" playerID="null" />
+<Coref id="C1" spans="310~312" text="he" playerID="null" />
+<Coref id="C2" spans="362~365" text="his" playerID="null" />
+<Coref id="C3" spans="436~438" text="he" playerID="null" />
+<Coref id="C4" spans="547~550" text="his" playerID="null" />
+<Coref id="C5" spans="557~560" text="his" playerID="null" />
+<Coref id="C6" spans="607~610" text="his" playerID="null" />
+<Coref id="C7" spans="712~714" text="he" playerID="null" />
+<Coref id="C8" spans="950~952" text="he" playerID="null" />
+<Coref id="C9" spans="1086~1089" text="His" playerID="null" />
+<Coref id="C10" spans="2149~2152" text="his" playerID="null" />
+<Coref id="C11" spans="2265~2268" text="his" playerID="null" />
+<Coref id="C12" spans="2308~2311" text="his" playerID="null" />
+<Coref id="C13" spans="2333~2336" text="his" playerID="null" />
+<Coref id="C14" spans="2469~2472" text="his" playerID="null" />
+<Coref id="C15" spans="2517~2520" text="his" playerID="null" />
+<Coref id="C16" spans="2695~2698" text="his" playerID="null" />
+<Coref id="C17" spans="2745~2748" text="his" playerID="null" />
+<Coref id="C18" spans="2762~2764" text="he" playerID="null" />
+<Coref id="C19" spans="2813~2815" text="He" playerID="null" />
+<Coref id="C20" spans="2834~2836" text="he" playerID="null" />
+<Coref id="C21" spans="2923~2925" text="he" playerID="null" />
+<Coref id="C22" spans="3736~3739" text="his" playerID="null" />
+<Coref id="C23" spans="3968~3971" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

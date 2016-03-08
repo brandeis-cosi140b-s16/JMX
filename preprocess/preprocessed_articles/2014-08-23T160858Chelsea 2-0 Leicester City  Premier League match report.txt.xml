@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/aug/23/chelsea-leicester-premier-league-match-report
+
+Chelsea 2-0 Leicester City | Premier League match report
+
+
+If Chelsea made slightly heavy weather of victory in their first home Premier League fixture of the season, then there was plenty for José Mourinho to take heart from in a 2-0 defeat of Leicester City pegged out around second-half goals from Diego Costa and Eden Hazard, and a performance that became more convincing as Leicester’s energy levels dropped in the afternoon sun.
+ 
+The visitors had looked the more settled team in the first half here, tribute to their own energetic and diligent midfield and also to a general sluggishness in Chelsea’s passing and movement. Afterwards, Mourinho blamed the weather, suggesting that his team of Brazilians and Spaniards had been made “lazy” by the sheer unrelenting heat of an autumnal day in west London. In the event, the end result may have had more to do with Mourinho’s own “emotional” response in the dressing room at half-time. “I told them the way we were playing was not good enough to win the game,” Mourinho said. “In the second half we were much more aggressive. It was good, it was fast, and we made it difficult for them.”
+ 
+It is naturally tempting to make light of successive victories against newly promoted teams, but for Chelsea there are still grounds to sniff out signs of progress here. Defeat by Sunderland at home effectively chloroformed last season’s title challenge, and points were also dropped against West Brom, Aston Villa, Crystal Palace and Norwich. Beating the teams you expect to beat isn’t everything in the Premier League. But it’s a pretty good place to start, and it is in this kind of fixture that the added cutting edge of Costa might just make the most obvious difference.
+ 
+Here, the Brazilian-Spanish west Londoner had a fine match, working tirelessly, Atlético-style, and poaching a vital opening goal. Mourinho, who also confirmed that Fernando Torres would not be leaving in the transfer window, said Costa’s integration at Chelsea had been “no big deal”. “He’s a happy guy, not speaking good English but always communicating. His integration in the team is good, his style of play also adapted to our needs.”
+ 
+Not that Chelsea had it all their own way, as Leicester again showed themselves resilient travellers. Mourinho’s pre-match utterances are generally best skimmed for the odd word not specifically dedicated to inflammatory falsehoods, but Chelsea’s manager was correct to offer some wary respect for the Football League’s champion club and here, lining up in a tightly knit 4-4-2, Leicester were sharp in the tackle early on, and pacy on the break throughout.
+ 
+At times in the first half, the most visible attacker on the pitch was Leicester’s Algerian World Cup winger Riyad Mahrez, who had the first really venomous attempt on goal, after 22 minutes, making space 30 yards out and firing in a low shot that Thibaut Courtois parried away. Moments later, Cesc Fábregas had his best moment of the half, finding André Schürrle on the right and then sprinting between the lines to tee up Oscar for a shot that was deflected over the bar. And that was pretty much that for Chelsea in a first half most notable for the astute positional play of Dean Hammond and Andy King, Leicester’s third and fourth-choice central midfielders.
+ 
+There was instant improvement from Chelsea at the start of the second half, with Branislav Ivanovic in particular pushed much farther upfield. First, though, Leicester had their own moment to turn this game. David Nugent might like to look away here. With 53 minutes gone (and moments after Oscar had hit the post at the other end), a pass from Hammond put Nugent in on goal, only for Courtois to make a fine low save with his legs. Moments later, it was Nugent v Courtois II, a better chance drawing a better save as Mahrez bypassed the entire Chelsea midfield with a single pass on the break, Nugent hared in on goal and Chelsea’s goalkeeper sprinted out to hurl himself at his feet and deflect a hesitant shot wide.
+ 
+At the other end, Ivanovic continued to rampage down Chelsea’s right, and it was his burst that made the opening goal after 63 minutes. Taking Oscar’s through-pass, Ivanovic cut inside with all the twirling incision of a thunder-thighed Charlie Cooke, leaving both Liam Moore and Jeff Schlupp on their backsides. His pass inside found Costa, who, despite a bobbly touch, was able to prod past Kasper Schmeichel and low into the net.
+ 
+Chelsea continued to press and the second goal duly arrived, on 77 minutes. Hazard cut in from the left, wandered across the penalty area waiting for a challenge and then, almost with a shrug, swept a shot across the goal and into the far corner. As with the first goal, Leicester’s defensive efforts had dipped just for a second; together, those moments were enough to cost them the match.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="396~407" text="Diego Costa" playerID="null" />
+<Player id="P1" spans="412~423" text="Eden Hazard" playerID="null" />
+<Player id="P2" spans="1763~1768" text="Costa" playerID="null" />
+<Player id="P3" spans="1981~1989" text="Fernando" playerID="null" />
+<Player id="P4" spans="1981~1996" text="Fernando Torres" playerID="null" />
+<Player id="P5" spans="2047~2052" text="Costa" playerID="null" />
+<Player id="P6" spans="2827~2839" text="Riyad Mahrez" playerID="null" />
+<Player id="P7" spans="2966~2982" text="Thibaut Courtois" playerID="null" />
+<Player id="P8" spans="3067~3081" text="André Schürrle" playerID="null" />
+<Player id="P9" spans="3142~3147" text="Oscar" playerID="null" />
+<Player id="P10" spans="3297~3309" text="Dean Hammond" playerID="null" />
+<Player id="P11" spans="3314~3323" text="Andy King" playerID="null" />
+<Player id="P12" spans="3319~3323" text="King" playerID="null" />
+<Player id="P13" spans="3465~3483" text="Branislav Ivanovic" playerID="null" />
+<Player id="P14" spans="3592~3604" text="David Nugent" playerID="null" />
+<Player id="P15" spans="3675~3680" text="Oscar" playerID="null" />
+<Player id="P16" spans="3729~3736" text="Hammond" playerID="null" />
+<Player id="P17" spans="3741~3747" text="Nugent" playerID="null" />
+<Player id="P18" spans="3769~3777" text="Courtois" playerID="null" />
+<Player id="P19" spans="3839~3845" text="Nugent" playerID="null" />
+<Player id="P20" spans="3848~3856" text="Courtois" playerID="null" />
+<Player id="P21" spans="3902~3908" text="Mahrez" playerID="null" />
+<Player id="P22" spans="3979~3985" text="Nugent" playerID="null" />
+<Player id="P23" spans="4123~4131" text="Ivanovic" playerID="null" />
+<Player id="P24" spans="4248~4253" text="Oscar" playerID="null" />
+<Player id="P25" spans="4270~4278" text="Ivanovic" playerID="null" />
+<Player id="P26" spans="4370~4380" text="Liam Moore" playerID="null" />
+<Player id="P27" spans="4390~4397" text="Schlupp" playerID="null" />
+<Player id="P28" spans="4440~4445" text="Costa" playerID="null" />
+<Player id="P29" spans="4498~4515" text="Kasper Schmeichel" playerID="null" />
+<Player id="P30" spans="4616~4622" text="Hazard" playerID="null" />
+<Coref id="C0" spans="782~785" text="his" playerID="null" />
+<Coref id="C1" spans="2103~2105" text="He" playerID="null" />
+<Coref id="C2" spans="2173~2176" text="His" playerID="null" />
+<Coref id="C3" spans="2210~2213" text="his" playerID="null" />
+<Coref id="C4" spans="3030~3033" text="his" playerID="null" />
+<Coref id="C5" spans="3807~3810" text="his" playerID="null" />
+<Coref id="C6" spans="4060~4063" text="his" playerID="null" />
+<Coref id="C7" spans="4186~4189" text="his" playerID="null" />
+<Coref id="C8" spans="4418~4421" text="His" playerID="null" />
+</TAGS>
+</SoccEval1.1>

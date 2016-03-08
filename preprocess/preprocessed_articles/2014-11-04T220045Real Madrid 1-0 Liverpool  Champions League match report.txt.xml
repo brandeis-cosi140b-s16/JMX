@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/nov/04/real-madrid-liverpool-champions-league-match-report
+
+Real Madrid 1-0 Liverpool | Champions League match report
+
+
+By the end, at least, Brendan Rodgers could make the basis of an argument that even if he had started with his best men there was no guarantee they would have done a great deal better. His selection resembled a White Flag XI but Real Madrid restricted themselves to Karim Benzema’s first-half goal and the Liverpool supporters peering down from the Bernabéu’s most vertiginous stands would probably have been forgiven for thinking it could have been a lot worse when they saw the side that the manager had put out.
+ 
+There was some sense, perhaps, in Rodgers keeping back a couple of players for Saturday’s game against Chelsea. Yet this strayed dangerously close to looking like premeditated surrender and Liverpool were undoubtedly fortunate that Madrid were not in the mood to punish them more heavily for their impertinence. It is certainly a strange set of events that Liverpool make it back into the Champions League then remove their best players from the showpiece fixture of Group B because they are already thinking ahead to next season’s competition. It was also a strange match to comprehend.
+ 
+On the one hand this was the first time in 13 Champions League games at the Bernabéu that Madrid have managed only one goal. On the other, what Rodgers did will always leave that sense that Liverpool arrived at the home of the competition’s champions and effectively forfeited their chance to add this to their list of memorable European nights.
+ 
+Rodgers was certainly pushing it as far as he possibly could when he talked of his team being “very, very unfortunate not to get something out of the match”, lavishing praise on them in a way that made it seem as though he wanted to change the direction of the headlines.
+ 
+The truth is Liverpool did not have a single shot until 10 minutes into the second half and all the time there was the clear sense Madrid were holding something back.
+ 
+Liverpool can count it as a victory of sorts that they avoided the thrashing that might have been anticipated bearing in mind what happened when the two sides encountered one another at Anfield two weeks ago. But it is a strange kind of success.
+ 
+In total Rodgers had made seven changes to the starting XI that lost to Newcastle, with Steven Gerrard, Raheem Sterling, Jordan Henderson, Glen Johnson, Mario Balotelli and Philippe Coutinho on the bench. Dejan Lovren was given the night off and Kolo Touré was brought in for only his second Champions League start in five and a half years.
+           Brendan Rodgers and Carlo Ancelotti react after Tuesday night’s game.    
+Rodgers will be accused of lacking courage and not having enough trust in his strongest XI. In another way what he did was exceedingly brave when Madrid were at full strength and Cristiano Ronaldo was gunning for Raúl’s record as the Champions League’s all-time record scorer.
+ 
+It could very easily have blown up in the Liverpool manager’s face.
+ 
+Carlo Ancelotti’s men pinned them back for long spells and Liverpool might have been in for a messy evening if Simon Mignolet had let in one of the early attempts from James Rodríguez and Ronaldo. Mignolet had a busy and sometimes outstanding night and was the main reason why Ronaldo will have to wait before he takes over from Raúl.
+ 
+Ronaldo looked desperate for the record and he might also have been placing too much importance on it judging by the number of times he took aim from the kind of positions that seemed implausible even for him.
+ 
+Liverpool’s selection made it clear that Rodgers was not only prioritising Saturday’s game but also their last two Champions League ties, against Ludogorets and Basel. They did, however, show at times they were not here merely to spend the night in their own penalty area.
+ 
+Emre Can certainly gave the impression that he wanted to show he could flourish at this level. Alberto Moreno also stood out and Liverpool were visibly growing in confidence when they reached the midway point of the opening half without any score.
+ 
+Fabio Borini will have enjoyed his nutmeg on Luka Modric. Lazar Markovic went on one run that acted as a warning to Madrid – a false alarm, it turned out – and there was another period midway through the second half when Liverpool, for a few minutes at least, had some real momentum.
+ 
+Touré’s appearances rarely spread confidence but in fairness he was excellent in the heart of defence.
+ 
+There was, however, something devastating about the way, 27 minutes in, Madrid decided it was time to put them in their place.
+ 
+It was a clever exchange of passes between Ronaldo and Isco that opened up the visiting defence. Marcelo was free, overlapping on the left, and the full-back’s cross was measured perfectly for Benzema to turn the ball in at the far post.
+ 
+When Gerrard did come on, after 69 minutes, there was a wonderful show of appreciation from the Bernabéu crowd. Sterling was brought on, too, but it was Gareth Bale, replacing Rodríguez to make his comeback from injury, who was closest to adding another goal with a shot that came back off the crossbar.
+ 
+Ultimately it was not an occasion a club with Liverpool’s ambitions should cherish, for a variety of reasons.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="2395~2409" text="Steven Gerrard" playerID="null" />
+<Player id="P1" spans="2411~2426" text="Raheem Sterling" playerID="null" />
+<Player id="P2" spans="2428~2444" text="Jordan Henderson" playerID="null" />
+<Player id="P3" spans="2446~2458" text="Glen Johnson" playerID="null" />
+<Player id="P4" spans="2451~2458" text="Johnson" playerID="null" />
+<Player id="P5" spans="2460~2475" text="Mario Balotelli" playerID="null" />
+<Player id="P6" spans="2489~2497" text="Coutinho" playerID="null" />
+<Player id="P7" spans="2512~2524" text="Dejan Lovren" playerID="null" />
+<Player id="P8" spans="2553~2563" text="Kolo Touré" playerID="null" />
+<Player id="P9" spans="3193~3207" text="Simon Mignolet" playerID="null" />
+<Player id="P10" spans="3250~3255" text="James" playerID="null" />
+<Player id="P11" spans="3256~3265" text="Rodríguez" playerID="null" />
+<Player id="P12" spans="3279~3287" text="Mignolet" playerID="null" />
+<Player id="P13" spans="3906~3914" text="Emre Can" playerID="null" />
+<Player id="P14" spans="4001~4015" text="Alberto Moreno" playerID="null" />
+<Player id="P15" spans="4156~4168" text="Fabio Borini" playerID="null" />
+<Player id="P16" spans="4214~4228" text="Lazar Markovic" playerID="null" />
+<Player id="P17" spans="4442~4447" text="Touré" playerID="null" />
+<Player id="P18" spans="4921~4928" text="Gerrard" playerID="null" />
+<Player id="P19" spans="5028~5036" text="Sterling" playerID="null" />
+<Player id="P20" spans="5092~5101" text="Rodríguez" playerID="null" />
+<Coref id="C0" spans="248~250" text="he" playerID="null" />
+<Coref id="C1" spans="268~271" text="his" playerID="null" />
+<Coref id="C2" spans="346~349" text="His" playerID="null" />
+<Coref id="C3" spans="1659~1661" text="he" playerID="null" />
+<Coref id="C4" spans="1682~1684" text="he" playerID="null" />
+<Coref id="C5" spans="1695~1698" text="his" playerID="null" />
+<Coref id="C6" spans="1836~1838" text="he" playerID="null" />
+<Coref id="C7" spans="2588~2591" text="his" playerID="null" />
+<Coref id="C8" spans="2807~2810" text="his" playerID="null" />
+<Coref id="C9" spans="2845~2847" text="he" playerID="null" />
+<Coref id="C10" spans="3392~3394" text="he" playerID="null" />
+<Coref id="C11" spans="3463~3465" text="he" playerID="null" />
+<Coref id="C12" spans="3552~3554" text="he" playerID="null" />
+<Coref id="C13" spans="3950~3952" text="he" playerID="null" />
+<Coref id="C14" spans="3968~3970" text="he" playerID="null" />
+<Coref id="C15" spans="4187~4190" text="his" playerID="null" />
+<Coref id="C16" spans="4503~4505" text="he" playerID="null" />
+<Coref id="C17" spans="5110~5113" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

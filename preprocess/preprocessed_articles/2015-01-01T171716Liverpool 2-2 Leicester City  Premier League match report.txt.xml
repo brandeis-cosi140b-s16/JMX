@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/jan/01/liverpool-leicester-city-premier-league-match-report
+
+Liverpool 2-2 Leicester City | Premier League match report
+
+
+Character is essential in a relegation battle and Leicester City displayed it in abundance at Anfield. More importantly, it was their quality that stalled Liverpool’s momentum as Nigel Pearson and company went from raging at the referee, Mike Jones, at half-time to applauding a stirring fightback at the close. “We got what we deserved,” lamented Brendan Rodgers.
+ 
+The Leicester manager reiterated his call for video technology after his bottom-of-the-table side conceded two penalties, one for a ball striking their captain, Wes Morgan, in the face. Their complaints were legitimate but should not overshadow the impressive performance that earned a deserved point against a sluggish, careless Liverpool side. A comfortable two-goal lead at half-time owed little to Liverpool’s display and almost everything to the match official but that luxury was squandered as easily as the ball on a trying afternoon for Rodgers.
+ 
+“We weren’t bright enough on the ball,” the Liverpool manager said. “We didn’t keep the ball for long enough and the rhythm of our passing was slower than normal. We were fortunate enough to get a penalty and then we found ourselves 2-0 up. That should be enough to play the game out but we made too many mistakes.”
+ 
+Steven Gerrard scored the two penalties – the first a joke, the second justified – as Leicester players railed at Jones and their coaching staff gathered at the top of the tunnel to berate the referee at half-time.
+ 
+Pearson made his displeasure known before heading to the dressing room after a word with a police officer. “I spoke to him,” clarified the Leicester manager, who was fined £10,000 and given a one-match touchline ban over his recent spat with a fan. “He was there to manage the area. I spoke to him before the game, too. I haven’t been arrested.”
+     Jeffrey Schlupp equalises for Leicester City in the Premier League game against Liverpool. Photograph: Andrew Boyers/Action Images    
+Leicester were the more enterprising side and should have been ahead before Jones pointed to the spot for the first time. The impressive Riyad Mahrez, who scored the winner at Hull City that ended a run of six straight Premier League defeats for Pearson’s side, hit the woodwork after 66 seconds with a free-kick that deceived Simon Mignolet at his near post. Mahrez then squandered a glorious chance from Jeffrey Schlupp’s cross. The two wide men were a thorn in Liverpool’s side and will be sorely missed when they depart for the Africa Cup of Nations.
+ 
+Liverpool’s energy and intensity dropped from the highs of Monday against Swansea City but they were gifted a penalty when Raheem Sterling’s cross from the byline hit the diving Morgan in the face before connecting with his arm. The referee, who has the ‘beach ball’ goal against Liverpool among his litany of errors, decided otherwise and Gerrard, back in the starting lineup having been rested against Swansea, converted the penalty to the left of the goalkeeper Ben Hamer.
+ 
+“I’m not going to be ultra-critical but we could see what happened within seconds,” said Pearson. “We could make the officials’ job much easier if we utilised the technology that is available but we don’t and so this will keep happening.”
+ 
+Heads could easily have dropped, given Leicester’s position, but they continued to press, only to be undone by a second Liverpool penalty. This one was legitimate. Three blue shirts backed off Philippe Coutinho as he weaved down the left and his flick into the area struck Danny Simpson’s raised hand.
+ 
+Jones called it right, Hamer dived the same way from the spot-kick but Gerrard went the other. Pearson said: “It hits his hand but it was unintentional. There is no consistency.”
+ 
+David Nugent replaced the injured Danny Drinkwater in the Leicester attack and should have pulled a goal back early in the second half with a free header from Matty James’ corner. That effort was glanced wide but the boyhood Evertonian made no mistake with a superb finish seconds later. A flowing passing move was rounded off in fitting fashion when James lofted a ball into the area, the tireless Jamie Vardy chested down to Nugent and the striker hitch-kicked a half volley into the far corner.
+ 
+Leicester were deservedly level two minutes later, courtesy of another fine goal, this time from Schlupp, who was given too much space on the edge of the area and drilled a low finish inside Mignolet’s left-hand post.
+ 
+Man of the match Matty James (Leicester City)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="348~355" text="Pearson" playerID="null" />
+<Player id="P1" spans="406~411" text="Jones" playerID="null" />
+<Player id="P2" spans="691~701" text="Wes Morgan" playerID="null" />
+<Player id="P3" spans="1404~1418" text="Steven Gerrard" playerID="null" />
+<Player id="P4" spans="1518~1523" text="Jones" playerID="null" />
+<Player id="P5" spans="1621~1628" text="Pearson" playerID="null" />
+<Player id="P6" spans="1972~1987" text="Jeffrey Schlupp" playerID="null" />
+<Player id="P7" spans="2183~2188" text="Jones" playerID="null" />
+<Player id="P8" spans="2244~2256" text="Riyad Mahrez" playerID="null" />
+<Player id="P9" spans="2353~2360" text="Pearson" playerID="null" />
+<Player id="P10" spans="2434~2448" text="Simon Mignolet" playerID="null" />
+<Player id="P11" spans="2467~2473" text="Mahrez" playerID="null" />
+<Player id="P12" spans="2513~2528" text="Jeffrey Schlupp" playerID="null" />
+<Player id="P13" spans="2787~2802" text="Raheem Sterling" playerID="null" />
+<Player id="P14" spans="2842~2848" text="Morgan" playerID="null" />
+<Player id="P15" spans="3004~3011" text="Gerrard" playerID="null" />
+<Player id="P16" spans="3129~3138" text="Ben Hamer" playerID="null" />
+<Player id="P17" spans="3231~3238" text="Pearson" playerID="null" />
+<Player id="P18" spans="3585~3593" text="Coutinho" playerID="null" />
+<Player id="P19" spans="3656~3669" text="Danny Simpson" playerID="null" />
+<Player id="P20" spans="3687~3692" text="Jones" playerID="null" />
+<Player id="P21" spans="3710~3715" text="Hamer" playerID="null" />
+<Player id="P22" spans="3758~3765" text="Gerrard" playerID="null" />
+<Player id="P23" spans="3782~3789" text="Pearson" playerID="null" />
+<Player id="P24" spans="3868~3880" text="David Nugent" playerID="null" />
+<Player id="P25" spans="3902~3918" text="Danny Drinkwater" playerID="null" />
+<Player id="P26" spans="4027~4038" text="Matty James" playerID="null" />
+<Player id="P27" spans="4033~4038" text="James" playerID="null" />
+<Player id="P28" spans="4219~4224" text="James" playerID="null" />
+<Player id="P29" spans="4267~4278" text="Jamie Vardy" playerID="null" />
+<Player id="P30" spans="4295~4301" text="Nugent" playerID="null" />
+<Player id="P31" spans="4465~4472" text="Schlupp" playerID="null" />
+<Player id="P32" spans="4559~4567" text="Mignolet" playerID="null" />
+<Player id="P33" spans="4605~4616" text="Matty James" playerID="null" />
+<Player id="P34" spans="4611~4616" text="James" playerID="null" />
+<Coref id="C0" spans="563~566" text="his" playerID="null" />
+<Coref id="C1" spans="599~602" text="his" playerID="null" />
+<Coref id="C2" spans="1634~1637" text="his" playerID="null" />
+<Coref id="C3" spans="1842~1845" text="his" playerID="null" />
+<Coref id="C4" spans="1871~1873" text="He" playerID="null" />
+<Coref id="C5" spans="2452~2455" text="his" playerID="null" />
+<Coref id="C6" spans="2884~2887" text="his" playerID="null" />
+<Coref id="C7" spans="2960~2963" text="his" playerID="null" />
+<Coref id="C8" spans="3597~3599" text="he" playerID="null" />
+<Coref id="C9" spans="3625~3628" text="his" playerID="null" />
+<Coref id="C10" spans="3805~3808" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

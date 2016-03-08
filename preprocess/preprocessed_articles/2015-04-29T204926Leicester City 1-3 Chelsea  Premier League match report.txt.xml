@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/apr/29/leicester-chelsea-premier-league-match-report
+
+Leicester City 1-3 Chelsea | Premier League match report
+
+
+By the end, José Mourinho’s only real issue seemed to be the flecks of dirt that were threatening to ruin his brown suede shoes on the muddy touchline. Chelsea’s manager had retreated to his seat and was busy cleaning them with his drink bottle when Ramires arrowed in the third goal of a night that leaves the Premier League leaders one win away from being confirmed as champions. Mourinho, one imagines, will not mind too much if the stains don’t come out.
+ 
+For a while, his team had looked like they might stretch out the conclusion to the title race longer than anyone had anticipated. Leicester played with great togetherness in the first half and at the interval were threatening to make to it five successive top-flight wins for the first time since 1964. Instead, that turned out to be the point at which Chelsea reminded everyone why they are the best team in this division. The comeback was laced with expertise and their supporters took great joy in mimicking the “Boring, boring Chelsea” chants that had irritated Mourinho more than he was probably willing to let on at Arsenal last Sunday.
+ 
+He had let off the handbrake here and his players certainly made the point that it is not an uninteresting team that ends the season on an open-top bus. Cesc Fàbregas, in particular, underlined how remarkable it was that he did not make it on to the Professional Footballers’ Association team of the year. Didier Drogba showed glimpses of his old self and it was typical of John Terry that it was his goal, coming forward from defence, that put Chelsea into the lead 11 minutes from time. “Giants of the pitch,” Mourinho called them.
+ 
+Chelsea certainly had to show great perseverance because Leicester did not resemble a side who had spent seven-eighths of the season looking like certainties for the relegation morgue.
+ 
+Nigel Pearson’s team set off without even a flicker of trepidation. They pressed and they harried but they also played with width and penetration and Esteban Cambiasso’s touches in midfield must have reminded Mourinho about his contribution when Internazionale won the Champions League in 2010. Cambiasso produced one of the night’s outstanding moments to deceive Willian with some improvisational ball-juggling. The Argentinian was on the floor at the time and that, perhaps, summed up the new confidence of this team.
+ 
+They also had some rotten luck given the way injuries sabotaged their planning. Andy King was the first player to be forced off after 19 minutes. Robert Huth followed five minutes later and, in the face of all this disruption Leicester did extraordinarily well to keep their structure and take the lead through Marc Albrighton in first-half stoppage time.
+ 
+What they could not do was hold out early in the second half, when it was obvious Chelsea would come back at them. Afterwards, Mourinho was asked what he had said at half-time. “If I told you there would be too many peeps,” he said. Harsh words were exchanged and Chelsea came out reinvigorated.
+ 
+Drogba’s equaliser came three minutes after the restart and, from that point onwards Leicester barely threatened again. Fàbregas’s ability to show for the ball was hugely influential whereas the quick, incisive football involving Willian and Eden Hazard was a frequent danger. Terry’s goal came from a corner, reacting first after Kasper Schmeichel had palmed away a splendid, twisting header from Gary Cahill. Ramires added the final flourish with a lovely left-foot shot from Fàbregas’s pass and Mourinho could talk afterwards about how pleasing it would be to clinch the title on their own ground. By the time Liverpool head to Stamford Bridge on Sunday week a guard of honour might be needed.
+ 
+Diego Costa might also be back this weekend, Mourinho confirmed, and Thibaut Courtois should also be fit after missing this game because he was still feeling a bang to a hip. Petr Cech was deputising and four minutes before the interval we were reminded that Chelsea have the best second-choice goalkeeper in the business with his save to turn Paul Konchesky’s snap-shot against a post.
+ 
+Those moments gave Leicester encouragement to think their opponents might be vulnerable and in their next attack Jamie Vardy ran through the inside-left then turned the ball across the penalty area where, for once, Chelsea’s back four was out of position. César Azpilicueta slipped and that left Albrighton in space to pick his spot.
+ 
+Leicester could also reflect on that moment early on when Cambiasso’s pass gave Leonardo Ulloa the chance to run clear only for the striker to waste the opportunity with a wretched first touch. Yet their shortcomings were exposed in the second half. Fàbregas was superb and it was his little up-and-over ball that took out three opponents in the moments before the equaliser. Branislav Ivanovic was forward again and Drogba, anticipating the cross, got in front of Ritchie De Laet to flash his shot past Schmeichel.
+ 
+What followed had an air of inevitability. “We played so well, so fluid,” Mourinho reflected, and they did not look like a team who will miss the opportunity against Crystal Palace on Sunday.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="404~411" text="Ramires" playerID="null" />
+<Player id="P1" spans="1413~1426" text="Cesc Fàbregas" playerID="null" />
+<Player id="P2" spans="1566~1579" text="Didier Drogba" playerID="null" />
+<Player id="P3" spans="1634~1644" text="John Terry" playerID="null" />
+<Player id="P4" spans="1989~1996" text="Pearson" playerID="null" />
+<Player id="P5" spans="2133~2150" text="Esteban Cambiasso" playerID="null" />
+<Player id="P6" spans="2278~2287" text="Cambiasso" playerID="null" />
+<Player id="P7" spans="2347~2354" text="Willian" playerID="null" />
+<Player id="P8" spans="2585~2594" text="Andy King" playerID="null" />
+<Player id="P9" spans="2590~2594" text="King" playerID="null" />
+<Player id="P10" spans="2651~2662" text="Robert Huth" playerID="null" />
+<Player id="P11" spans="2816~2831" text="Marc Albrighton" playerID="null" />
+<Player id="P12" spans="3161~3167" text="Drogba" playerID="null" />
+<Player id="P13" spans="3281~3289" text="Fàbregas" playerID="null" />
+<Player id="P14" spans="3391~3398" text="Willian" playerID="null" />
+<Player id="P15" spans="3403~3414" text="Eden Hazard" playerID="null" />
+<Player id="P16" spans="3438~3443" text="Terry" playerID="null" />
+<Player id="P17" spans="3492~3509" text="Kasper Schmeichel" playerID="null" />
+<Player id="P18" spans="3559~3570" text="Gary Cahill" playerID="null" />
+<Player id="P19" spans="3572~3579" text="Ramires" playerID="null" />
+<Player id="P20" spans="3639~3647" text="Fàbregas" playerID="null" />
+<Player id="P21" spans="3860~3871" text="Diego Costa" playerID="null" />
+<Player id="P22" spans="3929~3945" text="Thibaut Courtois" playerID="null" />
+<Player id="P23" spans="4035~4044" text="Petr Cech" playerID="null" />
+<Player id="P24" spans="4204~4218" text="Paul Konchesky" playerID="null" />
+<Player id="P25" spans="4362~4373" text="Jamie Vardy" playerID="null" />
+<Player id="P26" spans="4505~4522" text="César Azpilicueta" playerID="null" />
+<Player id="P27" spans="4545~4555" text="Albrighton" playerID="null" />
+<Player id="P28" spans="4643~4652" text="Cambiasso" playerID="null" />
+<Player id="P29" spans="4665~4679" text="Leonardo Ulloa" playerID="null" />
+<Player id="P30" spans="4835~4843" text="Fàbregas" playerID="null" />
+<Player id="P31" spans="4961~4979" text="Branislav Ivanovic" playerID="null" />
+<Player id="P32" spans="5002~5008" text="Drogba" playerID="null" />
+<Player id="P33" spans="5061~5065" text="Laet" playerID="null" />
+<Player id="P34" spans="5089~5099" text="Schmeichel" playerID="null" />
+<Coref id="C0" spans="260~263" text="his" playerID="null" />
+<Coref id="C1" spans="341~344" text="his" playerID="null" />
+<Coref id="C2" spans="382~385" text="his" playerID="null" />
+<Coref id="C3" spans="628~631" text="his" playerID="null" />
+<Coref id="C4" spans="1200~1202" text="he" playerID="null" />
+<Coref id="C5" spans="1260~1262" text="He" playerID="null" />
+<Coref id="C6" spans="1298~1301" text="his" playerID="null" />
+<Coref id="C7" spans="1481~1483" text="he" playerID="null" />
+<Coref id="C8" spans="1599~1602" text="his" playerID="null" />
+<Coref id="C9" spans="1657~1660" text="his" playerID="null" />
+<Coref id="C10" spans="2207~2210" text="his" playerID="null" />
+<Coref id="C11" spans="3014~3016" text="he" playerID="null" />
+<Coref id="C12" spans="3087~3089" text="he" playerID="null" />
+<Coref id="C13" spans="3997~3999" text="he" playerID="null" />
+<Coref id="C14" spans="4187~4190" text="his" playerID="null" />
+<Coref id="C15" spans="4573~4576" text="his" playerID="null" />
+<Coref id="C16" spans="4866~4869" text="his" playerID="null" />
+<Coref id="C17" spans="5075~5078" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/may/03/tottenham-hotspur-manchester-city-premier-league-match-report
+
+Tottenham Hotspur 0-1 Manchester City | Premier League match report
+
+
+Manuel Pellegrini might wish that he could play Tottenham Hotspur every week. And so might Sergio Agüero. The Manchester City manager has now won four out of four against Tottenham and Agüero continues to excel against them.
+ 
+This was by no means as comfortable as Pellegrini’s previous victories over the north London club, which were marked by a glut of goals, but the common denominator was the identity of the star turn. Agüero was not perfect but enough of what he did was close to it, particularly during a rampant first-half performance in which he scored the decisive goal.
+ 
+Agüero took a cute pass from David Silva following a rapier-like counter to blast high into Hugo Lloris’ near corner. Under Pellegrini, he has eight goals in four matches against Spurs while, in total, he has 10 in seven – his highest Premier League return against a single opponent.
+ 
+City had seen Chelsea secure the title earlier with the 1-0 home win over Crystal Palace but they remain determined to finish he seasonas the runners-up. They got the job done here to end a damaging run of five consecutive away defeats but it spoke volumes that the goalkeeper, Joe Hart, ran Agüero close for the man of the match award.
+ 
+Mauricio Pochettino cursed Tottenham’s wastefulness in front of goal and a draw would not have been unfair but Hart made a clutch of important saves, most notably blocks from Ryan Mason and Harry Kane, and the injury-time reaction stop to keep out Érik Lamela’s acrobatic volley.
+ 
+It was an entertaining game, heavy on incident, and Pellegrini said, rather pointedly, in light of the criticism of Chelsea’s style, that it was “important for the Premier League and for the fans to play attractive football”.
+ 
+He added: “Tottenham play attractive football and so do we. That’s why we saw an attractive game. Chelsea did exactly what we did last season, winning the Premier League and the Capital One Cup. We did it by scoring more goals and by playing in a different style. We scored 156 goals; 102 in the league. And we continue to be the top scorers [this season].”
+ 
+This game ought to have been shaped differently, with Tottenham spurning three gilt-edged chances in the opening three minutes. Nacer Chadli failed to pick out the unmarked Lamela in the middle on the break – Aleksandar Kolarov’s block was important – and Eric Dier headed wide from Lamela’s corner. In the next attack, Lamela put Kane through but he dragged wide.
+ 
+City, though, did not take long to advertise their threat and time and again it came from Agüero. By the end of the first half Tottenham’s defenders had been spooked by him. His pace and powerful running were a lethal combination.
+ 
+There was controversy on 22 minutes when, after a long punt forward and a slip from Lloris, Agüero felt that he was tripped in the area by Federico Fazio. But his frustration was short-lived. The move for his goal originated from a Tottenham corner, with Silva’s work impressive and the finish unstoppable.
+ 
+Fernandinho twice went close for City in the first half while Agüero worked Lloris after a breathtaking trick inside the area. Mason’s chance on 45 minutes was glorious but Hart was out quickly to block.
+ 
+Tottenham have found themselves in a weird situation, given that there is little appetite from their management to finish in the Europa League places. But they have their professional pride and they chased the equaliser, with Pochettino throwing on Roberto Soldado and, towards the end, Emmanuel Adebayor.
+ 
+The second half featured fewer chances but they were nonetheless presentable. Kane robbed Martín Demichelis only for Hart to crowd him out and block while Agüero took Fernandinho’s cross around Lloris but, off-balance, he could not finish. Kolarov also tested Lloris from long-range.
+ 
+The home crowd revelled in the misfortune of the City substitute and the former Arsenal midfielder Samir Nasri, who was forced off with a muscle pull three minutes after coming on, and the home team caught a break in the 79th minute when the referee did not penalise Danny Rose for a lunge on Pablo Zabaleta inside the area, in which he got none of the ball and some of the man. Soldado saw a shot blocked while Hart denied the substitute, Paulinho, and, at the very end, Lamela.
+ 
+Man of the Match Sergio Agüero (Manchester City)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="272~285" text="Sergio Agüero" playerID="null" />
+<Player id="P1" spans="366~372" text="Agüero" playerID="null" />
+<Player id="P2" spans="607~613" text="Agüero" playerID="null" />
+<Player id="P3" spans="766~772" text="Agüero" playerID="null" />
+<Player id="P4" spans="795~806" text="David Silva" playerID="null" />
+<Player id="P5" spans="801~806" text="Silva" playerID="null" />
+<Player id="P6" spans="858~869" text="Hugo Lloris" playerID="null" />
+<Player id="P7" spans="1330~1338" text="Joe Hart" playerID="null" />
+<Player id="P8" spans="1344~1350" text="Agüero" playerID="null" />
+<Player id="P9" spans="1502~1506" text="Hart" playerID="null" />
+<Player id="P10" spans="1566~1576" text="Ryan Mason" playerID="null" />
+<Player id="P11" spans="1581~1591" text="Harry Kane" playerID="null" />
+<Player id="P12" spans="1639~1650" text="Érik Lamela" playerID="null" />
+<Player id="P13" spans="2389~2401" text="Nacer Chadli" playerID="null" />
+<Player id="P14" spans="2434~2440" text="Lamela" playerID="null" />
+<Player id="P15" spans="2470~2488" text="Aleksandar Kolarov" playerID="null" />
+<Player id="P16" spans="2517~2526" text="Eric Dier" playerID="null" />
+<Player id="P17" spans="2544~2550" text="Lamela" playerID="null" />
+<Player id="P18" spans="2581~2587" text="Lamela" playerID="null" />
+<Player id="P19" spans="2592~2596" text="Kane" playerID="null" />
+<Player id="P20" spans="2718~2724" text="Agüero" playerID="null" />
+<Player id="P21" spans="2945~2951" text="Lloris" playerID="null" />
+<Player id="P22" spans="2953~2959" text="Agüero" playerID="null" />
+<Player id="P23" spans="3000~3014" text="Federico Fazio" playerID="null" />
+<Player id="P24" spans="3116~3121" text="Silva" playerID="null" />
+<Player id="P25" spans="3170~3181" text="Fernandinho" playerID="null" />
+<Player id="P26" spans="3232~3238" text="Agüero" playerID="null" />
+<Player id="P27" spans="3246~3252" text="Lloris" playerID="null" />
+<Player id="P28" spans="3297~3302" text="Mason" playerID="null" />
+<Player id="P29" spans="3343~3347" text="Hart" playerID="null" />
+<Player id="P30" spans="3625~3640" text="Roberto Soldado" playerID="null" />
+<Player id="P31" spans="3663~3680" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P32" spans="3762~3766" text="Kane" playerID="null" />
+<Player id="P33" spans="3774~3791" text="Martín Demichelis" playerID="null" />
+<Player id="P34" spans="3801~3805" text="Hart" playerID="null" />
+<Player id="P35" spans="3839~3845" text="Agüero" playerID="null" />
+<Player id="P36" spans="3851~3862" text="Fernandinho" playerID="null" />
+<Player id="P37" spans="3878~3884" text="Lloris" playerID="null" />
+<Player id="P38" spans="3924~3931" text="Kolarov" playerID="null" />
+<Player id="P39" spans="3944~3950" text="Lloris" playerID="null" />
+<Player id="P40" spans="4069~4080" text="Samir Nasri" playerID="null" />
+<Player id="P41" spans="4237~4247" text="Danny Rose" playerID="null" />
+<Player id="P42" spans="4263~4277" text="Pablo Zabaleta" playerID="null" />
+<Player id="P43" spans="4349~4356" text="Soldado" playerID="null" />
+<Player id="P44" spans="4382~4386" text="Hart" playerID="null" />
+<Player id="P45" spans="4410~4418" text="Paulinho" playerID="null" />
+<Player id="P46" spans="4442~4448" text="Lamela" playerID="null" />
+<Player id="P47" spans="4469~4482" text="Sergio Agüero" playerID="null" />
+<Coref id="C0" spans="215~217" text="he" playerID="null" />
+<Coref id="C1" spans="649~651" text="he" playerID="null" />
+<Coref id="C2" spans="735~737" text="he" playerID="null" />
+<Coref id="C3" spans="902~904" text="he" playerID="null" />
+<Coref id="C4" spans="968~970" text="he" playerID="null" />
+<Coref id="C5" spans="989~992" text="his" playerID="null" />
+<Coref id="C6" spans="1178~1180" text="he" playerID="null" />
+<Coref id="C7" spans="1901~1903" text="He" playerID="null" />
+<Coref id="C8" spans="2609~2611" text="he" playerID="null" />
+<Coref id="C9" spans="2802~2805" text="His" playerID="null" />
+<Coref id="C10" spans="2970~2972" text="he" playerID="null" />
+<Coref id="C11" spans="3020~3023" text="his" playerID="null" />
+<Coref id="C12" spans="3066~3069" text="his" playerID="null" />
+<Coref id="C13" spans="3903~3905" text="he" playerID="null" />
+<Coref id="C14" spans="4304~4306" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

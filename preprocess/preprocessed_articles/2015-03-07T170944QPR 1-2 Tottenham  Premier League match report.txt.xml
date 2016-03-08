@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/mar/07/qpr-tottenham-hotspur-premier-league-match-report
+
+QPR 1-2 Tottenham | Premier League match report
+
+
+At the end of the match Mauricio Pochettino took out his phone and photographed the celebrating away fans. Every picture tells a story and the Tottenham manager spoke of his club’s joy at staying in contention for Champions League qualification. He might want to put that shot in an album alongside a portrait of Harry Kane, who delivered three points by scoring his 15th and 16th Premier League goals in a spectacular breakthrough season. Surely the 21-year-old will feature in an England squad photo soon.
+ 
+“He’s fantastic, he scored two goals and he has changed my opinion of him,” said Pochettino of a striker who at one stage seemed destined for a move away from Tottenham, having been farmed out on loan four times over the years. “He’s young and he can improve more,” said Pochettino, ominously for Tottenham’s future opponents.
+ 
+The clash of the Premier League’s top two English goalscorers was a subplot in this high-stakes showdown, and Roy Hodgson turned up to run the rule over Kane and Charlie Austin. Both featured prominently, although the outcome also owed much to the contrast between the goalkeepers’ fortunes, as Hugo Lloris enjoyed the rub of the green that his Rangers counterpart lacked. And home fans may want to issue a Not Wanted poster for the referee, Craig Pawson, who rejected two strong penalty appeals.
+ 
+An indication that things would go Lloris’s way came in the first minute, when he tipped a Bobby Zamora header over the bar and escaped without conceding a corner, as the referee seemingly thought the header had gone straight out. Four minutes later, Austin tried his luck from 20 yards but Zamora inadvertently blocked his team-mate’s well-hit shot.
+ 
+Quality was in short supply in the first half but the looseness of the game meant both sides got chances. In the sixth minute Kyle Walker presented Kane with an early opportunity to impress the watching England manager but instead Hodgson must have admired the reactions of Rob Green, who showed terrific reflexes to beat away the forward’s close-range header. Green could be forgiven for wishing Hodgson had left at that point – because in the 34th minute the goalkeeper charged off his line in a misguided attempt to cut out a cross from Andros Townsend. Nedum Onuoha, seemingly sensing his approach, ducked out of the way, but Green never got near the ball and Kane nodded it into the net unchallenged.
+ 
+Spurs had almost made things equally easy for Austin before that, as Walker carelessly headed the ball to the striker in front of goal. But Lloris repelled Austin’s flicked shot and then dived to tip the ball off his feet. Moments later Austin did beat the goalkeeper but his shot from 16 yards crashed back out off the bar.
+ 
+Luck smiled on Lloris again in the 39th minute, when he got away with a foul in the box on Mauricio Isla. The goalkeeper hurtled off his line and clipped the Chilean’s leg while performing a wild star jump, but again the referee apparently missed the Frenchman’s intervention.
+ 
+Spurs, playing their sixth match in 17 days, were looking a little sluggish. Christian Eriksen, normally their most inventive player, was a passenger for the first period but he started taking control early in the second as Spurs improved markedly. In the 47th minute the Dane let fly with a wonderful long-range shot that flew past Green and bounced back off the post. Kane bungled the follow-up.
+ 
+With so much at stake, tempers began to fray. Pochettino stepped on to the pitch to drag Ryan Mason away from trouble after an angry confrontation with Karl Henry. Mason, another young English player whose performance must have pleased Hodgson, then helped give Spurs serenity. In the 68th minute the 23-year-old flighted a perfect pass over the Rangers defence. Rio Ferdinand, having utterly lost his bearings, simply stopped, and Kane was allowed to canter into the box and around Green before slotting into the net. That put him above Austin in the Premier League scoring charts and left Rangers in the mire. Ferdinand had been recalled to the team after being omitted for the mid-week visit of Arsenal – and the home fans counselled the 36-year-old to take another, longer rest. “Rio Ferdinand, it’s time to retire,” they wailed.
+ 
+“When goals go in there are always going to be people who get the blame,” said QPR’s head coach, Chris Ramsey. “But for Rio to be at the age he is and playing at this level and applying himself in training and the games, I think we really need to just keep encouraging him to do what he’s doing.”
+ 
+Rangers were drifting towards another defeat but in the 75th minute they started to rebel, as Sandro guided a fine sidefooted shot into the net from the edge of the box. Two minutes later Austin unleashed a shot that Nabil Bentaleb blocked, with his hands according to the home side. Again the referee waved away their claims. The fact is that if the referee made mistakes, then he only compounded the ones that Rangers themselves made.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="462~472" text="Harry Kane" playerID="null" />
+<Player id="P1" spans="1141~1145" text="Kane" playerID="null" />
+<Player id="P2" spans="1150~1164" text="Charlie Austin" playerID="null" />
+<Player id="P3" spans="1283~1294" text="Hugo Lloris" playerID="null" />
+<Player id="P4" spans="1522~1528" text="Lloris" playerID="null" />
+<Player id="P5" spans="1578~1590" text="Bobby Zamora" playerID="null" />
+<Player id="P6" spans="1738~1744" text="Austin" playerID="null" />
+<Player id="P7" spans="1778~1784" text="Zamora" playerID="null" />
+<Player id="P8" spans="1966~1977" text="Kyle Walker" playerID="null" />
+<Player id="P9" spans="1988~1992" text="Kane" playerID="null" />
+<Player id="P10" spans="2118~2123" text="Green" playerID="null" />
+<Player id="P11" spans="2201~2206" text="Green" playerID="null" />
+<Player id="P12" spans="2380~2395" text="Andros Townsend" playerID="null" />
+<Player id="P13" spans="2397~2409" text="Nedum Onuoha" playerID="null" />
+<Player id="P14" spans="2470~2475" text="Green" playerID="null" />
+<Player id="P15" spans="2504~2508" text="Kane" playerID="null" />
+<Player id="P16" spans="2594~2600" text="Austin" playerID="null" />
+<Player id="P17" spans="2617~2623" text="Walker" playerID="null" />
+<Player id="P18" spans="2688~2694" text="Lloris" playerID="null" />
+<Player id="P19" spans="2704~2710" text="Austin" playerID="null" />
+<Player id="P20" spans="2785~2791" text="Austin" playerID="null" />
+<Player id="P21" spans="2890~2896" text="Lloris" playerID="null" />
+<Player id="P22" spans="2966~2979" text="Mauricio Isla" playerID="null" />
+<Player id="P23" spans="3231~3248" text="Christian Eriksen" playerID="null" />
+<Player id="P24" spans="3487~3492" text="Green" playerID="null" />
+<Player id="P25" spans="3524~3528" text="Kane" playerID="null" />
+<Player id="P26" spans="3643~3653" text="Ryan Mason" playerID="null" />
+<Player id="P27" spans="3706~3716" text="Karl Henry" playerID="null" />
+<Player id="P28" spans="3711~3716" text="Henry" playerID="null" />
+<Player id="P29" spans="3718~3723" text="Mason" playerID="null" />
+<Player id="P30" spans="3917~3930" text="Rio Ferdinand" playerID="null" />
+<Player id="P31" spans="3986~3990" text="Kane" playerID="null" />
+<Player id="P32" spans="4037~4042" text="Green" playerID="null" />
+<Player id="P33" spans="4092~4098" text="Austin" playerID="null" />
+<Player id="P34" spans="4166~4175" text="Ferdinand" playerID="null" />
+<Player id="P35" spans="4338~4351" text="Rio Ferdinand" playerID="null" />
+<Player id="P36" spans="4493~4499" text="Ramsey" playerID="null" />
+<Player id="P37" spans="4783~4789" text="Sandro" playerID="null" />
+<Player id="P38" spans="4877~4883" text="Austin" playerID="null" />
+<Player id="P39" spans="4906~4920" text="Nabil Bentaleb" playerID="null" />
+<Coref id="C0" spans="202~205" text="his" playerID="null" />
+<Coref id="C1" spans="319~322" text="his" playerID="null" />
+<Coref id="C2" spans="395~397" text="He" playerID="null" />
+<Coref id="C3" spans="512~515" text="his" playerID="null" />
+<Coref id="C4" spans="660~662" text="He" playerID="null" />
+<Coref id="C5" spans="676~678" text="he" playerID="null" />
+<Coref id="C6" spans="700~702" text="he" playerID="null" />
+<Coref id="C7" spans="888~890" text="He" playerID="null" />
+<Coref id="C8" spans="903~905" text="he" playerID="null" />
+<Coref id="C9" spans="1329~1332" text="his" playerID="null" />
+<Coref id="C10" spans="1566~1568" text="he" playerID="null" />
+<Coref id="C11" spans="1751~1754" text="his" playerID="null" />
+<Coref id="C12" spans="1807~1810" text="his" playerID="null" />
+<Coref id="C13" spans="2324~2327" text="his" playerID="null" />
+<Coref id="C14" spans="2429~2432" text="his" playerID="null" />
+<Coref id="C15" spans="2761~2764" text="his" playerID="null" />
+<Coref id="C16" spans="2820~2823" text="his" playerID="null" />
+<Coref id="C17" spans="2928~2930" text="he" playerID="null" />
+<Coref id="C18" spans="3008~3011" text="his" playerID="null" />
+<Coref id="C19" spans="3329~3331" text="he" playerID="null" />
+<Coref id="C20" spans="3952~3955" text="his" playerID="null" />
+<Coref id="C21" spans="4531~4533" text="he" playerID="null" />
+<Coref id="C22" spans="4674~4676" text="he" playerID="null" />
+<Coref id="C23" spans="4935~4938" text="his" playerID="null" />
+<Coref id="C24" spans="5068~5070" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

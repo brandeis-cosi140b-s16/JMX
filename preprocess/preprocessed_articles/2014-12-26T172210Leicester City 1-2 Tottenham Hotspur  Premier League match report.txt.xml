@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/dec/26/leicester-city-tottenham-hotspur-premier-league-match-report
+
+Leicester City 1-2 Tottenham Hotspur | Premier League match report
+
+
+If performances had been as poor as Leicester City’s results, Nigel Pearson said this week, he would not still be in his job and once again the manager had to watch his side fail to get the reward their unstinting effort unquestionably deserved.
+ 
+With 11 defeats and two draws in 13 games, the point at which the club’s owners decide something has to change may be approaching. With City five points adrift at the bottom of the table, Sunday’s match at Hull City could have huge implications.
+ 
+“I would love to have a crap performance that yielded three points but that’s how football is,” said a sighing Pearson, whose side had 22 attempts on goal compared with eight for Spurs. “The run we’re in is unusual based on the types of performances we’re producing but there’s no point me moaning. People who play the luck card are probably kidding themselves. What I can’t do is hide from the fact our results are nothing short of poor but we’ll keep working because I know the players are capable.”
+ 
+It is rarely a good sign when the home crowd lapses into dark humour, even less so when some are still finding their seats. Barely a minute had elapsed when Érik Lamela, having seen Harry Kane forced to check his initial run, picked out Nacer Chadli running into space on the left.
+ 
+Chadli’s pull-back looked rather scuffed but Kane, demonstrating upper-body strength as well as awareness and touch, got in front of Wes Morgan, controlled the ball and with Morgan on the ground, had the time to fire back across the City goalkeeper, Ben Hamer, from no more than six yards. It was the 21-year-old’s 13th goal in his past 18 games.
+ 
+“You’re nothing special, we lose every week,” came the chant from the stands but there was nothing resigned about Leicester’s response on the pitch. Leonardo Ulloa’s volley brought an unnecessarily spectacular save from Hugo Lloris but thereafter the France goalkeeper was at his considerable best, and had to be.
+ 
+Jeffrey Schlupp and Riyad Mahrez forced him to make good saves but Lloris could only watch in relief as Ulloa’s header from a Riyad Mahrez cross came back off the inside of the keeper’s left post. At the other end Nabil Bentaleb, put clear, should have at least made Hamer make a save but the Algeria midfielder’s heavy touch gave Paul Konchesky the chance to clear.
+ 
+The goal that City’s pressure deserved came less than three minutes into the second half. Mahrez’s persistence on the right helped him squeeze past Bentaleb and Ulloa wrestled himself in front of his marker to turn the ball past Lloris at the near post.
+ 
+Mahrez soon struck a free-kick sweetly over the Tottenham wall, only to see the ball bounce back off the angle of post and bar. Schlupp’s stinging drive from an angle was palmed away by Lloris and, in the circumstances, the manner in which the visitors retook the lead seemed doubly cruel.
+ 
+Whether Christian Eriksen was trying to squeeze his free-kick from a distant angle inside Hamer’s right post only he can know. But, when the two-man wall split, the goalkeeper, who had been anticipating a cross, failed to scramble back across his line in time to keep the ball out.
+ 
+Leicester renewed their pressure,and Morgan, sliding in at the far post, narrowly failed to get sufficient contact on the ball to turn it over the line. In added time Lloris picked up a bloodied lip as he got to the ball fractionally before the committed Jamie Vardy.
+ 
+“When we talk about Hugo, we talk about one of the best goalkeepers in the world,” said the Tottenham manager, Mauricio Pochettino.
+ 
+“We managed [the game] for 25, 30 minutes but Leicester are a very good team, their supporters pushed them and I think they played very well in the second half. But we made a big, big effort.”
+ 
+Man of the match Hugo Lloris (Tottenham)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="247~254" text="Pearson" playerID="null" />
+<Player id="P1" spans="786~793" text="Pearson" playerID="null" />
+<Player id="P2" spans="1336~1347" text="Érik Lamela" playerID="null" />
+<Player id="P3" spans="1361~1371" text="Harry Kane" playerID="null" />
+<Player id="P4" spans="1416~1428" text="Nacer Chadli" playerID="null" />
+<Player id="P5" spans="1463~1469" text="Chadli" playerID="null" />
+<Player id="P6" spans="1508~1512" text="Kane" playerID="null" />
+<Player id="P7" spans="1596~1606" text="Wes Morgan" playerID="null" />
+<Player id="P8" spans="1637~1643" text="Morgan" playerID="null" />
+<Player id="P9" spans="1713~1722" text="Ben Hamer" playerID="null" />
+<Player id="P10" spans="1961~1975" text="Leonardo Ulloa" playerID="null" />
+<Player id="P11" spans="2032~2043" text="Hugo Lloris" playerID="null" />
+<Player id="P12" spans="2128~2143" text="Jeffrey Schlupp" playerID="null" />
+<Player id="P13" spans="2148~2160" text="Riyad Mahrez" playerID="null" />
+<Player id="P14" spans="2195~2201" text="Lloris" playerID="null" />
+<Player id="P15" spans="2232~2237" text="Ulloa" playerID="null" />
+<Player id="P16" spans="2254~2266" text="Riyad Mahrez" playerID="null" />
+<Player id="P17" spans="2342~2356" text="Nabil Bentaleb" playerID="null" />
+<Player id="P18" spans="2395~2400" text="Hamer" playerID="null" />
+<Player id="P19" spans="2459~2473" text="Paul Konchesky" playerID="null" />
+<Player id="P20" spans="2587~2593" text="Mahrez" playerID="null" />
+<Player id="P21" spans="2645~2653" text="Bentaleb" playerID="null" />
+<Player id="P22" spans="2658~2663" text="Ulloa" playerID="null" />
+<Player id="P23" spans="2726~2732" text="Lloris" playerID="null" />
+<Player id="P24" spans="2753~2759" text="Mahrez" playerID="null" />
+<Player id="P25" spans="2881~2888" text="Schlupp" playerID="null" />
+<Player id="P26" spans="2939~2945" text="Lloris" playerID="null" />
+<Player id="P27" spans="3053~3070" text="Christian Eriksen" playerID="null" />
+<Player id="P28" spans="3135~3140" text="Hamer" playerID="null" />
+<Player id="P29" spans="3366~3372" text="Morgan" playerID="null" />
+<Player id="P30" spans="3496~3502" text="Lloris" playerID="null" />
+<Player id="P31" spans="3584~3595" text="Jamie Vardy" playerID="null" />
+<Player id="P32" spans="3945~3956" text="Hugo Lloris" playerID="null" />
+<Coref id="C0" spans="271~273" text="he" playerID="null" />
+<Coref id="C1" spans="296~299" text="his" playerID="null" />
+<Coref id="C2" spans="344~347" text="his" playerID="null" />
+<Coref id="C3" spans="1388~1391" text="his" playerID="null" />
+<Coref id="C4" spans="1791~1794" text="his" playerID="null" />
+<Coref id="C5" spans="2088~2091" text="his" playerID="null" />
+<Coref id="C6" spans="2693~2696" text="his" playerID="null" />
+<Coref id="C7" spans="3093~3096" text="his" playerID="null" />
+<Coref id="C8" spans="3159~3161" text="he" playerID="null" />
+<Coref id="C9" spans="3288~3291" text="his" playerID="null" />
+<Coref id="C10" spans="3531~3533" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

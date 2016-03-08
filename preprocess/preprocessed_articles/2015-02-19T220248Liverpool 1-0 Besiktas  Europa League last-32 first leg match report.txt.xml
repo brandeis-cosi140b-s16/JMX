@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/feb/19/liverpool-besiktas-europa-league-match-report
+
+Liverpool 1-0 Besiktas | Europa League last-32 first leg match report
+
+
+The rehabilitation of Mario Balotelli continues apace at Liverpool, complete with his magnetic attachment to drama. His 85th-minute penalty provoked a dispute with Jordan Henderson on the pitch and a rebuke from Steven Gerrard sitting in a television studio, but all that mattered was that it was nerveless, accurate and broke Besiktas’ resilience in the Europa League. At long last he is making a difference.
+ 
+Balotelli has contributed more to Brendan Rodgers’ side in the past 10 days than throughout his first five months at Anfield and his late winner could prove essential to Liverpool’s progress in Europe. Last Tuesday his first Premier League goal defeated Tottenham Hotspur and enhanced Liverpool’s top-four claims. On Saturday he was involved in Adam Lallana’s winner in the FA Cup at Crystal Palace and here, with Rodgers’ men struggling to break down the Turkish league leaders and destined for another daunting European task at the Ataturk Stadium, he stepped forward to deliver a slender but important first-leg victory.
+ 
+Balotelli being Balotelli, his goal was not without controversy and Rodgers appeared distinctly unimpressed when the Italian took spot-kick duties away from the captain, Henderson, after Jordon Ibe had been foolishly clipped inside the area by Ramon Motta. Unlike a similar tale across Stanley Park recently, when Kevin Mirallas ousted Leighton Baines and missed from the spot, Balotelli coolly sent Cenk Gonen the wrong way and Liverpool were reprieved.
+ 
+Chances were scarce for both sides in a closely fought match and Balotelli’s understandable confidence from 12 yards – he has now scored 27 out of 29 penalties in his career – ensured Liverpool did not reach a sixth European game without a win for the first time in the club’s history.
+ 
+Besiktas reflected a coach who spent his playing career in central defence for Croatia, West Ham United and Everton. “I like to see good football,” Bilic had explained before his return to Merseyside. “But I think only good defensive organisation will give you the opportunity to be effective in attack.” He remained true to that philosophy by deploying two banks of four to nullify a Liverpool attack led by Daniel Sturridge but missing Raheem Sterling’s ability to stretch a well-drilled opposition defence for 77 minutes.
+ 
+Sterling started on the bench having missed the last two matches with a foot problem and, along with everyone else inside the stadium, was quickly aware of Bilic’s intention to keep things tight before next week’s second leg in Istanbul. A stalemate developed quickly with Liverpool struggling to create space behind the Turkish defence or to deliver a quality final ball.
+ 
+There was more entertainment in watching Bilic’s antics in the technical area. The Croat kicked every pass, jumped to head every high ball into the box, railed at the Polish referee, sank to his haunches when Liverpool attacked and leapt up and down as Besiktas formed a wall to defend a Jordan Henderson free-kick from 25 yards.
+ 
+Henderson’s effort landed inches wide, with Cenk rooted on the opposite side of goal. Alberto Moreno also went close from distance, so too Sturridge from a free-kick 25 yards out, and the fact Liverpool’s threats all arrived from outside the area reflected the struggle to break through the Besiktas’ rearguard. The visitors were not without their chances too, however.
+ 
+Anfield was transported back to April and that Chelsea goal that punctured Liverpool’s title dream when Demba Ba was sent sprinting through on the Kop goal by Olcay Sahan. This time Ba shot low to Simon Mignolet’s left rather than through the goalkeeper’s legs and the Belgian produced a fine save to tip the ball out for a corner.
+ 
+Having struggled to create one clear opening throughout the first half, Liverpool squandered two presentable chances within four minutes of the restart. The first fell to Moreno after Ibe beat two Besiktas challenges and fed Henderson, who picked out the unmarked Spaniard with a floated cross to the left of the area.
+ 
+Moreno’s volley was not exactly clean or accurate and ended up at the feet of Sturridge wide on the right.
+ 
+Lallana missed a better opportunity gifted to him by a mix-up in the visiting defence. Again Henderson was involved, bursting down the right and delivering a cross that should have been routine for Cenk.
+ 
+Instead he collided with the central defender Pedro Franco and dropped the ball towards the in-rushing Liverpool midfielder who, under pressure from Franco’s challenge, skied over from close range. It was a major let-off for Bilic’s side but Ibe ensured they would not escape completely when he drove beyond Motta who responded with a needless foul.
+ 
+Balotelli finished the job and ignited another controversy in the process.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="189~204" text="Mario Balotelli" playerID="null" />
+<Player id="P1" spans="331~347" text="Jordan Henderson" playerID="null" />
+<Player id="P2" spans="379~393" text="Steven Gerrard" playerID="null" />
+<Player id="P3" spans="579~588" text="Balotelli" playerID="null" />
+<Player id="P4" spans="924~936" text="Adam Lallana" playerID="null" />
+<Player id="P5" spans="1205~1214" text="Balotelli" playerID="null" />
+<Player id="P6" spans="1221~1230" text="Balotelli" playerID="null" />
+<Player id="P7" spans="1375~1384" text="Henderson" playerID="null" />
+<Player id="P8" spans="1392~1402" text="Jordon Ibe" playerID="null" />
+<Player id="P9" spans="1519~1533" text="Kevin Mirallas" playerID="null" />
+<Player id="P10" spans="1541~1556" text="Leighton Baines" playerID="null" />
+<Player id="P11" spans="1583~1592" text="Balotelli" playerID="null" />
+<Player id="P12" spans="1727~1736" text="Balotelli" playerID="null" />
+<Player id="P13" spans="2359~2375" text="Daniel Sturridge" playerID="null" />
+<Player id="P14" spans="2388~2403" text="Raheem Sterling" playerID="null" />
+<Player id="P15" spans="2477~2485" text="Sterling" playerID="null" />
+<Player id="P16" spans="3140~3156" text="Jordan Henderson" playerID="null" />
+<Player id="P17" spans="3184~3193" text="Henderson" playerID="null" />
+<Player id="P18" spans="3270~3284" text="Alberto Moreno" playerID="null" />
+<Player id="P19" spans="3323~3332" text="Sturridge" playerID="null" />
+<Player id="P20" spans="3753~3767" text="Simon Mignolet" playerID="null" />
+<Player id="P21" spans="4061~4067" text="Moreno" playerID="null" />
+<Player id="P22" spans="4074~4077" text="Ibe" playerID="null" />
+<Player id="P23" spans="4115~4124" text="Henderson" playerID="null" />
+<Player id="P24" spans="4211~4217" text="Moreno" playerID="null" />
+<Player id="P25" spans="4289~4298" text="Sturridge" playerID="null" />
+<Player id="P26" spans="4320~4327" text="Lallana" playerID="null" />
+<Player id="P27" spans="4413~4422" text="Henderson" playerID="null" />
+<Player id="P28" spans="4768~4771" text="Ibe" playerID="null" />
+<Player id="P29" spans="4878~4887" text="Balotelli" playerID="null" />
+<Coref id="C0" spans="249~252" text="his" playerID="null" />
+<Coref id="C1" spans="283~286" text="His" playerID="null" />
+<Coref id="C2" spans="550~552" text="he" playerID="null" />
+<Coref id="C3" spans="671~674" text="his" playerID="null" />
+<Coref id="C4" spans="708~711" text="his" playerID="null" />
+<Coref id="C5" spans="794~797" text="his" playerID="null" />
+<Coref id="C6" spans="905~907" text="he" playerID="null" />
+<Coref id="C7" spans="1130~1132" text="he" playerID="null" />
+<Coref id="C8" spans="1232~1235" text="his" playerID="null" />
+<Coref id="C9" spans="1781~1783" text="he" playerID="null" />
+<Coref id="C10" spans="1825~1828" text="his" playerID="null" />
+<Coref id="C11" spans="1987~1990" text="his" playerID="null" />
+<Coref id="C12" spans="2125~2128" text="his" playerID="null" />
+<Coref id="C13" spans="2255~2257" text="He" playerID="null" />
+<Coref id="C14" spans="3043~3046" text="his" playerID="null" />
+<Coref id="C15" spans="4534~4536" text="he" playerID="null" />
+<Coref id="C16" spans="4818~4820" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

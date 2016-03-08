@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/mar/21/tottenham-hotspur-leicester-city-premier-league-match-report
+
+Tottenham Hotspur 4-3 Leicester City | Premier League match report
+
+
+Hurricane Harry Kane blew in from the south side here after six minutes and, by the time that this force of nature had departed, he had his first Premier League hat-trick and Tottenham Hotspur had the result that they wanted after Sunday’s drubbing at Manchester United.
+ 
+Kane spent the later part of the 2012-13 season on loan at Leicester City, where he managed two goals in 13 Championship appearances and the speed of his progress remains difficult to comprehend. The 21-year-old is now carrying Tottenham’s Champions League hopes; he has his first senior England call-up for the fixtures against Lithuania and Italy and he has taken his goals tally for the season to 29. He stands to become the first Spur since Gary Lineker, in 1991-92, to reach 30.
+  
+ Related: Newcastle United 1-2 Arsenal | Premier League match report 
+   
+Kane’s heroics, however, were only a part of this helter-skelter, error-strewn encounter in which Leicester contributed fully. They fought back from a dreadful start to boss the second half of the first half, equalise early in the second period and look the likelier team to win until Kane completed his hat-trick from the penalty spot and Jeff Schlupp put through his own goal after Kasper Schmeichel had blocked from Christian Eriksen.
+ 
+The last time Leicester played here in the Premier League, in 2004, they drew 4-4 and they almost fashioned an unlikely repeat after David Nugent had run through Tottenham’s shambolic defence to shoot home. Mauricio Pochettino, the Tottenham manager, hurled his water bottle in fury. For a former Argentina centre-half, it cannot be easy watching this team defend.
+ 
+Tottenham, though, just about got over the line. The turning point was the penalty, and how Leicester raged about it. Nugent took a heavy touch inside his own area and then put his arm out, making contact with Danny Rose, who went to ground.
+ 
+The referee, Mike Dean, took an age to point to the spot, which was one of the things that incensed Nigel Pearson, the Leicester manager, and it felt like a soft award. Yet it was one of those that was giveable.
+ 
+Pearson disagreed. Vehemently. He said: “Nuge would be the first to admit that he should have dealt with the situation earlier but the length of time it took to give the decision – to decide that two players colliding in the box is a penalty. I just find it bizarre. We continue to be shortchanged. We can’t be on the receiving end of so many poor decisions.”
+ 
+Pearson tore into Dean. “The arrogance of the man is frightening. What’s the point of talking to him about it? He’s one of the most arrogant men I’ve ever met. I’ll try and keep my words carefully chosen this week and hopefully your microphone will be out of the way when I choose to say something different.”
+ 
+Pearson gave lots of death stares in his press conference. He shrugged and stared when it was put to him that he might face Football Association censure for his outburst against Dean. The anger was stamped all over his face.
+ 
+Kane’s second goal had taken a heavy deflection; the penalty was contentious and the own goal was deeply unfortunate. There was plenty to like about Leicester’s performance. How could they have lost, Pearson wanted to scream. Yet they did. It will be the greatest of escapes if they avoid relegation.
+  
+ Related: Referee apologises after West Brom suffer red-card mistaken identity 
+   
+Tottenham were in front early through Kane, when Schmeichel pawed Eric Dier’s flick down at the striker’s feet and the second followed Robert Huth’s poor clearance. Kane’s shot deflected wickedly off Huth – it could be one for the Dubious Goals Panel.
+ 
+Tottenham had lost Hugo Lloris in the first minute after a collision with Jamie Vardy and Kyle Walker – the goalkeeper was taken off on a stretcher and then on to hospital with what Pochettino called a “big cut on the tendon of his knee”.
+ 
+The home team might have led 3-0 – Nacer Chadli blazed over the crossbar after Eriksen had hit the post – but, equally, it might have been 2-2 at half-time. Matty James sparked a lovely move that led to Nugent crossing and Vardy beating the back-up goalkeeper, Michel Vorm, and, but for Rose’s challenge, Nugent might have equalised in injury-time. Leonardo Ulloa also headed over the crossbar.
+ 
+It was remarkable to see how Tottenham loosened their grip and Wes Morgan equalised following slack marking at a corner. Leicester were firmly in the ascendancy but the pendulum swung once again upon the penalty.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="189~199" text="Harry Kane" playerID="null" />
+<Player id="P1" spans="452~456" text="Kane" playerID="null" />
+<Player id="P2" spans="1013~1017" text="Kane" playerID="null" />
+<Player id="P3" spans="1298~1302" text="Kane" playerID="null" />
+<Player id="P4" spans="1358~1365" text="Schlupp" playerID="null" />
+<Player id="P5" spans="1397~1414" text="Kasper Schmeichel" playerID="null" />
+<Player id="P6" spans="1432~1449" text="Christian Eriksen" playerID="null" />
+<Player id="P7" spans="1586~1598" text="David Nugent" playerID="null" />
+<Player id="P8" spans="1938~1944" text="Nugent" playerID="null" />
+<Player id="P9" spans="2030~2040" text="Danny Rose" playerID="null" />
+<Player id="P10" spans="2170~2177" text="Pearson" playerID="null" />
+<Player id="P11" spans="2278~2285" text="Pearson" playerID="null" />
+<Player id="P12" spans="2640~2647" text="Pearson" playerID="null" />
+<Player id="P13" spans="2952~2959" text="Pearson" playerID="null" />
+<Player id="P14" spans="3179~3183" text="Kane" playerID="null" />
+<Player id="P15" spans="3379~3386" text="Pearson" playerID="null" />
+<Player id="P16" spans="3605~3609" text="Kane" playerID="null" />
+<Player id="P17" spans="3616~3626" text="Schmeichel" playerID="null" />
+<Player id="P18" spans="3633~3642" text="Eric Dier" playerID="null" />
+<Player id="P19" spans="3702~3713" text="Robert Huth" playerID="null" />
+<Player id="P20" spans="3732~3736" text="Kane" playerID="null" />
+<Player id="P21" spans="3767~3771" text="Huth" playerID="null" />
+<Player id="P22" spans="3840~3851" text="Hugo Lloris" playerID="null" />
+<Player id="P23" spans="3895~3906" text="Jamie Vardy" playerID="null" />
+<Player id="P24" spans="3911~3922" text="Kyle Walker" playerID="null" />
+<Player id="P25" spans="4097~4109" text="Nacer Chadli" playerID="null" />
+<Player id="P26" spans="4141~4148" text="Eriksen" playerID="null" />
+<Player id="P27" spans="4219~4230" text="Matty James" playerID="null" />
+<Player id="P28" spans="4225~4230" text="James" playerID="null" />
+<Player id="P29" spans="4265~4271" text="Nugent" playerID="null" />
+<Player id="P30" spans="4285~4290" text="Vardy" playerID="null" />
+<Player id="P31" spans="4323~4334" text="Michel Vorm" playerID="null" />
+<Player id="P32" spans="4349~4353" text="Rose" playerID="null" />
+<Player id="P33" spans="4367~4373" text="Nugent" playerID="null" />
+<Player id="P34" spans="4411~4425" text="Leonardo Ulloa" playerID="null" />
+<Player id="P35" spans="4522~4532" text="Wes Morgan" playerID="null" />
+<Coref id="C0" spans="308~310" text="he" playerID="null" />
+<Coref id="C1" spans="315~318" text="his" playerID="null" />
+<Coref id="C2" spans="533~535" text="he" playerID="null" />
+<Coref id="C3" spans="602~605" text="his" playerID="null" />
+<Coref id="C4" spans="716~718" text="he" playerID="null" />
+<Coref id="C5" spans="723~726" text="his" playerID="null" />
+<Coref id="C6" spans="805~807" text="he" playerID="null" />
+<Coref id="C7" spans="818~821" text="his" playerID="null" />
+<Coref id="C8" spans="856~858" text="He" playerID="null" />
+<Coref id="C9" spans="1313~1316" text="his" playerID="null" />
+<Coref id="C10" spans="1378~1381" text="his" playerID="null" />
+<Coref id="C11" spans="1711~1714" text="his" playerID="null" />
+<Coref id="C12" spans="1971~1974" text="his" playerID="null" />
+<Coref id="C13" spans="1997~2000" text="his" playerID="null" />
+<Coref id="C14" spans="2309~2311" text="He" playerID="null" />
+<Coref id="C15" spans="2357~2359" text="he" playerID="null" />
+<Coref id="C16" spans="2751~2753" text="He" playerID="null" />
+<Coref id="C17" spans="2989~2992" text="his" playerID="null" />
+<Coref id="C18" spans="3011~3013" text="He" playerID="null" />
+<Coref id="C19" spans="3062~3064" text="he" playerID="null" />
+<Coref id="C20" spans="3109~3112" text="his" playerID="null" />
+<Coref id="C21" spans="3167~3170" text="his" playerID="null" />
+<Coref id="C22" spans="4049~4052" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

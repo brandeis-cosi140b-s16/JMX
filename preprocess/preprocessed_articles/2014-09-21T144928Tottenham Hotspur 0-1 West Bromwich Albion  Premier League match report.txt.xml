@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/21/tottenham-hotspur-west-bromwich-albion-premier-league-match-report
+
+Tottenham Hotspur 0-1 West Bromwich Albion | Premier League match report
+
+
+Mauricio Pochettino was supposed to eradicate White Hart Lane performances like this. Instead, the Tottenham Hotspur manager felt the gloom descend as his team stuttered to a flat and deserved defeat against a West Bromwich Albion team who had started the day at the foot of the Premier League table.
+ 
+The sense of deja vu was uncomfortable, as Tottenham struggled to create against a well-drilled visiting team and it even took in Pochettino’s mannerisms in the technical area. He crouched on to his haunches like André Villas-Boas and at one point in the second half he hurled down a water bottle, Tim Sherwood-style.
+ 
+At full-time, there were loud boos from the home support, who know that their next Premier League match is at Arsenal on Saturday, and bitter frustration behind the words of Pochettino. There was no rebound from the 3-0 defeat at the hands of Liverpool in the previous home game.
+ 
+“This is my surprise,” Pochettino said, when asked about his players’ lack of passion. “We need to show more. West Brom arrived with only two points but we need to show respect. We were wrong. I’m angry, disappointed. We had a bad day. The team looked very nervous. The way we played was wrong because we played very slow from the beginning.”
+ 
+This was Albion’s first win at White Hart Lane in 30 years but, more importantly, it was a first in the Premier League under Alan Irvine. The goal came when James Morrison tip-toed on to Chris Brunt’s corner to head unmarked into Hugo Lloris’s net and begin an inquest among the Tottenham defence as to how such a diminutive midfielder might have done that. But it had been advertised.
+ 
+Where Spurs lacked urgency, West Brom were slick and punchy. They created chances. Irvine could revel in a clutch of excellent performances, chiefly from Morrison, the striker Saido Berahino and the centre-halves Craig Dawson and Joleon Lescott. It was remarkable to think this was not only Lescott’s Albion debut but his first appearance of any description since March. But it was the collective organisation that stood out.
+ 
+“There was a moment in the first half when the atmosphere [among the home support] changed,” Irvine said. “We’d had a period of pressure and that can spread around the ground. We have experienced that at home and fans are going to respond to what they see. But I wouldn’t be critical of Tottenham fans. They’re a good group of fans.”
+ 
+It was difficult to reconcile West Brom’s performance with their position in the table and they might have led sooner, having started brightly. Dawson looped an early header wide and he accidentally got in the way of a Lescott shot following a corner. Tottenham struggled throughout on Albion set pieces.
+ 
+Craig Gardner drew a smart save from Lloris after Morrison’s square ball and Berahino’s hard running worried the home defence. He had the ball in the net on 37 minutes only to be correctly flagged for offside.
+ 
+Thankfully for Albion, the controversy of the match did not return to haunt them. Dawson’s flicked header from Morrison’s corner on the half-hour sent the ball into Emmanuel Adebayor’s outstretched hand and, if the Tottenham striker had little time to react, the hand was certainly a long way from being pinned to his side. The referee, Kevin Friend, was unmoved.
+ 
+The Tottenham crowd had begun to chunter midway through the first half. There was sloppiness from their team, with Vlad Chiriches especially culpable and Pochettino could be seen demanding greater intensity. Chiriches was not the only substandard performer.
+ 
+Erik Lamela showed quick feet and an eye for the dangerous cross but it was clear to every Tottenham fan that more was needed from the team. Their best moment of the first half stemmed from Christian Eriksen’s through-ball for Adebayor but Lescott did just enough to knock Adebayor from his stride. Adebayor was also inches from getting something on Eriksen’s whipped delivery from the left.
+ 
+Tottenham faced a familiar problem – the need to unlock resolute opponents who carried a threat on the counter against the backdrop of a nervy atmosphere. Pochettino made attacking substitutions, introducing Roberto Soldado and Paulinho for the ineffective Nacer Chadli and Mousa Dembélé on the hour and switching to two up front while he brought on Aaron Lennon for Étienne Capoue.
+ 
+The overall performance was laboured and, despite the best efforts of Lamela, lacking spark. Spurs’ only effort on target came in the 70th minute when Soldado worked Ben Foster at his near post.
+ 
+Albion sat deeper in the second half but they carried a threat, particularly through Berahino, who almost beat Lloris with a swerving shot on 55 minutes. Morrison had also extended the goalkeeper before he found a way to the decisive moment. It was no more than he and Albion deserved.
+ 
+Man of the match Saido Berahino (West Brom)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="243~247" text="Hart" playerID="null" />
+<Player id="P1" spans="1478~1482" text="Hart" playerID="null" />
+<Player id="P2" spans="1598~1612" text="James Morrison" playerID="null" />
+<Player id="P3" spans="1628~1639" text="Chris Brunt" playerID="null" />
+<Player id="P4" spans="1671~1682" text="Hugo Lloris" playerID="null" />
+<Player id="P5" spans="1983~1991" text="Morrison" playerID="null" />
+<Player id="P6" spans="2005~2019" text="Saido Berahino" playerID="null" />
+<Player id="P7" spans="2042~2054" text="Craig Dawson" playerID="null" />
+<Player id="P8" spans="2059~2073" text="Joleon Lescott" playerID="null" />
+<Player id="P9" spans="2120~2127" text="Lescott" playerID="null" />
+<Player id="P10" spans="2737~2743" text="Dawson" playerID="null" />
+<Player id="P11" spans="2812~2819" text="Lescott" playerID="null" />
+<Player id="P12" spans="2900~2913" text="Craig Gardner" playerID="null" />
+<Player id="P13" spans="2937~2943" text="Lloris" playerID="null" />
+<Player id="P14" spans="2950~2958" text="Morrison" playerID="null" />
+<Player id="P15" spans="2977~2985" text="Berahino" playerID="null" />
+<Player id="P16" spans="3194~3200" text="Dawson" playerID="null" />
+<Player id="P17" spans="3223~3231" text="Morrison" playerID="null" />
+<Player id="P18" spans="3277~3294" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P19" spans="3593~3607" text="Vlad Chiriches" playerID="null" />
+<Player id="P20" spans="3686~3695" text="Chiriches" playerID="null" />
+<Player id="P21" spans="3743~3749" text="Lamela" playerID="null" />
+<Player id="P22" spans="3928~3945" text="Christian Eriksen" playerID="null" />
+<Player id="P23" spans="3965~3973" text="Adebayor" playerID="null" />
+<Player id="P24" spans="3978~3985" text="Lescott" playerID="null" />
+<Player id="P25" spans="4011~4019" text="Adebayor" playerID="null" />
+<Player id="P26" spans="4037~4045" text="Adebayor" playerID="null" />
+<Player id="P27" spans="4088~4095" text="Eriksen" playerID="null" />
+<Player id="P28" spans="4340~4355" text="Roberto Soldado" playerID="null" />
+<Player id="P29" spans="4360~4368" text="Paulinho" playerID="null" />
+<Player id="P30" spans="4389~4401" text="Nacer Chadli" playerID="null" />
+<Player id="P31" spans="4412~4419" text="Dembélé" playerID="null" />
+<Player id="P32" spans="4482~4494" text="Aaron Lennon" playerID="null" />
+<Player id="P33" spans="4499~4513" text="Étienne Capoue" playerID="null" />
+<Player id="P34" spans="4587~4593" text="Lamela" playerID="null" />
+<Player id="P35" spans="4668~4675" text="Soldado" playerID="null" />
+<Player id="P36" spans="4683~4693" text="Ben Foster" playerID="null" />
+<Player id="P37" spans="4799~4807" text="Berahino" playerID="null" />
+<Player id="P38" spans="4825~4831" text="Lloris" playerID="null" />
+<Player id="P39" spans="4868~4876" text="Morrison" playerID="null" />
+<Player id="P40" spans="5019~5033" text="Saido Berahino" playerID="null" />
+<Coref id="C0" spans="342~345" text="his" playerID="null" />
+<Coref id="C1" spans="671~673" text="He" playerID="null" />
+<Coref id="C2" spans="689~692" text="his" playerID="null" />
+<Coref id="C3" spans="761~763" text="he" playerID="null" />
+<Coref id="C4" spans="1153~1156" text="his" playerID="null" />
+<Coref id="C5" spans="2147~2150" text="his" playerID="null" />
+<Coref id="C6" spans="2776~2778" text="he" playerID="null" />
+<Coref id="C7" spans="3027~3029" text="He" playerID="null" />
+<Coref id="C8" spans="3426~3429" text="his" playerID="null" />
+<Coref id="C9" spans="4025~4028" text="his" playerID="null" />
+<Coref id="C10" spans="4468~4470" text="he" playerID="null" />
+<Coref id="C11" spans="4697~4700" text="his" playerID="null" />
+<Coref id="C12" spans="4917~4919" text="he" playerID="null" />
+<Coref id="C13" spans="4976~4978" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

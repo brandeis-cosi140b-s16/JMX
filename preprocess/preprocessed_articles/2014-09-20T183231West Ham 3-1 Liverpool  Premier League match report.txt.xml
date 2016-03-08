@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/20/west-ham-liverpool-premier-league-match-report
+
+West Ham 3-1 Liverpool | Premier League match report
+
+
+Liverpool always knew they would face a period of adjustment this term, though they could not have envisaged it proving quite this painful. A third league defeat in four games has left them stewing well off the early pace, this game surrendered in its frenetic first seven minutes when West Ham United were rampant and the visitors merely dazed and confused.
+ 
+The blur of tactical tweaks and substitutions thereafter hinted at a riposte for a while but Liverpool never struck upon the correct blend. In truth, if this revamped squad are still becoming accustomed to each other’s foibles then the actual team’s constant shape-shifting even within games can leave them looking dizzied at times. A troubling injury list, the raised expectations from last term, a more onerous schedule incorporating Champions League football and the disruption caused by Luis Suárez’s departure are all mitigating circumstances of sorts, but here they were eclipsed by West Ham’s energy.
+ 
+It had been at its most devastating in the opening seven minutes, but it was retained to the final exchanges on the counterattack. The final whistle was beckoning when Mamadou Sakho stretched and misdirected a header back in-field for the excellent Stewart Downing to collect. His pass inside Steven Gerrard’s lunge and out of reach of Martin Skrtel was perfect for Morgan Amalfitano, whose crisp first-time finish across Simon Mignolet confirmed the hosts’ deserved success. It was December before Brendan Rodgers’ side lost a third league game last term. Life is proving far more sobering this time.
+ 
+There is uncertainty in virtually all their play at present, with the forward line still seeking to tap in to Mario Balotelli’s qualities in the absence of both Suárez and the injured Daniel Sturridge, their midfield too often overrun and the defence still rather makeshift in its composition. Goals are even being shipped at set pieces these days, a reflection that the clear physical presence they possess across their back line is not providing authority in the air. The manner in which James Tomkins was able to amble away from the ponderous Skrtel and above Jordan Henderson to nod Downing’s free-kick back across goal 80 seconds in summed that up, with Winston Reid bundling the loose ball through Dejan Lovren on the line.
+ 
+That was the first reward of a frantic start, a goal to settle the home side’s nerves given they have choked regularly in this arena in recent times with only two previous victories since February, and West Ham duly threatened to run riot. Their ascendance was established in the centre, where Alex Song and Cheikhou Kouyaté provided the muscle to complement Mark Noble’s busy industry. Downing operated at the tip of their diamond, looking every bit the player Liverpool had once considered worth £20m when prising him from Aston Villa, while Enner Valencia and Diafra Sakho split, galloped into the channels and stretched frazzled opponents. The latter’s second was glorious, a delicate and deliberate chip arcing over Mignolet after Alberto Moreno had failed to summon a challenge.
+ 
+Early indications are that West Ham have struck gold in the market this summer, with Allardyce even suggesting this team are “capable of going as far” as his Bolton side who regularly competed for European football. “Diafra’s come in a bit under the radar because Enner Valencia had such a fantastic World Cup,” he said. “But he scored 20 goals to help Metz win the French second division last year. The energy they’ve got, in and out of possession, terrorised their back four today. Kouyaté loves life, loves football, loves being in every day and he looks like being a fine players for us. We have nine new players, it’s early in the season, and yet they’ve hit the ground running and are performing very well at this level.”
+ 
+Adaptation is proving more problematic for Liverpool’s numerous new personnel, with the team’s early lethargy in the face of such urgent West Ham pressing costing them dear. There was to be no prolonged recovery. The menacing Raheem Sterling, the only visiting forward to offer a display worthy of his reputation, had thrashed in from the edge of the area after Aaron Cresswell blocked Balotelli’s attempt. But, having reverted to a back three and then introduced Adam Lallana at the interval to flood midfield, Liverpool could find no way through.
+ 
+The nearest they came were a Balotelli snapshot and a close-range Mamadou Sakho header but West Ham would not wilt. Amalfitano’s late reward confirmed only the London club’s third win in 23 league meetings with Liverpool. “We know we weren’t at our level,” said Rodgers. “We know we have to do better.
+ 
+“We were brilliant last season. But I would say that, at this point last season, we weren’t playing to the level we were in the last three or four months of the campaign. People were asking me whether we’d score enough and we finished the season with 101 goals. We’ve got a bit of work to do, we know we weren’t at our level. We’ll go away and reflect honestly, and we know we have to be better.”
+ 
+Middlesbrough await in the Capital One Cup on Tuesday before Saturday’s Merseyside derby offers another daunting test. There is no time for Liverpool to catch their breath at present. They can add that, too, to their list of problems.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="1290~1303" text="Mamadou Sakho" playerID="null" />
+<Player id="P1" spans="1371~1386" text="Stewart Downing" playerID="null" />
+<Player id="P2" spans="1415~1429" text="Steven Gerrard" playerID="null" />
+<Player id="P3" spans="1458~1471" text="Martin Skrtel" playerID="null" />
+<Player id="P4" spans="1488~1494" text="Morgan" playerID="null" />
+<Player id="P5" spans="1488~1505" text="Morgan Amalfitano" playerID="null" />
+<Player id="P6" spans="1544~1558" text="Simon Mignolet" playerID="null" />
+<Player id="P7" spans="1836~1851" text="Mario Balotelli" playerID="null" />
+<Player id="P8" spans="1910~1926" text="Daniel Sturridge" playerID="null" />
+<Player id="P9" spans="2216~2221" text="James" playerID="null" />
+<Player id="P10" spans="2216~2229" text="James Tomkins" playerID="null" />
+<Player id="P11" spans="2272~2278" text="Skrtel" playerID="null" />
+<Player id="P12" spans="2289~2305" text="Jordan Henderson" playerID="null" />
+<Player id="P13" spans="2313~2320" text="Downing" playerID="null" />
+<Player id="P14" spans="2385~2397" text="Winston Reid" playerID="null" />
+<Player id="P15" spans="2430~2442" text="Dejan Lovren" playerID="null" />
+<Player id="P16" spans="2752~2761" text="Alex Song" playerID="null" />
+<Player id="P17" spans="2766~2782" text="Cheikhou Kouyaté" playerID="null" />
+<Player id="P18" spans="2817~2827" text="Mark Noble" playerID="null" />
+<Player id="P19" spans="2845~2852" text="Downing" playerID="null" />
+<Player id="P20" spans="3002~3016" text="Enner Valencia" playerID="null" />
+<Player id="P21" spans="3021~3033" text="Diafra Sakho" playerID="null" />
+<Player id="P22" spans="3028~3033" text="Sakho" playerID="null" />
+<Player id="P23" spans="3179~3187" text="Mignolet" playerID="null" />
+<Player id="P24" spans="3194~3208" text="Alberto Moreno" playerID="null" />
+<Player id="P25" spans="3509~3523" text="Enner Valencia" playerID="null" />
+<Player id="P26" spans="3729~3736" text="Kouyaté" playerID="null" />
+<Player id="P27" spans="4201~4216" text="Raheem Sterling" playerID="null" />
+<Player id="P28" spans="4337~4352" text="Aaron Cresswell" playerID="null" />
+<Player id="P29" spans="4361~4370" text="Balotelli" playerID="null" />
+<Player id="P30" spans="4439~4451" text="Adam Lallana" playerID="null" />
+<Player id="P31" spans="4555~4564" text="Balotelli" playerID="null" />
+<Player id="P32" spans="4592~4605" text="Mamadou Sakho" playerID="null" />
+<Player id="P33" spans="4642~4652" text="Amalfitano" playerID="null" />
+<Coref id="C0" spans="1399~1402" text="His" playerID="null" />
+<Coref id="C1" spans="3399~3402" text="his" playerID="null" />
+<Coref id="C2" spans="3557~3559" text="he" playerID="null" />
+<Coref id="C3" spans="3571~3573" text="he" playerID="null" />
+<Coref id="C4" spans="3794~3796" text="he" playerID="null" />
+<Coref id="C5" spans="4273~4276" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

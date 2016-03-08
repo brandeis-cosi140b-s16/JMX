@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/13/chelsea-swansea-city-premier-league-match-report
+
+Chelsea 4-2 Swansea City | Premier League match report
+
+
+The days of big-money Chelsea strikers arriving cursed appear to be over. Where forwards from Chris Sutton to Fernando Torres via Andriy Shevchenko had once toiled, weighed down by oppressive transfer fees and associated expectations, Diego Costa’s staggering introduction to life in the Premier League is merely maintained. This hat-trick ensured his side’s perfect record was extended at the expense of that of Swansea’s, despite the forward having been hampered by a hamstring strain in the build-up to this game. Already it feels as if his limps, like those of Gordon Greenidge, are far more likely to leave opponents wincing.
+ 
+This was a devastating display, a demonstration of strength and predatory finishing to confirm this team has upgraded significantly from last term’s inconsistent front-line. There was a powerful header forced through bodies in a packed penalty area, a side-footed finish swept beyond Lukasz Fabianski after a fine rat-a-tat build-up exchange between team-mates, and a smartly accepted third from Ramires’s scuffed shot.
+ 
+Costa retreated 18 minutes from time having now scored seven times in four league appearances, from 14 shots, for his new club. Torres took 43 games to register that many. The only other player to have scored in his first four games for Chelsea was Jack Meredith back in 1928, and he managed only two more thereafter. Costa’s stay should prove more productive.
+ 
+Just as encouraging is his almost telepathic relationship with Cesc Fàbregas, who grew into this game once team-mates had flocked to his aid in the middle, with the arrival from Barcelona adding another two assists – he now has six this season – to his own productive start to life in these parts. The way he combined with the excellent Eden Hazard 11 minutes after the interval, waiting for Ashley Williams to commit before pulling back for Costa to finish, was a reminder of true quality.
+ 
+Roman Abramovich, up in his executive box, spent most of the second half on his feet cooing at his players’ flowing moves. He even had a debut goal from the substitute Loïc Rémy, to celebrate before the end as this occasion, initially so awkward, degenerated into a thrashing.
+ 
+José Mourinho will have rejoiced in his side’s new-found bite in front of goal, their counterattacks brutally executed at times, though he will have taken as much heart from his players’ ability to recover from a sloppy, becalmed opening. This ended as much a show of character against slick, confident opponents as a demonstration of strength.
+ 
+Swansea had initially outnumbered their hosts in midfield, from where Ki Sung-yueng dictated much of the first half, and had deservedly led through a John Terry own goal converted from Neil Taylor’s skimmed centre. Garry Monk described his team’s play in that period as “some of the best we’ve ever played against this quality of team”. That was no exaggeration, so assured was their approach and incisive their forays forward.
+ 
+Bafétimbi Gomis and Wayne Routledge might have doubled their lead, the winger curling agonisingly wide with Thibaut Courtois beaten. But having been spared further damage, the hosts eventually adapted, recovered and were rewarded. The trio of forwards stationed behind Costa tracked back to stifle Ki’s distribution at source and the aggressive running of Gylfi Sigurdsson and Jonjo Shelvey was smothered.
+ 
+Fàbregas, initially out-muscled and overpowered, duly imposed his own qualities on the contest. It was his corner Costa converted beyond Fabianski, Jordi Amat having been preoccupied attempting to unnerve Branislav Ivanovic in the six-yard box.
+ 
+That equaliser was timely, coming just before the interval, with Ramires’s introduction for the ineffective André Schürrle ensuring the hosts ripped the momentum back for good. They pressed with renewed vigour and Costa’s plunder took over, the hosts’ strength holding sway. The forward’s finishing was assured, Rémy’s immediate impact having replaced the scorer of the hat-trick adding to the locals’ sense of glee. Didier Drogba, nursing an ankle injury, was not missed.
+ 
+“We made changes and were too strong for them in the end,” said Mourinho. “We changed everything at half-time and, with the intensity we showed in that second half, they could not compete. We could give to the stadium what the crowd were waiting for: a win secured in a beautiful way.”
+ 
+Shelvey still exploited some defensive vulnerability late on to claw back a consolation – Swansea did not deserve to feel scorched – but Chelsea, just as they had at Everton in their previous fixture, are confident they can out-gun all-comers. “You saw the power and quality Chelsea have in that second half,” Monk said. “I think they’ll be champions.”
+ 
+Manchester City, five points adrift of the early leaders, will test that theory at the Etihad on 21 September though, for now, Costa and Co are irrepressible.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="265~273" text="Fernando" playerID="null" />
+<Player id="P1" spans="265~280" text="Fernando Torres" playerID="null" />
+<Player id="P2" spans="390~401" text="Diego Costa" playerID="null" />
+<Player id="P3" spans="1072~1088" text="Lukasz Fabianski" playerID="null" />
+<Player id="P4" spans="1184~1191" text="Ramires" playerID="null" />
+<Player id="P5" spans="1210~1215" text="Costa" playerID="null" />
+<Player id="P6" spans="1338~1344" text="Torres" playerID="null" />
+<Player id="P7" spans="1528~1533" text="Costa" playerID="null" />
+<Player id="P8" spans="1636~1649" text="Cesc Fàbregas" playerID="null" />
+<Player id="P9" spans="1910~1921" text="Eden Hazard" playerID="null" />
+<Player id="P10" spans="1965~1980" text="Ashley Williams" playerID="null" />
+<Player id="P11" spans="1972~1980" text="Williams" playerID="null" />
+<Player id="P12" spans="2015~2020" text="Costa" playerID="null" />
+<Player id="P13" spans="2234~2243" text="Loïc Rémy" playerID="null" />
+<Player id="P14" spans="2762~2764" text="Ki" playerID="null" />
+<Player id="P15" spans="2842~2852" text="John Terry" playerID="null" />
+<Player id="P16" spans="2877~2888" text="Neil Taylor" playerID="null" />
+<Player id="P17" spans="2882~2888" text="Taylor" playerID="null" />
+<Player id="P18" spans="3132~3137" text="Gomis" playerID="null" />
+<Player id="P19" spans="3142~3157" text="Wayne Routledge" playerID="null" />
+<Player id="P20" spans="3230~3246" text="Thibaut Courtois" playerID="null" />
+<Player id="P21" spans="3391~3396" text="Costa" playerID="null" />
+<Player id="P22" spans="3420~3422" text="Ki" playerID="null" />
+<Player id="P23" spans="3478~3494" text="Gylfi Sigurdsson" playerID="null" />
+<Player id="P24" spans="3499~3512" text="Jonjo Shelvey" playerID="null" />
+<Player id="P25" spans="3530~3538" text="Fàbregas" playerID="null" />
+<Player id="P26" spans="3644~3649" text="Costa" playerID="null" />
+<Player id="P27" spans="3667~3676" text="Fabianski" playerID="null" />
+<Player id="P28" spans="3678~3688" text="Jordi Amat" playerID="null" />
+<Player id="P29" spans="3735~3753" text="Branislav Ivanovic" playerID="null" />
+<Player id="P30" spans="3842~3849" text="Ramires" playerID="null" />
+<Player id="P31" spans="3885~3899" text="André Schürrle" playerID="null" />
+<Player id="P32" spans="3991~3996" text="Costa" playerID="null" />
+<Player id="P33" spans="4089~4093" text="Rémy" playerID="null" />
+<Player id="P34" spans="4194~4207" text="Didier Drogba" playerID="null" />
+<Player id="P35" spans="4540~4547" text="Shelvey" playerID="null" />
+<Player id="P36" spans="5022~5027" text="Costa" playerID="null" />
+<Coref id="C0" spans="503~506" text="his" playerID="null" />
+<Coref id="C1" spans="695~698" text="his" playerID="null" />
+<Coref id="C2" spans="1324~1327" text="his" playerID="null" />
+<Coref id="C3" spans="1422~1425" text="his" playerID="null" />
+<Coref id="C4" spans="1491~1493" text="he" playerID="null" />
+<Coref id="C5" spans="1596~1599" text="his" playerID="null" />
+<Coref id="C6" spans="1706~1709" text="his" playerID="null" />
+<Coref id="C7" spans="1790~1792" text="he" playerID="null" />
+<Coref id="C8" spans="1822~1825" text="his" playerID="null" />
+<Coref id="C9" spans="1879~1881" text="he" playerID="null" />
+<Coref id="C10" spans="2090~2093" text="his" playerID="null" />
+<Coref id="C11" spans="2142~2145" text="his" playerID="null" />
+<Coref id="C12" spans="2161~2164" text="his" playerID="null" />
+<Coref id="C13" spans="2189~2191" text="He" playerID="null" />
+<Coref id="C14" spans="2381~2384" text="his" playerID="null" />
+<Coref id="C15" spans="2481~2483" text="he" playerID="null" />
+<Coref id="C16" spans="2519~2522" text="his" playerID="null" />
+<Coref id="C17" spans="2928~2931" text="his" playerID="null" />
+<Coref id="C18" spans="3592~3595" text="his" playerID="null" />
+<Coref id="C19" spans="3633~3636" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

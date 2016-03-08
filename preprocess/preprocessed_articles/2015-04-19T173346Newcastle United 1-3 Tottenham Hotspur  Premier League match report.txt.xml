@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/apr/19/newcastle-united-tottenham-hotspur-premier-league-match-report
+
+Newcastle United 1-3 Tottenham Hotspur | Premier League match report
+
+
+Newcastle United suffered a sixth straight defeat, Harry Kane rediscovered his scoring touch, Tottenham Hotspur climbed to sixth place and eyebrows were raised when the official attendance was announced. Sometimes statistics deceive. Admittedly John Carver’s Newcastle ended the afternoon well outclassed but, given their current injury crisis and the slenderness of their squad, they were not always quite as bad as the scoreline might suggest on a day when Kane took quite a while to wake up.
+ 
+As for the crowd, officially it was declared to be just over 47,000 but the number of seats left empty looked indicative of a gathering somewhat nearer the 40,000 mark. It seemed a fair number of supporters had responded to pleas for a boycott in protest at Mike Ashley’s ownership of the club.
+ 
+Those inside St James’ Park would eventually be treated to the sight of Kane recovering from a recent dip in form to score his 30th goal of an extraordinary season but, first, they bore witness to a, rather bizarre, first half fly past from an aeroplane bearing a message from some near, and not so dear, neighbours. Flying arguably lower than is acceptable over a congested public place it trailed a banner declaring : “5 in a row Sunderland.”
+ 
+It was a reference to the Wearsiders’s quintet of successive north east derby wins against Newcastle but Sunderland are not really in a position to crow about anything at the moment and a stunt presumably intended to exacerbate Geordie disgruntlement produced zero reaction.
+ 
+Down on the pitch, Spurs started strongly but allowed Newcastle to grow into the game. So much so that Ayoze Pérez, Carver’s lone forward in an initial 4-1-4-1 formation featuring Ryan Taylor in a holding role and Vurnon Anita at left-back, should probably have done better than sidefoot straight at Michel Vorm from Yoan Gouffran’s cross.
+ 
+The impressive Nacer Chadli was soon to display a much more ruthless streak. Benefiting from Gouffran’s needless concession of possession, Chadli advanced purposefully, and unchallenged, before confounding Tim Krul courtesy of a crisp, dipping, swerving, left-footed shot. “We conceded a real poor goal,” acknowledged Carver, although he refused to criticise Krul’s part in it.
+ 
+His goalkeeper had got a hand on the ball but could not quite hold it and something similar could be said about Newcastle’s tentative grip on a contest in which they sporadically threatened Spurs without ever really damaging Mauricio Pochettino’s team.
+ 
+With the home side gently booed off at the interval Newcastle’s head coach knew something had to change. Accordingly Carver switched to 4-4-2 with Sammy Ameobi and Gabriel Obertan replacing Gouffran and Mehdi Abeid. Within seconds of the restart the alterations paid off.
+ 
+Ameobi helped initiate a move featuring a neat interchange between Pérez and Daryl Janmaat before Janmaat’s shot was blocked. No matter; the rebound fell kindly for Jack Colback to shoot beyond Vorm from around 10 yards. “Decent but unfortunately it seemed to wake Spurs up and we conceded another stupid goal,” said Carver. “Set pieces are our achilles heel.”
+ 
+Sure enough within minutes of the equaliser Colback’s foul on Christian Eriksen gifted Spurs a free kick in a dangerous position. Forward stepped Eriksen to send a wonderfully curling dead ball skimming imperiously over the heads of Carver’s wholly ineffective defence. A trio of visiting players, including the at that point disappointingly peripheral Kane, attacked it but it eluded everyone. Unsighted until very late Krul’s fingers again looked to brush the ball as it flew into the far corner.
+ 
+Eriksen’s goal only emphasised the success Pochettino’s players were enjoying identifying gaps in Newcastle’s reconfigured midfield and when Chadli crossed invitingly Nabil Bentaleb should have increased their lead. Instead he headed fractionally over the crossbar.
+ 
+When Kane came, finally, to life and directed a seemingly unstoppable volley at Krul another goal seemed inevitable but instead the Holland goalkeeper made a gravity-defying, save. Krul would soon be called to arms once more, this time doing well to deny Érik Lamela but, well cued up by Janmaat, Colback shot insipidly from a promising position.
+ 
+Kane proved considerably more efficient in the 90th minute. With Newcastle pouring forward, Spurs counterattacked thanks to Lamela’s dribble. Collecting his pass, Kane accelerated beyond all comers before drawing Krul and guiding the ball into the bottom corner.
+ 
+It left a suitably delighted Pochettino looking forward to another Europa League campaign and Carver distinctly downbeat. “I have to find a new method of trying to play,” he said. “It might not be pretty on the eye, people might not like what they see but we’ve got to find a way of putting some points on the board.”
+ 
+Man of the match Nacer Chadli (Tottenham Hotspur)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="234~244" text="Harry Kane" playerID="null" />
+<Player id="P1" spans="642~646" text="Kane" playerID="null" />
+<Player id="P2" spans="993~998" text="James" playerID="null" />
+<Player id="P3" spans="1049~1053" text="Kane" playerID="null" />
+<Player id="P4" spans="1804~1815" text="Ayoze Pérez" playerID="null" />
+<Player id="P5" spans="1881~1892" text="Ryan Taylor" playerID="null" />
+<Player id="P6" spans="1915~1927" text="Vurnon Anita" playerID="null" />
+<Player id="P7" spans="2001~2012" text="Michel Vorm" playerID="null" />
+<Player id="P8" spans="2018~2031" text="Yoan Gouffran" playerID="null" />
+<Player id="P9" spans="2058~2070" text="Nacer Chadli" playerID="null" />
+<Player id="P10" spans="2136~2144" text="Gouffran" playerID="null" />
+<Player id="P11" spans="2182~2188" text="Chadli" playerID="null" />
+<Player id="P12" spans="2249~2257" text="Tim Krul" playerID="null" />
+<Player id="P13" spans="2402~2406" text="Krul" playerID="null" />
+<Player id="P14" spans="2825~2837" text="Sammy Ameobi" playerID="null" />
+<Player id="P15" spans="2831~2837" text="Ameobi" playerID="null" />
+<Player id="P16" spans="2842~2857" text="Gabriel Obertan" playerID="null" />
+<Player id="P17" spans="2868~2876" text="Gouffran" playerID="null" />
+<Player id="P18" spans="2881~2892" text="Mehdi Abeid" playerID="null" />
+<Player id="P19" spans="2952~2958" text="Ameobi" playerID="null" />
+<Player id="P20" spans="3019~3024" text="Pérez" playerID="null" />
+<Player id="P21" spans="3029~3042" text="Daryl Janmaat" playerID="null" />
+<Player id="P22" spans="3050~3057" text="Janmaat" playerID="null" />
+<Player id="P23" spans="3117~3129" text="Jack Colback" playerID="null" />
+<Player id="P24" spans="3146~3150" text="Vorm" playerID="null" />
+<Player id="P25" spans="3359~3366" text="Colback" playerID="null" />
+<Player id="P26" spans="3377~3394" text="Christian Eriksen" playerID="null" />
+<Player id="P27" spans="3461~3468" text="Eriksen" playerID="null" />
+<Player id="P28" spans="3668~3672" text="Kane" playerID="null" />
+<Player id="P29" spans="3736~3740" text="Krul" playerID="null" />
+<Player id="P30" spans="3816~3823" text="Eriksen" playerID="null" />
+<Player id="P31" spans="3957~3963" text="Chadli" playerID="null" />
+<Player id="P32" spans="3983~3997" text="Nabil Bentaleb" playerID="null" />
+<Player id="P33" spans="4089~4093" text="Kane" playerID="null" />
+<Player id="P34" spans="4164~4168" text="Krul" playerID="null" />
+<Player id="P35" spans="4265~4269" text="Krul" playerID="null" />
+<Player id="P36" spans="4339~4350" text="Érik Lamela" playerID="null" />
+<Player id="P37" spans="4372~4379" text="Janmaat" playerID="null" />
+<Player id="P38" spans="4381~4388" text="Colback" playerID="null" />
+<Player id="P39" spans="4433~4437" text="Kane" playerID="null" />
+<Player id="P40" spans="4557~4563" text="Lamela" playerID="null" />
+<Player id="P41" spans="4596~4600" text="Kane" playerID="null" />
+<Player id="P42" spans="4646~4650" text="Krul" playerID="null" />
+<Player id="P43" spans="5035~5047" text="Nacer Chadli" playerID="null" />
+<Coref id="C0" spans="258~261" text="his" playerID="null" />
+<Coref id="C1" spans="1100~1103" text="his" playerID="null" />
+<Coref id="C2" spans="2378~2380" text="he" playerID="null" />
+<Coref id="C3" spans="2423~2426" text="His" playerID="null" />
+<Coref id="C4" spans="4040~4042" text="he" playerID="null" />
+<Coref id="C5" spans="4586~4589" text="his" playerID="null" />
+<Coref id="C6" spans="4869~4871" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/jan/17/swansea-city-chelsea-premier-league-match-report
+
+Swansea City 0-5 Chelsea | Premier League match report
+
+
+Chelsea’s away form had been giving them cause for concern, but they put it right in the most emphatic fashion, moving five points clear at the top of the Premier League by inflicting on Swansea one of their worst defeats since they arrived at elite level in 2011. Only Liverpool had previously scored five against them.
+ 
+The outcome was settled before half-time, by which stage Chelsea led 4-0, with their fans chanting the name of Diego Costa, whose two goals took his personal contribution to 17 in 19 League appearances.
+ 
+For Swansea, this record home defeat, not just in the Premier League but ever, leaves them with having won just two of their last eight League games, their European ambitions in increasing jeopardy.
+ 
+Had the result ramped up the pressure on Manchester City, who play Arsenal today? José Mourinho thought not. He said: “They have to win, but it’s a responsibility, not a pressure. They have more experience than us, so for them it’s not a problem.”
+ 
+Was this the best team Mourinho had ever had? He pondered the question before answering: “We can play fantastically well, and this was a perfect game, but if we don’t win the European Cup then in 20 years’ time nobody will remember this team. They have to win competitions for that. It is a young team with years in front of them and together we are going to try to make history.”
+ 
+The capacity crowd were still pondering the team changes when Chelsea took the lead, with just 50 seconds played. A pass from Gylfi Sigurdsson failed to find its target, instead bouncing off Tom Carroll and enabling Oscar, the man of the match, to fasten on to the loose ball and run through the middle before scoring from the edge of the D.
+ 
+Flattering but to deceive, the Swans threatened to equalise after two minutes, when Sigurdsson sought to atone with a 25-yarder which hit the top of Peter Cech’s right-hand post. Cech retained his place, despite the fact that Thibaut Courtois was fit again and on the bench.
+ 
+Swansea gave a first start to Nelson Oliveira, signed on loan from Benfica to compensate for Wilfried Bony’s departure. Anonymous before he was substituted, it was not an occasion he will want to remember.
+ 
+The League leaders were, by a street, the better, more cohesive unit and they deservedly doubled the lead in the 20th minute, when Cesc Fàbregas and Willian created the opportunity for Costa to score with a dead-eyed finish from near the penalty spot.
+ 
+The Swans were outmanoeuvred and overrun in midfield, where they were emasculated by the unavailability of Jonjo Shelvey, Leon Britton and Ki Sung-yueng. Mourinho sympathised, saying: “It was difficult for them without those three. That would be the same as us playing without Fàbregas, Matic and Mikel. Midfield is an area of the pitch that is important to them because they are a team that wants to play good football.”
+ 
+Before the half-hour mark Willian struck Lukasz Fabianski’s left post with a thumping shot, but Chelsea’s third was only briefly delayed. Then a dreadful back pass from Frederico Fernández out on the right, gifted possession to Costa, who finished with aplomb, left to right. Swansea were spreadeagled on the deck and two minutes later it was 4-0, when Oscar’s inviting centre saw Oscar score his second from 18 yards.
+ 
+Before half-time Willian rattled the woodwork for a second time after Costa had rounded Fabianski to set him up and the interval found the Swansea manager, Garry Monk, and his team very much in damage limitation mode.
+ 
+Fortunately for them, Chelsea eased up in the second half, their focus already on Tuesday’s Capital One Cup semi-final against Liverpool, and they contented themselves with just one more goal, side-footed in at close range by the substitute André Schürrle.
+ 
+Given his history at Anfield, which includes Luis García’s “ghost” goal in the Champions League semi-finals, how important was the tie at Anfield? “Our next game is our most important, always,” Mourinho said, with a knowing smile.
+ 
+Monk described Swansea’s anaemic contribution as “horrible”, adding: “The players are hurting and I’m hurting. I can only apologise to the fans as the team’s performance is my responsibility.”
+ 
+He sought consolation in the belief that they had played badly on only three occasions all season. “Three out of 22 isn’t bad,” he said. “The bigger picture is that we’ve been good this season and I’m positive that this result isn’t going to have a negative effect on what we’re trying to do.”
+ 
+The two managers were in conversation as they disappeared down the tunnel at the final whistle. What had Monk said? “I told José I was sorry I couldn’t give him a game today.”
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="589~600" text="Diego Costa" playerID="null" />
+<Player id="P1" spans="1643~1659" text="Gylfi Sigurdsson" playerID="null" />
+<Player id="P2" spans="1708~1719" text="Tom Carroll" playerID="null" />
+<Player id="P3" spans="1712~1719" text="Carroll" playerID="null" />
+<Player id="P4" spans="1733~1738" text="Oscar" playerID="null" />
+<Player id="P5" spans="1945~1955" text="Sigurdsson" playerID="null" />
+<Player id="P6" spans="2016~2020" text="Cech" playerID="null" />
+<Player id="P7" spans="2040~2044" text="Cech" playerID="null" />
+<Player id="P8" spans="2087~2103" text="Thibaut Courtois" playerID="null" />
+<Player id="P9" spans="2175~2183" text="Oliveira" playerID="null" />
+<Player id="P10" spans="2231~2244" text="Wilfried Bony" playerID="null" />
+<Player id="P11" spans="2477~2490" text="Cesc Fàbregas" playerID="null" />
+<Player id="P12" spans="2495~2502" text="Willian" playerID="null" />
+<Player id="P13" spans="2531~2536" text="Costa" playerID="null" />
+<Player id="P14" spans="2707~2720" text="Jonjo Shelvey" playerID="null" />
+<Player id="P15" spans="2722~2734" text="Leon Britton" playerID="null" />
+<Player id="P16" spans="2739~2741" text="Ki" playerID="null" />
+<Player id="P17" spans="2877~2885" text="Fàbregas" playerID="null" />
+<Player id="P18" spans="2887~2892" text="Matic" playerID="null" />
+<Player id="P19" spans="2897~2902" text="Mikel" playerID="null" />
+<Player id="P20" spans="3050~3057" text="Willian" playerID="null" />
+<Player id="P21" spans="3065~3081" text="Lukasz Fabianski" playerID="null" />
+<Player id="P22" spans="3203~3212" text="Fernández" playerID="null" />
+<Player id="P23" spans="3252~3257" text="Costa" playerID="null" />
+<Player id="P24" spans="3377~3382" text="Oscar" playerID="null" />
+<Player id="P25" spans="3405~3410" text="Oscar" playerID="null" />
+<Player id="P26" spans="3462~3469" text="Willian" playerID="null" />
+<Player id="P27" spans="3515~3520" text="Costa" playerID="null" />
+<Player id="P28" spans="3533~3542" text="Fabianski" playerID="null" />
+<Player id="P29" spans="3906~3920" text="André Schürrle" playerID="null" />
+<Player id="P30" spans="3924~3929" text="Given" playerID="null" />
+<Coref id="C0" spans="623~626" text="his" playerID="null" />
+<Coref id="C1" spans="993~995" text="He" playerID="null" />
+<Coref id="C2" spans="1180~1182" text="He" playerID="null" />
+<Coref id="C3" spans="2054~2057" text="his" playerID="null" />
+<Coref id="C4" spans="2275~2277" text="he" playerID="null" />
+<Coref id="C5" spans="2318~2320" text="he" playerID="null" />
+<Coref id="C6" spans="3417~3420" text="his" playerID="null" />
+<Coref id="C7" spans="3617~3620" text="his" playerID="null" />
+<Coref id="C8" spans="3930~3933" text="his" playerID="null" />
+<Coref id="C9" spans="4352~4354" text="He" playerID="null" />
+<Coref id="C10" spans="4480~4482" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>
