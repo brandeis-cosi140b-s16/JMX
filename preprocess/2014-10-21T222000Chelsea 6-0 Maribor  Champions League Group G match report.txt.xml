@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/oct/21/chelsea-maribor-champions-league-match-report
+
+Chelsea 6-0 Maribor | Champions League Group G match report
+
+
+Such is the swagger and confidence coursing through Chelsea’s squad that José Mourinho swatted aside any concerns over an injury picked up by Loïc Rémy during this Stamford Bridge breeze. It leaves Chelsea potentially short of firepower when they travel to Old Trafford on Sunday, with doubts over Diego Costa as well as Didier Drogba’s capacity to play for 90 minutes at full pelt.
+ 
+On Rémy’s situation Mourinho appeared audaciously unconcerned. “It’s a muscular injury. I don’t know the dimension and I am not worried. When a player is injured, I play another one.”
+ 
+He was fairly steadfast on the options. Did he expect Rémy to be fit? “No.” Costa? “No.” As for Drogba, player and manager had a conversation on the eve of this Champions League game and 30 minutes was what was on the cards. In the event, once Rémy left the pitch with a grimace as he felt his groin immediately after opening the floodgates by crowning John Terry’s Fàbregas-esque pass with a stylish finish, Drogba came on and played 75.
+ 
+“He managed the intensity, range of movement and in the end was very, very important for the team,” noted Mourinho. “The best thing for a player to improve his condition is to play.”
+ 
+He also scored, which sent waves of warmth and nostalgia around the venue he commanded for so many years. “He was not for a long time on the pitch in previous matches,” added Mourinho. “The last goal was the most important goal in the history of the club so to be back and score again at Stamford Bridge was nice for him.”
+ 
+Drogba asked to take the penalty when Maribor were punished for a low handball by Ales Mertelj. Eden Hazard, the club’s designated penalty-taker, ceded responsibility given the credentials and emotional punch carried by the man who had just come on.
+ 
+Chelsea’s third-choice striker duly took the ball, looked up at the luminous orange “Drogba Legend” sign, calmly set the ball and finished with the alacrity they had seen so consistently in these parts.
+ 
+Mourinho was in mischievous mood when asked how he felt about the players taking it into their own hands regarding who took the spot-kick. “You want a fair answer? I don’t like it. They have the freedom to do it. But he has to score,” he said. That old-times feeling was extended when Terry galavanted 100 yards upfield to poach the third.
+ 
+Credit where it is due to a 33-year-old centre-half to burst the length of the pitch – the move originated from a Maribor corner and within seconds Hazard was buzzing forward, Cesc Fàbregas appeared on the right to deliver with customary accuracy and Terry slid the ball in.
+ 
+Unfortunately for Maribor he was offside but the Dutch referee awarded the goal anyway. Three goals up in half an hour exemplified how easy this was against the limited Slovenians.
+ 
+Mourinho was delighted with the way his team did not relax. Once Maribor spurned the chance for a consolation via a penalty that Agim Ibraimi struck against a post, Hazard began to run the show. He was delightful to watch.
+ 
+The Belgian had already had a hand in the fourth, turned in by Mitja Viler, and scored the final two goals. When Branislav Ivanovic ended up on the floor and it was time for another penalty, Hazard took it this time and was unerring. The last demonstrated the purest skill, as he twisted into position to drill in after Nathan Aké’s beautiful assist.
+ 
+Mourinho had the added satisfaction of being able to bring on a couple of teenaged prospects to give them the flavour of a Champions League debut.
+ 
+Aké, aged 19, slotted into midfield, while 17-year-old Dominic Solanke took up position on the right side of attack. Kurt Zouma is already considered ready to play in defence at any time.
+ 
+Chelsea in cruise-control look so commanding and cohesive; they have a strength whatever the personnel. Mourinho is purring about the team’s progress. “We are playing well, confident, solid, have found a good balance. We have now the players adapted to play the game we were preparing last year that we couldn’t manage to do in a perfect way. Good results and confidence bring people to their best. We are in a good moment.”
+ 
+Looking ahead, of course there is the possibility that one of Costa or Rémy will be better by the weekend. There is also the option of André Schürrle, having been part of the Chelsea plan in various successful away missions last season.
+ 
+“We don’t cry on injuries, that is our philosophy,” Mourinho said. “We think an injury means an opportunity for someone else. We cannot hide that in this moment we have some problems with players unavailable to play. We will prepare for the Manchester United game and try to be at our best possible level.”
+ 
+Whoever plays, and whoever they play against, that seems to be the template for Chelsea this season.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="299~308" text="Loïc Rémy" playerID="null" />
+<Player id="P1" spans="455~466" text="Diego Costa" playerID="null" />
+<Player id="P2" spans="478~491" text="Didier Drogba" playerID="null" />
+<Player id="P3" spans="545~549" text="Rémy" playerID="null" />
+<Player id="P4" spans="782~786" text="Rémy" playerID="null" />
+<Player id="P5" spans="804~809" text="Costa" playerID="null" />
+<Player id="P6" spans="824~830" text="Drogba" playerID="null" />
+<Player id="P7" spans="972~976" text="Rémy" playerID="null" />
+<Player id="P8" spans="1081~1091" text="John Terry" playerID="null" />
+<Player id="P9" spans="1094~1102" text="Fàbregas" playerID="null" />
+<Player id="P10" spans="1137~1143" text="Drogba" playerID="null" />
+<Player id="P11" spans="1679~1685" text="Drogba" playerID="null" />
+<Player id="P12" spans="1775~1786" text="Eden Hazard" playerID="null" />
+<Player id="P13" spans="2016~2022" text="Drogba" playerID="null" />
+<Player id="P14" spans="2421~2426" text="Terry" playerID="null" />
+<Player id="P15" spans="2626~2632" text="Hazard" playerID="null" />
+<Player id="P16" spans="2654~2667" text="Cesc Fàbregas" playerID="null" />
+<Player id="P17" spans="2729~2734" text="Terry" playerID="null" />
+<Player id="P18" spans="3103~3109" text="Hazard" playerID="null" />
+<Player id="P19" spans="3276~3294" text="Branislav Ivanovic" playerID="null" />
+<Player id="P20" spans="3354~3360" text="Hazard" playerID="null" />
+<Player id="P21" spans="3483~3493" text="Nathan Aké" playerID="null" />
+<Player id="P22" spans="3665~3668" text="Aké" playerID="null" />
+<Player id="P23" spans="3720~3735" text="Dominic Solanke" playerID="null" />
+<Player id="P24" spans="3782~3792" text="Kurt Zouma" playerID="null" />
+<Player id="P25" spans="4198~4202" text="Good" playerID="null" />
+<Player id="P26" spans="4344~4349" text="Costa" playerID="null" />
+<Player id="P27" spans="4353~4357" text="Rémy" playerID="null" />
+<Player id="P28" spans="4417~4431" text="André Schürrle" playerID="null" />
+<Coref id="C0" spans="317~320" text="his" playerID="null" />
+<Coref id="C1" spans="728~730" text="He" playerID="null" />
+<Coref id="C2" spans="772~774" text="he" playerID="null" />
+<Coref id="C3" spans="885~888" text="his" playerID="null" />
+<Coref id="C4" spans="1010~1012" text="he" playerID="null" />
+<Coref id="C5" spans="1018~1021" text="his" playerID="null" />
+<Coref id="C6" spans="1170~1172" text="He" playerID="null" />
+<Coref id="C7" spans="1325~1328" text="his" playerID="null" />
+<Coref id="C8" spans="1354~1356" text="He" playerID="null" />
+<Coref id="C9" spans="1428~1430" text="he" playerID="null" />
+<Coref id="C10" spans="1461~1463" text="He" playerID="null" />
+<Coref id="C11" spans="2184~2186" text="he" playerID="null" />
+<Coref id="C12" spans="2353~2355" text="he" playerID="null" />
+<Coref id="C13" spans="2371~2373" text="he" playerID="null" />
+<Coref id="C14" spans="2781~2783" text="he" playerID="null" />
+<Coref id="C15" spans="2896~2899" text="his" playerID="null" />
+<Coref id="C16" spans="2974~2977" text="his" playerID="null" />
+<Coref id="C17" spans="3133~3135" text="He" playerID="null" />
+<Coref id="C18" spans="3370~3373" text="his" playerID="null" />
+<Coref id="C19" spans="3440~3442" text="he" playerID="null" />
+<Coref id="C20" spans="4671~4674" text="his" playerID="null" />
+<Coref id="C21" spans="4919~4922" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>

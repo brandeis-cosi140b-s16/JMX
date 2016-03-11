@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/oct/26/tottenham-hotspur-newcastle-united-premier-league-match-report
+
+Tottenham Hotspur 1-2 Newcastle United | Premier League match report
+
+
+Alan Pardew had wanted an impact from his substitutes but even the Newcastle United manager could not have scripted it quite so perfectly. Trailing to Emmanuel Adebayor’s first-half goal, he introduced Sammy Ameobi and Rémy Cabella at half-time and watched them ignite a remarkable turnaround.
+ 
+Ameobi took what felt like a heartbeat to make his mark, fastening on to Jack Colback’s long ball to shoot beyond Hugo Lloris – the equaliser was timed at six seconds into the second half – whereas Cabella took a positively leisurely 13 minutes before his cross teed up Ayoze Pérez for what proved the winner.
+ 
+It was a day of firsts for Newcastle: this was Pérez’s full Premier League debut and the 21-year-old, who signed from Tenerife in the summer, could toast his first goal in the club’s colours. For the 22-year-old Ameobi it was a first Premier League goal and for Pardew and Newcastle it was a first away win of the league season.
+ 
+Newcastle are hardly famed for their away form. Previously in this calendar year, they had won two of 14 league matches on the road and failed to score in nine. But it was an occasion in which everything came together for them in the second half and they could build on the home victory over Leicester City from the previous weekend.
+ 
+Mike Ashley, the club’s owner, could beam from ear to ear and applaud the players off in enthusiastic fashion at the end. The last time he drew attention in London he had told a journalist outside the Golden Lion pub in Soho that Pardew would be sacked if Newcastle lost at Stoke City on 29 September. Pardew did lose but he remains alive.
+ 
+Tottenham Hotspur were booed off, which tends to happen in these parts when the result is bad but the frustration was understandable. They had failed to build on Adebayor’s goal and the initial promise of Érik Lamela and Ryan Mason, and everything seemed to desert them in the second half.
+           Alan Pardew relieved after 2-1 win over Tottenham Hotspur – link to video    
+Mauricio Pochettino, the manager, said that the first half represented the “best 45 minutes” of his tenure at the club, which seemed a bit strong given the shortage of end product. But he was left to address familiar questions about the team’s mentality and concentration – principally, how on earth could they allow one long ball on the second-half restart to leave Ameobi one-on-one with Lloris?
+ 
+The concession affected them badly and, when Pérez scored Newcastle’s second, the game looked like slipping beyond them. Pochettino was lost for an explanation. To him it was mystifying.
+ 
+Newcastle had lost the striker Papiss Cissé two hours before kick-off, as he felt a reaction in his knee to Saturday’s training session. So Pardew promoted Pérez and the visitors were fortunate to trail by only one at half-time. Adebayor scored it when his header from Mason’s cross punished slack Newcastle marking – it was only his second goal of the season – and Pochettino could reflect on some nice combinations from his players, even if there was the lack of incision.
+ 
+Newcastle offered very little in the first half – Pardew noted that they barely made a forward pass – but they bolted from the blocks in startling fashion after the interval. Pardew had sent his players out early and they went through a warm-up drill before their Tottenham counterparts had returned to the field.
+ 
+Pochettino’s players were caught stone cold, nobody more so than the right-back, Eric Dier. Colback’s ball inside him ushered Ameobi through the inside-left channel and his low finish arrowed into the far corner. Pochettino was still in the tunnel when the ball hit the net.
+ 
+The travelling Newcastle fans, after the season they have had, might have been forgiven for pinching themselves but things got even better for them when Pérez enjoyed his moment. The impressive Moussa Sissoko surged up the left and when he tapped the ball to Cabella there was the suspicion of offside. But there was no flag and Pérez stretched to meet Cabella’s cross with an excellent glancing header.
+ 
+Pochettino took off his coat and placed it to one side. The afternoon was getting hot for him and Tottenham. Christian Eriksen had gone close before Pérez’s goal but it was Newcastle who might have extended their lead when Cabella wriggled free on the byline but opted to shoot rather than cut back and the ball swelled the side of the net.
+ 
+Tottenham knew it was not to be their day when Eriksen’s outswinging corner was bundled into his own net by the goalkeeper, Tim Krul, but the assistant referee correctly spotted that the ball had curled out before it came back in. The Tottenham substitute Harry Kane drew a save out of Krul but his team departed with a whimper.
+ 
+Man of the match Moussa Sissoko (Newcastle United)
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="334~351" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P1" spans="385~397" text="Sammy Ameobi" playerID="null" />
+<Player id="P2" spans="391~397" text="Ameobi" playerID="null" />
+<Player id="P3" spans="402~414" text="Rémy Cabella" playerID="null" />
+<Player id="P4" spans="479~485" text="Ameobi" playerID="null" />
+<Player id="P5" spans="552~564" text="Jack Colback" playerID="null" />
+<Player id="P6" spans="593~604" text="Hugo Lloris" playerID="null" />
+<Player id="P7" spans="677~684" text="Cabella" playerID="null" />
+<Player id="P8" spans="749~760" text="Ayoze Pérez" playerID="null" />
+<Player id="P9" spans="838~843" text="Pérez" playerID="null" />
+<Player id="P10" spans="1003~1009" text="Ameobi" playerID="null" />
+<Player id="P11" spans="1962~1970" text="Adebayor" playerID="null" />
+<Player id="P12" spans="2005~2016" text="Érik Lamela" playerID="null" />
+<Player id="P13" spans="2021~2031" text="Ryan Mason" playerID="null" />
+<Player id="P14" spans="2546~2552" text="Ameobi" playerID="null" />
+<Player id="P15" spans="2569~2575" text="Lloris" playerID="null" />
+<Player id="P16" spans="2624~2629" text="Pérez" playerID="null" />
+<Player id="P17" spans="2806~2811" text="Cissé" playerID="null" />
+<Player id="P18" spans="2924~2929" text="Pérez" playerID="null" />
+<Player id="P19" spans="2997~3005" text="Adebayor" playerID="null" />
+<Player id="P20" spans="3037~3042" text="Mason" playerID="null" />
+<Player id="P21" spans="3642~3651" text="Eric Dier" playerID="null" />
+<Player id="P22" spans="3653~3660" text="Colback" playerID="null" />
+<Player id="P23" spans="3687~3693" text="Ameobi" playerID="null" />
+<Player id="P24" spans="3991~3996" text="Pérez" playerID="null" />
+<Player id="P25" spans="4032~4046" text="Moussa Sissoko" playerID="null" />
+<Player id="P26" spans="4097~4104" text="Cabella" playerID="null" />
+<Player id="P27" spans="4167~4172" text="Pérez" playerID="null" />
+<Player id="P28" spans="4191~4198" text="Cabella" playerID="null" />
+<Player id="P29" spans="4353~4370" text="Christian Eriksen" playerID="null" />
+<Player id="P30" spans="4393~4398" text="Pérez" playerID="null" />
+<Player id="P31" spans="4467~4474" text="Cabella" playerID="null" />
+<Player id="P32" spans="4634~4641" text="Eriksen" playerID="null" />
+<Player id="P33" spans="4711~4719" text="Tim Krul" playerID="null" />
+<Player id="P34" spans="4843~4853" text="Harry Kane" playerID="null" />
+<Player id="P35" spans="4873~4877" text="Krul" playerID="null" />
+<Player id="P36" spans="4935~4949" text="Moussa Sissoko" playerID="null" />
+<Coref id="C0" spans="221~224" text="his" playerID="null" />
+<Coref id="C1" spans="371~373" text="he" playerID="null" />
+<Coref id="C2" spans="508~510" text="he" playerID="null" />
+<Coref id="C3" spans="526~529" text="his" playerID="null" />
+<Coref id="C4" spans="731~734" text="his" playerID="null" />
+<Coref id="C5" spans="830~833" text="his" playerID="null" />
+<Coref id="C6" spans="945~948" text="his" playerID="null" />
+<Coref id="C7" spans="1185~1188" text="his" playerID="null" />
+<Coref id="C8" spans="1594~1596" text="he" playerID="null" />
+<Coref id="C9" spans="1622~1624" text="he" playerID="null" />
+<Coref id="C10" spans="1780~1782" text="he" playerID="null" />
+<Coref id="C11" spans="2275~2278" text="his" playerID="null" />
+<Coref id="C12" spans="2364~2366" text="he" playerID="null" />
+<Coref id="C13" spans="2842~2844" text="he" playerID="null" />
+<Coref id="C14" spans="2864~2867" text="his" playerID="null" />
+<Coref id="C15" spans="3021~3024" text="his" playerID="null" />
+<Coref id="C16" spans="3025~3027" text="he" playerID="null" />
+<Coref id="C17" spans="3098~3101" text="his" playerID="null" />
+<Coref id="C18" spans="3190~3193" text="his" playerID="null" />
+<Coref id="C19" spans="3436~3439" text="his" playerID="null" />
+<Coref id="C20" spans="3730~3733" text="his" playerID="null" />
+<Coref id="C21" spans="4005~4008" text="his" playerID="null" />
+<Coref id="C22" spans="4075~4077" text="he" playerID="null" />
+<Coref id="C23" spans="4234~4236" text="he" playerID="null" />
+<Coref id="C24" spans="4264~4267" text="his" playerID="null" />
+<Coref id="C25" spans="4680~4683" text="his" playerID="null" />
+<Coref id="C26" spans="4882~4885" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.1>
