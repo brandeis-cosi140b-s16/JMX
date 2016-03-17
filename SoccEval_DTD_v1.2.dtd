@@ -13,12 +13,12 @@
 <!ATTLIST Fact factID CDATA #REQUIRED >
 
 <!ELEMENT Opinion ( #PCDATA ) >
-<!ATTLIST Opinion type ( soccer skill | accomplishment | general attribute | impact on team | growth/decline | other opinion ) #REQUIRED >
+<!ATTLIST Opinion type ( soccer skill | accomplishment | general attribute | impact on team | growth-decline | other opinion ) #REQUIRED >
 <!ATTLIST Opinion polarity ( + | - ) #REQUIRED >
 <!ATTLIST Opinion time ( distant past | last season | current season | last match | present | future ) #REQUIRED "last match" >
 <!ATTLIST Opinion hypothetical ( counterfactive | prediction ) #IMPLIED >
 <!ATTLIST Opinion reported ( false | true ) #IMPLIED "false" >
 
 <!ELEMENT TargetLink EMPTY >
-<!ATTLIST TargetLink arg0 IDREF prefix="fact/opinion" #REQUIRED >
+<!ATTLIST TargetLink arg0 IDREF prefix="fact or opinion" #REQUIRED >
 <!ATTLIST TargetLink arg1 IDREF prefix="target" #REQUIRED >
