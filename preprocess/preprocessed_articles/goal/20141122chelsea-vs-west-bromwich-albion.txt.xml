@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-west-bromwich-albion/1703719
+
+Nov 22, 2014 12:04:19 PM
+
+Diego Costa and Eden Hazard scored early as the Blues remained undefeated in the Premier League.
+
+Diego Costa was on target yet again as Chelsea beat 10-man West Brom 2-0 to go seven points clear at the top of the Premier League.
+
+Costa and Cesc Fabregas were named in the starting lineup after missing Spain's clashes with Belarus and Germany with hamstring problems and played key roles as Chelsea's ominous start to the season continued.
+
+Jose Mourinho had complained of a lack of atmosphere after the last home game against QPR, but the Stamford Bridge faithful were again given plenty to shout about Saturday.
+
+Striker Costa scored his 11th goal in 10 top-flight games and Eden Hazard was also on target in the first half Saturday as Mourinho's side made it six Premier League wins out of six at Stamford Bridge.
+
+West Brom had struggled to live with the London club even before Claudio Yacob was shown a straight red card for a challenge on Costa, when he won the ball but appeared to go in with two feet.
+
+Chelsea was in complete control throughout as it caused Alan Irvine's side all sorts of problems in a one-sided encounter that saw the home side extend its lead over second-place Southampton, which plays Aston Villa on Monday.
+
+Albion has now won just one of its last six Premier League games and its fragile defense would have been a concern for Irvine. Yacob and Chris Baird made their first league starts of the season for Albion, while Craig Gardner and Stephane Sessegnon returned to the starting lineup.
+
+West Brom was caught napping when Chelsea took a short corner in the fifth minute, but Ben Foster produced a fine save with his feet to deny John Terry from close range after Hazard had picked the captain out.
+
+Foster was unable to prevent the hosts taking the lead six minutes later, though, as Oscar picked out the unmarked Costa with a fine cross from the left and the striker showed great composure to control the ball on his chest and volley beyond the England goalkeeper.
+
+West Brom appealed for offside, but Andre Wisdom appeared to keep Costa onside.
+
+Chelsea was brimming with confidence and Foster made a stunning double save to keep out Oscar's long-range drive and the lively Costa following up.
+
+West Brom was again made to pay for more dreadful defending after 25 minutes, when Fabregas rolled a corner to the unmarked Hazard and the Belgium winger was allowed far too much time to take a touch and fire under Foster.
+
+Things went from bad to worse for the visitors four minutes later, as Yacob was shown a straight red card for a challenge on Costa when he got the ball first, but referee Lee Mason deemed the tackle to be dangerous.
+
+The marauding Branislav Ivanovic was unable to square the ball into Costa's path with the goal gaping after racing onto a precise Fabregas pass, then Foster did well to thwart Costa, Oscar and Hazard as Chelsea breached the Albion defence all too easily.
+
+Nemanja Matic ought to have added a third goal just after halftime, but volleyed over from inside the 6-yard box after he was also left unmarked.
+
+It was a case of damage limitation for Albion and Ivanovic could only tamely volley wide of the far post as Chelsea attempted to enhance its goal difference, but the two first-half efforts proved sufficient as the hosts again showed why they are such strong favorites to win the title.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="100~111" text="Diego Costa" playerID="null" />
+<Player id="P1" spans="116~127" text="Eden Hazard" playerID="null" />
+<Player id="P2" spans="198~209" text="Diego Costa" playerID="null" />
+<Player id="P3" spans="331~336" text="Costa" playerID="null" />
+<Player id="P4" spans="341~354" text="Cesc Fabregas" playerID="null" />
+<Player id="P5" spans="724~729" text="Costa" playerID="null" />
+<Player id="P6" spans="778~789" text="Eden Hazard" playerID="null" />
+<Player id="P7" spans="984~997" text="Claudio Yacob" playerID="null" />
+<Player id="P8" spans="1047~1052" text="Costa" playerID="null" />
+<Player id="P9" spans="1468~1473" text="Yacob" playerID="null" />
+<Player id="P10" spans="1478~1489" text="Chris Baird" playerID="null" />
+<Player id="P11" spans="1553~1566" text="Craig Gardner" playerID="null" />
+<Player id="P12" spans="1571~1589" text="Stephane Sessegnon" playerID="null" />
+<Player id="P13" spans="1711~1721" text="Ben Foster" playerID="null" />
+<Player id="P14" spans="1765~1775" text="John Terry" playerID="null" />
+<Player id="P15" spans="1799~1805" text="Hazard" playerID="null" />
+<Player id="P16" spans="1835~1841" text="Foster" playerID="null" />
+<Player id="P17" spans="1920~1925" text="Oscar" playerID="null" />
+<Player id="P18" spans="1950~1955" text="Costa" playerID="null" />
+<Player id="P19" spans="2139~2151" text="Andre Wisdom" playerID="null" />
+<Player id="P20" spans="2169~2174" text="Costa" playerID="null" />
+<Player id="P21" spans="2225~2231" text="Foster" playerID="null" />
+<Player id="P22" spans="2272~2277" text="Oscar" playerID="null" />
+<Player id="P23" spans="2312~2317" text="Costa" playerID="null" />
+<Player id="P24" spans="2416~2424" text="Fabregas" playerID="null" />
+<Player id="P25" spans="2457~2463" text="Hazard" playerID="null" />
+<Player id="P26" spans="2548~2554" text="Foster" playerID="null" />
+<Player id="P27" spans="2627~2632" text="Yacob" playerID="null" />
+<Player id="P28" spans="2682~2687" text="Costa" playerID="null" />
+<Player id="P29" spans="2728~2731" text="Lee" playerID="null" />
+<Player id="P30" spans="2732~2737" text="Mason" playerID="null" />
+<Player id="P31" spans="2788~2806" text="Branislav Ivanovic" playerID="null" />
+<Player id="P32" spans="2842~2847" text="Costa" playerID="null" />
+<Player id="P33" spans="2904~2912" text="Fabregas" playerID="null" />
+<Player id="P34" spans="2924~2930" text="Foster" playerID="null" />
+<Player id="P35" spans="2950~2955" text="Costa" playerID="null" />
+<Player id="P36" spans="2957~2962" text="Oscar" playerID="null" />
+<Player id="P37" spans="2967~2973" text="Hazard" playerID="null" />
+<Player id="P38" spans="3030~3043" text="Nemanja Matic" playerID="null" />
+<Player id="P39" spans="3227~3235" text="Ivanovic" playerID="null" />
+<Coref id="C0" spans="737~740" text="his" playerID="null" />
+<Coref id="C1" spans="1059~1061" text="he" playerID="null" />
+<Coref id="C2" spans="1748~1751" text="his" playerID="null" />
+<Coref id="C3" spans="2050~2053" text="his" playerID="null" />
+<Coref id="C4" spans="2693~2695" text="he" playerID="null" />
+<Coref id="C5" spans="3149~3151" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

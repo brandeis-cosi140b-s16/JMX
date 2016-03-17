@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-chelsea/1703891
+
+Jan 1, 2015 2:25:00 PM
+
+The 21-year-old scored twice and set up two more as Mauricio Pochettino's men roared back to stun the Blues and send Manchester City to the top of the Premier League.
+
+A Harry Kane-inspired Tottenham side dropped London rival Chelsea into a tie at the Premier League summit with a spectacular 5-3 win.
+Champions Manchester City battled to a 3-2 victory over Sunderland earlier on New Year's Day to move level on points with Jose Mourinho's team, which initially found an assured response through Diego Costa's 14th league goal of the season.
+
+But it was another striker who truly illuminated the contest, with Kane brilliantly equalizing after 30 minutes and winning a penalty that Andros Townsend converted moments after Danny Rose gave Tottenham a 45th-minute lead.
+
+A 3-1 halftime advantage became 4-1 eight minutes into the second period when Kane excelled once more to chalk up a sixth goal in his past six games and 16th of the season overall.
+
+Federico Fazio's needless error allowed Eden Hazard to reduce the deficit, but Nacer Chadli's strike put the game beyond the reach of the visitors, though John Terry did have the last say with a late close-range finish. The result means Chelsea and City now boast identical records.
+
+Chelsea playmaker Oscar returned from illness, while Cesar Azpilicueta and Willian were also restored to the starting XI. Nabil Bentaleb — one of three players recalled to the home lineup — fired an early long-range strike at Chelsea goalkeeper Thibaut Courtois, but a hamstring injury forced fellow midfielder Ryan Mason off and checked Tottenham's enterprising start.
+
+Courtois reacted smartly when Chadli hooked an overhead kick goalward before Chelsea went ahead in the 18th minute.
+
+Tottenham retreated as Hazard glided past left back Rose to shoot against the base of the post and Oscar steered the loose ball back toward goal, leaving Costa with a tap in.
+
+Going behind unsettled Tottenham considerably and Oscar almost doubled his team's advantage when he stabbed wide in the 25th minute.
+
+As has so often been the case during its recent impressive run, Tottenham looked to Kane for inspiration and he answered the call in style.
+
+The England Under-21 forward dropped deep to receive possession and escaped the attentions of Oscar to drill a superb low strike into the bottom left corner.
+
+And Maurcio Pochettino's men surged into a two-goal lead as the first half ended in remarkable fashion. Christian Eriksen expertly unpicked the Chelsea defense to find Chadli and Rose slammed home under pressure after the Belgian's shot came back off the upright.
+
+Kane was involved once more in stoppage time, stealing in front of Gary Cahill to draw a foul and leaving the England center back to watch international colleague Townsend thrash a low penalty beyond Courtois' dive.
+
+Ramires came on for compatriot Oscar at the break and Hazard blasted over from the edge of the area before Kane sublimely took center stage once more.
+
+Seizing possession with his back to goal, Kane spun past Nemanja Matic and slotted an effortless finish past the helpless Courtois.
+
+Chelsea was handed a route back into the match when Hazard caught Fazio in possession, surged forward from halfway to exchange passes with Cesc Fabregas and smash into the net. 
+
+Tottenham was indebted to goalkeeper Hugo Lloris for keeping out Azpilicueta's rasping 75th-minute strike before Chelsea's tormentors-in-chief appeared to settle the issue.
+
+Kane and Chadli combined for the latter to cut in from the left and steer home another finish. Terry's tap-in from Hazard's cross failed to take the gloss off a memorable win for Tottenham, which moves into fifth place, two points behind fourth-place Southampton and above bitter rival Arsenal.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="265~275" text="Harry Kane" playerID="null" />
+<Player id="P1" spans="591~602" text="Diego Costa" playerID="null" />
+<Player id="P2" spans="705~709" text="Kane" playerID="null" />
+<Player id="P3" spans="777~792" text="Andros Townsend" playerID="null" />
+<Player id="P4" spans="817~827" text="Danny Rose" playerID="null" />
+<Player id="P5" spans="942~946" text="Kane" playerID="null" />
+<Player id="P6" spans="1046~1060" text="Federico Fazio" playerID="null" />
+<Player id="P7" spans="1086~1097" text="Eden Hazard" playerID="null" />
+<Player id="P8" spans="1125~1137" text="Nacer Chadli" playerID="null" />
+<Player id="P9" spans="1201~1211" text="John Terry" playerID="null" />
+<Player id="P10" spans="1348~1353" text="Oscar" playerID="null" />
+<Player id="P11" spans="1383~1400" text="Cesar Azpilicueta" playerID="null" />
+<Player id="P12" spans="1405~1412" text="Willian" playerID="null" />
+<Player id="P13" spans="1452~1466" text="Nabil Bentaleb" playerID="null" />
+<Player id="P14" spans="1575~1591" text="Thibaut Courtois" playerID="null" />
+<Player id="P15" spans="1641~1651" text="Ryan Mason" playerID="null" />
+<Player id="P16" spans="1701~1709" text="Courtois" playerID="null" />
+<Player id="P17" spans="1731~1737" text="Chadli" playerID="null" />
+<Player id="P18" spans="1841~1847" text="Hazard" playerID="null" />
+<Player id="P19" spans="1870~1874" text="Rose" playerID="null" />
+<Player id="P20" spans="1917~1922" text="Oscar" playerID="null" />
+<Player id="P21" spans="1972~1977" text="Costa" playerID="null" />
+<Player id="P22" spans="2044~2049" text="Oscar" playerID="null" />
+<Player id="P23" spans="2212~2216" text="Kane" playerID="null" />
+<Player id="P24" spans="2363~2368" text="Oscar" playerID="null" />
+<Player id="P25" spans="2532~2549" text="Christian Eriksen" playerID="null" />
+<Player id="P26" spans="2596~2602" text="Chadli" playerID="null" />
+<Player id="P27" spans="2607~2611" text="Rose" playerID="null" />
+<Player id="P28" spans="2693~2697" text="Kane" playerID="null" />
+<Player id="P29" spans="2760~2771" text="Gary Cahill" playerID="null" />
+<Player id="P30" spans="2856~2864" text="Townsend" playerID="null" />
+<Player id="P31" spans="2893~2901" text="Courtois" playerID="null" />
+<Player id="P32" spans="2910~2917" text="Ramires" playerID="null" />
+<Player id="P33" spans="2941~2946" text="Oscar" playerID="null" />
+<Player id="P34" spans="2964~2970" text="Hazard" playerID="null" />
+<Player id="P35" spans="3017~3021" text="Kane" playerID="null" />
+<Player id="P36" spans="3104~3108" text="Kane" playerID="null" />
+<Player id="P37" spans="3119~3132" text="Nemanja Matic" playerID="null" />
+<Player id="P38" spans="3184~3192" text="Courtois" playerID="null" />
+<Player id="P39" spans="3247~3253" text="Hazard" playerID="null" />
+<Player id="P40" spans="3261~3266" text="Fazio" playerID="null" />
+<Player id="P41" spans="3334~3347" text="Cesc Fabregas" playerID="null" />
+<Player id="P42" spans="3411~3422" text="Hugo Lloris" playerID="null" />
+<Player id="P43" spans="3439~3450" text="Azpilicueta" playerID="null" />
+<Player id="P44" spans="3548~3552" text="Kane" playerID="null" />
+<Player id="P45" spans="3557~3563" text="Chadli" playerID="null" />
+<Player id="P46" spans="3643~3648" text="Terry" playerID="null" />
+<Player id="P47" spans="3663~3669" text="Hazard" playerID="null" />
+<Coref id="C0" spans="994~997" text="his" playerID="null" />
+<Coref id="C1" spans="2065~2068" text="his" playerID="null" />
+<Coref id="C2" spans="2091~2093" text="he" playerID="null" />
+<Coref id="C3" spans="2237~2239" text="he" playerID="null" />
+<Coref id="C4" spans="3086~3089" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

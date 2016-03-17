@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-newcastle-united/1704117
+
+Apr 13, 2015 5:04:40 PM
+
+A first Liverpool goal in almost two months from Raheem Sterling helped settle Monday's Premier League encounter against Newcastle United.
+
+Raheem Sterling proved his worth to Liverpool amidst a much-discussed contract saga by scoring in Monday's 2-0 win over Newcastle United at Anfield.
+
+Sterling's future and his apparent demands have dominated the back pages of late, but the 20-year-old scored in the Premier League for the time since February before Joe Allen sealed the points 20 minutes from time. 
+
+Following back-to-back league defeats against Manchester United and Arsenal, Liverpool was given an ideal start when Sterling curled home nine minutes in.
+
+Brendan Rodgers' side – shorn of injured striker Daniel Sturridge – controlled the remainder of the half, but was perhaps fortunate not to concede a penalty when Dejan Lovren appeared to clatter Ayoze Perez.
+
+While Newcastle improved after the break, Sterling should have put the game to bed before the hour as he conspired to miss from close range as Liverpool's profligate finishing continued to frustrate the home faithful.
+
+Rodgers' men made hard work of things at times before Allen's instinctive strike erased any fears of a slip-up. Liverpool remains in the hunt for a top-four finish as well as FA Cup honors, with a semifinal against Aston Villa to come this weekend. 
+
+In contrast, John Carver's Newcastle, which saw captain Moussa Sissoko sent off for a second time this season late on, limps towards the end of another disappointing campaign following a fifth consecutive defeat.
+
+After a dismal showing in the derby defeat to Sunderland, Carver made three changes and Newcastle started relatively brightly prior to the game's first moment of quality that broke the deadlock.
+
+Sterling offered a timely reminder of his prodigious talent as he brought down Jordan Henderson's delivery before breezing past half-hearted challenges from Daryl Janmaat and Gabriel Obertan and curling a strike past the helpless Tim Krul.
+
+Newcastle should perhaps have been given an opportunity to draw level seven minutes before the break, but Lovren's clumsy challenge on Perez was not enough to persuade Lee Mason to point to the penalty spot.
+
+Mignolet clawed out Perez's header just before the half, and Newcastle took that momentum into the second period by creating a flurry of half chances.
+
+Sterling then missed a gilt-edged opportunity shortly before the hour as he managed to place an effort wide with the goal at his mercy following a defensive howler from Ryan Taylor.
+
+However, as Liverpool got back on top, Mike Williamson's sloppy defending allowed Allen a sight of goal. The Welshman duly fired past Krul to seal the points, with Sterling coming close to a second shortly after.
+
+There was still time for Sissoko – booked for an altercation with Glen Johnson – to cap another disappointing outing for Newcastle by gaining another yellow card for a dangerous tackle on Lucas Leiva seven minutes from time.
+
+It leaves Carver's men looking nervously over their shoulders while Liverpool moves fifth – four points back of fourth-placed Manchester City.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="146~161" text="Raheem Sterling" playerID="null" />
+<Player id="P1" spans="237~252" text="Raheem Sterling" playerID="null" />
+<Player id="P2" spans="387~395" text="Sterling" playerID="null" />
+<Player id="P3" spans="553~562" text="Joe Allen" playerID="null" />
+<Player id="P4" spans="722~730" text="Sterling" playerID="null" />
+<Player id="P5" spans="810~826" text="Daniel Sturridge" playerID="null" />
+<Player id="P6" spans="923~935" text="Dejan Lovren" playerID="null" />
+<Player id="P7" spans="956~967" text="Ayoze Perez" playerID="null" />
+<Player id="P8" spans="1012~1020" text="Sterling" playerID="null" />
+<Player id="P9" spans="1243~1248" text="Allen" playerID="null" />
+<Player id="P10" spans="1496~1510" text="Moussa Sissoko" playerID="null" />
+<Player id="P11" spans="1850~1858" text="Sterling" playerID="null" />
+<Player id="P12" spans="1929~1945" text="Jordan Henderson" playerID="null" />
+<Player id="P13" spans="2007~2020" text="Daryl Janmaat" playerID="null" />
+<Player id="P14" spans="2025~2040" text="Gabriel Obertan" playerID="null" />
+<Player id="P15" spans="2080~2088" text="Tim Krul" playerID="null" />
+<Player id="P16" spans="2197~2203" text="Lovren" playerID="null" />
+<Player id="P17" spans="2226~2231" text="Perez" playerID="null" />
+<Player id="P18" spans="2259~2262" text="Lee" playerID="null" />
+<Player id="P19" spans="2263~2268" text="Mason" playerID="null" />
+<Player id="P20" spans="2300~2308" text="Mignolet" playerID="null" />
+<Player id="P21" spans="2320~2325" text="Perez" playerID="null" />
+<Player id="P22" spans="2452~2460" text="Sterling" playerID="null" />
+<Player id="P23" spans="2621~2632" text="Ryan Taylor" playerID="null" />
+<Player id="P24" spans="2674~2689" text="Mike Williamson" playerID="null" />
+<Player id="P25" spans="2717~2722" text="Allen" playerID="null" />
+<Player id="P26" spans="2769~2773" text="Krul" playerID="null" />
+<Player id="P27" spans="2799~2807" text="Sterling" playerID="null" />
+<Player id="P28" spans="2874~2881" text="Sissoko" playerID="null" />
+<Player id="P29" spans="2915~2927" text="Glen Johnson" playerID="null" />
+<Player id="P30" spans="2920~2927" text="Johnson" playerID="null" />
+<Player id="P31" spans="3037~3048" text="Lucas Leiva" playerID="null" />
+<Coref id="C0" spans="260~263" text="his" playerID="null" />
+<Coref id="C1" spans="409~412" text="his" playerID="null" />
+<Coref id="C2" spans="1072~1074" text="he" playerID="null" />
+<Coref id="C3" spans="1888~1891" text="his" playerID="null" />
+<Coref id="C4" spans="1913~1915" text="he" playerID="null" />
+<Coref id="C5" spans="2525~2527" text="he" playerID="null" />
+<Coref id="C6" spans="2577~2580" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

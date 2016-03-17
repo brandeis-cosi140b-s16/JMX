@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/stoke-city-vs-liverpool/1704253
+
+May 24, 2015 11:52:00 AM
+
+The former England skipper was on the scoresheet at the Britannia Stadium but Mark Hughes's side were too strong for the visitors as the pressure cranks up on Brendan Rodgers
+
+Steven Gerrard scored in his final Liverpool game, but the occasion ended in embarrassment as Stoke City romped to a 6-1 victory on the last day of the Premier League season.
+
+The captain's Anfield farewell last week finished in an anti-climactic 3-1 loss to Crystal Palace, but the manner of this reverse at the Britannia Stadium was much more concerning as Stoke took a 5-0 lead into half-time.
+
+Brendan Rodgers said earlier this week he was "150 per cent" sure he would stay on as Liverpool manager next season, and he opted to leave Raheem Sterling as an unused substitute as speculation continues to mount about the 20-year-old's future at the club.
+
+Sterling and Rodgers looked on helplessly in the opening period as Mame Biram Diouf put Stoke 2-0 up, before Jonathan Walters made it three inside 30 minutes.
+
+Former Liverpool man Charlie Adam then pounced on Lucas Leiva's hesitancy to net the fourth, and Steven N'Zonzi added a spectacular fifth on the stroke of half-time.
+
+With goalmouth action less frequent in the second period, Gerrard had his say with 20 minutes to go, slotting a cool finish beyond Asmir Begovic, before the entire stadium rose to applaud him.
+
+But it was another ex-Liverpool player who rounded off the scoring, as Peter Crouch nodded in Stoke's sixth late on to cap a dismal day for Gerrard and Rodgers.
+
+Adam - perhaps fortunate to only be booked for a high challenge on Martin Skrtel in the eighth minute - was involved in the opening goal midway through the half when his shot was parried by Simon Mignolet into the path of Diouf, who had the simple task of tapping home from close range.
+
+The Senegalese forward had much more to do for his second goal four minutes later - picking up the ball from Marko Arnautovic on the edge of the box and hammering a powerful shot beyond Mignolet.
+
+Things then went from bad to worse for the visitors as they conceded a third on the half-hour.
+
+Emre Can inexplicably headed Adam's cross back towards his own goal and although Mignolet produced a fine save to deny Walters at the first attempt, the Stoke man was quick to nod in the rebound.
+
+With four minutes still to go until half-time, Liverpool contributed to their own downfall once more as Adam robbed Lucas and drove a low shot into the bottom right-hand corner from the edge of the area.
+
+Rodgers' side were in disarray, and as they backed off N'Zonzi, the Frenchman took full advantage by curling a superb finish into the top-right corner from 25 yards.
+
+Liverpool brought on Jordon Ibe and Kolo Toure at the start of the second half, and Rickie Lambert's introduction ensured Sterling would not feature.
+
+Lambert's first contribution was to flick the ball on for Gerrard, who took advantage of Marc Muniesa pulling up injured to run on and shoot low past Begovic before being afforded a standing ovation from all inside the Britannia.
+
+Gerrard's goal was not to be the final say, however, as with four minutes remaining substitute Crouch rose unchallenged to head home from six yards and round off a miserable farewell for the Liverpool captain.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="268~282" text="Steven Gerrard" playerID="null" />
+<Player id="P1" spans="805~820" text="Raheem Sterling" playerID="null" />
+<Player id="P2" spans="924~932" text="Sterling" playerID="null" />
+<Player id="P3" spans="1002~1007" text="Diouf" playerID="null" />
+<Player id="P4" spans="1033~1049" text="Jonathan Walters" playerID="null" />
+<Player id="P5" spans="1105~1117" text="Charlie Adam" playerID="null" />
+<Player id="P6" spans="1134~1145" text="Lucas Leiva" playerID="null" />
+<Player id="P7" spans="1181~1195" text="Steven N'Zonzi" playerID="null" />
+<Player id="P8" spans="1309~1316" text="Gerrard" playerID="null" />
+<Player id="P9" spans="1382~1395" text="Asmir Begovic" playerID="null" />
+<Player id="P10" spans="1516~1528" text="Peter Crouch" playerID="null" />
+<Player id="P11" spans="1585~1592" text="Gerrard" playerID="null" />
+<Player id="P12" spans="1607~1611" text="Adam" playerID="null" />
+<Player id="P13" spans="1674~1687" text="Martin Skrtel" playerID="null" />
+<Player id="P14" spans="1797~1811" text="Simon Mignolet" playerID="null" />
+<Player id="P15" spans="1829~1834" text="Diouf" playerID="null" />
+<Player id="P16" spans="2004~2020" text="Marko Arnautovic" playerID="null" />
+<Player id="P17" spans="2081~2089" text="Mignolet" playerID="null" />
+<Player id="P18" spans="2188~2196" text="Emre Can" playerID="null" />
+<Player id="P19" spans="2217~2221" text="Adam" playerID="null" />
+<Player id="P20" spans="2269~2277" text="Mignolet" playerID="null" />
+<Player id="P21" spans="2307~2314" text="Walters" playerID="null" />
+<Player id="P22" spans="2489~2493" text="Adam" playerID="null" />
+<Player id="P23" spans="2645~2652" text="N'Zonzi" playerID="null" />
+<Player id="P24" spans="2778~2788" text="Jordon Ibe" playerID="null" />
+<Player id="P25" spans="2793~2803" text="Kolo Toure" playerID="null" />
+<Player id="P26" spans="2841~2855" text="Rickie Lambert" playerID="null" />
+<Player id="P27" spans="2879~2887" text="Sterling" playerID="null" />
+<Player id="P28" spans="2908~2915" text="Lambert" playerID="null" />
+<Player id="P29" spans="2966~2973" text="Gerrard" playerID="null" />
+<Player id="P30" spans="2997~3009" text="Marc Muniesa" playerID="null" />
+<Player id="P31" spans="3058~3065" text="Begovic" playerID="null" />
+<Player id="P32" spans="3139~3146" text="Gerrard" playerID="null" />
+<Player id="P33" spans="3234~3240" text="Crouch" playerID="null" />
+<Coref id="C0" spans="293~296" text="his" playerID="null" />
+<Coref id="C1" spans="705~707" text="he" playerID="null" />
+<Coref id="C2" spans="732~734" text="he" playerID="null" />
+<Coref id="C3" spans="787~789" text="he" playerID="null" />
+<Coref id="C4" spans="1321~1324" text="his" playerID="null" />
+<Coref id="C5" spans="1773~1776" text="his" playerID="null" />
+<Coref id="C6" spans="1942~1945" text="his" playerID="null" />
+<Coref id="C7" spans="2243~2246" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

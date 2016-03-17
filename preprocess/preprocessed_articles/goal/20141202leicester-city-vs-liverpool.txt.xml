@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/leicester-city-vs-liverpool/1703761
+
+Dec 2, 2014 4:46:00 PM
+
+The 34-year-old pounced on a fumbled clearance by Wes Morgan to stroke in the winner for the Reds after Adam Lallana cancelled out a Simon Mignolet own goal opener.
+
+Steven Gerrard marked his return to the starting XI with a crucial goal as Liverpool defeated 10-man Leicester City 3-1 to move into the top half of the Premier League.
+Issues surrounding Gerrard's future at Anfield dominated the build-up to Tuesday's match - where the former England skipper reverted to an advanced midfield role and scored the vital second goal for the visiting side.
+
+Leicester took a 22nd-minute lead when Liverpool goalkeeper Simon Mignolet, who turned in another nervy performance, was unfortunate to have Leonardo Ulloa's shot ricochet off him and into the net.
+
+Adam Lallana restored parity shortly afterwards and Brendan Rodgers' side was ahead when skipper Gerrard - left out of the starting XI against Stoke City last Saturday - made no mistake with a calm finish after 54 minutes.
+
+Bottom Leicester, which is now without a win in nine Premier League matches, was reduced in numbers when captain Wes Morgan was sent off for a professional foul on Rickie Lambert.
+
+Jordan Henderson converted from close range after a mistake from Leicester keeper Kasper Schmeichel, and a superb back heel from the outstanding Raheem Sterling, with seven minutes to go to ensure Liverpool made it back-to-back top-flight wins for only the second time this season. 
+
+Leicester manager Nigel Pearson named an unchanged XI, while Gerrard returned alongside Javier Manquillo and Lallana for Liverpool. 
+
+Schmeichel's opposite number Mignolet was almost left red faced in the 19th minute when he inexplicably cleared straight to Esteban Cambiasso, but the veteran Argentine midfielder side-footed wide of an open goal from 30 yards.
+
+Mignolet looked to have atoned for the misjudgment when he saved sharply from Jamie Vardy but Ulloa kept possession alive and his resulting shot struck the near post and cannoned in via the prone goalkeeper.
+
+Liverpool responded immediately, though, and equalized four minutes after going behind - Lallana reacting quickest to drill a low shot past Schmeichel when Morgan failed to head clear under pressure from Lambert.
+
+Alberto Moreno replaced Manquillo for the second-half, allowing Liverpool's weekend match winner Glen Johnson to revert to his customary position of right back.
+
+Leicester pinned Liverpool back having won a pair of corners inside the opening minute of the second half but another botched clearance from the hapless Morgan saw the visiting side go in front.
+
+The center back stretched to divert Sterling's cutback away from goal but he could only place the ball into the path of Gerrard, who clinically steered home side footed.
+
+Ulloa blasted off target as Leicester looked to hit back, but Morgan's miserable evening was complete in the 63rd minute when he scuffed a backpass and responded by hauling down Lambert when through on goal to earn his marching orders.
+
+Gerrard was unfortunate not to win a penalty when Schmeichel appeared to bring him down in the box soon after only for referee Lee Mason to wave his appeals away. 
+
+But Liverpool's nerves were eased when Schmeichel failed to deal with a low Gerrard cross and Sterling teed up Henderson to mark his 150th appearance for the club with a simple finish.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="144~154" text="Wes Morgan" playerID="null" />
+<Player id="P1" spans="198~210" text="Adam Lallana" playerID="null" />
+<Player id="P2" spans="227~241" text="Simon Mignolet" playerID="null" />
+<Player id="P3" spans="260~274" text="Steven Gerrard" playerID="null" />
+<Player id="P4" spans="448~455" text="Gerrard" playerID="null" />
+<Player id="P5" spans="708~722" text="Simon Mignolet" playerID="null" />
+<Player id="P6" spans="789~803" text="Leonardo Ulloa" playerID="null" />
+<Player id="P7" spans="847~859" text="Adam Lallana" playerID="null" />
+<Player id="P8" spans="944~951" text="Gerrard" playerID="null" />
+<Player id="P9" spans="1184~1194" text="Wes Morgan" playerID="null" />
+<Player id="P10" spans="1235~1249" text="Rickie Lambert" playerID="null" />
+<Player id="P11" spans="1252~1268" text="Jordan Henderson" playerID="null" />
+<Player id="P12" spans="1334~1351" text="Kasper Schmeichel" playerID="null" />
+<Player id="P13" spans="1397~1412" text="Raheem Sterling" playerID="null" />
+<Player id="P14" spans="1560~1567" text="Pearson" playerID="null" />
+<Player id="P15" spans="1597~1604" text="Gerrard" playerID="null" />
+<Player id="P16" spans="1624~1640" text="Javier Manquillo" playerID="null" />
+<Player id="P17" spans="1645~1652" text="Lallana" playerID="null" />
+<Player id="P18" spans="1670~1680" text="Schmeichel" playerID="null" />
+<Player id="P19" spans="1699~1707" text="Mignolet" playerID="null" />
+<Player id="P20" spans="1794~1811" text="Esteban Cambiasso" playerID="null" />
+<Player id="P21" spans="1899~1907" text="Mignolet" playerID="null" />
+<Player id="P22" spans="1977~1988" text="Jamie Vardy" playerID="null" />
+<Player id="P23" spans="1993~1998" text="Ulloa" playerID="null" />
+<Player id="P24" spans="2197~2204" text="Lallana" playerID="null" />
+<Player id="P25" spans="2248~2258" text="Schmeichel" playerID="null" />
+<Player id="P26" spans="2264~2270" text="Morgan" playerID="null" />
+<Player id="P27" spans="2312~2319" text="Lambert" playerID="null" />
+<Player id="P28" spans="2322~2336" text="Alberto Moreno" playerID="null" />
+<Player id="P29" spans="2346~2355" text="Manquillo" playerID="null" />
+<Player id="P30" spans="2419~2431" text="Glen Johnson" playerID="null" />
+<Player id="P31" spans="2424~2431" text="Johnson" playerID="null" />
+<Player id="P32" spans="2637~2643" text="Morgan" playerID="null" />
+<Player id="P33" spans="2716~2724" text="Sterling" playerID="null" />
+<Player id="P34" spans="2800~2807" text="Gerrard" playerID="null" />
+<Player id="P35" spans="2851~2856" text="Ulloa" playerID="null" />
+<Player id="P36" spans="2913~2919" text="Morgan" playerID="null" />
+<Player id="P37" spans="3029~3036" text="Lambert" playerID="null" />
+<Player id="P38" spans="3088~3095" text="Gerrard" playerID="null" />
+<Player id="P39" spans="3138~3148" text="Schmeichel" playerID="null" />
+<Player id="P40" spans="3215~3218" text="Lee" playerID="null" />
+<Player id="P41" spans="3219~3224" text="Mason" playerID="null" />
+<Player id="P42" spans="3292~3302" text="Schmeichel" playerID="null" />
+<Player id="P43" spans="3329~3336" text="Gerrard" playerID="null" />
+<Player id="P44" spans="3347~3355" text="Sterling" playerID="null" />
+<Player id="P45" spans="3364~3373" text="Henderson" playerID="null" />
+<Coref id="C0" spans="282~285" text="his" playerID="null" />
+<Coref id="C1" spans="1758~1760" text="he" playerID="null" />
+<Coref id="C2" spans="1955~1957" text="he" playerID="null" />
+<Coref id="C3" spans="2025~2028" text="his" playerID="null" />
+<Coref id="C4" spans="2445~2448" text="his" playerID="null" />
+<Coref id="C5" spans="2754~2756" text="he" playerID="null" />
+<Coref id="C6" spans="2977~2979" text="he" playerID="null" />
+<Coref id="C7" spans="3066~3069" text="his" playerID="null" />
+<Coref id="C8" spans="3233~3236" text="his" playerID="null" />
+<Coref id="C9" spans="3382~3385" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

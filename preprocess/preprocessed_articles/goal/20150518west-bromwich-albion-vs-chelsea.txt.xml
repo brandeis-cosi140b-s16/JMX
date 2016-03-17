@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/west-bromwich-albion-vs-chelsea/1704231
+
+May 18, 2015 5:05:14 PM
+
+Two goals from Saido Berahino and one from Chris Brunt saw West Brom defeat 10-man Chelsea in the Premier League.
+
+Saido Berahino's brace either side of a bizarre Cesc Fabregas red card helped to condemn champion Chelsea to only its third Premier League defeat of the season as West Brom claimed a 3-0 win at The Hawthorns on Monday.
+
+Back in the Albion side after starting on the bench at Newcastle last time out, Berahino netted his first goal in 10 games in all competitions with a fine early opener and followed that with a penalty just after halftime after being upended by John Terry.
+
+Fabregas was given his marching orders in between the striker's double for petulantly kicking the ball at Chris Brunt during a stoppage in play after the fit-again Diego Costa and Gareth McAuley grappled in the box.
+
+Brunt added the home side's third on the hour mark to put the seal on a memorable victory that ended Chelsea's 16-game unbeaten league run in the team's penultimate match of the season.
+
+Chelsea boss Jose Mourinho was gushing in his praise of West Brom counterpart Tony Pulis in the build-up to the match – hailing his "absolutely amazing" record – and the Welshman certainly had his players fired up for the visit of the champion.
+
+In a lively start, Thibaut Courtois got down well to turn Callum McManaman's angled drive behind and Fabregas evaded two tackles as he slalomed into the penalty area at the opposite end before firing straight at Boaz Myhill.
+
+Berahino took just nine minutes to repay Pulis' decision to recall him by putting Albion ahead in some style. Joleon Lescott rolled a simple pass that Berahino turned and ran on to before escaping the attentions of Gary Cahill and rifling right-footed into Courtois' bottom left-hand corner from 25 yards out.
+
+Just 29 minutes in, Fabregas was dismissed in unusual circumstances.
+
+McAuley and Costa were involved in an off-the-ball tangle in the penalty box that resulted in the latter being booked and play being stopped as the two sets of players voiced their views at referee Mike Jones.
+
+Fabregas, all on his own on the opposite side of the penalty area, inexplicably struck the dead ball back into the crowd of players and into the back of Brunt's head, prompting Jones to brandish a straight red.
+
+Filipe Luis stung Myhill's palms with a free kick that the Albion goalkeeper saw late and Courtois saved smartly with his feet to deny Brunt from James Morrison's through ball as an eventful opening 45 minutes came to a close.
+
+The drama continued straight after the interval as Terry bundled Berahino over in the box to concede a penalty within 30 seconds of the restart.
+
+A full-stretch Courtois got a hand to Berahino's spot kick, but it nestled in the bottom corner to make it 20 goals for the season in all competitions for the England Under-21 international and 14 in the league.
+
+Loic Remy struck the post from the edge of the area with Myhill well beaten 10 minutes later, but any hopes of a comeback were dashed by Brunt, who cut in from the right following a short-corner routine and lashed low past Courtois at his near post.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="114~128" text="Saido Berahino" playerID="null" />
+<Player id="P1" spans="142~153" text="Chris Brunt" playerID="null" />
+<Player id="P2" spans="214~228" text="Saido Berahino" playerID="null" />
+<Player id="P3" spans="262~275" text="Cesc Fabregas" playerID="null" />
+<Player id="P4" spans="514~522" text="Berahino" playerID="null" />
+<Player id="P5" spans="678~688" text="John Terry" playerID="null" />
+<Player id="P6" spans="691~699" text="Fabregas" playerID="null" />
+<Player id="P7" spans="797~808" text="Chris Brunt" playerID="null" />
+<Player id="P8" spans="855~866" text="Diego Costa" playerID="null" />
+<Player id="P9" spans="871~885" text="Gareth McAuley" playerID="null" />
+<Player id="P10" spans="908~913" text="Brunt" playerID="null" />
+<Player id="P11" spans="1360~1376" text="Thibaut Courtois" playerID="null" />
+<Player id="P12" spans="1399~1415" text="Callum McManaman" playerID="null" />
+<Player id="P13" spans="1442~1450" text="Fabregas" playerID="null" />
+<Player id="P14" spans="1553~1564" text="Boaz Myhill" playerID="null" />
+<Player id="P15" spans="1567~1575" text="Berahino" playerID="null" />
+<Player id="P16" spans="1677~1691" text="Joleon Lescott" playerID="null" />
+<Player id="P17" spans="1718~1726" text="Berahino" playerID="null" />
+<Player id="P18" spans="1782~1793" text="Gary Cahill" playerID="null" />
+<Player id="P19" spans="1824~1832" text="Courtois" playerID="null" />
+<Player id="P20" spans="1898~1906" text="Fabregas" playerID="null" />
+<Player id="P21" spans="1948~1955" text="McAuley" playerID="null" />
+<Player id="P22" spans="1960~1965" text="Costa" playerID="null" />
+<Player id="P23" spans="2151~2156" text="Jones" playerID="null" />
+<Player id="P24" spans="2159~2167" text="Fabregas" playerID="null" />
+<Player id="P25" spans="2312~2317" text="Brunt" playerID="null" />
+<Player id="P26" spans="2336~2341" text="Jones" playerID="null" />
+<Player id="P27" spans="2371~2382" text="Filipe Luis" playerID="null" />
+<Player id="P28" spans="2389~2395" text="Myhill" playerID="null" />
+<Player id="P29" spans="2461~2469" text="Courtois" playerID="null" />
+<Player id="P30" spans="2506~2511" text="Brunt" playerID="null" />
+<Player id="P31" spans="2517~2531" text="James Morrison" playerID="null" />
+<Player id="P32" spans="2650~2655" text="Terry" playerID="null" />
+<Player id="P33" spans="2664~2672" text="Berahino" playerID="null" />
+<Player id="P34" spans="2760~2768" text="Courtois" playerID="null" />
+<Player id="P35" spans="2783~2791" text="Berahino" playerID="null" />
+<Player id="P36" spans="2958~2967" text="Loic Remy" playerID="null" />
+<Player id="P37" spans="3015~3021" text="Myhill" playerID="null" />
+<Player id="P38" spans="3095~3100" text="Brunt" playerID="null" />
+<Player id="P39" spans="3181~3189" text="Courtois" playerID="null" />
+<Coref id="C0" spans="530~533" text="his" playerID="null" />
+<Coref id="C1" spans="710~713" text="his" playerID="null" />
+<Coref id="C2" spans="1137~1140" text="his" playerID="null" />
+<Coref id="C3" spans="1223~1226" text="his" playerID="null" />
+<Coref id="C4" spans="1288~1291" text="his" playerID="null" />
+<Coref id="C5" spans="1473~1475" text="he" playerID="null" />
+<Coref id="C6" spans="2176~2179" text="his" playerID="null" />
+<Coref id="C7" spans="2489~2492" text="his" playerID="null" />
+<Coref id="C8" spans="3193~3196" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

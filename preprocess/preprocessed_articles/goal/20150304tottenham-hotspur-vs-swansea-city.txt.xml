@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-swansea-city/1704053
+
+Mar 4, 2015 5:36:35 PM
+
+Goals from Ryan Mason and Andros Townsend saw Tottenham impressively overcome Swansea, after Bafetimbi Gomis fainted early on in a scary moment.
+
+Tottenham bounced back from its League Cup final heartbreak to overcome Swansea City 3-2, but the visitor's thoughts will be with striker Bafetimbi Gomis, who collapsed during the game.
+
+Gomis – who has a history of fainting - had to be stretchered off after going to ground in the immediate aftermath of Nacer Chadli's early opener, though the Frenchman immediately appeared to be well and conscious.
+
+Swansea responded well to both setbacks, as Ki Sung-yueng equalized in the 18th minute.
+
+However, Mauricio Pochettino's men showed grit and determination to take the points, which was the perfect tribute to former player Dave Mackay who passed away earlier this week.
+
+Spurs retook control in the second half thanks to Ryan Mason's first Premier League goal and Andros Townsend's solo effort, which put them in sight of a first home win in three outings.
+
+Swansea has never won a league game at Tottenham and that record remains, despite Gylfi Sigurdsson – back in the side after a hamstring injury - netting late in the game on his return to White Hart Lane.
+
+Pochettino kept faith with the same XI that lost Sunday's Carling Cup final and the team responded by taking the lead in the seventh minute through a classy Chadli finish, as the Belgian neatly cushioned the ball beyond Lukasz Fabianski from Danny Rose's whipped cross.
+
+But there were worrying signs during the celebrations when Gomis collapsed near the center circle, causing a delay as he received medical attention. Thankfully, the striker was awake as he left the pitch and Swansea later confirmed he was in a "stable" condition.
+
+Townsend forced a save from Fabianski with a 20-yard shot soon after but Swansea was level in the 19th minute.
+
+Former midfielder Sigurdsson almost scored with a superb curling free kick from 25 yards that rattled the post, but Swansea recovered possession and Ki latched onto a Neil Taylor pass on the left before evading Jan Vertonghen's challenge and beating Hugo Lloris from a tight angle.
+
+Lloris was called into action just after the break, tipping over a Jonjo Shelvey effort and Spurs then regained the lead in the 51st minute.
+
+Christian Eriksen's piercing run saw the ball run loose and Mason showed great composure to take it in his stride before firing past Fabianski inside the area.
+
+Less than a minute after Lloris made a crucial low save from Federico Fernandez, a lightning counterattack finished by Townsend put Spurs in command.
+
+The England winger raced three quarters of the pitch on the left to within six yards of the Swansea goal before cutting in on his right and lashing into the top corner.
+
+A frantic finish was ensured as Sigurdsson volleyed in a pinpoint Jefferson Montero cross in the final minute.
+
+Monk's men piled on the pressure in injury time and with the last attack, Lloris produced a match-winning save by clawing away a low Fernandez header.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="111~121" text="Ryan Mason" playerID="null" />
+<Player id="P1" spans="126~141" text="Andros Townsend" playerID="null" />
+<Player id="P2" spans="193~208" text="Bafetimbi Gomis" playerID="null" />
+<Player id="P3" spans="384~399" text="Bafetimbi Gomis" playerID="null" />
+<Player id="P4" spans="433~438" text="Gomis" playerID="null" />
+<Player id="P5" spans="551~563" text="Nacer Chadli" playerID="null" />
+<Player id="P6" spans="693~695" text="Ki" playerID="null" />
+<Player id="P7" spans="968~978" text="Ryan Mason" playerID="null" />
+<Player id="P8" spans="1011~1026" text="Andros Townsend" playerID="null" />
+<Player id="P9" spans="1187~1203" text="Gylfi Sigurdsson" playerID="null" />
+<Player id="P10" spans="1298~1302" text="Hart" playerID="null" />
+<Player id="P11" spans="1467~1473" text="Chadli" playerID="null" />
+<Player id="P12" spans="1530~1546" text="Lukasz Fabianski" playerID="null" />
+<Player id="P13" spans="1552~1562" text="Danny Rose" playerID="null" />
+<Player id="P14" spans="1640~1645" text="Gomis" playerID="null" />
+<Player id="P15" spans="1846~1854" text="Townsend" playerID="null" />
+<Player id="P16" spans="1874~1883" text="Fabianski" playerID="null" />
+<Player id="P17" spans="1976~1986" text="Sigurdsson" playerID="null" />
+<Player id="P18" spans="2107~2109" text="Ki" playerID="null" />
+<Player id="P19" spans="2125~2136" text="Neil Taylor" playerID="null" />
+<Player id="P20" spans="2130~2136" text="Taylor" playerID="null" />
+<Player id="P21" spans="2169~2183" text="Jan Vertonghen" playerID="null" />
+<Player id="P22" spans="2208~2219" text="Hugo Lloris" playerID="null" />
+<Player id="P23" spans="2241~2247" text="Lloris" playerID="null" />
+<Player id="P24" spans="2308~2321" text="Jonjo Shelvey" playerID="null" />
+<Player id="P25" spans="2383~2400" text="Christian Eriksen" playerID="null" />
+<Player id="P26" spans="2443~2448" text="Mason" playerID="null" />
+<Player id="P27" spans="2516~2525" text="Fabianski" playerID="null" />
+<Player id="P28" spans="2569~2575" text="Lloris" playerID="null" />
+<Player id="P29" spans="2605~2623" text="Federico Fernandez" playerID="null" />
+<Player id="P30" spans="2663~2671" text="Townsend" playerID="null" />
+<Player id="P31" spans="2897~2907" text="Sigurdsson" playerID="null" />
+<Player id="P32" spans="2931~2948" text="Jefferson Montero" playerID="null" />
+<Player id="P33" spans="3051~3057" text="Lloris" playerID="null" />
+<Player id="P34" spans="3110~3119" text="Fernandez" playerID="null" />
+<Coref id="C0" spans="1278~1281" text="his" playerID="null" />
+<Coref id="C1" spans="1699~1701" text="he" playerID="null" />
+<Coref id="C2" spans="1767~1769" text="he" playerID="null" />
+<Coref id="C3" spans="1813~1815" text="he" playerID="null" />
+<Coref id="C4" spans="2486~2489" text="his" playerID="null" />
+<Coref id="C5" spans="2821~2824" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-leicester-city/1704091
+
+Mar 21, 2015 1:36:39 PM
+
+Tottenham striker Harry Kane scored his first Premier League hat trick as Spurs downed Leicester City at White Hart Lane on Saturday.
+
+Harry Kane celebrated his first senior England call-up by scoring his maiden Premier League hat trick as Tottenham beat Leicester City 4-3 in an enthralling encounter at White Hart Lane.
+
+Former Leicester loanee Kane was included in Roy Hodgson's squad for the upcoming internationals against Lithuania and Italy, and the England manager was in the stands to watch the striker's latest match-winning contribution on Saturday.
+
+The 21-year-old put Tottenham two goals in front inside 13 minutes with a close-range finish and fortuitous goal that took a huge deflection off Robert Huth.
+
+Leicester's last win came at Tottenham in the FA Cup back in January and it stunned the London club again as Jamie Vardy and Wes Morgan scored either side of halftime to draw Nigel Pearson's struggling team level.
+
+Kane put the home side back in front, though, slotting home from the penalty spot to become the leading scorer in the Premier League with 19 goals, and a Jeffrey Schlupp own goal restored Tottenham's two-goal cushion.
+
+David Nugent set up a tense finale by pulling one back in the 90th minute, but Tottenham held on to push bottom side Leicester closer to an immediate return to the Championship.
+
+Mauricio Pochettino was forced to make an early change when goalkeeper Hugo Lloris was carried off after colliding with Kyle Walker when making a last-ditch tackle on Vardy.
+
+Michel Vorm came on to make his Premier League debut for Spurs, who were in front after only six minutes courtesy of yet another goal from Kane.
+
+Leicester was caught out when Andros Townsend's corner was cleverly flicked on by Eric Dier and Kasper Schmeichel - making his first start in 2015 - palmed the ball straight at Kane, who finished from inside the six-yard box.
+
+The visitors posed a threat going forward, but they were two goals down after only 13 minutes in a moment to forget for Huth.
+
+The German defender intervened to cut out Walker's cutback, but his heavy touch fell invitingly for Kane and the man of the moment's scuffed shot hit Huth and looped into the far corner of the net.
+
+Leicester was being opened up far too easily, but Vardy gave Pearson's side a lifeline seven minutes before the break with a fine first-time finish from 12 yards after Nugent picked him out.
+
+Nugent somehow failed to equalize from point-blank range under pressure from Ryan Mason after good work from Ulloa, but Morgan punished Tottenham for some dreadful defending to level five minutes after the break.
+
+The Leicester captain was left unmarked from Matty James' corner and took advantage by stooping to beat Vorm with a powerful header.
+
+Leicester looked the more likely to go on and win the game, but it was behind again after 62 minutes when Nugent was adjudged to have barged over Rose after taking a poor touch. Kane sent Schmeichel the wrong way from the spot to complete his hat trick.
+
+Tottenham then sealed the points with another stroke of luck when Eriksen went through and his shot was saved by Schmeichel, but hit Schlupp and rolled into the net five minutes from time.
+
+Nugent gave the visitors a glimmer of hope in the last minute, but Tottenham clung on to bounce back from last Sunday's 3-0 defeat at Manchester United.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="121~131" text="Harry Kane" playerID="null" />
+<Player id="P1" spans="214~218" text="Hart" playerID="null" />
+<Player id="P2" spans="238~248" text="Harry Kane" playerID="null" />
+<Player id="P3" spans="414~418" text="Hart" playerID="null" />
+<Player id="P4" spans="450~454" text="Kane" playerID="null" />
+<Player id="P5" spans="810~821" text="Robert Huth" playerID="null" />
+<Player id="P6" spans="933~944" text="Jamie Vardy" playerID="null" />
+<Player id="P7" spans="949~959" text="Wes Morgan" playerID="null" />
+<Player id="P8" spans="1005~1012" text="Pearson" playerID="null" />
+<Player id="P9" spans="1039~1043" text="Kane" playerID="null" />
+<Player id="P10" spans="1193~1208" text="Jeffrey Schlupp" playerID="null" />
+<Player id="P11" spans="1258~1270" text="David Nugent" playerID="null" />
+<Player id="P12" spans="1508~1519" text="Hugo Lloris" playerID="null" />
+<Player id="P13" spans="1557~1568" text="Kyle Walker" playerID="null" />
+<Player id="P14" spans="1604~1609" text="Vardy" playerID="null" />
+<Player id="P15" spans="1612~1623" text="Michel Vorm" playerID="null" />
+<Player id="P16" spans="1751~1755" text="Kane" playerID="null" />
+<Player id="P17" spans="1788~1803" text="Andros Townsend" playerID="null" />
+<Player id="P18" spans="1840~1849" text="Eric Dier" playerID="null" />
+<Player id="P19" spans="1854~1871" text="Kasper Schmeichel" playerID="null" />
+<Player id="P20" spans="1935~1939" text="Kane" playerID="null" />
+<Player id="P21" spans="2105~2109" text="Huth" playerID="null" />
+<Player id="P22" spans="2154~2160" text="Walker" playerID="null" />
+<Player id="P23" spans="2212~2216" text="Kane" playerID="null" />
+<Player id="P24" spans="2262~2266" text="Huth" playerID="null" />
+<Player id="P25" spans="2361~2366" text="Vardy" playerID="null" />
+<Player id="P26" spans="2372~2379" text="Pearson" playerID="null" />
+<Player id="P27" spans="2479~2485" text="Nugent" playerID="null" />
+<Player id="P28" spans="2503~2509" text="Nugent" playerID="null" />
+<Player id="P29" spans="2580~2590" text="Ryan Mason" playerID="null" />
+<Player id="P30" spans="2612~2617" text="Ulloa" playerID="null" />
+<Player id="P31" spans="2623~2629" text="Morgan" playerID="null" />
+<Player id="P32" spans="2762~2773" text="Matty James" playerID="null" />
+<Player id="P33" spans="2768~2773" text="James" playerID="null" />
+<Player id="P34" spans="2821~2825" text="Vorm" playerID="null" />
+<Player id="P35" spans="2957~2963" text="Nugent" playerID="null" />
+<Player id="P36" spans="2997~3001" text="Rose" playerID="null" />
+<Player id="P37" spans="3029~3033" text="Kane" playerID="null" />
+<Player id="P38" spans="3039~3049" text="Schmeichel" playerID="null" />
+<Player id="P39" spans="3172~3179" text="Eriksen" playerID="null" />
+<Player id="P40" spans="3219~3229" text="Schmeichel" playerID="null" />
+<Player id="P41" spans="3239~3246" text="Schlupp" playerID="null" />
+<Player id="P42" spans="3296~3302" text="Nugent" playerID="null" />
+<Coref id="C0" spans="139~142" text="his" playerID="null" />
+<Coref id="C1" spans="260~263" text="his" playerID="null" />
+<Coref id="C2" spans="304~307" text="his" playerID="null" />
+<Coref id="C3" spans="1640~1643" text="his" playerID="null" />
+<Coref id="C4" spans="1881~1884" text="his" playerID="null" />
+<Coref id="C5" spans="2176~2179" text="his" playerID="null" />
+<Coref id="C6" spans="3090~3093" text="his" playerID="null" />
+<Coref id="C7" spans="3197~3200" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

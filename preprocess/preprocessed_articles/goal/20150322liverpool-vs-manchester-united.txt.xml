@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-manchester-united/1704079
+
+Mar 22, 2015 11:34:55 AM
+
+Juan Mata's double in a 2-1 win was overshadowed as Steven Gerrard saw red in his final game for Liverpool against Manchester United.
+
+Steven Gerrard was sensationally sent off just 38 seconds into what will likely be his final Liverpool appearance against Manchester United, as Louis van Gaal's men took a huge step toward UEFA Champions League qualification with a 2-1 win at Anfield.
+
+Long regarded as the biggest game in English football, Sunday's encounter lived up to the billing with goals and excitement at both ends, yet it will be remembered for Gerrard's unceremonious exit. The Anfield captain was left on the bench by boss Brendan Rodgers before being brought on at halftime, only to be dismissed by referee Martin Atkinson less than a minute after his introduction.
+
+Having contested a full-blooded 50-50 challenge with Ander Herrera, Gerrard saw red for stamping on the leg of the Spaniard, meaning he will now serve a three-match ban that will leave him with just five more Premier League games in a Liverpool shirt ahead of his move from his boyhood club to the LA Galaxy.
+
+Earlier, Herrera had set up Mata for the opening goal with a superb pass as United suffocated a Liverpool side that had not lost a league game since its 3-0 defeat at Old Trafford in December.
+
+The visitors' task was made easier in the second half thanks to Gerrard's moment of madness, with Mata subsequently doubling United's advantage with a goal that on another day would likely have stolen the headlines.
+
+He found the net with an acrobatic scissor kick, and Van Gaal's side was on its way to a five-point gap over Liverpool in the race for fourth place.
+
+Daniel Sturridge netted a consolation with Liverpool's first shot on target with 21 minutes left, but the hosts never looked like mounting a comeback. Had Simon Mignolet not saved an injury-time penalty from Wayne Rooney, United would have won even more convincingly.
+
+After a cagey start, a moment of brilliance from United broke the deadlock in the 14th minute, as Mata silenced the home fans with a goal at The Kop end. The Spaniard timed his run to perfection to meet a superb through ball from compatriot Herrera and coolly slotted his shot across the face of goal into the bottom-left corner.
+
+With Gerrard reduced to the role of spectator, Liverpool struggled in midfield, as Joe Allen and Jordan Henderson found it difficult to retain possession.
+
+But for all its dominance, United failed to create any further clear-cut first-half opportunities following the opener and should have been punished by Adam Lallana in the 35th minute. The England man was teed up by international colleague Sturridge in the center of the area. But with the goal gaping, he could only turn his shot narrowly wide of David de Gea's post.
+
+Gerrard was thrown into the fray in place of Lallana at the  break, but he was soon making his way off the field in ignominy following a rush of blood. He appeared to win the ball in the initial challenge with Herrera, but then stamped on the United man's leg, leaving Atkinson with little choice but to brandish a red card.
+
+Visiting defender Phil Jones was then lucky to only see yellow for a rash challenge on Henderson, before Angel di Maria escaped punishment for catching a high clearance on the touchline before the ball had gone out of play.
+
+Liverpool's indignation was furthered when Mata left them with a mountain to climb, producing a stunning scissor-kick finish from Di Maria's lofted pass.
+
+The hosts did rally, and they pulled one back in the 69th minute when De Gea allowed Sturridge's shot from Philippe Coutinho's pass to fly in at his near post.
+
+There was to be no grandstand finish, though, with Rooney denied from the spot by a fine Mignolet stop to his right in injury time after Emre Can had brought down Daley Blind.
+
+Martin Skrtel then caught De Gea with a stamp that sparked unsavory scenes at the end of a disappointing day for Liverpool, but another memorable renewal of one of England's most famous fixtures.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="99~108" text="Juan Mata" playerID="null" />
+<Player id="P1" spans="151~165" text="Steven Gerrard" playerID="null" />
+<Player id="P2" spans="234~248" text="Steven Gerrard" playerID="null" />
+<Player id="P3" spans="487~491" text="Long" playerID="null" />
+<Player id="P4" spans="655~662" text="Gerrard" playerID="null" />
+<Player id="P5" spans="933~946" text="Ander Herrera" playerID="null" />
+<Player id="P6" spans="948~955" text="Gerrard" playerID="null" />
+<Player id="P7" spans="1199~1206" text="Herrera" playerID="null" />
+<Player id="P8" spans="1218~1222" text="Mata" playerID="null" />
+<Player id="P9" spans="1448~1455" text="Gerrard" playerID="null" />
+<Player id="P10" spans="1482~1486" text="Mata" playerID="null" />
+<Player id="P11" spans="1751~1767" text="Daniel Sturridge" playerID="null" />
+<Player id="P12" spans="1906~1920" text="Simon Mignolet" playerID="null" />
+<Player id="P13" spans="1959~1971" text="Wayne Rooney" playerID="null" />
+<Player id="P14" spans="2118~2122" text="Mata" playerID="null" />
+<Player id="P15" spans="2261~2268" text="Herrera" playerID="null" />
+<Player id="P16" spans="2356~2363" text="Gerrard" playerID="null" />
+<Player id="P17" spans="2434~2443" text="Joe Allen" playerID="null" />
+<Player id="P18" spans="2448~2464" text="Jordan Henderson" playerID="null" />
+<Player id="P19" spans="2659~2671" text="Adam Lallana" playerID="null" />
+<Player id="P20" spans="2747~2756" text="Sturridge" playerID="null" />
+<Player id="P21" spans="2855~2867" text="David de Gea" playerID="null" />
+<Player id="P22" spans="2877~2884" text="Gerrard" playerID="null" />
+<Player id="P23" spans="2922~2929" text="Lallana" playerID="null" />
+<Player id="P24" spans="3087~3094" text="Herrera" playerID="null" />
+<Player id="P25" spans="3221~3231" text="Phil Jones" playerID="null" />
+<Player id="P26" spans="3226~3231" text="Jones" playerID="null" />
+<Player id="P27" spans="3290~3299" text="Henderson" playerID="null" />
+<Player id="P28" spans="3317~3322" text="Maria" playerID="null" />
+<Player id="P29" spans="3471~3475" text="Mata" playerID="null" />
+<Player id="P30" spans="3561~3566" text="Maria" playerID="null" />
+<Player id="P31" spans="3656~3659" text="Gea" playerID="null" />
+<Player id="P32" spans="3668~3677" text="Sturridge" playerID="null" />
+<Player id="P33" spans="3699~3707" text="Coutinho" playerID="null" />
+<Player id="P34" spans="3795~3801" text="Rooney" playerID="null" />
+<Player id="P35" spans="3833~3841" text="Mignolet" playerID="null" />
+<Player id="P36" spans="3881~3889" text="Emre Can" playerID="null" />
+<Player id="P37" spans="3907~3918" text="Daley Blind" playerID="null" />
+<Player id="P38" spans="3921~3934" text="Martin Skrtel" playerID="null" />
+<Player id="P39" spans="3950~3953" text="Gea" playerID="null" />
+<Coref id="C0" spans="177~180" text="his" playerID="null" />
+<Coref id="C1" spans="317~320" text="his" playerID="null" />
+<Coref id="C2" spans="861~864" text="his" playerID="null" />
+<Coref id="C3" spans="1013~1015" text="he" playerID="null" />
+<Coref id="C4" spans="1140~1143" text="his" playerID="null" />
+<Coref id="C5" spans="1154~1157" text="his" playerID="null" />
+<Coref id="C6" spans="1601~1603" text="He" playerID="null" />
+<Coref id="C7" spans="2193~2196" text="his" playerID="null" />
+<Coref id="C8" spans="2288~2291" text="his" playerID="null" />
+<Coref id="C9" spans="2810~2812" text="he" playerID="null" />
+<Coref id="C10" spans="2829~2832" text="his" playerID="null" />
+<Coref id="C11" spans="2949~2951" text="he" playerID="null" />
+<Coref id="C12" spans="2968~2971" text="his" playerID="null" />
+<Coref id="C13" spans="3029~3031" text="He" playerID="null" />
+<Coref id="C14" spans="3728~3731" text="his" playerID="null" />
+<Coref id="C15" spans="3850~3853" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

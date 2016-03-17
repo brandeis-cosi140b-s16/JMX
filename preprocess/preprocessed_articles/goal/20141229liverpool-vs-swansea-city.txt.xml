@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-swansea-city/1703859
+
+Dec 29, 2014 4:50:00 PM
+
+A pair of goals from the midfielder lifted Liverpool to an easy home win to move the club to eighth place in the Premier League table.
+
+Two goals from Adam Lallana inspired Liverpool to a comfortable 4-1 victory over Swansea City at Anfield on Monday evening.
+
+Alberto Moreno handed Brendan Rodgers’ side a halftime lead with a goal before the break, while Lukasz Fabianski gifted the hosts a second when his attempted clearance hit Lallana and looped into the net.
+
+Gylfi Sigurdsson pulled a goal back one minute later, but Lallana’s superb individual effort restored Liverpool’s two-goal advantage before Jonjo Shelvey headed Jordan Henderson’s cross into his own net.
+
+Liverpool heads into 2015 with just one defeat in its last 10 games in all competitions and moves above Swansea into eighth place on goals scored.
+
+Simon Mignolet was recalled to the starting lineup to replace the injured Brad Jones and captain Steven Gerrard dropped to the bench as Rodgers made four changes to the side that won at Burnley on Boxing Day.
+
+Wayne Routledge replaced the injured Jefferson Montero in one of three changes to the Swansea team following the home victory over Aston Villa.
+
+Swansea was allowing Moreno too much space on the left in the opening stages and the Spaniard whipped in a cross that Raheem Sterling met with a first-time strike that brought a fine reflex save out of Fabianski, then Lallana fired over the crossbar following up.
+
+Liverpool appeared to have lost its way in the first half after a promising start, but Moreno put the club in front after 33 minutes.
+
+The former Sevilla man was left unmarked and had the simple task of turning in Henderson's ball in from the right to round off a slick passing move.
+
+Swansea boss Garry Monk criticized Shelvey's "laziness" ahead of the game and urged him to cut out "silly mistakes" from his game, but the midfielder failed to heed the warning as he caught Can with a swinging arm and got away with it.
+
+There was very little to get the crowd on their feet in the first half, but the game burst into the life in an action-packed start to the second period.
+
+Fabianski was first left red-faced as he gifted Liverpool a second goal when his attempted clearance struck Lallana and looped into the net six minutes after the break.
+
+Liverpool conceded just after scoring against Arsenal recently and the team was guilty of switching off again, as Mamadou Sakho beat Wilfried Bony in the air, but could only head the ball into the path of Sigurdsson and he fired home from close range just a minute after the hosts had doubled their lead.
+
+Sterling came close to restoring Liverpool's two-goal advantage soon after when his right-footed strike came back off the post after Henderson picked him out with a superb cross.
+
+Lallana was fortunate with his first goal, but there was nothing lucky about his second as Philippe Coutinho laid the ball off to the midfielder with a deft flick and he waltzed past a couple of Swansea players before finishing with his left foot after 61 minutes.
+
+Liverpool was out of sight eight minutes later when Shelvey got a head on Henderson's corner and could only watch on as the ball looped just inside the far post.
+
+Sterling was lucky to get away with swinging an arm at Federico Fernandez after the ball had gone out of play and substitute Bafetimbi Gomis' strike rattled the crossbar as Liverpool ended the year on a high note.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="244~256" text="Adam Lallana" playerID="null" />
+<Player id="P1" spans="354~368" text="Alberto Moreno" playerID="null" />
+<Player id="P2" spans="450~466" text="Lukasz Fabianski" playerID="null" />
+<Player id="P3" spans="526~533" text="Lallana" playerID="null" />
+<Player id="P4" spans="560~576" text="Gylfi Sigurdsson" playerID="null" />
+<Player id="P5" spans="618~625" text="Lallana" playerID="null" />
+<Player id="P6" spans="700~713" text="Jonjo Shelvey" playerID="null" />
+<Player id="P7" spans="721~737" text="Jordan Henderson" playerID="null" />
+<Player id="P8" spans="913~927" text="Simon Mignolet" playerID="null" />
+<Player id="P9" spans="987~997" text="Brad Jones" playerID="null" />
+<Player id="P10" spans="992~997" text="Jones" playerID="null" />
+<Player id="P11" spans="1010~1024" text="Steven Gerrard" playerID="null" />
+<Player id="P12" spans="1123~1138" text="Wayne Routledge" playerID="null" />
+<Player id="P13" spans="1160~1177" text="Jefferson Montero" playerID="null" />
+<Player id="P14" spans="1289~1295" text="Moreno" playerID="null" />
+<Player id="P15" spans="1386~1401" text="Raheem Sterling" playerID="null" />
+<Player id="P16" spans="1470~1479" text="Fabianski" playerID="null" />
+<Player id="P17" spans="1486~1493" text="Lallana" playerID="null" />
+<Player id="P18" spans="1620~1626" text="Moreno" playerID="null" />
+<Player id="P19" spans="1747~1756" text="Henderson" playerID="null" />
+<Player id="P20" spans="1853~1860" text="Shelvey" playerID="null" />
+<Player id="P21" spans="2008~2011" text="Can" playerID="null" />
+<Player id="P22" spans="2209~2218" text="Fabianski" playerID="null" />
+<Player id="P23" spans="2317~2324" text="Lallana" playerID="null" />
+<Player id="P24" spans="2493~2506" text="Mamadou Sakho" playerID="null" />
+<Player id="P25" spans="2512~2525" text="Wilfried Bony" playerID="null" />
+<Player id="P26" spans="2584~2594" text="Sigurdsson" playerID="null" />
+<Player id="P27" spans="2685~2693" text="Sterling" playerID="null" />
+<Player id="P28" spans="2818~2827" text="Henderson" playerID="null" />
+<Player id="P29" spans="2865~2872" text="Lallana" playerID="null" />
+<Player id="P30" spans="2965~2973" text="Coutinho" playerID="null" />
+<Player id="P31" spans="3183~3190" text="Shelvey" playerID="null" />
+<Player id="P32" spans="3205~3214" text="Henderson" playerID="null" />
+<Player id="P33" spans="3294~3302" text="Sterling" playerID="null" />
+<Player id="P34" spans="3349~3367" text="Federico Fernandez" playerID="null" />
+<Player id="P35" spans="3419~3434" text="Bafetimbi Gomis" playerID="null" />
+<Coref id="C0" spans="498~501" text="his" playerID="null" />
+<Coref id="C1" spans="751~754" text="his" playerID="null" />
+<Coref id="C2" spans="1939~1942" text="his" playerID="null" />
+<Coref id="C3" spans="1998~2000" text="he" playerID="null" />
+<Coref id="C4" spans="2247~2249" text="he" playerID="null" />
+<Coref id="C5" spans="2286~2289" text="his" playerID="null" />
+<Coref id="C6" spans="2599~2601" text="he" playerID="null" />
+<Coref id="C7" spans="2765~2768" text="his" playerID="null" />
+<Coref id="C8" spans="2892~2895" text="his" playerID="null" />
+<Coref id="C9" spans="2942~2945" text="his" playerID="null" />
+<Coref id="C10" spans="3032~3034" text="he" playerID="null" />
+<Coref id="C11" spans="3098~3101" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

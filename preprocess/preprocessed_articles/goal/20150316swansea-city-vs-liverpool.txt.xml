@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/swansea-city-vs-liverpool/1704071
+
+Mar 16, 2015 6:04:50 PM
+
+After being held off for 68 minutes, Jordan Henderson's fortunate winner earned Liverpool a 1-0 Premier League victory at Swansea City.
+
+A huge slice of luck earned Liverpool a 1-0 Premier League victory at Swansea City on Monday, as Brendan Rodgers' side kept pace in the chase for the top four.
+
+Having seen Manchester United beat Tottenham 3-0 on Sunday, Liverpool risked losing ground if it failed to pick up maximum points in south Wales.
+
+For long spells that looked set to be the case, with Swansea frequently probing the visiting defense and testing goalkeeper Simon Mignolet through Bafetimbi Gomis and Gylfi Sigurdsson.
+
+Liverpool's attacking threat had been limited for long spells, but when Jordi Amat slid in to clear a Daniel Sturridge flick, the ball rebounded off the shin of Jordan Henderson and bounced over Swansea goalkeeper Lukasz Fabianski and into the net. 
+
+Sturridge was also denied by the frame of the goal late on as Liverpool moved within two points of fourth-placed United, with Swansea remaining ninth following just its fourth home defeat of the season.
+
+While Liverpool had to leave Mario Balotelli behind due to illness, Swansea was able to call on Gomis after the France international recovered from his collapse at Tottenham last time out.
+
+Gomis broke the defensive line in the 15th minute and, after the ball found its way to Kyle Naughton on the right flank, Ki Sung-yueng had a glorious chance to head for goal, choosing instead to nod back across the six-yard box as the move broke down.
+
+Adam Lallana – occupying an unfamiliar position at right wingback – drilled straight at Fabianski from the edge of the box, before Martin Skrtel did well to block a Gomis header at the other end, with Swansea just about edging an entertaining opening 20 minutes.
+
+Gomis was causing problems for Liverpool again as the match passed the half-hour mark - forcing Mignolet into a one-handed diving save with a low drive from the edge of the penalty area.
+
+Sigurdsson turned and blasted over following good work by Neil Taylor down the left flank and the Iceland international had Mignolet sprawling moments later with a goal-bound curling effort.
+
+Jonjo Shelvey's strike from a well-worked corner routine deflected wide off Lallana's head, with Liverpool arguably fortunate to go in at the break on level terms.
+
+The visitors emerged for the second half with greater attacking intent and Fabianski had to be on his guard to keep out a low Philippe Coutinho strike.
+
+Henderson settled the encounter in the 68th minute when Skrtel's through ball was flicked into his path by Sturridge, with Amat - only included due to Federico Fernandez's absence for family reasons - proving hugely unlucky when his clearance ricocheted off Henderson and into the back of the net. 
+
+Liverpool threatened to double the advantage late on, but Sturridge could only find the bottom of the right-hand upright after being sent clean through on goal in stoppage time.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="130~146" text="Jordan Henderson" playerID="null" />
+<Player id="P1" spans="662~676" text="Simon Mignolet" playerID="null" />
+<Player id="P2" spans="685~700" text="Bafetimbi Gomis" playerID="null" />
+<Player id="P3" spans="705~721" text="Gylfi Sigurdsson" playerID="null" />
+<Player id="P4" spans="796~806" text="Jordi Amat" playerID="null" />
+<Player id="P5" spans="826~842" text="Daniel Sturridge" playerID="null" />
+<Player id="P6" spans="885~901" text="Jordan Henderson" playerID="null" />
+<Player id="P7" spans="938~954" text="Lukasz Fabianski" playerID="null" />
+<Player id="P8" spans="975~984" text="Sturridge" playerID="null" />
+<Player id="P9" spans="1208~1223" text="Mario Balotelli" playerID="null" />
+<Player id="P10" spans="1275~1280" text="Gomis" playerID="null" />
+<Player id="P11" spans="1369~1374" text="Gomis" playerID="null" />
+<Player id="P12" spans="1456~1469" text="Kyle Naughton" playerID="null" />
+<Player id="P13" spans="1490~1492" text="Ki" playerID="null" />
+<Player id="P14" spans="1622~1634" text="Adam Lallana" playerID="null" />
+<Player id="P15" spans="1710~1719" text="Fabianski" playerID="null" />
+<Player id="P16" spans="1753~1766" text="Martin Skrtel" playerID="null" />
+<Player id="P17" spans="1787~1792" text="Gomis" playerID="null" />
+<Player id="P18" spans="1886~1891" text="Gomis" playerID="null" />
+<Player id="P19" spans="1982~1990" text="Mignolet" playerID="null" />
+<Player id="P20" spans="2074~2084" text="Sigurdsson" playerID="null" />
+<Player id="P21" spans="2132~2143" text="Neil Taylor" playerID="null" />
+<Player id="P22" spans="2137~2143" text="Taylor" playerID="null" />
+<Player id="P23" spans="2198~2206" text="Mignolet" playerID="null" />
+<Player id="P24" spans="2266~2279" text="Jonjo Shelvey" playerID="null" />
+<Player id="P25" spans="2342~2349" text="Lallana" playerID="null" />
+<Player id="P26" spans="2506~2515" text="Fabianski" playerID="null" />
+<Player id="P27" spans="2566~2574" text="Coutinho" playerID="null" />
+<Player id="P28" spans="2584~2593" text="Henderson" playerID="null" />
+<Player id="P29" spans="2640~2646" text="Skrtel" playerID="null" />
+<Player id="P30" spans="2691~2700" text="Sturridge" playerID="null" />
+<Player id="P31" spans="2707~2711" text="Amat" playerID="null" />
+<Player id="P32" spans="2735~2753" text="Federico Fernandez" playerID="null" />
+<Player id="P33" spans="2842~2851" text="Henderson" playerID="null" />
+<Player id="P34" spans="2942~2951" text="Sturridge" playerID="null" />
+<Coref id="C0" spans="1327~1330" text="his" playerID="null" />
+<Coref id="C1" spans="2529~2532" text="his" playerID="null" />
+<Coref id="C2" spans="2679~2682" text="his" playerID="null" />
+<Coref id="C3" spans="2813~2816" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

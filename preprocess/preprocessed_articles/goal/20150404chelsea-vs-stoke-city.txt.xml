@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-stoke-city/1704099
+
+Apr 4, 2015 2:29:59 PM
+
+Loic Remy was on target again as Chelsea beat Stoke City to move closer to the Premier League title, despite Charlie Adam's stunning goal.
+
+Charlie Adam's wonder-strike proved in vain as Chelsea beat Stoke City 2-1 to go seven points clear at the top of the Premier League.
+
+Stoke had not scored for over six years at Stamford Bridge ahead of Saturday's trip to the capital — but when the club eventually found the back of the net, it was worth the wait.
+
+Adam embarrassed Thibaut Courtois with an astonishing strike from almost 65 yards to equalize just before halftime, Eden Hazard's 17th goal of the season having deservedly put Chelsea in front.
+
+Jose Mourinho left Diego Costa on the bench, stating ahead of the game that it would be a "gamble" to play the striker because of his hamstring problems, and that risk back-fired when he was injured again just 11 minutes after coming on at halftime.
+
+Loic Remy had replaced Costa in the starting lineup and, just as he did at Hull City last time out, the France striker scored the winner following a mistake from the otherwise outstanding Asmir Begovic as Chelsea continued its march toward regaining the title.
+
+Remy wasted no time in making his presence felt, as he almost put Chelsea in front with a deflected strike that was destined for the top corner until Begovic somehow scrambled across to make an impressive reflex save just two minutes in.
+
+Oscar failed to hit the target with a poor finish following a slick passing move, but Stoke's resistance was ended when Hazard put Chelsea in front six minutes before halftime.
+
+The recalled Philipp Wollscheid rashly dived in on Cesc Fabregas after being beaten by the Spain midfielder and Hazard sent Begovic the wrong way after referee Jonathan Moss had pointed to the spot.
+
+It was difficult to see how Stoke would get back into the game, but Adam took matters into his own hands with a sensational equalizer a minute before the break.
+
+The midfielder looked up before trying his luck with an astonishing left-footed strike from inside his own half. Although Courtois got a hand on the ball after desperately scrambling back from the edge of his penalty area, he was unable to prevent what must surely be the goal of the season.
+
+Costa replaced Oscar at halftime and normal service was resumed, as Hazard's drive forced Begovic to make another fine save and the Stoke keeper again reacted brilliantly to keep out a free kick from Willian that appeared to flick off Glenn Whelan's head.
+
+Spain striker Costa lasted only 11 minutes before pulling up and limping away, with Didier Drogba coming on to replace him. Chelsea's frustration was mounting by that stage, but Begovic undid his good work by gifting the Blues a second goal.
+
+The Bosnia-Herzegovina international rolled the ball out carelessly in the 62nd minutes and Willian pounced to play in Hazard, who surged into the penalty area before unselfishly laying the ball off to Remy. He had the simple task of rolling the ball into an empty net.
+
+Chelsea's joy was almost shortlived, as Steven N'Zonzi clipped the outside of the post soon after Remy had struck, while Begovic made a fine double save to deny Juan Cuadrado at the other end as the leaders secured another three points.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="88~97" text="Loic Remy" playerID="null" />
+<Player id="P1" spans="197~209" text="Charlie Adam" playerID="null" />
+<Player id="P2" spans="228~240" text="Charlie Adam" playerID="null" />
+<Player id="P3" spans="544~548" text="Adam" playerID="null" />
+<Player id="P4" spans="561~577" text="Thibaut Courtois" playerID="null" />
+<Player id="P5" spans="660~671" text="Eden Hazard" playerID="null" />
+<Player id="P6" spans="758~769" text="Diego Costa" playerID="null" />
+<Player id="P7" spans="990~999" text="Loic Remy" playerID="null" />
+<Player id="P8" spans="1013~1018" text="Costa" playerID="null" />
+<Player id="P9" spans="1178~1191" text="Asmir Begovic" playerID="null" />
+<Player id="P10" spans="1252~1256" text="Remy" playerID="null" />
+<Player id="P11" spans="1402~1409" text="Begovic" playerID="null" />
+<Player id="P12" spans="1491~1496" text="Oscar" playerID="null" />
+<Player id="P13" spans="1611~1617" text="Hazard" playerID="null" />
+<Player id="P14" spans="1682~1700" text="Philipp Wollscheid" playerID="null" />
+<Player id="P15" spans="1720~1733" text="Cesc Fabregas" playerID="null" />
+<Player id="P16" spans="1781~1787" text="Hazard" playerID="null" />
+<Player id="P17" spans="1793~1800" text="Begovic" playerID="null" />
+<Player id="P18" spans="1937~1941" text="Adam" playerID="null" />
+<Player id="P19" spans="2153~2161" text="Courtois" playerID="null" />
+<Player id="P20" spans="2324~2329" text="Costa" playerID="null" />
+<Player id="P21" spans="2339~2344" text="Oscar" playerID="null" />
+<Player id="P22" spans="2392~2398" text="Hazard" playerID="null" />
+<Player id="P23" spans="2414~2421" text="Begovic" playerID="null" />
+<Player id="P24" spans="2524~2531" text="Willian" playerID="null" />
+<Player id="P25" spans="2559~2571" text="Glenn Whelan" playerID="null" />
+<Player id="P26" spans="2595~2600" text="Costa" playerID="null" />
+<Player id="P27" spans="2665~2678" text="Didier Drogba" playerID="null" />
+<Player id="P28" spans="2759~2766" text="Begovic" playerID="null" />
+<Player id="P29" spans="2916~2923" text="Willian" playerID="null" />
+<Player id="P30" spans="2943~2949" text="Hazard" playerID="null" />
+<Player id="P31" spans="3026~3030" text="Remy" playerID="null" />
+<Player id="P32" spans="3135~3149" text="Steven N'Zonzi" playerID="null" />
+<Player id="P33" spans="3193~3197" text="Remy" playerID="null" />
+<Player id="P34" spans="3216~3223" text="Begovic" playerID="null" />
+<Player id="P35" spans="3256~3269" text="Juan Cuadrado" playerID="null" />
+<Coref id="C0" spans="869~872" text="his" playerID="null" />
+<Coref id="C1" spans="923~925" text="he" playerID="null" />
+<Coref id="C2" spans="1055~1057" text="he" playerID="null" />
+<Coref id="C3" spans="1282~1285" text="his" playerID="null" />
+<Coref id="C4" spans="1304~1306" text="he" playerID="null" />
+<Coref id="C5" spans="1960~1963" text="his" playerID="null" />
+<Coref id="C6" spans="2070~2073" text="his" playerID="null" />
+<Coref id="C7" spans="2130~2133" text="his" playerID="null" />
+<Coref id="C8" spans="2236~2239" text="his" playerID="null" />
+<Coref id="C9" spans="2254~2256" text="he" playerID="null" />
+<Coref id="C10" spans="2773~2776" text="his" playerID="null" />
+<Coref id="C11" spans="3032~3034" text="He" playerID="null" />
+</TAGS>
+</SoccEval1.2>

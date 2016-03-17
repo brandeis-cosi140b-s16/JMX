@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-tottenham-hotspur/1703981
+
+Feb 10, 2015 4:50:00 PM
+
+The Italian struck in the final 10 minutes to earn Brendan Rodgers' side all three points against the North Londoners, despite Spurs twice coming from behind at Anfield.
+
+Mario Balotelli scored his first Premier League goal for Liverpool as the Reds boosted their hopes of a top-four finish in the Premier League with a 3-2 win over Tottenham on Tuesday.
+
+Balotelli has endured a tough first season at Anfield, but picked an ideal moment to break his top-flight drought for the club with a well-taken late winner shortly after coming off the bench for Daniel Sturridge — who made his first Liverpool start since a 3-0 victory at Tottenham in August.
+
+Despite lacking match sharpness, Sturridge was dangerous throughout his 74 minutes on the pitch and was heavily involved in Liverpool's first two goals.
+
+The England striker showcased strong hold-up play to help set up Lazar Markovic for Liverpool's 15th-minute opener, which was quickly equalized by red-hot Spurs striker Harry Kane.
+
+Steven Gerrard restored Liverpool's advantage from the penalty spot eight minutes after halftime after Sturridge had gone down under an ill-advised challenge from Danny Rose.
+
+Again Tottenham replied, though, as Moussa Dembele's close-range equalizer just after the hour was allowed to stand, despite Kane appearing to have strayed offside from Christian Eriksen's free kick.
+
+But there was one final twist in the tale as substitute Balotelli popped up seven minutes from time to smash home a low cross from fellow substitute Adam Lallana.
+
+The win lifts Liverpool to within a point of Tottenham and just three points adrift of fourth-place Arsenal.
+
+Liverpool's early pressure paid off as Markovic made the most of good hold-up play from Sturridge to find the bottom-right corner with a scuffed strike from the edge of the area despite Hugo Lloris getting a hand to the shot.
+
+But for all Liverpool's early dominance, the home side was pegged back 11 minutes later as Kane continued his fine run of form.
+
+Erik Lamela's pass squeaked through the Liverpool defense and into the path of Kane, who restored parity with a low shot under the legs of Simon Mignolet.
+
+Tottenham struggled to build on that equalizer, and only the woodwork kept Spurs on level terms as Sturridge struck the post with a clever back-heeled effort following brilliant work down the right from Ibe.
+
+Liverpool continued in the ascendancy after the break and was duly rewarded when Gerrard converted from the spot. The skipper beat Lloris to the keeper's left-hand side after Sturridge had cleverly jinked his way into the box and drawn a foul on Rose.
+
+Lamela drew an acrobatic save from Mignolet as Spurs sought a quick response, which came in the 61st minute as Dembele bundled the ball in from 2 yards.
+
+Dembele converted a centering feed from Kane — who appeared to be marginally offside in the buildup — after Eriksen's curling free kick had been kept out by Mignolet.
+
+Liverpool looked to be running out of ideas in its search for an equalizer, but the introduction of Lallana and Balotelli proved to be the turning point as the England playmaker raced to the end line to find Balotelli, who settled an enthralling encounter.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="269~284" text="Mario Balotelli" playerID="null" />
+<Player id="P1" spans="454~463" text="Balotelli" playerID="null" />
+<Player id="P2" spans="650~666" text="Daniel Sturridge" playerID="null" />
+<Player id="P3" spans="782~791" text="Sturridge" playerID="null" />
+<Player id="P4" spans="968~982" text="Lazar Markovic" playerID="null" />
+<Player id="P5" spans="1072~1082" text="Harry Kane" playerID="null" />
+<Player id="P6" spans="1085~1099" text="Steven Gerrard" playerID="null" />
+<Player id="P7" spans="1188~1197" text="Sturridge" playerID="null" />
+<Player id="P8" spans="1248~1258" text="Danny Rose" playerID="null" />
+<Player id="P9" spans="1297~1311" text="Moussa Dembele" playerID="null" />
+<Player id="P10" spans="1386~1390" text="Kane" playerID="null" />
+<Player id="P11" spans="1430~1447" text="Christian Eriksen" playerID="null" />
+<Player id="P12" spans="1518~1527" text="Balotelli" playerID="null" />
+<Player id="P13" spans="1611~1623" text="Adam Lallana" playerID="null" />
+<Player id="P14" spans="1775~1783" text="Markovic" playerID="null" />
+<Player id="P15" spans="1824~1833" text="Sturridge" playerID="null" />
+<Player id="P16" spans="1922~1933" text="Hugo Lloris" playerID="null" />
+<Player id="P17" spans="2054~2058" text="Kane" playerID="null" />
+<Player id="P18" spans="2092~2103" text="Erik Lamela" playerID="null" />
+<Player id="P19" spans="2171~2175" text="Kane" playerID="null" />
+<Player id="P20" spans="2231~2245" text="Simon Mignolet" playerID="null" />
+<Player id="P21" spans="2347~2356" text="Sturridge" playerID="null" />
+<Player id="P22" spans="2451~2454" text="Ibe" playerID="null" />
+<Player id="P23" spans="2538~2545" text="Gerrard" playerID="null" />
+<Player id="P24" spans="2588~2594" text="Lloris" playerID="null" />
+<Player id="P25" spans="2632~2641" text="Sturridge" playerID="null" />
+<Player id="P26" spans="2703~2707" text="Rose" playerID="null" />
+<Player id="P27" spans="2710~2716" text="Lamela" playerID="null" />
+<Player id="P28" spans="2745~2753" text="Mignolet" playerID="null" />
+<Player id="P29" spans="2821~2828" text="Dembele" playerID="null" />
+<Player id="P30" spans="2864~2871" text="Dembele" playerID="null" />
+<Player id="P31" spans="2904~2908" text="Kane" playerID="null" />
+<Player id="P32" spans="2972~2979" text="Eriksen" playerID="null" />
+<Player id="P33" spans="3021~3029" text="Mignolet" playerID="null" />
+<Player id="P34" spans="3132~3139" text="Lallana" playerID="null" />
+<Player id="P35" spans="3144~3153" text="Balotelli" playerID="null" />
+<Player id="P36" spans="3240~3249" text="Balotelli" playerID="null" />
+<Coref id="C0" spans="292~295" text="his" playerID="null" />
+<Coref id="C1" spans="545~548" text="his" playerID="null" />
+<Coref id="C2" spans="678~681" text="his" playerID="null" />
+<Coref id="C3" spans="817~820" text="his" playerID="null" />
+<Coref id="C4" spans="2069~2072" text="his" playerID="null" />
+<Coref id="C5" spans="2662~2665" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

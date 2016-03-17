@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-aston-villa/1704129
+
+Apr 11, 2015 12:09:12 PM
+
+Tim Sherwood made a winning return to White Hart Lane on Saturday as Christian Benteke earned Aston Villa a 1-0 win against Tottenham.
+
+Christian Benteke maintained his fine goal-scoring form to give Aston Villa a 1-0 win over Tottenham as manager Tim Sherwood enjoyed a victorious return to White Hart Lane.
+
+Sherwood's positive six-month spell in charge of the north London club finished at the end of last season and the former Spurs boss saw his current side pick up three vital Premier League points despite a late Carlos Sanchez red card.
+
+Belgium striker Benteke hit a hat trick in Tuesday's 3-3 draw with QPR and again underlined his importance to Villa's survival bid when he made the most of a rare first-half opportunity on Saturday.
+
+Benteke glanced Leandro Bacuna's delivery past Michel Vorm to register his 10th league goal of the season, with Gabriel Agbonlahor then coming within a post's width of doubling the lead before halftime.
+
+Harry Kane - given his first regular run in the Spurs lineup under Sherwood last term - had the second half's best chance but neither the Tottenham skipper nor his teammates could find an elusive equalizer.
+
+While Sherwood saw Ciaran Clark and Agbonlahor limp off prior to Sanchez being dismissed, the Villa boss was able to celebrate a result made all the more important by defeats for Sunderland and Hull City – both sitting below Villa in the table.
+
+Mauricio Pochettino brought Federico Fazio and Andros Townsend into the Spurs XI and both he and Sherwood will have been pleased with their sides’ positive starts despite the lack of clear-cut chances.
+
+Villa's momentum was quelled somewhat when Clark limped off before being replaced by Nathan Baker.
+
+Danny Rose had the game's first effort on target as he forced Brad Guzan into a smart stop just prior to the half-hour mark, while Nacer Chadli was set through on goal by Kane only to be caught by Bacuna.
+
+Full back Bacuna then had a crucial role to play at the other end as he supplied the in-form Benteke with a pinpoint cross 35 minutes in. The Belgian stole in ahead of Fazio and nodded a majestic opener past Vorm to make it eight goals in his last six Premier League appearances.
+
+After Guzan had saved a long-range effort from Kane, Villa almost doubled its advantage ahead of the interval when Agbonlahor struck Vorm's left-hand post.
+
+Spurs piled on the pressure in the second half, with Kane again going close before the hour - cutting onto his left foot before unleashing a strike that skimmed off the roof of the net.
+
+Villa should have made the result more convincing when, following Agbonlahor's injury, Fabian Delph was thwarted by Vorm.
+
+Neither the missed opportunity nor Sanchez's two second-half yellow cards for tackles on Ryan Mason and Rose proved crucial as Sherwood's men moved up to 15th and took another step closer to safety.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="145~149" text="Hart" playerID="null" />
+<Player id="P1" spans="170~187" text="Christian Benteke" playerID="null" />
+<Player id="P2" spans="237~254" text="Christian Benteke" playerID="null" />
+<Player id="P3" spans="399~403" text="Hart" playerID="null" />
+<Player id="P4" spans="621~635" text="Carlos Sanchez" playerID="null" />
+<Player id="P5" spans="663~670" text="Benteke" playerID="null" />
+<Player id="P6" spans="847~854" text="Benteke" playerID="null" />
+<Player id="P7" spans="863~877" text="Leandro Bacuna" playerID="null" />
+<Player id="P8" spans="894~905" text="Michel Vorm" playerID="null" />
+<Player id="P9" spans="959~977" text="Gabriel Agbonlahor" playerID="null" />
+<Player id="P10" spans="1051~1061" text="Harry Kane" playerID="null" />
+<Player id="P11" spans="1278~1290" text="Ciaran Clark" playerID="null" />
+<Player id="P12" spans="1295~1305" text="Agbonlahor" playerID="null" />
+<Player id="P13" spans="1324~1331" text="Sanchez" playerID="null" />
+<Player id="P14" spans="1533~1547" text="Federico Fazio" playerID="null" />
+<Player id="P15" spans="1552~1567" text="Andros Townsend" playerID="null" />
+<Player id="P16" spans="1751~1756" text="Clark" playerID="null" />
+<Player id="P17" spans="1793~1805" text="Nathan Baker" playerID="null" />
+<Player id="P18" spans="1808~1818" text="Danny Rose" playerID="null" />
+<Player id="P19" spans="1870~1880" text="Brad Guzan" playerID="null" />
+<Player id="P20" spans="1939~1951" text="Nacer Chadli" playerID="null" />
+<Player id="P21" spans="1979~1983" text="Kane" playerID="null" />
+<Player id="P22" spans="2005~2011" text="Bacuna" playerID="null" />
+<Player id="P23" spans="2024~2030" text="Bacuna" playerID="null" />
+<Player id="P24" spans="2107~2114" text="Benteke" playerID="null" />
+<Player id="P25" spans="2182~2187" text="Fazio" playerID="null" />
+<Player id="P26" spans="2222~2226" text="Vorm" playerID="null" />
+<Player id="P27" spans="2301~2306" text="Guzan" playerID="null" />
+<Player id="P28" spans="2342~2346" text="Kane" playerID="null" />
+<Player id="P29" spans="2410~2420" text="Agbonlahor" playerID="null" />
+<Player id="P30" spans="2428~2432" text="Vorm" playerID="null" />
+<Player id="P31" spans="2505~2509" text="Kane" playerID="null" />
+<Player id="P32" spans="2705~2715" text="Agbonlahor" playerID="null" />
+<Player id="P33" spans="2726~2738" text="Fabian Delph" playerID="null" />
+<Player id="P34" spans="2755~2759" text="Vorm" playerID="null" />
+<Player id="P35" spans="2797~2804" text="Sanchez" playerID="null" />
+<Player id="P36" spans="2851~2861" text="Ryan Mason" playerID="null" />
+<Player id="P37" spans="2866~2870" text="Rose" playerID="null" />
+<Coref id="C0" spans="266~269" text="his" playerID="null" />
+<Coref id="C1" spans="547~550" text="his" playerID="null" />
+<Coref id="C2" spans="739~742" text="his" playerID="null" />
+<Coref id="C3" spans="783~785" text="he" playerID="null" />
+<Coref id="C4" spans="918~921" text="his" playerID="null" />
+<Coref id="C5" spans="1070~1073" text="his" playerID="null" />
+<Coref id="C6" spans="1211~1214" text="his" playerID="null" />
+<Coref id="C7" spans="1595~1597" text="he" playerID="null" />
+<Coref id="C8" spans="1860~1862" text="he" playerID="null" />
+<Coref id="C9" spans="2083~2085" text="he" playerID="null" />
+<Coref id="C10" spans="2253~2256" text="his" playerID="null" />
+<Coref id="C11" spans="2559~2562" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/west-bromwich-albion-vs-liverpool/1704173
+
+Apr 25, 2015 11:14:33 AM
+
+Jordon Ibe struck the crossbar, but Liverpool was unable to respond to its FA Cup semifinal defeat with a win at West Brom on Saturday.
+
+Steven Gerrard's 500th Premier League appearance was not one to remember as Liverpool was held to a 0-0 draw at West Brom, leaving its chances of securing a Champions League spot looking even more remote.
+
+Gerrard was denied a farewell appearance in the FA Cup final when Aston Villa beat Brendan Rodgers' side 2-1 in the semifinal last weekend, and Liverpool also looks likely to miss out on a top-four finish in the long-serving captain's final season before moving to the LA Galaxy.
+
+Liverpool had the better of Saturday's clash at The Hawthorns, but was unable to respond to its Wembley heartbreak with a victory as Albion dug deep to move a point closer to safety.
+
+Jordon Ibe struck the crossbar in the second half and Gerrard came close with a free kick before the break, but it proved to be a frustrating afternoon for Rodgers' men.
+
+Rodgers, who this week said there is nobody better than him to manage Liverpool, will surely have to settle for a Europa League spot at best with five matches remaining of a disappointing campaign.
+
+Mario Balotelli made his first Premier League start since November for Liverpool, while Ibe and Glen Johnson also started as Lazar Markovic, Joe Allen and Alberto Moreno dropped to the bench.
+
+Gerrard came close to marking his landmark appearance by curling in a 26th-minute free kick, but the captain's measured effort went just over the crossbar.
+
+Both sides were lacking quality in the final third, but Balotelli was not too far away with a venomous first-time strike from around 20 yards out 10 minutes before halftime.
+
+The Merseyside outfit continued to look the more likely to open the scoring after the interval and somehow failed to break through in the 55th minute when it was denied by a combination of Boaz Myhill and Joleon Lescott.
+
+Philippe Coutinho's effort was bound for the back of the net until Myhill saved at full stretch and Jordan Henderson was first to react, but his shot was blocked by the alert Lescott.
+
+The lively Ibe beat Myhill with a rasping strike after playing a neat one-two with Balotelli, but the winger's effort struck the top of the crossbar.
+
+Liverpoool was almost caught out after 62 minutes, though, when Dejan Lovren had to intervene with a last-ditch clearance to stop James Morrison's header from going in after a bad mistake from Martin Skrtel.
+
+Coutinho's long-range drive landed on top of the net as Liverpool continued to probe, but Simon Mignolet was required to keep out Callum McManaman's late effort before Lovren went close with a header in injury time.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="102~112" text="Jordon Ibe" playerID="null" />
+<Player id="P1" spans="239~253" text="Steven Gerrard" playerID="null" />
+<Player id="P2" spans="445~452" text="Gerrard" playerID="null" />
+<Player id="P3" spans="910~920" text="Jordon Ibe" playerID="null" />
+<Player id="P4" spans="964~971" text="Gerrard" playerID="null" />
+<Player id="P5" spans="1280~1295" text="Mario Balotelli" playerID="null" />
+<Player id="P6" spans="1368~1371" text="Ibe" playerID="null" />
+<Player id="P7" spans="1376~1388" text="Glen Johnson" playerID="null" />
+<Player id="P8" spans="1381~1388" text="Johnson" playerID="null" />
+<Player id="P9" spans="1405~1419" text="Lazar Markovic" playerID="null" />
+<Player id="P10" spans="1421~1430" text="Joe Allen" playerID="null" />
+<Player id="P11" spans="1435~1449" text="Alberto Moreno" playerID="null" />
+<Player id="P12" spans="1473~1480" text="Gerrard" playerID="null" />
+<Player id="P13" spans="1686~1695" text="Balotelli" playerID="null" />
+<Player id="P14" spans="1994~2005" text="Boaz Myhill" playerID="null" />
+<Player id="P15" spans="2010~2024" text="Joleon Lescott" playerID="null" />
+<Player id="P16" spans="2036~2044" text="Coutinho" playerID="null" />
+<Player id="P17" spans="2094~2100" text="Myhill" playerID="null" />
+<Player id="P18" spans="2127~2143" text="Jordan Henderson" playerID="null" />
+<Player id="P19" spans="2202~2209" text="Lescott" playerID="null" />
+<Player id="P20" spans="2223~2226" text="Ibe" playerID="null" />
+<Player id="P21" spans="2232~2238" text="Myhill" playerID="null" />
+<Player id="P22" spans="2295~2304" text="Balotelli" playerID="null" />
+<Player id="P23" spans="2427~2439" text="Dejan Lovren" playerID="null" />
+<Player id="P24" spans="2493~2507" text="James Morrison" playerID="null" />
+<Player id="P25" spans="2556~2569" text="Martin Skrtel" playerID="null" />
+<Player id="P26" spans="2572~2580" text="Coutinho" playerID="null" />
+<Player id="P27" spans="2662~2676" text="Simon Mignolet" playerID="null" />
+<Player id="P28" spans="2702~2718" text="Callum McManaman" playerID="null" />
+<Player id="P29" spans="2740~2746" text="Lovren" playerID="null" />
+<Coref id="C0" spans="1301~1304" text="his" playerID="null" />
+<Coref id="C1" spans="1503~1506" text="his" playerID="null" />
+<Coref id="C2" spans="2168~2171" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-manchester-united/1704139
+
+Apr 18, 2015 2:33:03 PM
+
+Eden Hazard was on target again as Manchester United was beaten 1-0 by Chelsea, which could be two wins from the title.
+
+Eden Hazard's 18th goal of the season ensured Chelsea took another giant stride toward winning the Premier League title by beating Manchester United 1-0 to move 10 points clear at the top of the table.
+
+Hazard demonstrated why he is a strong favorite to be crowned the PFA Player of the Year when he rounded off a slick move with a clinical finish to give Chelsea the lead during a first half in which the Blues were distinctly unimpressive.
+
+Wayne Rooney, moved back into a midfield role, wasted a great early chance when he fired into the side netting and Radamel Falcao struck the woodwork as United missed the chance to move above Arsenal into second place.
+
+Louis van Gaal's side remains on course to secure a place in the UEFA Champions League with five games remaining, but any slight hopes it may have had of winning the title are surely gone after a six-game winning league run came to an end at Stamford Bridge.
+
+Victory for Chelsea stretched its unbeaten run to 14 games in all competitions, and there appears to be no stopping Jose Mourinho's men in their quest to secure a first Premier League title for five years.
+
+Kurt Zouma and Oscar came into Chelsea's starting lineup at the expense of Brazil duo Willian and Ramires, who dropped to the bench. Falcao made his first start since February for United, while Luke Shaw also returned to the starting lineup along with Paddy McNair, as Michael Carrick, Daley Blind and Phil Jones were ruled out because of injury.
+
+Rooney had a great opportunity to open the scoring after only three minutes when Shaw cut the ball back and the England captain fired into the side netting.
+
+David de Gea clearly thought Rooney had scored as he celebrated with clenched fists at the other end, and the Spain goalkeeper ought to have had another moment to forget when he handled Cesc Fabregas' cross just outside the area, but the officials did not spot his infringement.
+
+De Gea had very little to do in the first half, but he was picking the ball out of the net when Hazard opened the scoring out of the blue eight minutes before halftime.
+
+Falcao was robbed of possession by John Terry on the halfway line and Fabregas picked out Oscar, whose clever backheel set Hazard free and the winger surged into the area before firing under De Gea with his left foot.
+
+Didier Drogba almost doubled Chelsea's lead early in the second half when he raced away and went close with a deflected shot that looped over De Gea, and Hazard arrived beyond the back post to hit the crossbar from a tight angle.
+
+Chelsea goalkeeper Thibaut Courtois palmed away a stinging drive from McNair on the hour mark and Juan Mata was denied an equalizer against his former club with an effort that looped just over the crossbar.
+
+There would be no further chances for the Spain midfielder, who was given a great reception by both sets of fans when he replaced by Angel di Maria.
+
+Van Gaal opted against bringing on Robin van Persie, back on the bench after two months out, and United was unable to break down a stubborn Chelsea side.
+
+Ander Herrera was booked for simulation after going down in the area late and that proved to be the last action, as Chelsea celebrated another hard-earned victory that means a positive result against Arsenal next weekend would leave the Blues just one win from the title.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="96~107" text="Eden Hazard" playerID="null" />
+<Player id="P1" spans="217~228" text="Eden Hazard" playerID="null" />
+<Player id="P2" spans="420~426" text="Hazard" playerID="null" />
+<Player id="P3" spans="660~672" text="Wayne Rooney" playerID="null" />
+<Player id="P4" spans="783~789" text="Falcao" playerID="null" />
+<Player id="P5" spans="1347~1357" text="Kurt Zouma" playerID="null" />
+<Player id="P6" spans="1362~1367" text="Oscar" playerID="null" />
+<Player id="P7" spans="1433~1440" text="Willian" playerID="null" />
+<Player id="P8" spans="1445~1452" text="Ramires" playerID="null" />
+<Player id="P9" spans="1480~1486" text="Falcao" playerID="null" />
+<Player id="P10" spans="1541~1550" text="Luke Shaw" playerID="null" />
+<Player id="P11" spans="1605~1611" text="McNair" playerID="null" />
+<Player id="P12" spans="1616~1631" text="Michael Carrick" playerID="null" />
+<Player id="P13" spans="1633~1644" text="Daley Blind" playerID="null" />
+<Player id="P14" spans="1649~1659" text="Phil Jones" playerID="null" />
+<Player id="P15" spans="1654~1659" text="Jones" playerID="null" />
+<Player id="P16" spans="1695~1701" text="Rooney" playerID="null" />
+<Player id="P17" spans="1776~1780" text="Shaw" playerID="null" />
+<Player id="P18" spans="1853~1865" text="David de Gea" playerID="null" />
+<Player id="P19" spans="1882~1888" text="Rooney" playerID="null" />
+<Player id="P20" spans="2039~2052" text="Cesc Fabregas" playerID="null" />
+<Player id="P21" spans="2136~2139" text="Gea" playerID="null" />
+<Player id="P22" spans="2229~2235" text="Hazard" playerID="null" />
+<Player id="P23" spans="2303~2309" text="Falcao" playerID="null" />
+<Player id="P24" spans="2338~2348" text="John Terry" playerID="null" />
+<Player id="P25" spans="2373~2381" text="Fabregas" playerID="null" />
+<Player id="P26" spans="2393~2398" text="Oscar" playerID="null" />
+<Player id="P27" spans="2426~2432" text="Hazard" playerID="null" />
+<Player id="P28" spans="2497~2500" text="Gea" playerID="null" />
+<Player id="P29" spans="2522~2535" text="Didier Drogba" playerID="null" />
+<Player id="P30" spans="2667~2670" text="Gea" playerID="null" />
+<Player id="P31" spans="2676~2682" text="Hazard" playerID="null" />
+<Player id="P32" spans="2772~2788" text="Thibaut Courtois" playerID="null" />
+<Player id="P33" spans="2823~2829" text="McNair" playerID="null" />
+<Player id="P34" spans="2851~2860" text="Juan Mata" playerID="null" />
+<Player id="P35" spans="3103~3108" text="Maria" playerID="null" />
+<Player id="P36" spans="3146~3162" text="Robin van Persie" playerID="null" />
+<Player id="P37" spans="3266~3279" text="Ander Herrera" playerID="null" />
+<Coref id="C0" spans="444~446" text="he" playerID="null" />
+<Coref id="C1" spans="514~516" text="he" playerID="null" />
+<Coref id="C2" spans="740~742" text="he" playerID="null" />
+<Coref id="C3" spans="1492~1495" text="his" playerID="null" />
+<Coref id="C4" spans="1903~1905" text="he" playerID="null" />
+<Coref id="C5" spans="2028~2030" text="he" playerID="null" />
+<Coref id="C6" spans="2114~2117" text="his" playerID="null" />
+<Coref id="C7" spans="2185~2187" text="he" playerID="null" />
+<Coref id="C8" spans="2506~2509" text="his" playerID="null" />
+<Coref id="C9" spans="2596~2598" text="he" playerID="null" />
+<Coref id="C10" spans="2893~2896" text="his" playerID="null" />
+<Coref id="C11" spans="3079~3081" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

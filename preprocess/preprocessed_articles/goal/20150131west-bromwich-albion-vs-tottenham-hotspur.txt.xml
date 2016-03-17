@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/west-bromwich-albion-vs-tottenham-hotspur/1703953
+
+Jan 31, 2015 11:57:00 AM
+
+Harry Kane netted a double to make it 20 goals for the season as Tottenham brushed West Brom aside 3-0 at The Hawthorns.
+
+Tottenham served notice of its UEFA Champions League ambitions as Harry Kane scored twice in a commanding 3-0 victory at West Brom.
+
+Christian Eriksen's midweek brace against Sheffield United fired the London club into the League Cup final and the Denmark playmaker netted a sixth-minute free kick at The Hawthorns to register his ninth Premier League goal of the season.
+
+Kane has endured a relative fallow spell in his breakthrough campaign over recent weeks but the striker found the net for the first time in five matches to double the lead for Mauricio Pochettino's men.
+
+West Brom grew into the contest and defender Craig Dawson struck the crossbar as Tottenham came under heavy pressure before halftime, although Kane's 20th of the season - courtesy of a second-half penalty - settled matters.
+
+A sixth win in eight Premier League outings leaves Pochettino's side fifth ahead of Arsenal's game against Aston Villa on Sunday and in fine form leading into next weekend's derby match with the club's bitter rival.
+
+West Brom is three points above the relegation zone after its first defeat under head coach Tony Pulis.
+
+Callum McManaman made a quiet West Brom debut, the former Wigan Athletic man lasting an hour, while Paulinho made his first Premier League start of the season for Tottenham.
+
+But it was a more familiar face in the visiting side's midfield that opened the scoring.
+
+Claudio Yacob fouled Mousa Dembele 25 yards from goal and Eriksen curled the resulting set piece over West Brom's defensive wall, with Ben Foster only able to palm his strike into the roof of the net.
+
+Tottenham's superb start continued in the 15th minute as Dembele surged through an outnumbered West Brom midfield to find Kane, who cut inside Andre Wisdom to blast his past the helpless Foster.
+
+Having spent most of the opening stages barricaded inside their own half, West Brom almost pulled a goal back in the 27th minute - Hugo Lloris at full stretch to touch James Morrison's strike behind before Joleon Lescott headed over from the subsequent corner.
+
+Lloris excelled again two minutes later, getting down low to his right to deny Yacob, although the France captain was beaten when Dawson's header thudded back off the bar.
+
+Eriksen fizzed a low, swerving drive narrowly wide early in the second half as Tottenham's earlier control returned.
+
+Spurs put the result beyond doubt in the 64th minute when a sliding Lescott handled Eriksen's cross and Kane converted from the spot.
+
+Berahino flashed a half-volley just past the far post and called Lloris into action once more before Foster denied Kane a hat trick by tipping his stinging 81st-minute free kick over. 
+
+By that stage a comfortable Tottenham was able to turn its attentions towards Arsenal's keenly anticipated visit to White Hart Lane.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="110~120" text="Harry Kane" playerID="null" />
+<Player id="P1" spans="298~308" text="Harry Kane" playerID="null" />
+<Player id="P2" spans="365~382" text="Christian Eriksen" playerID="null" />
+<Player id="P3" spans="605~609" text="Kane" playerID="null" />
+<Player id="P4" spans="854~866" text="Craig Dawson" playerID="null" />
+<Player id="P5" spans="952~956" text="Kane" playerID="null" />
+<Player id="P6" spans="1356~1372" text="Callum McManaman" playerID="null" />
+<Player id="P7" spans="1456~1464" text="Paulinho" playerID="null" />
+<Player id="P8" spans="1621~1634" text="Claudio Yacob" playerID="null" />
+<Player id="P9" spans="1648~1655" text="Dembele" playerID="null" />
+<Player id="P10" spans="1679~1686" text="Eriksen" playerID="null" />
+<Player id="P11" spans="1756~1766" text="Ben Foster" playerID="null" />
+<Player id="P12" spans="1880~1887" text="Dembele" playerID="null" />
+<Player id="P13" spans="1945~1949" text="Kane" playerID="null" />
+<Player id="P14" spans="1966~1978" text="Andre Wisdom" playerID="null" />
+<Player id="P15" spans="2010~2016" text="Foster" playerID="null" />
+<Player id="P16" spans="2150~2161" text="Hugo Lloris" playerID="null" />
+<Player id="P17" spans="2187~2201" text="James Morrison" playerID="null" />
+<Player id="P18" spans="2225~2239" text="Joleon Lescott" playerID="null" />
+<Player id="P19" spans="2281~2287" text="Lloris" playerID="null" />
+<Player id="P20" spans="2360~2365" text="Yacob" playerID="null" />
+<Player id="P21" spans="2411~2417" text="Dawson" playerID="null" />
+<Player id="P22" spans="2454~2461" text="Eriksen" playerID="null" />
+<Player id="P23" spans="2640~2647" text="Lescott" playerID="null" />
+<Player id="P24" spans="2656~2663" text="Eriksen" playerID="null" />
+<Player id="P25" spans="2676~2680" text="Kane" playerID="null" />
+<Player id="P26" spans="2707~2715" text="Berahino" playerID="null" />
+<Player id="P27" spans="2772~2778" text="Lloris" playerID="null" />
+<Player id="P28" spans="2808~2814" text="Foster" playerID="null" />
+<Player id="P29" spans="2822~2826" text="Kane" playerID="null" />
+<Player id="P30" spans="3015~3019" text="Hart" playerID="null" />
+<Coref id="C0" spans="559~562" text="his" playerID="null" />
+<Coref id="C1" spans="649~652" text="his" playerID="null" />
+<Coref id="C2" spans="1470~1473" text="his" playerID="null" />
+<Coref id="C3" spans="1785~1788" text="his" playerID="null" />
+<Coref id="C4" spans="1988~1991" text="his" playerID="null" />
+<Coref id="C5" spans="2342~2345" text="his" playerID="null" />
+<Coref id="C6" spans="2850~2853" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

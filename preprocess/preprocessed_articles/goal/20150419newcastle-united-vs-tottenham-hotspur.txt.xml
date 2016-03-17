@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/newcastle-united-vs-tottenham-hotspur/1704151
+
+Apr 19, 2015 12:59:55 PM
+
+Relegation remains a danger for struggling Newcastle United after a home defeat to Tottenham.
+
+Newcastle United failed to halt a dismal run of Premier League form on Sunday as the club was beaten 3-1 by Tottenham at a sparse St James' Park. 
+
+Some supporters boycotted the game in protest at the running of the club and a perceived lack of ambition from the board.
+
+For those who were in attendance, there was little cause for cheer as goals from Nacer Chadli, Christian Eriksen and Harry Kane eclipsed Jack Colback's effort to inflict a sixth consecutive defeat on the home side.
+
+Chadli gave Mauricio Pochettino's side a halftime lead with a long-range strike 29 minutes in, though Tim Krul might have been able to do more to keep it out.
+
+However, as in the reverse fixture, Newcastle equalized early in the second half - Colback restoring parity 18 seconds after the restart.
+
+If there was any doubt about Krul's role in Spurs' first goal, there was nowhere for the goalkeeper to hide with the second, as Eriksen's 53rd-minute free kick eluded the Dutchman's grasp and found the back of the net.
+
+Kane's 20th league goal of the campaign added to John Carver's woes, with Newcastle remaining seven points clear of the relegation zone, while Spurs move above Southampton into sixth.
+
+Skipper Fabricio Coloccini returned from suspension and was required to snuff out an early Kane opportunity in a low-key opening 10 minutes on Tyneside.
+
+Ayoze Perez had the first effort on target, side-footing a Yoan Gouffran cross at Michel Vorm, as Spurs initially struggled to convert their possession into clear-cut chances.
+
+However, when Gouffran carelessly lost possession in midfield, Chadli made the most of the time and space afforded to him to fire past Krul and further dampen an already muted atmosphere.
+
+Newcastle demonstrated a stark lack of attacking invention in the first half, but Carver introduced Sammy Ameobi and Gabriel Obertan at the break and the reshuffle paid dividends almost immediately when Colback leveled.
+
+After Perez's perseverance, Daryl Janmaat saw a shot blocked before Colback steered home the loose ball inside a minute of the second half.
+
+It was only Newcastle's second Premier League goal in six outings, but Newcastle quickly fell behind again when Krul failed to deal with Eriksen's curled delivery.
+
+The Dane's free kick evaded a host of Spurs players as well as the Newcastle goalkeeper to restore the visiting side's advantage, before Nabil Bentaleb came close to heading home a third - grazing the roof of the net following Chadli's cross.
+
+Krul atoned for his error by keeping out Kane's point-blank header, only to be beaten by the England striker's one-on-one finish in stoppage time to complete a miserable day for the home side.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="334~339" text="James" playerID="null" />
+<Player id="P1" spans="553~565" text="Nacer Chadli" playerID="null" />
+<Player id="P2" spans="567~584" text="Christian Eriksen" playerID="null" />
+<Player id="P3" spans="589~599" text="Harry Kane" playerID="null" />
+<Player id="P4" spans="609~621" text="Jack Colback" playerID="null" />
+<Player id="P5" spans="688~694" text="Chadli" playerID="null" />
+<Player id="P6" spans="790~798" text="Tim Krul" playerID="null" />
+<Player id="P7" spans="931~938" text="Colback" playerID="null" />
+<Player id="P8" spans="1016~1020" text="Krul" playerID="null" />
+<Player id="P9" spans="1115~1122" text="Eriksen" playerID="null" />
+<Player id="P10" spans="1207~1211" text="Kane" playerID="null" />
+<Player id="P11" spans="1400~1418" text="Fabricio Coloccini" playerID="null" />
+<Player id="P12" spans="1483~1487" text="Kane" playerID="null" />
+<Player id="P13" spans="1546~1557" text="Ayoze Perez" playerID="null" />
+<Player id="P14" spans="1605~1618" text="Yoan Gouffran" playerID="null" />
+<Player id="P15" spans="1628~1639" text="Michel Vorm" playerID="null" />
+<Player id="P16" spans="1737~1745" text="Gouffran" playerID="null" />
+<Player id="P17" spans="1786~1792" text="Chadli" playerID="null" />
+<Player id="P18" spans="1858~1862" text="Krul" playerID="null" />
+<Player id="P19" spans="2012~2024" text="Sammy Ameobi" playerID="null" />
+<Player id="P20" spans="2018~2024" text="Ameobi" playerID="null" />
+<Player id="P21" spans="2029~2044" text="Gabriel Obertan" playerID="null" />
+<Player id="P22" spans="2115~2122" text="Colback" playerID="null" />
+<Player id="P23" spans="2139~2144" text="Perez" playerID="null" />
+<Player id="P24" spans="2161~2174" text="Daryl Janmaat" playerID="null" />
+<Player id="P25" spans="2201~2208" text="Colback" playerID="null" />
+<Player id="P26" spans="2386~2390" text="Krul" playerID="null" />
+<Player id="P27" spans="2411~2418" text="Eriksen" playerID="null" />
+<Player id="P28" spans="2576~2590" text="Nabil Bentaleb" playerID="null" />
+<Player id="P29" spans="2666~2672" text="Chadli" playerID="null" />
+<Player id="P30" spans="2683~2687" text="Krul" playerID="null" />
+<Player id="P31" spans="2724~2728" text="Kane" playerID="null" />
+<Coref id="C0" spans="2699~2702" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

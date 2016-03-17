@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/stoke-city-vs-tottenham-hotspur/1704213
+
+May 9, 2015 11:58:02 AM
+
+Stoke City ran riot at the Britannia Stadium as it beat 10-man Tottenham 3-0 in the Premier League.
+
+Stoke City ended Tottenham's hopes of a top-four finish as the club equaled its best points total in the Premier League with a 3-0 victory on Saturday.
+
+Last season's haul of 50 points was matched as goals from Charlie Adam, Steven N'Zonzi and Mame Biram Diouf capped an impressive display from Mark Hughes' side.
+
+Adam broke the deadlock after 21 minutes with a close-range header after poor defensive work from Jan Vertonghen, and N'Zonzi doubled the lead following another Tottenham mix-up involving Hugo Lloris and Eric Dier.
+
+Spurs' hopes of a comeback were hit after 50 minutes as Vlad Chiriches became the seventh player to be shown red in as many meetings between the two sides at the Britannia Stadium.
+
+A man short, Tottenham had no answer to Stoke's dynamic performance, with Diouf extending the advantage with four minutes to play.
+
+Defeat mathematically ends any hopes Tottenham had of finishing in the UEFA Champions League places, meaning Mauricio Pochettino may have to settle for a Europa League spot.
+
+Tottenham was immediately on the back foot as Stoke made a bright start. Marc Muniesa — making his first start since February in place of the suspended Marc Wilson — came agonizingly close in the third minute with a crisp volley over the crossbar.
+
+Lloris was by far the busier of the two goalkeepers, but after stopping Marko Arnautovic, the Frenchman was beaten by Adam's fourth goal in six games.
+
+Diouf made good ground down the right, where his cross was flicked on at the front post by Tottenham defender Vertonghen and Adam beat his marker to head past Lloris.
+
+Jack Butland then had to be alert to preserve that lead as Muniesa diverted Erik Lamela’s free kick toward his own goal, forcing the Stoke keeper to touch the ball onto the bar.
+
+The work Pochettino's side had done to try and get back into the game was wiped out just after the half hour, though, as Tottenham's generosity continued.
+
+Adam delivered a hanging cross from the right that Dier and Lloris failed to deal with, their collision gifting the loose ball to N'Zonzi, who made no mistake with a composed finish.
+
+Christian Eriksen brought a good save out of Butland early in the second half, but Tottenham's task was made tougher five minutes after the restart as a clumsy challenge from Chiriches on Diouf saw the defender shown a second yellow card.
+
+With the man advantage Stoke turned the screw with some incisive breakaways, and Adam was denied a second just before the hour as Lloris got down well to turn his curling effort wide.
+
+Even top scorer Harry Kane could not spark Tottenham out of its lackluster display as he wasted his only chance, and the disappointing afternoon was compounded by Diouf's tap-in from Arnautovic's low cross in the closing minutes.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="411~423" text="Charlie Adam" playerID="null" />
+<Player id="P1" spans="425~439" text="Steven N'Zonzi" playerID="null" />
+<Player id="P2" spans="455~460" text="Diouf" playerID="null" />
+<Player id="P3" spans="515~519" text="Adam" playerID="null" />
+<Player id="P4" spans="613~627" text="Jan Vertonghen" playerID="null" />
+<Player id="P5" spans="633~640" text="N'Zonzi" playerID="null" />
+<Player id="P6" spans="703~714" text="Hugo Lloris" playerID="null" />
+<Player id="P7" spans="719~728" text="Eric Dier" playerID="null" />
+<Player id="P8" spans="787~801" text="Vlad Chiriches" playerID="null" />
+<Player id="P9" spans="987~992" text="Diouf" playerID="null" />
+<Player id="P10" spans="1293~1305" text="Marc Muniesa" playerID="null" />
+<Player id="P11" spans="1372~1383" text="Marc Wilson" playerID="null" />
+<Player id="P12" spans="1469~1475" text="Lloris" playerID="null" />
+<Player id="P13" spans="1541~1557" text="Marko Arnautovic" playerID="null" />
+<Player id="P14" spans="1587~1591" text="Adam" playerID="null" />
+<Player id="P15" spans="1621~1626" text="Diouf" playerID="null" />
+<Player id="P16" spans="1731~1741" text="Vertonghen" playerID="null" />
+<Player id="P17" spans="1746~1750" text="Adam" playerID="null" />
+<Player id="P18" spans="1780~1786" text="Lloris" playerID="null" />
+<Player id="P19" spans="1789~1801" text="Jack Butland" playerID="null" />
+<Player id="P20" spans="1848~1855" text="Muniesa" playerID="null" />
+<Player id="P21" spans="1865~1876" text="Erik Lamela" playerID="null" />
+<Player id="P22" spans="2124~2128" text="Adam" playerID="null" />
+<Player id="P23" spans="2175~2179" text="Dier" playerID="null" />
+<Player id="P24" spans="2184~2190" text="Lloris" playerID="null" />
+<Player id="P25" spans="2254~2261" text="N'Zonzi" playerID="null" />
+<Player id="P26" spans="2308~2325" text="Christian Eriksen" playerID="null" />
+<Player id="P27" spans="2353~2360" text="Butland" playerID="null" />
+<Player id="P28" spans="2483~2492" text="Chiriches" playerID="null" />
+<Player id="P29" spans="2496~2501" text="Diouf" playerID="null" />
+<Player id="P30" spans="2629~2633" text="Adam" playerID="null" />
+<Player id="P31" spans="2678~2684" text="Lloris" playerID="null" />
+<Player id="P32" spans="2749~2759" text="Harry Kane" playerID="null" />
+<Player id="P33" spans="2896~2901" text="Diouf" playerID="null" />
+<Player id="P34" spans="2916~2926" text="Arnautovic" playerID="null" />
+<Coref id="C0" spans="1315~1318" text="his" playerID="null" />
+<Coref id="C1" spans="1666~1669" text="his" playerID="null" />
+<Coref id="C2" spans="1756~1759" text="his" playerID="null" />
+<Coref id="C3" spans="1896~1899" text="his" playerID="null" />
+<Coref id="C4" spans="2707~2710" text="his" playerID="null" />
+<Coref id="C5" spans="2819~2821" text="he" playerID="null" />
+<Coref id="C6" spans="2829~2832" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

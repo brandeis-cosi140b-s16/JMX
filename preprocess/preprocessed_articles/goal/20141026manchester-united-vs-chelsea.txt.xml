@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/manchester-united-vs-chelsea/1703659
+
+Oct 26, 2014 2:22:30 PM
+
+It appeared Chelsea would take all three points but a late goal assured a draw.
+
+Robin van Persie's last-gasp goal rescued a point for Manchester United as Louis van Gaal and Chelsea boss Jose Mourinho shared a 1-1 draw.
+
+The Portuguese looked to be heading for a famous victory against his one-time mentor at Barcelona after Didier Drogba's second-half strike had given Chelsea the lead.
+
+But deep into injury time - and after Branislav Ivanovic had been sent off for a second bookable offense - Van Persie pounced on a half-cleared free-kick to smash home an equalizer.
+
+The point means Chelsea's lead at the Premier League summit is now four points over Southampton, while it is six points better off than Manchester City following the defending champion's 2-1 defeat at West Ham on Saturday. United, meanwhile, got back to winning ways after its lackluster 2-2 draw against West Brom on Monday.
+
+Marouane Fellaini was rewarded from his goalscoring appearance in that game with a start in midfield at the expense of Ander Herrera, while Chris Smalling replaced the injured Phil Jones at center back.
+
+Diego Costa and Loic Remy missed out for Chelsea because of a virus and a groin problem respectively, meaning Drogba played as its attacking spearhead. There was a full league debut for Filipe Luis as regular left back Cesar Azpilicueta began a three-match suspension.
+
+Van Persie led the United attack alone as suspension and injury deprived Van Gaal of Wayne Rooney and Radamel Falcao, and the Dutch striker had his first clear opening in the 23rd minute.
+
+Adnan Januzaj's through ball was threaded through the Chelsea backline but goalkeeper Thibaut Courtois was out quickly to block Van Persie’s effort.
+
+Marcos Rojo and Smalling were fortunate not to be penalized for wrestling John Terry and Ivanovic to the ground in the penalty area from a 36th-minute free-kick and Argentina international Rojo continued a shaky start when his error allowed Drogba to test David de Gea.
+
+Playing against his former club, Juan Mata was afforded plenty of room when Angel Di Maria slid a free kick toward him in first-half stoppage time, but the Spain playmaker shot woefully off target.
+
+Fellaini fired narrowly wide from the edge of the box under pressure at the start of the second half, but Chelsea found the opening goal in the 53rd minute.
+
+After Eden Hazard had cut in from the left flank and exchanged passes with Drogba to draw a superb save from De Gea, the veteran striker escaped Rafael Da Silva's attention at the near post to head home the resulting set piece.
+
+Right back Ivanovic again made his presence felt in the United area with a storming 69th-minute run but pulled his shot wide from an acute angle.
+
+Courtois denied Van Persie with his legs in the 79th minute but the same player gave the Old Trafford faithful a timely reminder of the late drama of the Alex Ferguson years by levelling the match deep into stoppage time.
+
+Ivanovic earned his red card for bringing down Di Maria, who picked himself up to deliver an excellent free kick. Courtois saved well from Fellaini’s header initially, but he was helpless as Van Persie slammed home the rebound to send Van Gaal's men into next weekend's derby against City in high spirits.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="177~193" text="Robin van Persie" playerID="null" />
+<Player id="P1" spans="422~435" text="Didier Drogba" playerID="null" />
+<Player id="P2" spans="524~542" text="Branislav Ivanovic" playerID="null" />
+<Player id="P3" spans="597~603" text="Persie" playerID="null" />
+<Player id="P4" spans="996~1013" text="Marouane Fellaini" playerID="null" />
+<Player id="P5" spans="1115~1128" text="Ander Herrera" playerID="null" />
+<Player id="P6" spans="1136~1150" text="Chris Smalling" playerID="null" />
+<Player id="P7" spans="1172~1182" text="Phil Jones" playerID="null" />
+<Player id="P8" spans="1177~1182" text="Jones" playerID="null" />
+<Player id="P9" spans="1200~1211" text="Diego Costa" playerID="null" />
+<Player id="P10" spans="1216~1225" text="Loic Remy" playerID="null" />
+<Player id="P11" spans="1310~1316" text="Drogba" playerID="null" />
+<Player id="P12" spans="1386~1397" text="Filipe Luis" playerID="null" />
+<Player id="P13" spans="1419~1436" text="Cesar Azpilicueta" playerID="null" />
+<Player id="P14" spans="1474~1480" text="Persie" playerID="null" />
+<Player id="P15" spans="1555~1567" text="Wayne Rooney" playerID="null" />
+<Player id="P16" spans="1580~1586" text="Falcao" playerID="null" />
+<Player id="P17" spans="1659~1672" text="Adnan Januzaj" playerID="null" />
+<Player id="P18" spans="1745~1761" text="Thibaut Courtois" playerID="null" />
+<Player id="P19" spans="1791~1797" text="Persie" playerID="null" />
+<Player id="P20" spans="1809~1820" text="Marcos Rojo" playerID="null" />
+<Player id="P21" spans="1825~1833" text="Smalling" playerID="null" />
+<Player id="P22" spans="1883~1893" text="John Terry" playerID="null" />
+<Player id="P23" spans="1898~1906" text="Ivanovic" playerID="null" />
+<Player id="P24" spans="1998~2002" text="Rojo" playerID="null" />
+<Player id="P25" spans="2050~2056" text="Drogba" playerID="null" />
+<Player id="P26" spans="2065~2077" text="David de Gea" playerID="null" />
+<Player id="P27" spans="2113~2122" text="Juan Mata" playerID="null" />
+<Player id="P28" spans="2156~2170" text="Angel Di Maria" playerID="null" />
+<Player id="P29" spans="2279~2287" text="Fellaini" playerID="null" />
+<Player id="P30" spans="2443~2454" text="Eden Hazard" playerID="null" />
+<Player id="P31" spans="2512~2518" text="Drogba" playerID="null" />
+<Player id="P32" spans="2549~2552" text="Gea" playerID="null" />
+<Player id="P33" spans="2582~2588" text="Rafael" playerID="null" />
+<Player id="P34" spans="2592~2597" text="Silva" playerID="null" />
+<Player id="P35" spans="2677~2685" text="Ivanovic" playerID="null" />
+<Player id="P36" spans="2813~2821" text="Courtois" playerID="null" />
+<Player id="P37" spans="2833~2839" text="Persie" playerID="null" />
+<Player id="P38" spans="2972~2980" text="Ferguson" playerID="null" />
+<Player id="P39" spans="3036~3044" text="Ivanovic" playerID="null" />
+<Player id="P40" spans="3086~3091" text="Maria" playerID="null" />
+<Player id="P41" spans="3150~3158" text="Courtois" playerID="null" />
+<Player id="P42" spans="3175~3183" text="Fellaini" playerID="null" />
+<Player id="P43" spans="3231~3237" text="Persie" playerID="null" />
+<Coref id="C0" spans="383~386" text="his" playerID="null" />
+<Coref id="C1" spans="1032~1035" text="his" playerID="null" />
+<Coref id="C2" spans="1614~1617" text="his" playerID="null" />
+<Coref id="C3" spans="2032~2035" text="his" playerID="null" />
+<Coref id="C4" spans="2096~2099" text="his" playerID="null" />
+<Coref id="C5" spans="2697~2700" text="his" playerID="null" />
+<Coref id="C6" spans="2777~2780" text="his" playerID="null" />
+<Coref id="C7" spans="2845~2848" text="his" playerID="null" />
+<Coref id="C8" spans="3052~3055" text="his" playerID="null" />
+<Coref id="C9" spans="3208~3210" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

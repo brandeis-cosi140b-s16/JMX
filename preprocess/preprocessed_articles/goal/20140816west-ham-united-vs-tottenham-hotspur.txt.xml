@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/west-ham-united-vs-tottenham-hotspur/1703513
+
+Aug 16, 2014 11:54:00 AM
+
+Mauricio Pochettino's reign got off to a winning start as the summer signing from Sporting hit a late winner to end Spurs' dismal run of results against their London rivals
+
+Tottenham debutant Eric Dier struck in injury time to secure a 1-0 opening-day derby win at West Ham in the Premier League.
+
+England Under-21 defender Dier, a close-season acquisition from Sporting Lisbon, found himself on the end of Harry Kane's measured through ball to round goalkeeper Adrian and coolly convert.
+A win looked unlikely for Tottenham, playing under new manager Mauricio Pochettino, when Kyle Naughton was sent off for hand ball in the 29th minute, although Mark Noble missed the resulting penalty.
+
+It was 10-a-side when West Ham defender James Collins collected a second booking in the 63rd minute and both teams pressed in a frantic finale before Dier had the final word.
+
+West Ham's board publicly stated in May that manager Sam Allardyce is under instructions to play a more expansive attacking game this term.
+
+But Tottenham labored during the first half at Upton Park when faced with well-established moves from the Allardyce playbook, as Spurs were bombarded by crosses from set pieces and open play.
+
+New attacking recruits Enner Valencia and Mauro Zarate took their places on the home bench, leaving the familiar face of Carlton Cole to lead the line and he curled an early effort over at the near post.
+
+Cole should have done better when he failed to control a 16th-minute Stewart Downing cross and right-wing deliveries from the former Aston Villa and Liverpool winger caused persistent problems for Tottenham.
+
+Cheikhou Kouyate - one of two West Ham full debutants alongside an assured Aaron Cresswell at left back - and Ricardo Vaz Te headed narrowly off target from Downing deliveries.
+
+Defending corners was also proving highly problematic for Tottenham and, when Naughton blocked with his arm as Kevin Nolan looked to turn home a set-piece knockdown, referee Chris Foy consulted with his assistant and pointed to the spot.
+
+The subsequent red card sparked jubilation at Upton Park, but it was short-lived as the usually reliable Noble stroked his penalty wide.
+
+Aaron Lennon shot over as Spurs offered a rare attacking threat on the break in the 41st minute and there was still time for Kouyate to send a free header into Hugo Lloris' grateful arms before the break - Downing once again the provider.
+
+Downing opted for a more direct route with a stinging 53rd-minute drive that Lloris kept out sharply.
+
+Cresswell made a vital 58th-minute challenge to stop Lennon from converting Danny Rose's low cross at the back post during a disjointed period for the home side, when its numerical edge was not overly apparent.
+
+It was one that did not exist five minutes later when Collins clumsily felled Emmanuel Adebayor to receive his marching orders.
+
+A pitch invader ran on to lob into Adrian's arms as Spurs waited to take the resulting free kick and it served to warm up the West Ham goalkeeper for an impressively athletic stop from substitute Andros Townsend.
+
+Adrian was rooted to the spot when the England winger flashed past his far post with 20 minutes to play, before Noble burst through but fired at Lloris, unable to atone for his earlier error.
+
+The French goalkeeper then displayed razor-sharp reactions to deny Downing from point-blank range, paving the way for Dier's last-gasp winner.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="298~307" text="Eric Dier" playerID="null" />
+<Player id="P1" spans="430~434" text="Dier" playerID="null" />
+<Player id="P2" spans="513~523" text="Harry Kane" playerID="null" />
+<Player id="P3" spans="568~574" text="Adrian" playerID="null" />
+<Player id="P4" spans="684~697" text="Kyle Naughton" playerID="null" />
+<Player id="P5" spans="754~764" text="Mark Noble" playerID="null" />
+<Player id="P6" spans="836~849" text="James Collins" playerID="null" />
+<Player id="P7" spans="946~950" text="Dier" playerID="null" />
+<Player id="P8" spans="1329~1343" text="Enner Valencia" playerID="null" />
+<Player id="P9" spans="1348~1360" text="Mauro Zarate" playerID="null" />
+<Player id="P10" spans="1427~1439" text="Carlton Cole" playerID="null" />
+<Player id="P11" spans="1435~1439" text="Cole" playerID="null" />
+<Player id="P12" spans="1511~1515" text="Cole" playerID="null" />
+<Player id="P13" spans="1580~1595" text="Stewart Downing" playerID="null" />
+<Player id="P14" spans="1720~1736" text="Cheikhou Kouyate" playerID="null" />
+<Player id="P15" spans="1795~1810" text="Aaron Cresswell" playerID="null" />
+<Player id="P16" spans="1830~1844" text="Ricardo Vaz Te" playerID="null" />
+<Player id="P17" spans="1877~1884" text="Downing" playerID="null" />
+<Player id="P18" spans="1976~1984" text="Naughton" playerID="null" />
+<Player id="P19" spans="2009~2020" text="Kevin Nolan" playerID="null" />
+<Player id="P20" spans="2242~2247" text="Noble" playerID="null" />
+<Player id="P21" spans="2275~2287" text="Aaron Lennon" playerID="null" />
+<Player id="P22" spans="2400~2407" text="Kouyate" playerID="null" />
+<Player id="P23" spans="2435~2446" text="Hugo Lloris" playerID="null" />
+<Player id="P24" spans="2481~2488" text="Downing" playerID="null" />
+<Player id="P25" spans="2515~2522" text="Downing" playerID="null" />
+<Player id="P26" spans="2592~2598" text="Lloris" playerID="null" />
+<Player id="P27" spans="2618~2627" text="Cresswell" playerID="null" />
+<Player id="P28" spans="2671~2677" text="Lennon" playerID="null" />
+<Player id="P29" spans="2694~2704" text="Danny Rose" playerID="null" />
+<Player id="P30" spans="2884~2891" text="Collins" playerID="null" />
+<Player id="P31" spans="2908~2925" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P32" spans="2994~3000" text="Adrian" playerID="null" />
+<Player id="P33" spans="3155~3170" text="Andros Townsend" playerID="null" />
+<Player id="P34" spans="3173~3179" text="Adrian" playerID="null" />
+<Player id="P35" spans="3285~3290" text="Noble" playerID="null" />
+<Player id="P36" spans="3318~3324" text="Lloris" playerID="null" />
+<Player id="P37" spans="3433~3440" text="Downing" playerID="null" />
+<Player id="P38" spans="3484~3488" text="Dier" playerID="null" />
+<Coref id="C0" spans="1461~1463" text="he" playerID="null" />
+<Coref id="C1" spans="1545~1547" text="he" playerID="null" />
+<Coref id="C2" spans="1998~2001" text="his" playerID="null" />
+<Coref id="C3" spans="2097~2100" text="his" playerID="null" />
+<Coref id="C4" spans="2256~2259" text="his" playerID="null" />
+<Coref id="C5" spans="2937~2940" text="his" playerID="null" />
+<Coref id="C6" spans="3240~3243" text="his" playerID="null" />
+<Coref id="C7" spans="3346~3349" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

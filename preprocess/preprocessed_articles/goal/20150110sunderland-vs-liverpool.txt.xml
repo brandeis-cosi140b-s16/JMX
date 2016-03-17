@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/sunderland-vs-liverpool/1703909
+
+Jan 10, 2015 9:39:00 AM
+
+The Serb netted his first Premier League goal as Brendan Rodgers' resurgent men extended their unbeaten run in all competitions to seven games.
+
+Lazar Markovic's first Premier League goal earned Liverpool a narrow but comfortable win over struggling Sunderland.
+
+The Serbia international, who was denied an early penalty, opened his top-flight account to break the deadlock in the eighth minute at the Stadium of Light on Saturday with a determined off-the-ball run and finish.
+
+Markovic was at the center of Liverpool's best play and also struck the woodwork with an acrobatic effort, while ex-Sunderland loanee Fabio Borini was wayward with his shot from a tight angle after rounding Costel Pantilimon in a dominant first half for Brendan Rodgers' side.
+
+Liam Bridcutt was sent off early in the second period to make Sunderland's task even harder and, although Adam Johnson struck the crossbar soon afterward, there was no way back for the home side.
+
+Gus Poyet's men now have just one win from their last 11 top-flight matches, while Liverpool is unbeaten in seven in all competitions.
+
+Jordan Henderson and under-fire goalkeeper Simon Mignolet lined up against their former club, as did Borini, who took the place of the rested Raheem Sterling.
+
+The hosts were without Steven Fletcher (groin), while planned replacement Jozy Altidore was sidelined by illness, leaving Connor Wickham up front on his own.
+
+Liverpool started brightly and felt it should have been awarded a penalty when Markovic took a tumble under a clumsy challenge from Wes Brown after four minutes, with referee Craig Pawson unmoved.
+
+But Markovic, one of three Liverpool changes from the New Year's Day draw against Leicester City, soon capped a swift break with the opening goal.
+
+Having initially taken possession out wide on the right, Markovic played the ball inside and continued his run before being picked out by Borini's toe-poked pass. The Serb took that in his stride and bundled through a challenge before steering a shot beneath Pantilimon.
+
+Liverpool continued in the ascendancy and Steven Gerrard, on target twice in Monday's 2-1 FA Cup triumph over AFC Wimbledon, saw two efforts from outside the box tipped behind for corners by Pantilimon.
+
+The Romanian goalkeeper was beaten by Markovic's improvised 29th-minute volley, but the ball came back off the crossbar and went out for a corner via Pantilimon's elbow.
+
+Rodgers' men still had time to spurn another presentable opportunity before the end of the half, as Borini went past Pantilimon only to shoot into the side netting.
+
+Gerrard did not return for the second period as Dejan Lovren came on, but Liverpool was boosted by Bridcutt's dismissal in the 49th minute after he had hauled back Emre Can to earn a second yellow.
+
+Sunderland's best effort on goal arrived two minutes later, when Johnson's swerving effort caught out Mignolet and Martin Skrtel had to be alert to clear the ball after it had come back off the crossbar, with Patrick van Aanholt closing in.
+
+And, though John O'Shea came close to sliding in a late equalizer from Sebastian Larsson's corner, Liverpool looked comfortable in wrapping up three well-deserved points.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="236~250" text="Lazar Markovic" playerID="null" />
+<Player id="P1" spans="570~578" text="Markovic" playerID="null" />
+<Player id="P2" spans="704~716" text="Fabio Borini" playerID="null" />
+<Player id="P3" spans="777~794" text="Costel Pantilimon" playerID="null" />
+<Player id="P4" spans="848~861" text="Liam Bridcutt" playerID="null" />
+<Player id="P5" spans="954~966" text="Adam Johnson" playerID="null" />
+<Player id="P6" spans="1049~1054" text="Poyet" playerID="null" />
+<Player id="P7" spans="1181~1197" text="Jordan Henderson" playerID="null" />
+<Player id="P8" spans="1224~1238" text="Simon Mignolet" playerID="null" />
+<Player id="P9" spans="1282~1288" text="Borini" playerID="null" />
+<Player id="P10" spans="1323~1338" text="Raheem Sterling" playerID="null" />
+<Player id="P11" spans="1364~1379" text="Steven Fletcher" playerID="null" />
+<Player id="P12" spans="1415~1428" text="Jozy Altidore" playerID="null" />
+<Player id="P13" spans="1463~1477" text="Connor Wickham" playerID="null" />
+<Player id="P14" spans="1579~1587" text="Markovic" playerID="null" />
+<Player id="P15" spans="1632~1641" text="Wes Brown" playerID="null" />
+<Player id="P16" spans="1636~1641" text="Brown" playerID="null" />
+<Player id="P17" spans="1702~1710" text="Markovic" playerID="null" />
+<Player id="P18" spans="1903~1911" text="Markovic" playerID="null" />
+<Player id="P19" spans="1984~1990" text="Borini" playerID="null" />
+<Player id="P20" spans="2105~2115" text="Pantilimon" playerID="null" />
+<Player id="P21" spans="2160~2174" text="Steven Gerrard" playerID="null" />
+<Player id="P22" spans="2309~2319" text="Pantilimon" playerID="null" />
+<Player id="P23" spans="2360~2368" text="Markovic" playerID="null" />
+<Player id="P24" spans="2472~2482" text="Pantilimon" playerID="null" />
+<Player id="P25" spans="2593~2599" text="Borini" playerID="null" />
+<Player id="P26" spans="2610~2620" text="Pantilimon" playerID="null" />
+<Player id="P27" spans="2659~2666" text="Gerrard" playerID="null" />
+<Player id="P28" spans="2707~2719" text="Dejan Lovren" playerID="null" />
+<Player id="P29" spans="2758~2766" text="Bridcutt" playerID="null" />
+<Player id="P30" spans="2823~2831" text="Emre Can" playerID="null" />
+<Player id="P31" spans="2923~2930" text="Johnson" playerID="null" />
+<Player id="P32" spans="2960~2968" text="Mignolet" playerID="null" />
+<Player id="P33" spans="2973~2986" text="Martin Skrtel" playerID="null" />
+<Player id="P34" spans="3067~3086" text="Patrick van Aanholt" playerID="null" />
+<Player id="P35" spans="3112~3123" text="John O'Shea" playerID="null" />
+<Player id="P36" spans="3171~3188" text="Sebastian Larsson" playerID="null" />
+<Coref id="C0" spans="107~110" text="his" playerID="null" />
+<Coref id="C1" spans="420~423" text="his" playerID="null" />
+<Coref id="C2" spans="734~737" text="his" playerID="null" />
+<Coref id="C3" spans="1490~1493" text="his" playerID="null" />
+<Coref id="C4" spans="1949~1952" text="his" playerID="null" />
+<Coref id="C5" spans="2031~2034" text="his" playerID="null" />
+<Coref id="C6" spans="2804~2806" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

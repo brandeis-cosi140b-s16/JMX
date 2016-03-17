@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-sunderland/1703931
+
+Jan 17, 2015 11:52:00 AM
+
+Sebastian Larsson's free kick looked set to seal a point for the Black Cats, only for the former Ajax man to strike for Mauricio Pochettino's side
+
+Christian Eriksen struck late on as Tottenham maintained its bid for a Champions League berth with a 2-1 victory over Sunderland.
+
+Spurs took the lead after just three minutes when a poor clearance allowed Jan Vertonghen to power home a deflected strike, before the Belgian then gave away a free kick from which Sebastian Larsson curled home a wonderful 31st-minute equalizer.
+
+Harry Kane rattled the post before the break as Tottenham applied some pressure, but it was Eriksen who won it for the hosts with two minutes to play.
+
+It could even have been three late on, but Vertonghen had an effort ruled out for offside, despite appearing to be in his own half when he collected the ball.
+
+All eyes in the build-up were on Jermain Defoe, who was thrust immediately into the fray against his former club.
+
+His arrival is designed to boost Sunderland’s attacking options, with Gus Poyet's side starting the game with just 18 goals in 21 Premier League games - the second worst record in the division, behind only Aston Villa.
+
+However, Sunderland's problems at the other end of the pitch were exposed after just three minutes. Eriksen's cross was cleared only as far as Vertonghen, whose shot inside the area took a wicked deflection off John O'Shea to wrong-foot goalkeeper Costel Pantilimon.
+
+Tottenham continued to press, as Eriksen forced a smart save from the Romanian 15 minutes later with a firm drive, before Roberto Soldado - who retained his place after the FA Cup win over Burnley - saw an effort smothered after being played in by Vertonghen's long ball.
+
+Sunderland grew in confidence and drew level just after 30 minutes when Larsson curled home a wonderful 30-yard free kick after Defoe had been brought down by Vertonghen.
+
+Kane nearly marked his return to the Tottenham side with a goal on the stroke of halftime, only for his drilled effort on the edge of the area to cannon back off the post.
+
+Kane set up Soldado two minutes after the restart, firing a low cross from the right that just eluded the Spaniard at the far post.
+
+Soldado was soon replaced by Emmanuel Adebayor as Mauricio Pochettino's men searched for another breakthrough, but Sunderland remained firm to keep the score even.
+
+Nacer Chadli did manage to test Pantilimon seven minutes later with a well-placed half-volley on the edge of the area, before Adebayor forced a simple save with a tame left-footed volley.
+
+Defoe, meanwhile, was withdrawn with 15 minutes left to be replaced by Danny Graham.
+
+With two minutes left Tottenham's industry finally paid dividends when a wonderful counterattacking run from substitute Andros Townsend allowed him to pick out Eriksen on edge of the area, and his lashed effort clipped the post on its way in.
+
+It was nearly made even better for Pochettino's men before the final whistle, as Pantilimon's decision to go up for a corner allowed Vertonghen to break and finish into an empty net, only to be contentiously ruled out for offside when he appeared to have taken the ball from his own half.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="100~117" text="Sebastian Larsson" playerID="null" />
+<Player id="P1" spans="248~265" text="Christian Eriksen" playerID="null" />
+<Player id="P2" spans="454~468" text="Jan Vertonghen" playerID="null" />
+<Player id="P3" spans="560~577" text="Sebastian Larsson" playerID="null" />
+<Player id="P4" spans="626~636" text="Harry Kane" playerID="null" />
+<Player id="P5" spans="718~725" text="Eriksen" playerID="null" />
+<Player id="P6" spans="821~831" text="Vertonghen" playerID="null" />
+<Player id="P7" spans="971~984" text="Jermain Defoe" playerID="null" />
+<Player id="P8" spans="1127~1132" text="Poyet" playerID="null" />
+<Player id="P9" spans="1373~1380" text="Eriksen" playerID="null" />
+<Player id="P10" spans="1416~1426" text="Vertonghen" playerID="null" />
+<Player id="P11" spans="1484~1495" text="John O'Shea" playerID="null" />
+<Player id="P12" spans="1521~1538" text="Costel Pantilimon" playerID="null" />
+<Player id="P13" spans="1574~1581" text="Eriksen" playerID="null" />
+<Player id="P14" spans="1663~1678" text="Roberto Soldado" playerID="null" />
+<Player id="P15" spans="1789~1799" text="Vertonghen" playerID="null" />
+<Player id="P16" spans="1886~1893" text="Larsson" playerID="null" />
+<Player id="P17" spans="1942~1947" text="Defoe" playerID="null" />
+<Player id="P18" spans="1973~1983" text="Vertonghen" playerID="null" />
+<Player id="P19" spans="1986~1990" text="Kane" playerID="null" />
+<Player id="P20" spans="2159~2163" text="Kane" playerID="null" />
+<Player id="P21" spans="2171~2178" text="Soldado" playerID="null" />
+<Player id="P22" spans="2292~2299" text="Soldado" playerID="null" />
+<Player id="P23" spans="2321~2338" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P24" spans="2457~2469" text="Nacer Chadli" playerID="null" />
+<Player id="P25" spans="2489~2499" text="Pantilimon" playerID="null" />
+<Player id="P26" spans="2583~2591" text="Adebayor" playerID="null" />
+<Player id="P27" spans="2646~2651" text="Defoe" playerID="null" />
+<Player id="P28" spans="2717~2729" text="Danny Graham" playerID="null" />
+<Player id="P29" spans="2852~2867" text="Andros Townsend" playerID="null" />
+<Player id="P30" spans="2892~2899" text="Eriksen" playerID="null" />
+<Player id="P31" spans="3057~3067" text="Pantilimon" playerID="null" />
+<Player id="P32" spans="3109~3119" text="Vertonghen" playerID="null" />
+<Coref id="C0" spans="896~899" text="his" playerID="null" />
+<Coref id="C1" spans="914~916" text="he" playerID="null" />
+<Coref id="C2" spans="1035~1038" text="his" playerID="null" />
+<Coref id="C3" spans="1053~1056" text="His" playerID="null" />
+<Coref id="C4" spans="1694~1697" text="his" playerID="null" />
+<Coref id="C5" spans="2005~2008" text="his" playerID="null" />
+<Coref id="C6" spans="2086~2089" text="his" playerID="null" />
+<Coref id="C7" spans="2925~2928" text="his" playerID="null" />
+<Coref id="C8" spans="3211~3213" text="he" playerID="null" />
+<Coref id="C9" spans="3251~3254" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

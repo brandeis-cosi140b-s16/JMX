@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/arsenal-vs-liverpool/1704095
+
+Apr 4, 2015 9:41:02 AM
+
+With all eyes on Raheem Sterling, Arsenal sent a message of intent with a 4-1 Premier League win over Liverpool on Saturday.
+
+Arsenal's stunning eight-minute first-half spell stole the spotlight from Raheem Sterling as the hosts moved into second place with a 4-1 Premier League win over Liverpool.
+
+The Emirates Stadium faithful were treated to three goals shortly before the break as Arsene Wenger's claims of still being in the title race gained substantial credibility, with his side having now won 10 of its last 11 top-flight games.
+
+Hector Bellerin was the unlikely scorer of the 37th-minute opener and his curled effort sparked a match-winning period of dominance. Mesut Ozil was next to contribute, shrugging off reports about his off-field activities to arrow home a stunning free kick, with Alexis Sanchez completing a sobering end to the half for Brendan Rodgers' Liverpool.
+
+Sterling won a penalty late in the second half, converted by Jordan Henderson, but there was no way back as Liverpool's UEFA Champions League hopes were left hanging by a thread — the visitors' disappointing afternoon compounded when Emre Can was dismissed and Olivier Giroud added a fourth in stoppage time.
+
+And yet the script could have read so differently if Lazar Markovic had found his passing touch in the 20th minute, when he failed to supply the ammunition for Sterling — starting up front in place of Daniel Sturridge — to net what would have been a simple finish.
+
+Sterling dominated the headlines in the buildup to the match, having publicly discussed his contract situation at Liverpool and declared himself "flattered" by links to Arsenal.
+
+But it was Arsenal that started much brighter as the visitors nervily conceded possession in dangerous areas early on. Joe Allen was the first to err inside 30 seconds, giving the ball away when facing his own goal, with Sanchez ultimately shooting wide from 20 yards. Simon Mignolet was called upon to save from Santi Cazorla and then Aaron Ramsey, the latter having been sent clear by former Arsenal man Kolo Toure's mistake.
+
+Liverpool's moment came and went when Markovic drew the attention of David Ospina, only to fluff his lines in playing a simple square pass for Sterling — the ball narrowly eluding the forward with only the unguarded net in front of him.
+
+It heralded a promising spell of play for Rodgers' men, in which Sterling fired wide and Henderson was agonizingly close to collecting a cross from the 20-year-old inside the box.
+
+Having failed to make that pressure count, Liverpool was punished three times in quick succession. First, Bellerin cut in from the right to curl a shot past Mignolet, who then saw Ozil's precise free kick sail into the same corner three minutes later.
+
+And the match as a contest was effectively ended when Sanchez rifled home from the edge of the box, with questions to answer for Mignolet, who appeared to be caught flat-footed.
+
+Sturridge was introduced for Markovic at the break, but Arsenal continued to force the issue — the in-form Giroud's header forcing an excellent save from Mignolet.
+
+Ospina denied Can at the other end before Sterling was hacked down in the box by Bellerin, who was fortunate not to be shown a second yellow.
+
+Henderson just squeezed his 76th-minute spot kick past Ospina, but Liverpool's hopes of a comeback were dashed when Can lunged in on Danny Welbeck to earn his marching orders, with Giroud's 10th goal in as many matches wrapping up an excellent afternoon for Arsenal.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="104~119" text="Raheem Sterling" playerID="null" />
+<Player id="P1" spans="287~302" text="Raheem Sterling" playerID="null" />
+<Player id="P2" spans="627~642" text="Hector Bellerin" playerID="null" />
+<Player id="P3" spans="760~770" text="Mesut Ozil" playerID="null" />
+<Player id="P4" spans="889~903" text="Alexis Sanchez" playerID="null" />
+<Player id="P5" spans="896~903" text="Sanchez" playerID="null" />
+<Player id="P6" spans="975~983" text="Sterling" playerID="null" />
+<Player id="P7" spans="1036~1052" text="Jordan Henderson" playerID="null" />
+<Player id="P8" spans="1209~1217" text="Emre Can" playerID="null" />
+<Player id="P9" spans="1236~1250" text="Olivier Giroud" playerID="null" />
+<Player id="P10" spans="1338~1352" text="Lazar Markovic" playerID="null" />
+<Player id="P11" spans="1445~1453" text="Sterling" playerID="null" />
+<Player id="P12" spans="1486~1502" text="Daniel Sturridge" playerID="null" />
+<Player id="P13" spans="1551~1559" text="Sterling" playerID="null" />
+<Player id="P14" spans="1849~1858" text="Joe Allen" playerID="null" />
+<Player id="P15" spans="1951~1958" text="Sanchez" playerID="null" />
+<Player id="P16" spans="1999~2013" text="Simon Mignolet" playerID="null" />
+<Player id="P17" spans="2043~2056" text="Santi Cazorla" playerID="null" />
+<Player id="P18" spans="2066~2078" text="Aaron Ramsey" playerID="null" />
+<Player id="P19" spans="2136~2146" text="Kolo Toure" playerID="null" />
+<Player id="P20" spans="2197~2205" text="Markovic" playerID="null" />
+<Player id="P21" spans="2228~2240" text="David Ospina" playerID="null" />
+<Player id="P22" spans="2302~2310" text="Sterling" playerID="null" />
+<Player id="P23" spans="2462~2470" text="Sterling" playerID="null" />
+<Player id="P24" spans="2486~2495" text="Henderson" playerID="null" />
+<Player id="P25" spans="2684~2692" text="Bellerin" playerID="null" />
+<Player id="P26" spans="2735~2743" text="Mignolet" playerID="null" />
+<Player id="P27" spans="2758~2762" text="Ozil" playerID="null" />
+<Player id="P28" spans="2885~2892" text="Sanchez" playerID="null" />
+<Player id="P29" spans="2960~2968" text="Mignolet" playerID="null" />
+<Player id="P30" spans="3010~3019" text="Sturridge" playerID="null" />
+<Player id="P31" spans="3039~3047" text="Markovic" playerID="null" />
+<Player id="P32" spans="3117~3123" text="Giroud" playerID="null" />
+<Player id="P33" spans="3164~3172" text="Mignolet" playerID="null" />
+<Player id="P34" spans="3175~3181" text="Ospina" playerID="null" />
+<Player id="P35" spans="3189~3192" text="Can" playerID="null" />
+<Player id="P36" spans="3217~3225" text="Sterling" playerID="null" />
+<Player id="P37" spans="3256~3264" text="Bellerin" playerID="null" />
+<Player id="P38" spans="3318~3327" text="Henderson" playerID="null" />
+<Player id="P39" spans="3373~3379" text="Ospina" playerID="null" />
+<Player id="P40" spans="3434~3437" text="Can" playerID="null" />
+<Player id="P41" spans="3451~3464" text="Danny Welbeck" playerID="null" />
+<Player id="P42" spans="3499~3505" text="Giroud" playerID="null" />
+<Coref id="C0" spans="566~569" text="his" playerID="null" />
+<Coref id="C1" spans="697~700" text="his" playerID="null" />
+<Coref id="C2" spans="823~826" text="his" playerID="null" />
+<Coref id="C3" spans="1363~1366" text="his" playerID="null" />
+<Coref id="C4" spans="1406~1408" text="he" playerID="null" />
+<Coref id="C5" spans="1639~1642" text="his" playerID="null" />
+<Coref id="C6" spans="1932~1935" text="his" playerID="null" />
+<Coref id="C7" spans="2256~2259" text="his" playerID="null" />
+<Coref id="C8" spans="3342~3345" text="his" playerID="null" />
+<Coref id="C9" spans="3473~3476" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

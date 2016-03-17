@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/manchester-united-vs-liverpool/1703807
+
+Dec 14, 2014 10:21:00 AM
+
+The Red Devils continued their recent surge with a convincing win over Brendan Rodgers' struggling side.
+
+Manchester United secured a sixth consecutive Premier League victory by beating bitter rival Liverpool 3-0 at Old Trafford.
+
+Wayne Rooney netted a ninth goal in his last eight appearances on home turf to give United a 12th-minute lead, 25 seconds after Raheem Sterling passed up a fine opportunity to put Liverpool ahead.
+
+Louis van Gaal's men doubled their advantage in controversial circumstances after 40 minutes as Juan Mata stooped to score from Robin van Persie's flick — replays clearly showing the Spaniard to be offside.
+
+Liverpool created the clearer openings over the course of the contest but poor finishing from Sterling and Mario Balotelli — plus another brilliant display from United goalkeeper David de Gea — served to frustrate it before Van Persie completed the scoring with a little over 20 minutes left.
+
+The result piles more misery on Liverpool boss Brendan Rodgers, who saw his team crash out of the UEFA Champions League midweek, while for United, it acts as a measure of revenge for the 3-0 defeat suffered in last season's corresponding fixture.
+
+Brad Jones played a first Premier League game in almost two years Liverpool as under-fire No. 1 Simon Mignolet dropped to the bench, where Balotelli was named having overcome a groin injury.
+
+The intrigue in the United lineup came at the other end of the pitch as youngster James Wilson was selected to partner Van Persie up front, with Rooney playing a supporting role in an attacking lineup.
+
+Marouane Fellaini collected a worryingly early booking for clattering through Adam Lallana but the England international recovered to thread a deft through ball for Sterling to draw a first save of the match from De Gea in the 12th minute.
+
+United surged back at Liverpool immediately to open the scoring — Antonio Valencia nutmegging Joe Allen and picking out Rooney, who was afforded ample room to steer home side-footed from 16 yards.
+
+De Gea held a deflected drive from Steven Gerrard as Liverpool looked to regain its footing and Sterling gave the Spain goalkeeper a more taxing save when he skipped past Phil Jones in the 23rd minute.
+
+The visitors were then forced into a defensive change, Glen Johnson hobbling off to be replaced by Kolo Toure, and they fell 2-0 behind five minutes before the interval.
+
+Ashley Young cut back to cross right-footed and Van Persie glanced on for Mata to nod home from an offside position, but the goal stood.
+
+Balotelli came on for Lallana at the break and Jordan Henderson headed Sterling's left-wing center wastefully over as Liverpool sought a quick response.
+
+Sterling then spurned his team's clearest opportunity of the match, allowing De Gea to block after Jonny Evans' wretched backpass sold his goalkeeper short.
+
+Van Persie should have put the result beyond doubt after the hour when he side-footed wide from Valencia's excellent low delivery, and De Gea's finest moment arrived midway through the second period as he touched Balotelli's snapshot onto the crossbar with a stunning reaction save.
+
+With 18 minutes remaining, Van Persie atoned for his earlier miss as Mata gave him a simple finish after Dejan Lovren woefully misjudged a clearance.
+
+Balotelli was twice frustrated by De Gea from close range once more before Jones produced a save to compare with his opposite number's collection in the 87th minute, as Van Persie smashed toward the roof of the net.
+
+Challenging for a top-four place to return to European football's top table next season looks an increasingly tall order for Liverpool, which sits ninth — 10 points behind United in third.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="330~342" text="Wayne Rooney" playerID="null" />
+<Player id="P1" spans="458~473" text="Raheem Sterling" playerID="null" />
+<Player id="P2" spans="624~633" text="Juan Mata" playerID="null" />
+<Player id="P3" spans="656~672" text="Robin van Persie" playerID="null" />
+<Player id="P4" spans="830~838" text="Sterling" playerID="null" />
+<Player id="P5" spans="843~858" text="Mario Balotelli" playerID="null" />
+<Player id="P6" spans="915~927" text="David de Gea" playerID="null" />
+<Player id="P7" spans="964~970" text="Persie" playerID="null" />
+<Player id="P8" spans="1278~1288" text="Brad Jones" playerID="null" />
+<Player id="P9" spans="1283~1288" text="Jones" playerID="null" />
+<Player id="P10" spans="1374~1388" text="Simon Mignolet" playerID="null" />
+<Player id="P11" spans="1417~1426" text="Balotelli" playerID="null" />
+<Player id="P12" spans="1552~1564" text="James Wilson" playerID="null" />
+<Player id="P13" spans="1558~1564" text="Wilson" playerID="null" />
+<Player id="P14" spans="1593~1599" text="Persie" playerID="null" />
+<Player id="P15" spans="1615~1621" text="Rooney" playerID="null" />
+<Player id="P16" spans="1673~1690" text="Marouane Fellaini" playerID="null" />
+<Player id="P17" spans="1751~1763" text="Adam Lallana" playerID="null" />
+<Player id="P18" spans="1838~1846" text="Sterling" playerID="null" />
+<Player id="P19" spans="1889~1892" text="Gea" playerID="null" />
+<Player id="P20" spans="1980~1996" text="Antonio Valencia" playerID="null" />
+<Player id="P21" spans="1988~1996" text="Valencia" playerID="null" />
+<Player id="P22" spans="2008~2017" text="Joe Allen" playerID="null" />
+<Player id="P23" spans="2034~2040" text="Rooney" playerID="null" />
+<Player id="P24" spans="2115~2118" text="Gea" playerID="null" />
+<Player id="P25" spans="2147~2161" text="Steven Gerrard" playerID="null" />
+<Player id="P26" spans="2208~2216" text="Sterling" playerID="null" />
+<Player id="P27" spans="2283~2293" text="Phil Jones" playerID="null" />
+<Player id="P28" spans="2288~2293" text="Jones" playerID="null" />
+<Player id="P29" spans="2370~2382" text="Glen Johnson" playerID="null" />
+<Player id="P30" spans="2375~2382" text="Johnson" playerID="null" />
+<Player id="P31" spans="2414~2424" text="Kolo Toure" playerID="null" />
+<Player id="P32" spans="2486~2498" text="Ashley Young" playerID="null" />
+<Player id="P33" spans="2538~2544" text="Persie" playerID="null" />
+<Player id="P34" spans="2560~2564" text="Mata" playerID="null" />
+<Player id="P35" spans="2624~2633" text="Balotelli" playerID="null" />
+<Player id="P36" spans="2646~2653" text="Lallana" playerID="null" />
+<Player id="P37" spans="2671~2687" text="Jordan Henderson" playerID="null" />
+<Player id="P38" spans="2695~2703" text="Sterling" playerID="null" />
+<Player id="P39" spans="2778~2786" text="Sterling" playerID="null" />
+<Player id="P40" spans="2858~2861" text="Gea" playerID="null" />
+<Player id="P41" spans="2877~2888" text="Jonny Evans" playerID="null" />
+<Player id="P42" spans="2940~2946" text="Persie" playerID="null" />
+<Player id="P43" spans="3032~3040" text="Valencia" playerID="null" />
+<Player id="P44" spans="3074~3077" text="Gea" playerID="null" />
+<Player id="P45" spans="3149~3158" text="Balotelli" playerID="null" />
+<Player id="P46" spans="3251~3257" text="Persie" playerID="null" />
+<Player id="P47" spans="3289~3293" text="Mata" playerID="null" />
+<Player id="P48" spans="3325~3337" text="Dejan Lovren" playerID="null" />
+<Player id="P49" spans="3371~3380" text="Balotelli" playerID="null" />
+<Player id="P50" spans="3408~3411" text="Gea" playerID="null" />
+<Player id="P51" spans="3446~3451" text="Jones" playerID="null" />
+<Player id="P52" spans="3544~3550" text="Persie" playerID="null" />
+<Coref id="C0" spans="366~369" text="his" playerID="null" />
+<Coref id="C1" spans="1102~1105" text="his" playerID="null" />
+<Coref id="C2" spans="2267~2269" text="he" playerID="null" />
+<Coref id="C3" spans="2800~2803" text="his" playerID="null" />
+<Coref id="C4" spans="2913~2916" text="his" playerID="null" />
+<Coref id="C5" spans="3007~3009" text="he" playerID="null" />
+<Coref id="C6" spans="3138~3140" text="he" playerID="null" />
+<Coref id="C7" spans="3269~3272" text="his" playerID="null" />
+<Coref id="C8" spans="3484~3487" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

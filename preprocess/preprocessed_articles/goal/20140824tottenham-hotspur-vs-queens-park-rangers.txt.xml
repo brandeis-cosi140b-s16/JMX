@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-queens-park-rangers/1703533
+
+Aug 24, 2014 10:22:00 AM
+
+Eric Dier and Emmanuel Adebayor also scored in a convincing London derby win against the former Spurs boss.
+
+Tottenham romped to a 4-0 victory against former Spurs boss Harry Redknapp's QPR on Sunday afternoon.
+
+Nacer Chadli opened the scoring after combining with Emmanuel Adebayor before Eric Dier scored his second goal in as many games on the half-hour mark.
+
+Chadli bagged his second of the game before halftime and Adebayor converted a Ben Davies cross to wrap up the win after the break.
+
+The result sees Tottenham maintain its winning start to the 2014-15 campaign, while QPR is left searching for its first points since returning to the top flight.
+
+Redknapp handed debuts to Mauricio Isla — on loan from Juventus — and Leroy Fer, who arrived from Norwich City earlier this week, while Erik Lamela made his first Premier League start at White Hart Lane, six days short of a year since he became Tottenham's record signing.
+
+It was the home side that applied all of the pressure early — Adebayor nodding narrowly over from a Nabil Bentaleb cross — and it was not long before Spurs were in front.
+
+Adebayor turned provider as he dinked a cross in from the left, and Chadli took the ball down wonderfully on his chest before poking it beyond Robert Green in the QPR net.
+
+QPR was giving Tottenham far too much space, and Pochettino's men could have been further in front two minutes later had Adebayor capped off a swift counterattacking move with a better finish.
+
+It was becoming clear that QPR would need to make the best of any opportunities that fell its way.
+
+However, when Matt Phillips cut inside Younes Kaboul in the penalty area after meeting a long-range pass, he fluffed the finish by clearing the crossbar.
+
+The visitors were very nearly punished moments later when Christian Eriksen rattled the crossbar from a 25-yard free kick, but Dier then powered home a header, leaving a glum-looking Redknapp scratching his head on the QPR bench.
+
+Chadli doubled his tally seven minutes later, placing a header into the bottom-left corner from a chipped Lamela cross after a rampant Tottenham had strung together an incredible 48 passes in the buildup.
+
+Steven Caulker got a rare glimpse at goal for QPR shortly after the break, but placed his header a yard wide of the right-hand post from a corner, before Adebayor slid the ball past Green for a fourth after being teed up by Danny Rose.
+
+Rose almost gave QPR a hand nine minutes from time when he diverted the ball into his own net, but the referee disallowed the goal, leaving the visitors to mull over a dismal performance in which they rarely looked like troubling Tottenham goalkeeper Hugo Lloris.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="109~118" text="Eric Dier" playerID="null" />
+<Player id="P1" spans="123~140" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P2" spans="321~333" text="Nacer Chadli" playerID="null" />
+<Player id="P3" spans="374~391" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P4" spans="399~408" text="Eric Dier" playerID="null" />
+<Player id="P5" spans="473~479" text="Chadli" playerID="null" />
+<Player id="P6" spans="530~538" text="Adebayor" playerID="null" />
+<Player id="P7" spans="551~561" text="Ben Davies" playerID="null" />
+<Player id="P8" spans="794~807" text="Mauricio Isla" playerID="null" />
+<Player id="P9" spans="838~847" text="Leroy Fer" playerID="null" />
+<Player id="P10" spans="904~915" text="Erik Lamela" playerID="null" />
+<Player id="P11" spans="961~965" text="Hart" playerID="null" />
+<Player id="P12" spans="1104~1112" text="Adebayor" playerID="null" />
+<Player id="P13" spans="1142~1156" text="Nabil Bentaleb" playerID="null" />
+<Player id="P14" spans="1214~1222" text="Adebayor" playerID="null" />
+<Player id="P15" spans="1282~1288" text="Chadli" playerID="null" />
+<Player id="P16" spans="1357~1369" text="Robert Green" playerID="null" />
+<Player id="P17" spans="1508~1516" text="Adebayor" playerID="null" />
+<Player id="P18" spans="1695~1708" text="Matt Phillips" playerID="null" />
+<Player id="P19" spans="1720~1733" text="Younes Kaboul" playerID="null" />
+<Player id="P20" spans="1894~1911" text="Christian Eriksen" playerID="null" />
+<Player id="P21" spans="1963~1967" text="Dier" playerID="null" />
+<Player id="P22" spans="2067~2073" text="Chadli" playerID="null" />
+<Player id="P23" spans="2173~2179" text="Lamela" playerID="null" />
+<Player id="P24" spans="2273~2287" text="Steven Caulker" playerID="null" />
+<Player id="P25" spans="2427~2435" text="Adebayor" playerID="null" />
+<Player id="P26" spans="2455~2460" text="Green" playerID="null" />
+<Player id="P27" spans="2497~2507" text="Danny Rose" playerID="null" />
+<Player id="P28" spans="2510~2514" text="Rose" playerID="null" />
+<Player id="P29" spans="2761~2772" text="Hugo Lloris" playerID="null" />
+<Coref id="C0" spans="416~419" text="his" playerID="null" />
+<Coref id="C1" spans="487~490" text="his" playerID="null" />
+<Coref id="C2" spans="921~924" text="his" playerID="null" />
+<Coref id="C3" spans="1003~1005" text="he" playerID="null" />
+<Coref id="C4" spans="1242~1244" text="he" playerID="null" />
+<Coref id="C5" spans="1323~1326" text="his" playerID="null" />
+<Coref id="C6" spans="1787~1789" text="he" playerID="null" />
+<Coref id="C7" spans="2039~2042" text="his" playerID="null" />
+<Coref id="C8" spans="2082~2085" text="his" playerID="null" />
+<Coref id="C9" spans="2359~2362" text="his" playerID="null" />
+<Coref id="C10" spans="2566~2568" text="he" playerID="null" />
+<Coref id="C11" spans="2592~2595" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

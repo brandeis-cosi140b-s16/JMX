@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.goal.com/en-us/match/tottenham-hotspur-vs-west-bromwich-albion/1703591
+
+Sep 21, 2014 10:20:00 AM
+
+Despite dominating possession, the host managed just one shot on target as it fell to defeat against a hard-working Baggies side that moved off the bottom of the table.
+
+West Brom earned its first win of the new Premier League season, defeating Tottenham 1-0 at White Hart Lane on Sunday.
+
+The Hawthorns club has endured a mixed start to life under Alan Irvine, but answered its critics with a defiant performance that was capped off with a headed goal from James Morrison.
+
+The Scotland international nodded home a 74th-minute corner from Chris Brunt - who received strong criticism from fans for his performance in the defeat to Everton last weekend - and West Brom held onto the lead despite a spirited effort from the host.
+
+Tottenham was unchanged from its draw with Sunderland last weekend having rotated heavily in Europe in midweek, while Joleon Lescott was handed his debut in defense as Irvine made two changes to his team.
+ 
+But it was Lescott's defensive colleague Craig Dawson who almost made the first telling contribution to the match, nodding narrowly over after finding himself stationed high up the pitch following a corner.
+ 
+The host was then given another early warning when Saido Berahino latched onto a ball over the top but took himself too wide to trouble the goalkeeper with a poor initial touch.
+ 
+Tottenham showed plenty of attacking promise of its own in the opening stages, yet it was the visitor which arguably had the best of the chances.
+ 
+Lescott was unfortunate to miss out on a debut goal when Dawson accidentally blocked his shot from close range, while Craig Gardner brought an excellent save from Hugo Lloris with a shot from distance.
+ 
+And West Brom then had a legitimate claim for a penalty turned down when Dawson's header appeared to strike Emmanuel Adebayor's hand.
+ 
+Spurs eventually rallied, and only a remarkable recovery tackle from Lescott prevented Adebayor from making a more positive impression at the other end moments after his fortunate escape.
+ 
+But the visitor thought it had broken the deadlock before halftime when Berahino turned the ball home only to see it ruled out after a marginal offside call.
+
+Berahino was also involved in the first truly threatening moment of the second half as he punctuated an end-to-end passage of play by cutting inside Vlad Chiriches before stinging Lloris' palms with a left-footed drive.
+
+Unsurprisingly, Mauricio Pochettino had seen enough, and he was prompted into a double change that saw Mousa Dembele and Nacer Chadli make way for Paulinho and Roberto Soldado.
+
+The Tottenham boss almost was immediately rewarded when only some brave goalkeeping from Ben Foster prevented Soldado from capitalizing on a spill in the box.
+
+The teams continued to exchange chances with Morrison and Soldado testing Lloris and Foster respectively as the game opened up.
+
+But it was a set piece, rather than a swashbuckling counter, that handed West Brom the lead, with Morrison finding acres of space from Brunt's corner to head in unmarked.
+
+Tottenham pushed hard to get back on terms before the final whistle, but the visitors' obstinate back line could not be shaken.
+
+And that was typified by a marvellous headed clearance on the goalline from Dawson at the death that saw West Brom keep hold of all three points.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="377~381" text="Hart" playerID="null" />
+<Player id="P1" spans="567~581" text="James Morrison" playerID="null" />
+<Player id="P2" spans="649~660" text="Chris Brunt" playerID="null" />
+<Player id="P3" spans="956~970" text="Joleon Lescott" playerID="null" />
+<Player id="P4" spans="1056~1063" text="Lescott" playerID="null" />
+<Player id="P5" spans="1086~1098" text="Craig Dawson" playerID="null" />
+<Player id="P6" spans="1305~1319" text="Saido Berahino" playerID="null" />
+<Player id="P7" spans="1582~1589" text="Lescott" playerID="null" />
+<Player id="P8" spans="1639~1645" text="Dawson" playerID="null" />
+<Player id="P9" spans="1700~1713" text="Craig Gardner" playerID="null" />
+<Player id="P10" spans="1745~1756" text="Hugo Lloris" playerID="null" />
+<Player id="P11" spans="1859~1865" text="Dawson" playerID="null" />
+<Player id="P12" spans="1894~1911" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P13" spans="1991~1998" text="Lescott" playerID="null" />
+<Player id="P14" spans="2009~2017" text="Adebayor" playerID="null" />
+<Player id="P15" spans="2184~2192" text="Berahino" playerID="null" />
+<Player id="P16" spans="2271~2279" text="Berahino" playerID="null" />
+<Player id="P17" spans="2420~2434" text="Vlad Chiriches" playerID="null" />
+<Player id="P18" spans="2451~2457" text="Lloris" playerID="null" />
+<Player id="P19" spans="2601~2608" text="Dembele" playerID="null" />
+<Player id="P20" spans="2613~2625" text="Nacer Chadli" playerID="null" />
+<Player id="P21" spans="2639~2647" text="Paulinho" playerID="null" />
+<Player id="P22" spans="2652~2667" text="Roberto Soldado" playerID="null" />
+<Player id="P23" spans="2759~2769" text="Ben Foster" playerID="null" />
+<Player id="P24" spans="2780~2787" text="Soldado" playerID="null" />
+<Player id="P25" spans="2875~2883" text="Morrison" playerID="null" />
+<Player id="P26" spans="2888~2895" text="Soldado" playerID="null" />
+<Player id="P27" spans="2904~2910" text="Lloris" playerID="null" />
+<Player id="P28" spans="2915~2921" text="Foster" playerID="null" />
+<Player id="P29" spans="3057~3065" text="Morrison" playerID="null" />
+<Player id="P30" spans="3094~3099" text="Brunt" playerID="null" />
+<Player id="P31" spans="3336~3342" text="Dawson" playerID="null" />
+<Coref id="C0" spans="707~710" text="his" playerID="null" />
+<Coref id="C1" spans="982~985" text="his" playerID="null" />
+<Coref id="C2" spans="1033~1036" text="his" playerID="null" />
+<Coref id="C3" spans="1667~1670" text="his" playerID="null" />
+<Coref id="C4" spans="2088~2091" text="his" playerID="null" />
+<Coref id="C5" spans="2358~2360" text="he" playerID="null" />
+<Coref id="C6" spans="2549~2551" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

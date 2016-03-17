@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-hull-city/1704229
+
+May 16, 2015 12:01:03 PM
+
+Nacer Chadli and Danny Rose struck after halftime to send Tottenham closer to the Europa League and Hull nearer to the Championship.
+
+Hull City is teetering on the brink of relegation from the Premier League after second-half goals from Nacer Chadli and Danny Rose secured a 2-0 win for UEFA Europa League hopeful Tottenham.
+
+Tension was palpable during a first-half where recalled Hull striker Nikica Jelavic struck the post for Steve Bruce's strugglers.
+
+City was in the ascendancy when Nacer Chadli broke the deadlock with his 11th league goal of the campaign nine minutes after halftime.
+
+Tottenham left back Danny Rose, in for the suspended Vlad Chiriches, let his football outshine an outlandish dyed red hairstyle when he volleyed an excellent second after the hour.
+
+Hull must now beat Manchester United at home on the last day of the season and hope that Newcastle United does not do likewise at home against West Ham, or that Sunderland fails to take a point from either of its final two matches. 
+
+The result at White Hart Lane means Leicester City and Aston Villa are safe, despite the latter losing 6-1 to Southampton — a result that keeps the south coast outfit a point and a place behind Tottenham, which occupies the second guaranteed UEFA Europa League qualification spot heading into the final weekend.
+
+Former Spurs captain Michael Dawson was given a warm reception on his White Hart Lane return, but another former Spur, Jake Livermore, was absent because of his suspension amid allegations of drug use and replaced by David Meyler in midfield.
+
+Hull failed to start the match with any great conviction and Eric Dier might have put Tottenham in front after 13 minutes when he headed Erik Lamela's corner off target.
+
+That opportunity appeared to stir the visitors and, when Dier failed to deal with Ahmed Elmohamady's right-wing cross, Jelavic crashed a left-footed effort against the top of the far post as he looked to make an impression in his first start in two months.
+
+Christian Eriksen drove at the Hull defense in the 28th minute and picked a pass to Harry Kane, who flashed the ball across the face of goal, while Jelavic sent a stunning acrobatic volley over at the other end.
+
+Bruce's team made all of the early running in the second half, as Paul McShane nodded wide from a corner and Rose almost scored on his own goal from a Robbie Brady delivery, so the opening goal came against the run of play when it arrived in the 54th minute.
+
+Chadli timed his angled run perfectly to collect Lamela's through ball and round City goalkeeper Steve Harper to roll the ball into the net.
+
+Another run in behind the Hull defense helped Tottenham to double its advantage seven minutes later in eye-catching fashion.
+
+Ryan Mason lofted a delightful pass into the penalty area, where the on-rushing Rose arrived to lash a home a right-footed volley.
+
+Bruce sent on forward reinforcements in the form of Abel Hernandez. But when the Uruguay international saw goalbound shots blocked by Dier and then Federico Fazio — before Dame N'Doye sent the rebound wide — it summed up Hull's wretched predicament.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="99~111" text="Nacer Chadli" playerID="null" />
+<Player id="P1" spans="116~126" text="Danny Rose" playerID="null" />
+<Player id="P2" spans="336~348" text="Nacer Chadli" playerID="null" />
+<Player id="P3" spans="353~363" text="Danny Rose" playerID="null" />
+<Player id="P4" spans="494~508" text="Nikica Jelavic" playerID="null" />
+<Player id="P5" spans="535~540" text="Bruce" playerID="null" />
+<Player id="P6" spans="588~600" text="Nacer Chadli" playerID="null" />
+<Player id="P7" spans="712~722" text="Danny Rose" playerID="null" />
+<Player id="P8" spans="745~759" text="Vlad Chiriches" playerID="null" />
+<Player id="P9" spans="1128~1132" text="Hart" playerID="null" />
+<Player id="P10" spans="1442~1456" text="Michael Dawson" playerID="null" />
+<Player id="P11" spans="1450~1456" text="Dawson" playerID="null" />
+<Player id="P12" spans="1497~1501" text="Hart" playerID="null" />
+<Player id="P13" spans="1540~1554" text="Jake Livermore" playerID="null" />
+<Player id="P14" spans="1638~1650" text="David Meyler" playerID="null" />
+<Player id="P15" spans="1726~1735" text="Eric Dier" playerID="null" />
+<Player id="P16" spans="1802~1813" text="Erik Lamela" playerID="null" />
+<Player id="P17" spans="1893~1897" text="Dier" playerID="null" />
+<Player id="P18" spans="1918~1934" text="Ahmed Elmohamady" playerID="null" />
+<Player id="P19" spans="1955~1962" text="Jelavic" playerID="null" />
+<Player id="P20" spans="2094~2111" text="Christian Eriksen" playerID="null" />
+<Player id="P21" spans="2178~2188" text="Harry Kane" playerID="null" />
+<Player id="P22" spans="2242~2249" text="Jelavic" playerID="null" />
+<Player id="P23" spans="2307~2312" text="Bruce" playerID="null" />
+<Player id="P24" spans="2373~2385" text="Paul McShane" playerID="null" />
+<Player id="P25" spans="2416~2420" text="Rose" playerID="null" />
+<Player id="P26" spans="2458~2470" text="Robbie Brady" playerID="null" />
+<Player id="P27" spans="2567~2573" text="Chadli" playerID="null" />
+<Player id="P28" spans="2616~2622" text="Lamela" playerID="null" />
+<Player id="P29" spans="2664~2676" text="Steve Harper" playerID="null" />
+<Player id="P30" spans="2835~2845" text="Ryan Mason" playerID="null" />
+<Player id="P31" spans="2915~2919" text="Rose" playerID="null" />
+<Player id="P32" spans="2967~2972" text="Bruce" playerID="null" />
+<Player id="P33" spans="3019~3033" text="Abel Hernandez" playerID="null" />
+<Player id="P34" spans="3101~3105" text="Dier" playerID="null" />
+<Player id="P35" spans="3115~3129" text="Federico Fazio" playerID="null" />
+<Player id="P36" spans="3139~3150" text="Dame N'Doye" playerID="null" />
+<Coref id="C0" spans="625~628" text="his" playerID="null" />
+<Coref id="C1" spans="765~768" text="his" playerID="null" />
+<Coref id="C2" spans="825~827" text="he" playerID="null" />
+<Coref id="C3" spans="1487~1490" text="his" playerID="null" />
+<Coref id="C4" spans="1578~1581" text="his" playerID="null" />
+<Coref id="C5" spans="1792~1794" text="he" playerID="null" />
+<Coref id="C6" spans="2027~2029" text="he" playerID="null" />
+<Coref id="C7" spans="2062~2065" text="his" playerID="null" />
+<Coref id="C8" spans="2438~2441" text="his" playerID="null" />
+<Coref id="C9" spans="2580~2583" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

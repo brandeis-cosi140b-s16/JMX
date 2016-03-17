@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/aston-villa-vs-chelsea/1703955
+
+Feb 7, 2015 12:10:25 PM
+
+Chelsea extended its lead at the top of the Premier League to seven points thanks to a 2-1 victory at beleaguered Aston Villa on Saturday.
+
+Branislav Ivanovic struck a superb winner as Chelsea defeated Aston Villa 2-1 and extended its advantage at the top of the Premier League to seven points.
+
+Victory was Jose Mourinho's first at Villa Park in five attempts, and Chelsea's day was made even more enjoyable with Manchester City's surprise 1-1 draw at home with Hull City.
+
+Eden Hazard had given Chelsea an early lead inside 10 minutes, before Jores Okore ended Villa's long goal drought with a header at the start of the second half.
+
+Before the defender's effort, Villa had gone 659 minutes without finding the net - the fourth longest barren spell in Premier League history.
+
+But for Paul Lambert and Villa, the end of their scoreless run will be of little consolation to a side that is now winless in nine league matches and just two points above the relegation zone.
+
+Chelsea, meanwhile, will be buoyed by putting further daylight between itself and City, as the Blues go in search of a third league title under Mourinho.
+
+The visitors made an assured start and were ahead inside eight minutes when Oscar fed Willian, whose pass was swept home first time by Hazard from 10 yards.
+
+Villa responded well to going behind and Gabriel Agbonlahor - recalled for Christian Benteke as one of three changes - headed Fabian Delph's cross over in the 19th minute.
+
+Brad Guzan had to parry Oscar's fierce shot away at the near post three minutes later as Chelsea went in search of a second, though a stiffened Villa backline kept the table toppers at arm's length until the interval.
+
+Villa began the second half brightly and was level within three minutes of the restart.
+
+Chelsea failed to sufficiently clear Carles Gil's corner and as the ball came back to the Spaniard, his cross was headed home at the far post by Okore.
+
+Willian twice fired narrowly wide as Chelsea attempted to retake the lead, and the visiting side did not have to wait too long as Ivanovic produced a superb strike.
+
+Cesar Azpilicueta's initial cross was blocked by Okore, before the Chelsea man dug out a bouncing ball towards Ivanovic, who sent an excellent left-footed volley into the top left-hand corner from 16 yards.
+
+With the lead re-established, Chelsea was content to cruise for the remainder of the match, and Mourinho was able to give a debut to Juan Cuadrado, who replaced Willian with 10 minutes remaining.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="230~248" text="Branislav Ivanovic" playerID="null" />
+<Player id="P1" spans="565~576" text="Eden Hazard" playerID="null" />
+<Player id="P2" spans="635~646" text="Jores Okore" playerID="null" />
+<Player id="P3" spans="883~890" text="Lambert" playerID="null" />
+<Player id="P4" spans="1295~1300" text="Oscar" playerID="null" />
+<Player id="P5" spans="1305~1312" text="Willian" playerID="null" />
+<Player id="P6" spans="1354~1360" text="Hazard" playerID="null" />
+<Player id="P7" spans="1418~1436" text="Gabriel Agbonlahor" playerID="null" />
+<Player id="P8" spans="1452~1469" text="Christian Benteke" playerID="null" />
+<Player id="P9" spans="1503~1515" text="Fabian Delph" playerID="null" />
+<Player id="P10" spans="1550~1560" text="Brad Guzan" playerID="null" />
+<Player id="P11" spans="1574~1579" text="Oscar" playerID="null" />
+<Player id="P12" spans="1895~1905" text="Carles Gil" playerID="null" />
+<Player id="P13" spans="2003~2008" text="Okore" playerID="null" />
+<Player id="P14" spans="2011~2018" text="Willian" playerID="null" />
+<Player id="P15" spans="2141~2149" text="Ivanovic" playerID="null" />
+<Player id="P16" spans="2177~2194" text="Cesar Azpilicueta" playerID="null" />
+<Player id="P17" spans="2226~2231" text="Okore" playerID="null" />
+<Player id="P18" spans="2288~2296" text="Ivanovic" playerID="null" />
+<Player id="P19" spans="2518~2531" text="Juan Cuadrado" playerID="null" />
+<Player id="P20" spans="2546~2553" text="Willian" playerID="null" />
+<Coref id="C0" spans="1958~1961" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

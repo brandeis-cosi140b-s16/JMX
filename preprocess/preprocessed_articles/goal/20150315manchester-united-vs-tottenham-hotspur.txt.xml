@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/manchester-united-vs-tottenham-hotspur/1704067
+
+Mar 15, 2015 2:01:29 PM
+
+Man United bounced back from FA Cup heartache with a bashing of Spurs on Sunday.
+
+Wayne Rooney wrote his own headlines as Manchester United turned in a punch-perfect performance to defeat Tottenham 3-0 and strengthen the club's pursuit of a top-four Premier League finish. 
+
+England and United captain Rooney headed into Sunday's match amid an unusual media storm after footage emerged of him being supposedly floored in a mock boxing bout with Stoke City fullback Phil Bardsley at his home.
+
+Rooney ensured he had the last laugh with a boxing-themed celebration when he put United 3-0 ahead in the 34th minute, completing a first half where nothing went right for the visiting side at Old Trafford. 
+
+Having won six and lost two of its previous nine Premier League matches in 2015, Mauricio Pochettino's Tottenham team headed north with hopes of drawing level on points with its fourth-placed opponent.
+
+But Spurs were faced with a relentless United side as goals from Marouane Fellaini and Michael Carrick inside the first 20 minutes set Louis van Gaal's men on the way to a victory that leaves the club just two points behind misfiring Manchester City, which is second.
+
+The excellent Carrick was one of three players to come into the United lineup following Monday night's dispiriting FA Cup quarterfinal loss to Arsenal, alongside Juan Mata and Phil Jones, while Danny Rose was preferred to Ben Davies at left back in Tottenham's only change.
+
+There was an initially nervy start from United as David de Gea spared Jones from an embarrassing own goal in the third minute following a rash back pass.
+
+But more sizable holes in Tottenham's defensive setup were soon apparent as Carrick strode into midfield unchallenged to play a measured through ball that Fellaini steered across Hugo Lloris and into the bottom corner in the ninth minute.
+
+Roles were reversed 10 minutes later when Fellaini's attempt from Mata's in-swinging corner was partially cleared and Carrick calmly picked his spot with a fine header against his former club.
+
+United was cutting Spurs to ribbons down the left flank, a state of affairs that prompted Pochettino to replace winger Andros Townsend with Mousa Dembele.
+
+The 31st-minute substitution could not prevent the home side from landing a seemingly inevitable knockout blow on its punch-drunk opponent.
+
+Nabil Bentaleb carelessly coughed up possession on halfway, allowing Rooney to tear through a retreating and disheveled Tottenham defense before firing home.
+
+Dembele wasted a rare opening for Pochettino's men early in the second half, while Bentaleb made an important block to thwart Daley Blind at the other end.
+
+The earlier ferocious pace had understandably subsided by the time that Ander Herrera lashed into the side netting in search of United's fourth.
+
+Tottenham suffered no further damage, but the side's first defeat in six outings against United had long since been a formality - in-form striker Harry Kane prevented by De Gea from reducing the arrears in the 89th minute.
+
+Old Trafford rose to welcome a late Premier League debut for highly rated youngster Andreas Pereira, but it was an afternoon when long-time hero Rooney stole the limelight.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="188~200" text="Wayne Rooney" playerID="null" />
+<Player id="P1" spans="408~414" text="Rooney" playerID="null" />
+<Player id="P2" spans="571~584" text="Phil Bardsley" playerID="null" />
+<Player id="P3" spans="599~605" text="Rooney" playerID="null" />
+<Player id="P4" spans="1076~1093" text="Marouane Fellaini" playerID="null" />
+<Player id="P5" spans="1098~1113" text="Michael Carrick" playerID="null" />
+<Player id="P6" spans="1294~1301" text="Carrick" playerID="null" />
+<Player id="P7" spans="1442~1451" text="Juan Mata" playerID="null" />
+<Player id="P8" spans="1456~1466" text="Phil Jones" playerID="null" />
+<Player id="P9" spans="1461~1466" text="Jones" playerID="null" />
+<Player id="P10" spans="1474~1484" text="Danny Rose" playerID="null" />
+<Player id="P11" spans="1502~1512" text="Ben Davies" playerID="null" />
+<Player id="P12" spans="1605~1617" text="David de Gea" playerID="null" />
+<Player id="P13" spans="1625~1630" text="Jones" playerID="null" />
+<Player id="P14" spans="1786~1793" text="Carrick" playerID="null" />
+<Player id="P15" spans="1865~1873" text="Fellaini" playerID="null" />
+<Player id="P16" spans="1889~1900" text="Hugo Lloris" playerID="null" />
+<Player id="P17" spans="1992~2000" text="Fellaini" playerID="null" />
+<Player id="P18" spans="2016~2020" text="Mata" playerID="null" />
+<Player id="P19" spans="2068~2075" text="Carrick" playerID="null" />
+<Player id="P20" spans="2263~2278" text="Andros Townsend" playerID="null" />
+<Player id="P21" spans="2290~2297" text="Dembele" playerID="null" />
+<Player id="P22" spans="2441~2455" text="Nabil Bentaleb" playerID="null" />
+<Player id="P23" spans="2510~2516" text="Rooney" playerID="null" />
+<Player id="P24" spans="2600~2607" text="Dembele" playerID="null" />
+<Player id="P25" spans="2683~2691" text="Bentaleb" playerID="null" />
+<Player id="P26" spans="2726~2737" text="Daley Blind" playerID="null" />
+<Player id="P27" spans="2829~2842" text="Ander Herrera" playerID="null" />
+<Player id="P28" spans="3049~3059" text="Harry Kane" playerID="null" />
+<Player id="P29" spans="3076~3079" text="Gea" playerID="null" />
+<Player id="P30" spans="3211~3226" text="Andreas Pereira" playerID="null" />
+<Player id="P31" spans="3272~3278" text="Rooney" playerID="null" />
+<Coref id="C0" spans="207~210" text="his" playerID="null" />
+<Coref id="C1" spans="588~591" text="his" playerID="null" />
+<Coref id="C2" spans="614~616" text="he" playerID="null" />
+<Coref id="C3" spans="674~676" text="he" playerID="null" />
+<Coref id="C4" spans="2090~2093" text="his" playerID="null" />
+<Coref id="C5" spans="2126~2129" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

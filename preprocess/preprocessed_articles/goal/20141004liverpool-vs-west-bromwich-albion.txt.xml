@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-west-bromwich-albion/1703623
+
+Oct 4, 2014 12:02:24 PM
+
+The Reds ended a three-game winless run in the Premier League as the England midfielder notched a goal and an assist.
+
+Liverpool ended a run of three winless Premier League games with a battling 2-1 victory over West Brom at Anfield.
+
+Brendan Rodgers watched his team's slump extend to a dispiriting 1-0 UEFA Champions League loss at Basel midweek.
+
+Once more, Liverpool fell short of the dazzling attacking play it produced last season during the opening period Saturday, but Adam Lallana's superb first goal for the club on the stroke of halftime went some way to settling any nerves.
+
+Dejan Lovren — like Lallana, an offseason recruit from Southampton — fouled Saido Berahino for the in-form West Brom forward to convert a 56th-minute penalty, although replays suggested the center back back made contact outside the area.
+
+But Jordan Henderson ensured parity did not last long and some of Liverpool's old swagger returned on the back of his clinical 61st-minute finish.
+
+Misfiring striker Mario Balotelli was dropped to the bench as Rickie Lambert came in to lead the Liverpool attack, while Costa Rica international Cristian Gamboa made a first Premier League start at right back for West Brom with Andre Wisdom unavailable to face his parent club.
+
+Liverpool enjoyed the better of the opening exchanges and Steven Gerrard drilled a free kick against the West Brom wall after Sebastien Pocognoli came perilously close to fouling Henderson inside the box.
+
+A lofted pass from Martin Skrtel gave Lambert his first sight of goal, but Ben Foster displayed razor-sharp reactions in the West Brom goal.
+
+By the midway point of the first half, West Brom had settled comfortably into the contest and Liverpool goalkeeper Simon Mignolet saved well in the 35th minute when Berahino ran at a back-peddling home defense to unleash a vicious, swerving strike.
+
+Berahino headed wastefully over from close range as the interval approached and his frustration was compounded as Lallana put Liverpool ahead in the final minute of the first half.
+
+The midfielder collected a return backheel from England teammate Henderson and displayed a deft touch and balance before firing low across Foster.
+
+Not for the first time in the afternoon, Lovren struggled against Berahino's speed and movement, although he was unfortunate to see referee Michael Oliver point to the spot when he clattered through the forward.
+
+Berahino hammered home from the spot, but West Brom was only level for five minutes as Raheem Sterling regained his footing having gone to ground under Craig Gardner's challenge and fed Henderson to slot home.
+
+Liverpool was determined not to give its visitors another route back into the contest, with Sterling to the fore, and the winger skipped past Joleon Lescott to draw a vital block from Pocognoli before the recently introduced Balotelli then lashed wide.
+
+A wonderfully whipped cross from Chris Brunt prompted a poorly mistimed header by Berahino when well placed, leaving him without the second goal his boundless energy perhaps deserved.
+
+West Brom pressed in spirited fashion late, while Foster saved with his legs in stoppage time to ensure Balotelli's wait for a first league goal for Liverpool goes on.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="578~590" text="Adam Lallana" playerID="null" />
+<Player id="P1" spans="689~701" text="Dejan Lovren" playerID="null" />
+<Player id="P2" spans="709~716" text="Lallana" playerID="null" />
+<Player id="P3" spans="765~779" text="Saido Berahino" playerID="null" />
+<Player id="P4" spans="932~948" text="Jordan Henderson" playerID="null" />
+<Player id="P5" spans="1094~1109" text="Mario Balotelli" playerID="null" />
+<Player id="P6" spans="1138~1152" text="Rickie Lambert" playerID="null" />
+<Player id="P7" spans="1197~1202" text="Costa" playerID="null" />
+<Player id="P8" spans="1222~1237" text="Cristian Gamboa" playerID="null" />
+<Player id="P9" spans="1305~1317" text="Andre Wisdom" playerID="null" />
+<Player id="P10" spans="1414~1428" text="Steven Gerrard" playerID="null" />
+<Player id="P11" spans="1482~1501" text="Sebastien Pocognoli" playerID="null" />
+<Player id="P12" spans="1535~1544" text="Henderson" playerID="null" />
+<Player id="P13" spans="1581~1594" text="Martin Skrtel" playerID="null" />
+<Player id="P14" spans="1600~1607" text="Lambert" playerID="null" />
+<Player id="P15" spans="1637~1647" text="Ben Foster" playerID="null" />
+<Player id="P16" spans="1819~1833" text="Simon Mignolet" playerID="null" />
+<Player id="P17" spans="1869~1877" text="Berahino" playerID="null" />
+<Player id="P18" spans="1954~1962" text="Berahino" playerID="null" />
+<Player id="P19" spans="2068~2075" text="Lallana" playerID="null" />
+<Player id="P20" spans="2201~2210" text="Henderson" playerID="null" />
+<Player id="P21" spans="2275~2281" text="Foster" playerID="null" />
+<Player id="P22" spans="2325~2331" text="Lovren" playerID="null" />
+<Player id="P23" spans="2350~2358" text="Berahino" playerID="null" />
+<Player id="P24" spans="2497~2505" text="Berahino" playerID="null" />
+<Player id="P25" spans="2584~2599" text="Raheem Sterling" playerID="null" />
+<Player id="P26" spans="2649~2662" text="Craig Gardner" playerID="null" />
+<Player id="P27" spans="2683~2692" text="Henderson" playerID="null" />
+<Player id="P28" spans="2800~2808" text="Sterling" playerID="null" />
+<Player id="P29" spans="2850~2864" text="Joleon Lescott" playerID="null" />
+<Player id="P30" spans="2892~2901" text="Pocognoli" playerID="null" />
+<Player id="P31" spans="2933~2942" text="Balotelli" playerID="null" />
+<Player id="P32" spans="2995~3006" text="Chris Brunt" playerID="null" />
+<Player id="P33" spans="3044~3052" text="Berahino" playerID="null" />
+<Player id="P34" spans="3197~3203" text="Foster" playerID="null" />
+<Player id="P35" spans="3251~3260" text="Balotelli" playerID="null" />
+<Coref id="C0" spans="360~363" text="his" playerID="null" />
+<Coref id="C1" spans="1042~1045" text="his" playerID="null" />
+<Coref id="C2" spans="1338~1341" text="his" playerID="null" />
+<Coref id="C3" spans="1608~1611" text="his" playerID="null" />
+<Coref id="C4" spans="2034~2037" text="his" playerID="null" />
+<Coref id="C5" spans="2390~2392" text="he" playerID="null" />
+<Coref id="C6" spans="2462~2464" text="he" playerID="null" />
+<Coref id="C7" spans="2609~2612" text="his" playerID="null" />
+<Coref id="C8" spans="3107~3110" text="his" playerID="null" />
+<Coref id="C9" spans="3215~3218" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-burnley/1704039
+
+Mar 4, 2015 5:23:38 PM
+
+Jordan Henderson and Daniel Sturridge scored for Liverpool in a routine 2-0 home win over Burnley in the Premier League on Wednesday.
+
+Daniel Sturridge celebrated his return to Liverpool's starting lineup with a goal in a routine 2-0 home win over Burnley on Wednesday that saw Brendan Rodgers' side climb to fifth.
+
+Sturridge, who had started just one Premier League match since August, has been used sparingly by Rodgers in recent weeks.
+
+The England striker has battled thigh and calf issues throughout the season but after a series of recent involvement in cup competitions, the Liverpool boss declared Sturridge was ready to be a regular part of his Premier League first team again.
+
+And he showed no signs of sluggishness in an excellent performance at Anfield, doubling Liverpool's lead early in the second half after stand-in captain Jordan Henderson had fired the Reds in front in the 29th minute.
+
+Henderson - who scored for the second Premier League game in a row - pulled the strings in a dominant midfield performance and also provided the cross for Sturridge's header.
+
+The win comes on the back of Liverpool's 2-1 success against Manchester City on Sunday and extends its unbeaten league run to 12 matches. Burnley, meanwhile, continues to sit 19th as its relegation fears increase.
+
+Sturridge made an early statement of intent, going close in the first 30 seconds. He combined neatly with Adam Lallana, but his left-footed strike was kept out by Burnley goalkeeper Tom Heaton, who was kept busy throughout an open first half.
+
+Henderson tried to pass in a curling finish in the 24th minute, but again Heaton was equal to the task, before the shot-stopper rushed off his line to deny Sturridge following Michael Keane's poor defensive header.
+
+It seemed a matter of time before Liverpool took the lead and Heaton was finally beaten when Henderson lashed a ferocious 20-yard strike beyond him.
+
+The skipper pounced after Philippe Coutinho's effort was blocked, with Henderson’s strike swerving late, much to the delight of the Anfield crowd.
+
+Coutinho then curled wide from distance before the Brazilian played in Sturridge on the stroke of halftime, but the latter's frustration continued when Heaton came off his line to save with a trailing leg.
+
+Sturridge finally got his goal in the second half, pouncing on some slack marking to head past Heaton at the near post following Henderson's cross.
+
+Burnley felt it had claims for a penalty when Danny Ings, a reported transfer target for Liverpool, went down under pressure from Henderson, while Barnes fired an effort wide on the hour mark.
+
+But Liverpool's pressing was relentless, and although the Reds were restricted to a series of long-distance strikes in the latter stages, they had the game under control, with two goals proving more than enough for Rodgers' men.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="87~103" text="Jordan Henderson" playerID="null" />
+<Player id="P1" spans="108~124" text="Daniel Sturridge" playerID="null" />
+<Player id="P2" spans="222~238" text="Daniel Sturridge" playerID="null" />
+<Player id="P3" spans="404~413" text="Sturridge" playerID="null" />
+<Player id="P4" spans="694~703" text="Sturridge" playerID="null" />
+<Player id="P5" spans="929~945" text="Jordan Henderson" playerID="null" />
+<Player id="P6" spans="995~1004" text="Henderson" playerID="null" />
+<Player id="P7" spans="1150~1159" text="Sturridge" playerID="null" />
+<Player id="P8" spans="1386~1395" text="Sturridge" playerID="null" />
+<Player id="P9" spans="1492~1504" text="Adam Lallana" playerID="null" />
+<Player id="P10" spans="1568~1578" text="Tom Heaton" playerID="null" />
+<Player id="P11" spans="1630~1639" text="Henderson" playerID="null" />
+<Player id="P12" spans="1704~1710" text="Heaton" playerID="null" />
+<Player id="P13" spans="1786~1795" text="Sturridge" playerID="null" />
+<Player id="P14" spans="1806~1819" text="Michael Keane" playerID="null" />
+<Player id="P15" spans="1908~1914" text="Heaton" playerID="null" />
+<Player id="P16" spans="1939~1948" text="Henderson" playerID="null" />
+<Player id="P17" spans="2031~2039" text="Coutinho" playerID="null" />
+<Player id="P18" spans="2067~2076" text="Henderson" playerID="null" />
+<Player id="P19" spans="2144~2152" text="Coutinho" playerID="null" />
+<Player id="P20" spans="2215~2224" text="Sturridge" playerID="null" />
+<Player id="P21" spans="2296~2302" text="Heaton" playerID="null" />
+<Player id="P22" spans="2351~2360" text="Sturridge" playerID="null" />
+<Player id="P23" spans="2446~2452" text="Heaton" playerID="null" />
+<Player id="P24" spans="2480~2489" text="Henderson" playerID="null" />
+<Player id="P25" spans="2546~2556" text="Danny Ings" playerID="null" />
+<Player id="P26" spans="2630~2639" text="Henderson" playerID="null" />
+<Player id="P27" spans="2647~2653" text="Barnes" playerID="null" />
+<Coref id="C0" spans="250~253" text="his" playerID="null" />
+<Coref id="C1" spans="738~741" text="his" playerID="null" />
+<Coref id="C2" spans="780~782" text="he" playerID="null" />
+<Coref id="C3" spans="1468~1470" text="He" playerID="null" />
+<Coref id="C4" spans="1510~1513" text="his" playerID="null" />
+<Coref id="C5" spans="1769~1772" text="his" playerID="null" />
+<Coref id="C6" spans="2312~2315" text="his" playerID="null" />
+<Coref id="C7" spans="2373~2376" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

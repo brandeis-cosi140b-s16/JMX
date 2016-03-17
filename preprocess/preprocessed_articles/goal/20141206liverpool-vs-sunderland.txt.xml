@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-sunderland/1703779
+
+Dec 6, 2014 11:54:12 AM
+
+Liverpool's troubles finding the net surfaced again on Saturday, with the club held by Sunderland.
+
+A toothless Liverpool failed to break down Sunderland as the two sides played out a dour goalless draw in the Premier League on Saturday.
+
+Brendan Rodgers' side came into the clash at Anfield buoyed by back-to-back victories over Stoke City and Leicester City but fell short of making it three consecutive league wins for the first time this season.
+
+Captain Steven Gerrard, so impressive at Leicester on Tuesday, was back on the Liverpool bench and replaced by Philippe Coutinho.
+
+But the Brazilian failed to provide the creative spark Liverpool so desperately needed, and it was the visiting side which arguably had the better of the chances through Wes Brown and Connor Wickham.
+
+For Sunderland, which has never won in the Premier League at Anfield, a point represents an encouraging response following a chastening 4-1 defeat to Manchester City on Wednesday.
+
+Gus Poyet's side remained solid throughout, with the likes of Coutinho, Adam Lallana and Raheem Sterling unable to provide frontman Rickie Lambert with any clear chances to break the stalemate.
+
+Gerrard was introduced in place of Lallana midway through the second half, but Liverpool's talisman was unable to inspire his side to find a winner as the Reds were forced to settle for a share of the spoils.
+
+Coutinho for Gerrard was one of two changes for the home side, with Alberto Moreno coming in for Javi Manquillo in defense.
+
+Poyet promised to freshen things up following the defeat in midweek, and stuck to his word as the team showed five alterations.
+
+The visiting club had shouts for a penalty waved away in the third minute when Wickham went down under a challenge from Martin Skrtel.
+
+Goalmouth action was scarce, but Sunderland had the best chance before the break when Brown powered a header over the crossbar from Seb Larsson's corner on the stroke of halftime.
+
+Liverpool appealed for a penalty in the 51st minute when Moreno's low cross deflected off John O'Shea and struck Jordi Gomez on the arm, but once again referee Neil Swarbrick was unmoved.
+
+Wickham then flashed a left-footed volley across goal as Sunderland threatened an opener, before Liverpool's first effort of note arrived in the 64th minute as Lucas Leiva's strike from distance brought a comfortable save out of Costel Pantilimon.
+
+The Romanian goalkeeper was in action again 12 minutes from time, parrying Coutinho's drive following a mazy dribble and pass from Sterling.
+
+Gomez stung the palms of Simon Mignolet with a rasping drive three minutes later and although Liverpool enjoyed the majority of possession in the closing stages, Rodgers' men failed to make the crucial breakthrough.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="550~564" text="Steven Gerrard" playerID="null" />
+<Player id="P1" spans="662~670" text="Coutinho" playerID="null" />
+<Player id="P2" spans="843~852" text="Wes Brown" playerID="null" />
+<Player id="P3" spans="847~852" text="Brown" playerID="null" />
+<Player id="P4" spans="857~871" text="Connor Wickham" playerID="null" />
+<Player id="P5" spans="1059~1064" text="Poyet" playerID="null" />
+<Player id="P6" spans="1117~1125" text="Coutinho" playerID="null" />
+<Player id="P7" spans="1127~1139" text="Adam Lallana" playerID="null" />
+<Player id="P8" spans="1144~1159" text="Raheem Sterling" playerID="null" />
+<Player id="P9" spans="1187~1201" text="Rickie Lambert" playerID="null" />
+<Player id="P10" spans="1250~1257" text="Gerrard" playerID="null" />
+<Player id="P11" spans="1285~1292" text="Lallana" playerID="null" />
+<Player id="P12" spans="1460~1468" text="Coutinho" playerID="null" />
+<Player id="P13" spans="1473~1480" text="Gerrard" playerID="null" />
+<Player id="P14" spans="1528~1542" text="Alberto Moreno" playerID="null" />
+<Player id="P15" spans="1562~1571" text="Manquillo" playerID="null" />
+<Player id="P16" spans="1585~1590" text="Poyet" playerID="null" />
+<Player id="P17" spans="1793~1800" text="Wickham" playerID="null" />
+<Player id="P18" spans="1834~1847" text="Martin Skrtel" playerID="null" />
+<Player id="P19" spans="1936~1941" text="Brown" playerID="null" />
+<Player id="P20" spans="1986~1993" text="Larsson" playerID="null" />
+<Player id="P21" spans="2088~2094" text="Moreno" playerID="null" />
+<Player id="P22" spans="2121~2132" text="John O'Shea" playerID="null" />
+<Player id="P23" spans="2144~2155" text="Jordi Gomez" playerID="null" />
+<Player id="P24" spans="2220~2227" text="Wickham" playerID="null" />
+<Player id="P25" spans="2380~2391" text="Lucas Leiva" playerID="null" />
+<Player id="P26" spans="2449~2466" text="Costel Pantilimon" playerID="null" />
+<Player id="P27" spans="2544~2552" text="Coutinho" playerID="null" />
+<Player id="P28" spans="2600~2608" text="Sterling" playerID="null" />
+<Player id="P29" spans="2611~2616" text="Gomez" playerID="null" />
+<Player id="P30" spans="2636~2650" text="Simon Mignolet" playerID="null" />
+<Coref id="C0" spans="1372~1375" text="his" playerID="null" />
+<Coref id="C1" spans="1667~1670" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

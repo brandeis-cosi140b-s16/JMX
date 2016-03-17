@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/southampton-vs-tottenham-hotspur/1704169
+
+Apr 25, 2015 10:04:43 AM
+
+Two goals from Graziano Pelle were not enough for Southampton as Tottenham earned a 2-2 draw on Mauricio Pochettino's return to St Mary's.
+
+Tottenham twice came from behind to claim a 2-2 draw on Mauricio Pochettino's return to St Mary's Stadium, remaining ahead of Southampton in the race for UEFA Europa League qualification.
+
+Southampton looked set to leapfrog Pochettino's new club in the Premier League table when Graziano Pelle headed his second goal of the game with 25 minutes remaining.
+
+However, Spurs showed character to equalize through Nacer Chadli five minutes later and stay a point above Ronald Koeman's side.
+
+Ryan Mason and Ben Davies - recalled to Tottenham's team together with fit-again skipper Hugo Lloris - were each guilty of errors as Southampton opened the scoring through Pelle shortly before the half-hour mark.
+
+Yet the visitors drew level for the first time two minutes before the break when Erik Lamela converted a cross amid suspicions of handball.
+
+Tottenham saw plenty of the ball early on, but the game's first meaningful chance did not arrive until the 25th minute, when Morgan Schneiderlin's cushioned volley from a James Ward-Prowse corner forced Lloris to dive to his left and pull off a fine save.
+
+Lloris was left helpless four minutes later, however, as Tottenham gifted the lead to its opponent.
+
+Mason slipped and played a pass back towards his own goal after a Southampton counterattack had broken down. Davies was then caught out as he attempted to shield the ball, with the alert Pelle sticking out his left boot and prodding past Lloris.
+
+An unmarked Steven Davis should have done better when side-footing wide from 15 yards in the 39th minute, and that miss was punished as an Eric Dier cross took a slight deflection and appeared to strike Lamela on the left arm to wrong-foot Southampton goalkeeper Kelvin Davis.
+
+Having missed a presentable opportunity before to the interval, midfielder Davis failed to test Lloris on two further occasions inside the first nine minutes of the second half, dragging a shot wide from the edge of the box before missing the target once more after excellent work from Pelle.
+
+Tottenham came close to taking the lead against the run of play when a Chadli cross deflected off Nathaniel Clyne and narrowly over the crossbar.
+
+Ward-Prowse, who had come in for Dusan Tadic in Southampton's only change, was replaced by Shane Long after 62 minutes as the home side sought a winner.
+
+And the substitute made a swift impact, crossing for Pelle to capitalize on poor marking with a firm header into the top-left corner.
+
+Tottenham dug deep to find another response. Chadli held off Maya Yoshida and directed a low finish across Davis for his 10th Premier League goal of the season following Dier's slide-rule pass into the right channel.
+
+After Spurs left back Davies was forced off with an apparent shoulder injury, Southampton came closest to a winner. Jose Fonte saw one header blocked by Federico Fazio and another fly just over, but Pochetino had reason to be content on his return to a club he claimed to "still love" prior to kickoff.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="116~130" text="Graziano Pelle" playerID="null" />
+<Player id="P1" spans="520~534" text="Graziano Pelle" playerID="null" />
+<Player id="P2" spans="650~662" text="Nacer Chadli" playerID="null" />
+<Player id="P3" spans="728~738" text="Ryan Mason" playerID="null" />
+<Player id="P4" spans="743~753" text="Ben Davies" playerID="null" />
+<Player id="P5" spans="817~828" text="Hugo Lloris" playerID="null" />
+<Player id="P6" spans="900~905" text="Pelle" playerID="null" />
+<Player id="P7" spans="1023~1034" text="Erik Lamela" playerID="null" />
+<Player id="P8" spans="1208~1214" text="Morgan" playerID="null" />
+<Player id="P9" spans="1208~1227" text="Morgan Schneiderlin" playerID="null" />
+<Player id="P10" spans="1254~1271" text="James Ward-Prowse" playerID="null" />
+<Player id="P11" spans="1260~1264" text="Ward" playerID="null" />
+<Player id="P12" spans="1286~1292" text="Lloris" playerID="null" />
+<Player id="P13" spans="1340~1346" text="Lloris" playerID="null" />
+<Player id="P14" spans="1441~1446" text="Mason" playerID="null" />
+<Player id="P15" spans="1550~1556" text="Davies" playerID="null" />
+<Player id="P16" spans="1628~1633" text="Pelle" playerID="null" />
+<Player id="P17" spans="1679~1685" text="Lloris" playerID="null" />
+<Player id="P18" spans="1700~1712" text="Steven Davis" playerID="null" />
+<Player id="P19" spans="1827~1836" text="Eric Dier" playerID="null" />
+<Player id="P20" spans="1891~1897" text="Lamela" playerID="null" />
+<Player id="P21" spans="1951~1963" text="Kelvin Davis" playerID="null" />
+<Player id="P22" spans="1958~1963" text="Davis" playerID="null" />
+<Player id="P23" spans="2041~2046" text="Davis" playerID="null" />
+<Player id="P24" spans="2062~2068" text="Lloris" playerID="null" />
+<Player id="P25" spans="2252~2257" text="Pelle" playerID="null" />
+<Player id="P26" spans="2331~2337" text="Chadli" playerID="null" />
+<Player id="P27" spans="2358~2373" text="Nathaniel Clyne" playerID="null" />
+<Player id="P28" spans="2407~2411" text="Ward" playerID="null" />
+<Player id="P29" spans="2440~2451" text="Dusan Tadic" playerID="null" />
+<Player id="P30" spans="2498~2508" text="Shane Long" playerID="null" />
+<Player id="P31" spans="2504~2508" text="Long" playerID="null" />
+<Player id="P32" spans="2614~2619" text="Pelle" playerID="null" />
+<Player id="P33" spans="2741~2747" text="Chadli" playerID="null" />
+<Player id="P34" spans="2757~2769" text="Maya Yoshida" playerID="null" />
+<Player id="P35" spans="2803~2808" text="Davis" playerID="null" />
+<Player id="P36" spans="2866~2870" text="Dier" playerID="null" />
+<Player id="P37" spans="2936~2942" text="Davies" playerID="null" />
+<Player id="P38" spans="3030~3040" text="Jose Fonte" playerID="null" />
+<Player id="P39" spans="3067~3081" text="Federico Fazio" playerID="null" />
+<Coref id="C0" spans="542~545" text="his" playerID="null" />
+<Coref id="C1" spans="1304~1307" text="his" playerID="null" />
+<Coref id="C2" spans="1486~1489" text="his" playerID="null" />
+<Coref id="C3" spans="1580~1582" text="he" playerID="null" />
+<Coref id="C4" spans="1647~1650" text="his" playerID="null" />
+<Coref id="C5" spans="2813~2816" text="his" playerID="null" />
+<Coref id="C6" spans="3151~3154" text="his" playerID="null" />
+<Coref id="C7" spans="3172~3174" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

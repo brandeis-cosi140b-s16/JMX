@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-west-ham-united/1703943
+
+Jan 31, 2015 11:51:00 AM
+
+The striker has been out of action for five months, but showed no signs of rustiness with an emphatic finish following Raheem Sterling's earlier strike
+
+Daniel Sturridge was on target in his first Premier League appearance since August as he rounded off the scoring in Saturday's 2-0 win over West Ham at Anfield.
+
+Sturridge has been plagued with groin and thigh injuries so far this term, but came off the bench to add to Raheem Sterling's opener after the forward had given Liverpool the lead shortly after the break.
+
+The mood was positive around Anfield prior to the fixture due to Sturridge being named on the bench. Sterling added to the feel-good factor by helping maintain Liverpool's midseason revival with a smart finish following a clever pass from Philippe Coutinho.
+
+Chances continued to prove few and far between, but Sturridge's return for the final 22 minutes gave Liverpool added impetus.
+
+The England international then finished from close range to put the game to bed and extend Liverpool's unbeaten run in the league to seven matches as the host side leapfrogged Sam Allardyce's side into seventh.
+
+Andy Carroll made his first Anfield appearance since leaving permanently in 2013 and wasted little time in making his presence felt - the striker perhaps fortunate to escape punishment for catching Emre Can in the face with his elbow.
+
+Liverpool was on the front foot early on as Lazar Markovic went close from inside the area. Coutinho then tested Adrian with a side-footed effort after some slick build-up play.
+
+Despite struggling to create much of note on the attacking third, West Ham went closest before the break with Carroll's header from inside the area after the half-hour mark.
+
+The hosts' pressure continued after the interval and Liverpool was rewarded when Coutinho's clipped pass evaded James Tomkins and put Sterling clean through.
+
+Sterling calmly slotted the ball past Adrian and things looked to have got worse for the visitors when Carroll appeared to hurt himself in a challenge with Can.
+
+The striker returned to action having initially hobbled off, but was replaced by Carlton Cole after the hour mark.
+
+Without Carroll's presence up top, West Ham continued to struggle to gain a foothold in the game, while Liverpool introduced Sturridge to a rapturous applause from the Anfield faithful.
+
+The striker - influential in Liverpool's title tilt last term - needed just 12 minutes to score his first goal since the opening day as he slipped Coutinho's ball past Adrian to seal the points.
+
+It leaves Liverpool looking upwards at the European places, while West Ham remains without a win at Anfield since 1963.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="216~231" text="Raheem Sterling" playerID="null" />
+<Player id="P1" spans="250~266" text="Daniel Sturridge" playerID="null" />
+<Player id="P2" spans="412~421" text="Sturridge" playerID="null" />
+<Player id="P3" spans="520~535" text="Raheem Sterling" playerID="null" />
+<Player id="P4" spans="683~692" text="Sturridge" playerID="null" />
+<Player id="P5" spans="719~727" text="Sterling" playerID="null" />
+<Player id="P6" spans="866~874" text="Coutinho" playerID="null" />
+<Player id="P7" spans="929~938" text="Sturridge" playerID="null" />
+<Player id="P8" spans="1216~1228" text="Andy Carroll" playerID="null" />
+<Player id="P9" spans="1414~1422" text="Emre Can" playerID="null" />
+<Player id="P10" spans="1496~1510" text="Lazar Markovic" playerID="null" />
+<Player id="P11" spans="1544~1552" text="Coutinho" playerID="null" />
+<Player id="P12" spans="1565~1571" text="Adrian" playerID="null" />
+<Player id="P13" spans="1741~1748" text="Carroll" playerID="null" />
+<Player id="P14" spans="1887~1895" text="Coutinho" playerID="null" />
+<Player id="P15" spans="1918~1923" text="James" playerID="null" />
+<Player id="P16" spans="1918~1931" text="James Tomkins" playerID="null" />
+<Player id="P17" spans="1940~1948" text="Sterling" playerID="null" />
+<Player id="P18" spans="1965~1973" text="Sterling" playerID="null" />
+<Player id="P19" spans="2003~2009" text="Adrian" playerID="null" />
+<Player id="P20" spans="2068~2075" text="Carroll" playerID="null" />
+<Player id="P21" spans="2121~2124" text="Can" playerID="null" />
+<Player id="P22" spans="2208~2220" text="Carlton Cole" playerID="null" />
+<Player id="P23" spans="2216~2220" text="Cole" playerID="null" />
+<Player id="P24" spans="2251~2258" text="Carroll" playerID="null" />
+<Player id="P25" spans="2368~2377" text="Sturridge" playerID="null" />
+<Player id="P26" spans="2577~2585" text="Coutinho" playerID="null" />
+<Player id="P27" spans="2598~2604" text="Adrian" playerID="null" />
+<Coref id="C0" spans="284~287" text="his" playerID="null" />
+<Coref id="C1" spans="336~338" text="he" playerID="null" />
+<Coref id="C2" spans="1234~1237" text="his" playerID="null" />
+<Coref id="C3" spans="1330~1333" text="his" playerID="null" />
+<Coref id="C4" spans="1440~1443" text="his" playerID="null" />
+<Coref id="C5" spans="2526~2529" text="his" playerID="null" />
+<Coref id="C6" spans="2566~2568" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

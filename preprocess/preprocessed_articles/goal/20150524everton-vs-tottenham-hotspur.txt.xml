@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/everton-vs-tottenham-hotspur/1704243
+
+May 24, 2015 11:55:00 AM
+
+Spurs once again qualified for Europe with a narrow victory over Roberto Martinez’s side thanks to their star striker netting a close-range header early in the first half
+
+Harry Kane scored the only goal of the game as Tottenham secured fifth place in the Premier League with a 1-0 final-day win at Everton.
+
+The England striker headed home a superb cross from Eric Dier midway through the first half to secure Tottenham's first victory at Goodison Park since 2007 and automatic qualification for the UEFA Europa League after Liverpool were thumped 6-1 at Stoke City.
+
+Everton, meanwhile, will be glad a disappointing campaign has now come to an end. They were bereft of ideas or attacking intent and rarely troubled Hugo Lloris as they finished in 10th place.
+
+Tottenham were by far the better team in the first half, with Mauricio Pochettino's side seemingly determined to avoid sixth spot and the Europa League qualifying rounds.
+ 
+Erik Lamela flashed an early attempt over the top and, when he did manage to hit the target, Tim Howard smartly denied him after Everton debutant Brendan Galloway was robbed of possession deep inside his own half.
+ 
+Howard, however, had no chance with the header from Kane that put Spurs in front in the 25th minute.
+ 
+Dier's excellent ball in from the right flank allowed the forward to nod home his 21st Premier League goal of the season, equalling a club record that he now shares with Teddy Sheringham, Jurgen Klinsmann and Gareth Bale.
+ 
+Everton played like they were already on a beach for the first half an hour, though eventually they did show some interest in finishing an otherwise below-par campaign on a high note.
+ 
+Kevin Mirallas flashed a left-footed half-volley over the bar having already wasting a glorious chance with his right, shooting straight at Lloris after being played through by Ross Barkley.
+ 
+The Belgian got the better of Lloris in the closing minutes of the half, only to see his lob from a tight angle end up sitting on the top of the net.
+ 
+Everton manager Roberto Martinez put Muhamed Besic on in place of the erratic Barkley at half time, and the change nearly paid immediate dividends as the substitute dragged a right-footed shot just wide with Lloris beaten.
+
+The Frenchman was busy again in the visiting goal soon after, flying off his line to smother the ball at the feet of the advancing Galloway.
+
+Yet the promise of a home comeback in the second half soon disappeared, with Tottenham seizing control of midfield again after coming through the early second-half storm unscathed.
+
+Pochettino's men controlled possession and Kane's header proved enough for them to come out on top, with the biggest cheer of the day from the home fans coming when departing defender Sylvain Distin was brought on for a late farewell appearance.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="170~178" text="Martinez" playerID="null" />
+<Player id="P1" spans="269~279" text="Harry Kane" playerID="null" />
+<Player id="P2" spans="458~467" text="Eric Dier" playerID="null" />
+<Player id="P3" spans="814~825" text="Hugo Lloris" playerID="null" />
+<Player id="P4" spans="1032~1043" text="Erik Lamela" playerID="null" />
+<Player id="P5" spans="1125~1135" text="Tim Howard" playerID="null" />
+<Player id="P6" spans="1178~1194" text="Brendan Galloway" playerID="null" />
+<Player id="P7" spans="1248~1254" text="Howard" playerID="null" />
+<Player id="P8" spans="1300~1304" text="Kane" playerID="null" />
+<Player id="P9" spans="1351~1355" text="Dier" playerID="null" />
+<Player id="P10" spans="1761~1775" text="Kevin Mirallas" playerID="null" />
+<Player id="P11" spans="1901~1907" text="Lloris" playerID="null" />
+<Player id="P12" spans="1938~1950" text="Ross Barkley" playerID="null" />
+<Player id="P13" spans="1984~1990" text="Lloris" playerID="null" />
+<Player id="P14" spans="2130~2138" text="Martinez" playerID="null" />
+<Player id="P15" spans="2143~2156" text="Muhamed Besic" playerID="null" />
+<Player id="P16" spans="2184~2191" text="Barkley" playerID="null" />
+<Player id="P17" spans="2314~2320" text="Lloris" playerID="null" />
+<Player id="P18" spans="2461~2469" text="Galloway" playerID="null" />
+<Player id="P19" spans="2697~2701" text="Kane" playerID="null" />
+<Player id="P20" spans="2838~2852" text="Sylvain Distin" playerID="null" />
+<Coref id="C0" spans="1092~1094" text="he" playerID="null" />
+<Coref id="C1" spans="1232~1235" text="his" playerID="null" />
+<Coref id="C2" spans="1429~1432" text="his" playerID="null" />
+<Coref id="C3" spans="1502~1504" text="he" playerID="null" />
+<Coref id="C4" spans="1869~1872" text="his" playerID="null" />
+<Coref id="C5" spans="2039~2042" text="his" playerID="null" />
+<Coref id="C6" spans="2403~2406" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

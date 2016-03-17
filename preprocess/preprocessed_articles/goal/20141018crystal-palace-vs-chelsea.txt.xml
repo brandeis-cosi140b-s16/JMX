@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/crystal-palace-vs-chelsea/1703639
+
+Oct 18, 2014 12:21:06 PM
+
+Cesar Azpilicueta and Damien Delaney were sent off late in the first half as the Blues rode goals from Oscar and Cesc Fabregas to victory.
+
+Chelsea restored its five-point lead at the Premier League summit with a 2-1 win at Crystal Palace as both teams finished with 10 men.
+
+Oscar gave the visitors a sixth-minute lead thanks to a stunning free kick but tempers boiled over as Chelsea defender Cesar Azpilicueta and his Palace counterpart Damien Delaney received red cards within three minutes of each other in a feisty conclusion to the opening period.
+
+Chelsea adapted better to the reduced numbers as Cesc Fabregas instigated and finished a brilliant team move to score his first Premier League goal for the club after halftime - ensuring Jose Mourinho's men found the appropriate response to Manchester City's Sergio Aguero-inspired 4-1 win over Tottenham in Saturday's early kickoff.
+
+Palace threatened sparingly as Chelsea hogged second-half possession until Fraizer Campbell, who came close three times during a lively opening, converted Wilfried Zaha's cross from close range to set up grandstand finale.
+
+Loic Remy made a first league start for Chelsea as Diego Costa was ruled out by his troublesome hamstring, while Delaney was given the task of shackling the French striker with Palace center back Scott Dann sidelined.
+
+The hosts had an early chance as Campbell raced on to Joel Ward's searching pass, but goalkeeper Thibaut Courtois raced out to block before Chelsea opened the scoring in memorable fashion.
+
+Delaney clumsily fouled Willian on the edge of the penalty area, leaving Oscar to devilishly whip beyond Julian Speroni into the top left corner. 
+
+Gary Cahill endured a torrid opening at Campell's hands and the striker prodded onto the roof of the net in the 12th minute before beating his man to drag wide left footed.
+
+Jason Puncheon tested Courtois with a stinging shot ahead of the first-half's tempestuous final five minutes.
+
+Azpilicueta received a 40th-minute red card for a rash lunge on Mile Jedinak — Campbell and Fabregas might have joined him off the field but were only booked for their clash in the ensuing melee.
+
+It was 10-a-side just three minutes later as Delaney, already booked for fouling Remy, pulled back Willian and remonstrated with referee Craig Pawson for good measure. Nemanja Matic almost added insult to Palace injury by heading narrowly wide from the resulting set piece.
+
+Following his involvement in the unsavory scenes before halftime, Fabregas demonstrated his technical brilliance in extending Chelsea's lead after 51 minutes.
+
+The Spain midfielder exchanged passes with Eden Hazard and Oscar in a sumptuous display of one-touch football before slotting past Speroni at his near post.
+
+Palace had switched Martin Kelly to center back from right back in Delaney's absence and the former Liverpool man slid in to stop Hazard converting Fabregas' low 61st-minute cross -—the Belgian playmaker subsequently flashing a shot past the post with 16 minutes remaining.
+
+Cahill emulated Kelly with a last-ditch challenge to thwart Yannick Bolasie before substitute Zaha handed Campbell a simple 90th-minute finish, but Palace, which made Selhurst Park such a fortress in its stirring escape from relegation trouble last season, has now won just once in five outings at home this season.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="94~111" text="Cesar Azpilicueta" playerID="null" />
+<Player id="P1" spans="116~130" text="Damien Delaney" playerID="null" />
+<Player id="P2" spans="197~202" text="Oscar" playerID="null" />
+<Player id="P3" spans="207~220" text="Cesc Fabregas" playerID="null" />
+<Player id="P4" spans="370~375" text="Oscar" playerID="null" />
+<Player id="P5" spans="489~506" text="Cesar Azpilicueta" playerID="null" />
+<Player id="P6" spans="534~548" text="Damien Delaney" playerID="null" />
+<Player id="P7" spans="699~712" text="Cesc Fabregas" playerID="null" />
+<Player id="P8" spans="909~922" text="Sergio Aguero" playerID="null" />
+<Player id="P9" spans="1060~1076" text="Fraizer Campbell" playerID="null" />
+<Player id="P10" spans="1068~1076" text="Campbell" playerID="null" />
+<Player id="P11" spans="1140~1153" text="Wilfried Zaha" playerID="null" />
+<Player id="P12" spans="1209~1218" text="Loic Remy" playerID="null" />
+<Player id="P13" spans="1260~1271" text="Diego Costa" playerID="null" />
+<Player id="P14" spans="1322~1329" text="Delaney" playerID="null" />
+<Player id="P15" spans="1405~1415" text="Scott Dann" playerID="null" />
+<Player id="P16" spans="1461~1469" text="Campbell" playerID="null" />
+<Player id="P17" spans="1482~1491" text="Joel Ward" playerID="null" />
+<Player id="P18" spans="1487~1491" text="Ward" playerID="null" />
+<Player id="P19" spans="1525~1541" text="Thibaut Courtois" playerID="null" />
+<Player id="P20" spans="1618~1625" text="Delaney" playerID="null" />
+<Player id="P21" spans="1642~1649" text="Willian" playerID="null" />
+<Player id="P22" spans="1691~1696" text="Oscar" playerID="null" />
+<Player id="P23" spans="1723~1737" text="Julian Speroni" playerID="null" />
+<Player id="P24" spans="1766~1777" text="Gary Cahill" playerID="null" />
+<Player id="P25" spans="1940~1954" text="Jason Puncheon" playerID="null" />
+<Player id="P26" spans="1962~1970" text="Courtois" playerID="null" />
+<Player id="P27" spans="2051~2062" text="Azpilicueta" playerID="null" />
+<Player id="P28" spans="2115~2127" text="Mile Jedinak" playerID="null" />
+<Player id="P29" spans="2130~2138" text="Campbell" playerID="null" />
+<Player id="P30" spans="2143~2151" text="Fabregas" playerID="null" />
+<Player id="P31" spans="2293~2300" text="Delaney" playerID="null" />
+<Player id="P32" spans="2329~2333" text="Remy" playerID="null" />
+<Player id="P33" spans="2347~2354" text="Willian" playerID="null" />
+<Player id="P34" spans="2416~2429" text="Nemanja Matic" playerID="null" />
+<Player id="P35" spans="2589~2597" text="Fabregas" playerID="null" />
+<Player id="P36" spans="2726~2737" text="Eden Hazard" playerID="null" />
+<Player id="P37" spans="2742~2747" text="Oscar" playerID="null" />
+<Player id="P38" spans="2814~2821" text="Speroni" playerID="null" />
+<Player id="P39" spans="2861~2873" text="Martin Kelly" playerID="null" />
+<Player id="P40" spans="2908~2915" text="Delaney" playerID="null" />
+<Player id="P41" spans="2971~2977" text="Hazard" playerID="null" />
+<Player id="P42" spans="2989~2997" text="Fabregas" playerID="null" />
+<Player id="P43" spans="3116~3122" text="Cahill" playerID="null" />
+<Player id="P44" spans="3132~3137" text="Kelly" playerID="null" />
+<Player id="P45" spans="3176~3191" text="Yannick Bolasie" playerID="null" />
+<Player id="P46" spans="3210~3214" text="Zaha" playerID="null" />
+<Player id="P47" spans="3222~3230" text="Campbell" playerID="null" />
+<Coref id="C0" spans="511~514" text="his" playerID="null" />
+<Coref id="C1" spans="768~771" text="his" playerID="null" />
+<Coref id="C2" spans="1289~1292" text="his" playerID="null" />
+<Coref id="C3" spans="1905~1908" text="his" playerID="null" />
+<Coref id="C4" spans="2533~2536" text="his" playerID="null" />
+<Coref id="C5" spans="2611~2614" text="his" playerID="null" />
+<Coref id="C6" spans="2825~2828" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/manchester-city-vs-liverpool/1703525
+
+Aug 25, 2014 4:52:00 PM
+
+The Montenegro international scored either side of halftime before the Argentine netted within 20 seconds of coming on as a substitute in a dominant performance by the hosts.
+
+Premier League holders Manchester City continued a fine start to its title defense, with two goals from Stevan Jovetic setting it on its way to a 3-1 win over last year's runners-up, Liverpool.
+
+The Reds had the best of the first half but failed to make their dominance count, and the Montenegrin punished them shortly before the break by stealing a march on both Dejan Lovren and debutant Alberto Moreno to score.
+
+Jovetic then combined with Samir Nasri on 55 minutes to give Manuel Pellegrini's side breathing room before Sergio Aguero struck immediately after coming on as a substitute.
+
+Rickie Lambert looked to have bundled a header over the line for his first Liverpool goal toward the end, but the last touch came off Pablo Zabaleta for an own goal, though City were nonetheless able to hold out for the win.
+
+With new signing Mario Balotelli watching on after completing his move from AC Milan, Liverpool gave a debut to Moreno while Joe Allen returned for Lucas in midfield.
+
+Zabaleta's recall for City enabled Gael Clichy to revert to left back, and the 29-year-old was at the heart of the host's good early play. Edin Dzeko and Yaya Toure both had sights of goal in the opening 15 minutes thanks to Clichy crosses but neither was able to stretch Mignolet.
+
+Liverpool's midfield began to dominate possession following a cagey start, and Daniel Sturridge finally tested Hart in the 33rd minute. Steven Gerrard executed a perfect pass to find the striker at the back post but, having escaped the attentions of Vincent Kompany, his fierce left-footed shot was pushed away.
+
+Hart's efforts proved crucial for City as it went on to open the scoring through Jovetic with four minutes of the half remaining. As Moreno dallied on a knockdown from Lovren inside the Liverpool penalty area, the 24-year-old nipped in and lashed the ball through the legs of Mignolet.
+
+Rodgers' side had the ball in the net four minutes after the break, but the linesman's flag denied Sturridge, much to the relief of Kompany, who had misjudged a Glen Johnson cross.
+
+To rub salt into the Liverpool wounds, City promptly doubled its lead as Jovetic completed a neat one-two with Nasri with a calm finish. The striker's flick ran perfectly into the Frenchman's stride and Nasri returned the ball to his unmarked teammate to apply the finish.
+
+The introduction of debutant Lazar Markovic breathed some life back into Liverpool, but a ruthless City outfit extended its lead even further in the 69th minute. Jesus Navas' pass released Aguero in behind the Liverpool defense, and the Argentine confidently fired low into the back of the net just 23 seconds after replacing Dzeko.
+
+Liverpool, which has now won only once in its last nine visits to City, grabbed a consolation with seven minutes to play as Zabaleta nudged the ball into his own goal. Sturridge showed good strength on the right and delivered a perfect cross to Lambert, whose header was saved by Hart before the loose ball struck the defender on the knee and dropped over the line.
+
+There was more bad news for Liverpool as Johnson hobbled off after all three substitutions had been made, while Moreno appeared to turn his ankle in injury time but carried on.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="376~390" text="Stevan Jovetic" playerID="null" />
+<Player id="P1" spans="636~648" text="Dejan Lovren" playerID="null" />
+<Player id="P2" spans="662~676" text="Alberto Moreno" playerID="null" />
+<Player id="P3" spans="688~695" text="Jovetic" playerID="null" />
+<Player id="P4" spans="715~726" text="Samir Nasri" playerID="null" />
+<Player id="P5" spans="796~809" text="Sergio Aguero" playerID="null" />
+<Player id="P6" spans="863~877" text="Rickie Lambert" playerID="null" />
+<Player id="P7" spans="997~1011" text="Pablo Zabaleta" playerID="null" />
+<Player id="P8" spans="1106~1121" text="Mario Balotelli" playerID="null" />
+<Player id="P9" spans="1201~1207" text="Moreno" playerID="null" />
+<Player id="P10" spans="1214~1223" text="Joe Allen" playerID="null" />
+<Player id="P11" spans="1257~1265" text="Zabaleta" playerID="null" />
+<Player id="P12" spans="1292~1303" text="Gael Clichy" playerID="null" />
+<Player id="P13" spans="1396~1406" text="Edin Dzeko" playerID="null" />
+<Player id="P14" spans="1411~1421" text="Yaya Toure" playerID="null" />
+<Player id="P15" spans="1416~1421" text="Toure" playerID="null" />
+<Player id="P16" spans="1482~1488" text="Clichy" playerID="null" />
+<Player id="P17" spans="1529~1537" text="Mignolet" playerID="null" />
+<Player id="P18" spans="1619~1635" text="Daniel Sturridge" playerID="null" />
+<Player id="P19" spans="1651~1655" text="Hart" playerID="null" />
+<Player id="P20" spans="1676~1690" text="Steven Gerrard" playerID="null" />
+<Player id="P21" spans="1790~1805" text="Vincent Kompany" playerID="null" />
+<Player id="P22" spans="1853~1857" text="Hart" playerID="null" />
+<Player id="P23" spans="1934~1941" text="Jovetic" playerID="null" />
+<Player id="P24" spans="1986~1992" text="Moreno" playerID="null" />
+<Player id="P25" spans="2021~2027" text="Lovren" playerID="null" />
+<Player id="P26" spans="2129~2137" text="Mignolet" playerID="null" />
+<Player id="P27" spans="2239~2248" text="Sturridge" playerID="null" />
+<Player id="P28" spans="2272~2279" text="Kompany" playerID="null" />
+<Player id="P29" spans="2301~2313" text="Glen Johnson" playerID="null" />
+<Player id="P30" spans="2306~2313" text="Johnson" playerID="null" />
+<Player id="P31" spans="2395~2402" text="Jovetic" playerID="null" />
+<Player id="P32" spans="2433~2438" text="Nasri" playerID="null" />
+<Player id="P33" spans="2525~2530" text="Nasri" playerID="null" />
+<Player id="P34" spans="2625~2639" text="Lazar Markovic" playerID="null" />
+<Player id="P35" spans="2758~2769" text="Jesus Navas" playerID="null" />
+<Player id="P36" spans="2785~2791" text="Aguero" playerID="null" />
+<Player id="P37" spans="2922~2927" text="Dzeko" playerID="null" />
+<Player id="P38" spans="3054~3062" text="Zabaleta" playerID="null" />
+<Player id="P39" spans="3098~3107" text="Sturridge" playerID="null" />
+<Player id="P40" spans="3175~3182" text="Lambert" playerID="null" />
+<Player id="P41" spans="3210~3214" text="Hart" playerID="null" />
+<Player id="P42" spans="3338~3345" text="Johnson" playerID="null" />
+<Player id="P43" spans="3409~3415" text="Moreno" playerID="null" />
+<Coref id="C0" spans="928~931" text="his" playerID="null" />
+<Coref id="C1" spans="1151~1154" text="his" playerID="null" />
+<Coref id="C2" spans="1807~1810" text="his" playerID="null" />
+<Coref id="C3" spans="2552~2555" text="his" playerID="null" />
+<Coref id="C4" spans="3084~3087" text="his" playerID="null" />
+<Coref id="C5" spans="3433~3436" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

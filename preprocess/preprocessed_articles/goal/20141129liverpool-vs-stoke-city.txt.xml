@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-stoke-city/1703737
+
+Nov 29, 2014 12:08:00 PM
+
+The right back nodded home with only minutes to go to hand his team a desperately needed win.
+
+Glen Johnson's late goal ended Liverpool's four-match Premier League winless run as he ensured a dramatic 1-0 win over Stoke City.
+
+Brendan Rodgers' men had not won since October but Johnson – the subject of criticism for some below-par showings this term – was the hero as he bravely headed home with five minutes remaining on Saturday.
+
+Rickie Lambert's looping header crashed back off underside the crossbar, with Johnson stooping to nod home the winner in front of the Kop end to spark delirious celebrations inside Anfield.
+
+A nervy end to the game ensued when referee Craig Pawson added seven minutes of stoppage time after Johnson sustained a head injury while scoring, but Liverpool held on thanks to a stunning save from under-fire goalkeeper Simon Mignolet, who brilliantly tipped a wonderful Bojan volley over the bar.
+
+Following defeat to Crystal Palace last weekend, Rodgers' future had been the subject of discussion, with the Northern Irishman dropping captain Steven Gerrard to the bench while keeping faith with Mignolet.
+
+While neither side offered too much offensively in a dour first half, Liverpool in particular looked dangerous after the break and threatened through Raheem Sterling's constant trickery and a Joe Allen chance the Welshman should have done better with.
+
+But just when it looked as though more points would slip through Liverpool's grasp, Johnson came to the rescue with a winner the hosts' second-half showing deserved.
+
+Henderson shot wide six minutes after the break as Liverpool enjoyed their best spell of the game, although Bojan offered a reminder of Stoke's threat before the hour mark, with the Spaniard striking Mignolet's left-hand post after cutting in from the left.
+
+The chances continued to flow as Sterling shot wide before Lucas Leiva and Lambert had efforts kept out by Asmir Begovic. Allen then blazed over from inside the area.
+
+Exactly sixteen years after making his Liverpool debut as a substitute against Blackburn Rovers, Gerrard was introduced with 15 minutes remaining.
+
+The former England skipper – playing in a more advanced role – immediately brought a coolness to Liverpool's attacking play, and he watched on as Johnson finally broke Stoke's resistance.
+
+There was more drama to come when Bojan forced Mignolet into action, but Liverpool held on for a much-needed three points.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="187~199" text="Glen Johnson" playerID="null" />
+<Player id="P1" spans="192~199" text="Johnson" playerID="null" />
+<Player id="P2" spans="370~377" text="Johnson" playerID="null" />
+<Player id="P3" spans="526~540" text="Rickie Lambert" playerID="null" />
+<Player id="P4" spans="604~611" text="Johnson" playerID="null" />
+<Player id="P5" spans="817~824" text="Johnson" playerID="null" />
+<Player id="P6" spans="939~953" text="Simon Mignolet" playerID="null" />
+<Player id="P7" spans="1163~1177" text="Steven Gerrard" playerID="null" />
+<Player id="P8" spans="1216~1224" text="Mignolet" playerID="null" />
+<Player id="P9" spans="1377~1392" text="Raheem Sterling" playerID="null" />
+<Player id="P10" spans="1419~1428" text="Joe Allen" playerID="null" />
+<Player id="P11" spans="1564~1571" text="Johnson" playerID="null" />
+<Player id="P12" spans="1647~1656" text="Henderson" playerID="null" />
+<Player id="P13" spans="1847~1855" text="Mignolet" playerID="null" />
+<Player id="P14" spans="1939~1947" text="Sterling" playerID="null" />
+<Player id="P15" spans="1965~1976" text="Lucas Leiva" playerID="null" />
+<Player id="P16" spans="1981~1988" text="Lambert" playerID="null" />
+<Player id="P17" spans="2013~2026" text="Asmir Begovic" playerID="null" />
+<Player id="P18" spans="2028~2033" text="Allen" playerID="null" />
+<Player id="P19" spans="2171~2178" text="Gerrard" playerID="null" />
+<Player id="P20" spans="2368~2375" text="Johnson" playerID="null" />
+<Player id="P21" spans="2458~2466" text="Mignolet" playerID="null" />
+<Coref id="C0" spans="151~154" text="his" playerID="null" />
+<Coref id="C1" spans="271~273" text="he" playerID="null" />
+<Coref id="C2" spans="461~463" text="he" playerID="null" />
+<Coref id="C3" spans="2109~2112" text="his" playerID="null" />
+<Coref id="C4" spans="2351~2353" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

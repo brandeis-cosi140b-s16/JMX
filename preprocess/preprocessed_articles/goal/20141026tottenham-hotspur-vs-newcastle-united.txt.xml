@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-newcastle-united/1703669
+
+Oct 26, 2014 11:35:13 AM
+
+Newcastle got three points on the road with a comeback win over Spurs.
+
+Two inspired half-time substitutions from Alan Pardew helped Newcastle United come from a goal down to beat Tottenham 2-1 on Sunday.
+
+Pardew saw his side pick up its first Premier League win of the season last weekend against Leicester City, but the club fell behind to an early Emmanuel Adebayor goal at White Hart Lane.
+
+However, Sammy Ameobi made an instant impact by equalizing seven seconds after his introduction at the start of the second half, and fellow substitute Remy Cabella laid on Ayoze Perez's maiden Newcastle goal to complete an impressive fightback.
+
+Mauricio Pochettino recalled Adebayor at the expense of Roberto Soldado and the decision paid off when the Togo international headed the opener after 18 minutes.
+
+Tottenham was then stunned as Ameobi fired home from Jack Colback's long ball to register his first top-flight goal for Newcastle, before Ayoze - who moved to St James' Park from Spanish second-tier side Tenerife in the close season - achieved the same feat when he headed home Cabella's floated delivery.
+
+While Spurs threatened late on, they were ultimately made to pay for their profligacy in the first half as they lost a third league game at home this term, with Pardew left to reflect on a hugely positive outing that sees Newcastle escape the bottom three.
+
+Daryl Janmaat gave Newcastle an early scare after three minutes when he appeared to handle the ball inside the area following positive play down the left from Nacer Chadli.
+
+Referee Anthony Taylor pointed for a corner before Adebayor helped lay on an opportunity that saw Christian Eriksen volley wide as the home side began the brighter of the two.
+
+Paul Dummett fired Newcastle's first chance of the game over the crossbar 14 minutes in and Spurs' pressure then reaped rewards as Adebayor nodded in his first club goal since August.
+
+The visiting defense initially did well to block a shot from Danny Rose and Eriksen's follow up but, at the third attempt, Ryan Mason clipped in a cross for Adebayor to convert.
+
+Spurs continued to dominate possession, albeit while struggling to create any further clear-cut chances, and the visiting side was perhaps fortunate to go in at the break trailing by just one goal.
+
+However, all Spurs' positive play in the first half was undone within seconds of the restart as Colback's diagonal ball caught the home side off guard.
+
+With Eric Dier cut out of the picture, Ameobi kept his cool to find the bottom-right corner and draw Newcastle level in sensational fashion.
+
+An effort from Eriksen rolled marginally wide following a deflection off Fabricio Coloccini as Spurs sought to get back in front but it was another Newcastle substitute who helped craft the winning goal.
+
+Cabella curled a delightful delivery in from the left that Ayoze was able to nod home as Newcastle completed what had seemed a most unlikely comeback.
+
+Spurs replacement Harry Kane failed to get in on the act, spurning a great opportunity following Rose's delivery from the left, as Newcastle survived a late onslaught to win at White Hart Lane for a second season running.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="457~474" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P1" spans="489~493" text="Hart" playerID="null" />
+<Player id="P2" spans="510~522" text="Sammy Ameobi" playerID="null" />
+<Player id="P3" spans="516~522" text="Ameobi" playerID="null" />
+<Player id="P4" spans="652~664" text="Remy Cabella" playerID="null" />
+<Player id="P5" spans="673~684" text="Ayoze Perez" playerID="null" />
+<Player id="P6" spans="776~784" text="Adebayor" playerID="null" />
+<Player id="P7" spans="803~818" text="Roberto Soldado" playerID="null" />
+<Player id="P8" spans="940~946" text="Ameobi" playerID="null" />
+<Player id="P9" spans="963~975" text="Jack Colback" playerID="null" />
+<Player id="P10" spans="1072~1077" text="James" playerID="null" />
+<Player id="P11" spans="1188~1195" text="Cabella" playerID="null" />
+<Player id="P12" spans="1475~1488" text="Daryl Janmaat" playerID="null" />
+<Player id="P13" spans="1634~1646" text="Nacer Chadli" playerID="null" />
+<Player id="P14" spans="1665~1671" text="Taylor" playerID="null" />
+<Player id="P15" spans="1700~1708" text="Adebayor" playerID="null" />
+<Player id="P16" spans="1747~1764" text="Christian Eriksen" playerID="null" />
+<Player id="P17" spans="1826~1838" text="Paul Dummett" playerID="null" />
+<Player id="P18" spans="1957~1965" text="Adebayor" playerID="null" />
+<Player id="P19" spans="2072~2082" text="Danny Rose" playerID="null" />
+<Player id="P20" spans="2087~2094" text="Eriksen" playerID="null" />
+<Player id="P21" spans="2134~2144" text="Ryan Mason" playerID="null" />
+<Player id="P22" spans="2168~2176" text="Adebayor" playerID="null" />
+<Player id="P23" spans="2485~2492" text="Colback" playerID="null" />
+<Player id="P24" spans="2547~2556" text="Eric Dier" playerID="null" />
+<Player id="P25" spans="2581~2587" text="Ameobi" playerID="null" />
+<Player id="P26" spans="2699~2706" text="Eriksen" playerID="null" />
+<Player id="P27" spans="2757~2775" text="Fabricio Coloccini" playerID="null" />
+<Player id="P28" spans="2889~2896" text="Cabella" playerID="null" />
+<Player id="P29" spans="3059~3069" text="Harry Kane" playerID="null" />
+<Player id="P30" spans="3138~3142" text="Rose" playerID="null" />
+<Player id="P31" spans="3224~3228" text="Hart" playerID="null" />
+<Coref id="C0" spans="323~326" text="his" playerID="null" />
+<Coref id="C1" spans="580~583" text="his" playerID="null" />
+<Coref id="C2" spans="1000~1003" text="his" playerID="null" />
+<Coref id="C3" spans="1173~1175" text="he" playerID="null" />
+<Coref id="C4" spans="1544~1546" text="he" playerID="null" />
+<Coref id="C5" spans="1976~1979" text="his" playerID="null" />
+<Coref id="C6" spans="2593~2596" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

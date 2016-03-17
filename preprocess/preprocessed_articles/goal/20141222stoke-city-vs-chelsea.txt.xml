@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/stoke-city-vs-chelsea/1703829
+
+Dec 22, 2014 4:55:00 PM
+
+The Blues went ahead inside two minutes thanks to their skipper before the Spanish playmaker wrapped up the three points late to keep second-placed Manchester City at bay.
+
+Cesc Fabregas starred as Chelsea re-established a three-point lead at the top of the Premier League with a 2-0 win against Stoke City at the Britannia Stadium on Monday night.
+
+Manchester City's victory against Crystal Palace on Saturday had seen the defending champion pull level at the summit, but success against the Potters ensures Chelsea heads into the hectic festive period out front in the title race. 
+
+John Terry's headed opener from a Fabregas corner with less than two minutes played gave Chelsea something to defend, and Stoke rarely looked like finding a way through the visitor's determined defensive line.
+
+Chelsea, for its part, often looked dangerous on the break after going ahead but was unable to build on its breakthrough until Fabregas's scuffed shot 12 minutes from time. 
+
+While the result moves Chelsea three points clear at the top - with seven of the last 10 sides which have been top on Christmas Day going on to win the title - Stoke is 13th following a first defeat in three matches.
+
+Goalkeeper Thibaut Courtois returned from injury as Jose Mourinho made five changes to the Chelsea side that beat Derby County in the League Cup quarter-finals on Tuesday, but it was two of the players who retained their starting berths from the trip to Pride Park who combined to open the scoring inside two minutes.
+
+Terry shrugged off Geoff Cameron in the box to get his head to a Fabregas corner and deal the host an early blow – the Spaniard providing a 12th assist of the season.
+
+Stoke – boosted by the return of Bojan Krkic as one of two changes – struggled to make any inroads in the opening stages and was thankful when Diego Costa failed to connect properly with a Branislav Ivanovic cutback five minutes after the opener.
+
+The ball almost ended up in the Chelsea net off Terry after 21 minutes – Steven N'Zonzi's 20-yard strike well saved by Courtois following a heavy deflection off the defender.
+
+Referee Neil Swarbrick inadvertently then thwarted a promising Chelsea counterattack when he got in the way on the halfway line two minutes later, drawing the understandable ire of Mourinho, before Costa fired just wide following an error by Ryan Shawcross.
+
+Phil Bardsley – already booked for a lunging challenge on Eden Hazard earlier in the half - might have counted himself lucky to still be involved at the break after avoiding a second yellow card for an apparent tug on the shirt of Costa.
+
+Asmir Begovic did well to get down to his right to keep out a Willian strike early in the second period before clinging onto a soft Fabregas strike after Hazard had managed to force the ball into the six-yard box.
+
+Stoke enjoyed a greater share of possession after the interval, but struggled to carve out any clear-cut opportunities as the match threatened to fall flat.
+
+Charlie Adam's introduction after 68 minutes appeared to give Stoke something of a lift and the midfielder sent an effort narrowly wide of the left-hand upright shortly after entering the action.
+
+However, Fabregas had the final say, diverting the ball into the back of the net after being played in by Hazard, who limped off late on after a tackle from Jonathan Walters, although there was an element of fortune about his finish.
+
+Bojan sent an effort whistling past the left-hand post deep into stoppage time, but there was no danger of Stoke challenging Chelsea's lead at that late stage.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="262~275" text="Cesc Fabregas" playerID="null" />
+<Player id="P1" spans="674~684" text="John Terry" playerID="null" />
+<Player id="P2" spans="708~716" text="Fabregas" playerID="null" />
+<Player id="P3" spans="1012~1020" text="Fabregas" playerID="null" />
+<Player id="P4" spans="1289~1305" text="Thibaut Courtois" playerID="null" />
+<Player id="P5" spans="1597~1602" text="Terry" playerID="null" />
+<Player id="P6" spans="1616~1629" text="Geoff Cameron" playerID="null" />
+<Player id="P7" spans="1662~1670" text="Fabregas" playerID="null" />
+<Player id="P8" spans="1798~1809" text="Bojan Krkic" playerID="null" />
+<Player id="P9" spans="1908~1919" text="Diego Costa" playerID="null" />
+<Player id="P10" spans="1954~1972" text="Branislav Ivanovic" playerID="null" />
+<Player id="P11" spans="2061~2066" text="Terry" playerID="null" />
+<Player id="P12" spans="2086~2100" text="Steven N'Zonzi" playerID="null" />
+<Player id="P13" spans="2132~2140" text="Courtois" playerID="null" />
+<Player id="P14" spans="2387~2392" text="Costa" playerID="null" />
+<Player id="P15" spans="2431~2445" text="Ryan Shawcross" playerID="null" />
+<Player id="P16" spans="2448~2461" text="Phil Bardsley" playerID="null" />
+<Player id="P17" spans="2506~2517" text="Eden Hazard" playerID="null" />
+<Player id="P18" spans="2679~2684" text="Costa" playerID="null" />
+<Player id="P19" spans="2687~2700" text="Asmir Begovic" playerID="null" />
+<Player id="P20" spans="2749~2756" text="Willian" playerID="null" />
+<Player id="P21" spans="2819~2827" text="Fabregas" playerID="null" />
+<Player id="P22" spans="2841~2847" text="Hazard" playerID="null" />
+<Player id="P23" spans="3060~3072" text="Charlie Adam" playerID="null" />
+<Player id="P24" spans="3266~3274" text="Fabregas" playerID="null" />
+<Player id="P25" spans="3363~3369" text="Hazard" playerID="null" />
+<Player id="P26" spans="3414~3430" text="Jonathan Walters" playerID="null" />
+<Coref id="C0" spans="1648~1651" text="his" playerID="null" />
+<Coref id="C1" spans="2279~2281" text="he" playerID="null" />
+<Coref id="C2" spans="2725~2728" text="his" playerID="null" />
+<Coref id="C3" spans="3479~3482" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

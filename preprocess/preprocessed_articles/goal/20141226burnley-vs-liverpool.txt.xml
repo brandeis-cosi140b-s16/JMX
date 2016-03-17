@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/burnley-vs-liverpool/1703837
+
+Dec 26, 2014 11:55:00 AM
+
+The England winger's first league goal since early September was enough to give the Merseysiders a much-needed victory at Turf Moor against the struggling Clarets.
+
+Raheem Sterling netted the winner as Liverpool claimed a hard-fought 1-0 Premier League victory at Burnley on Boxing Day.
+
+The England forward scored twice in the League Cup quarterfinal victory over Bournemouth last week, and he was on target again as the visitors ended a three-match winless sequence in the top flight.
+
+Burnley dominated the first half at Turf Moor and struck the post through Danny Ings but was unable to make its superiority count as Liverpool reached the interval unscathed.
+
+Sterling's crucial strike came shortly after the hour mark as he coolly rounded Tom Heaton and slotted home, despite the best efforts of two defenders attempting to scramble back.
+
+Liverpool goalkeeper Simon Mignolet, who had been dropped "indefinitely" by manager Brendan Rodgers ahead of the clash with Manchester United two weeks ago, was called into the fray early in the first half after his understudy Brad Jones suffered an injury.
+
+Mignolet continued to look nervy, but was able to keep the home side at bay as Burnley's four-match unbeaten run at home came to an end.
+
+Neither side made any changes from their previous outings, but Sam Vokes returned to the Burnley bench for the first time since suffering a serious knee injury in March.
+
+The opening stages were most notable for a round of applause for former Burnley defender Clarke Carlisle, who was admitted to the hospital earlier this week after a serious accident.
+
+Ings came close with the first meaningful shot of the game in the 15th minute, striking the base of the post from 20 yards with Jones beaten before Ashley Barnes blazed the rebound over.
+
+Having seemingly picked up an injury, Jones then departed the action and was replaced by the shaky Mignolet. The home side continued to look the more threatening, with Barnes heading Dean Marney's cross off target in the 22nd minute.
+
+Adam Lallana had Liverpool's first clear opening on the half-hour mark, but, after receiving a wonderful first-time ball from Steven Gerrard, he shot straight at Heaton.
+
+That was a rare attack for the visitors, who were grateful to Lucas Leiva for diverting Scott Arfield's strike round the post, before George Boyd fizzed a shot narrowly over the crossbar.
+
+Burnley failed to re-create its high-tempo play after the restart, and fell behind to Sterling's well-taken goal. The 20-year-old raced onto Philippe Coutinho's hooked ball and skipped past Heaton before finding the net.
+
+Coutinho then tested Heaton with a shot of his own before Sean Dyche sent on Vokes for Barnes with 10 minutes to go. An equalizer was not forthcoming, however, as Liverpool saw out victory to climb one spot to ninth in the table.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="254~269" text="Raheem Sterling" playerID="null" />
+<Player id="P1" spans="651~661" text="Danny Ings" playerID="null" />
+<Player id="P2" spans="753~761" text="Sterling" playerID="null" />
+<Player id="P3" spans="833~843" text="Tom Heaton" playerID="null" />
+<Player id="P4" spans="955~969" text="Simon Mignolet" playerID="null" />
+<Player id="P5" spans="1161~1171" text="Brad Jones" playerID="null" />
+<Player id="P6" spans="1166~1171" text="Jones" playerID="null" />
+<Player id="P7" spans="1193~1201" text="Mignolet" playerID="null" />
+<Player id="P8" spans="1394~1403" text="Sam Vokes" playerID="null" />
+<Player id="P9" spans="1686~1690" text="Ings" playerID="null" />
+<Player id="P10" spans="1814~1819" text="Jones" playerID="null" />
+<Player id="P11" spans="1834~1847" text="Ashley Barnes" playerID="null" />
+<Player id="P12" spans="1912~1917" text="Jones" playerID="null" />
+<Player id="P13" spans="1973~1981" text="Mignolet" playerID="null" />
+<Player id="P14" spans="2042~2048" text="Barnes" playerID="null" />
+<Player id="P15" spans="2057~2068" text="Dean Marney" playerID="null" />
+<Player id="P16" spans="2109~2121" text="Adam Lallana" playerID="null" />
+<Player id="P17" spans="2235~2249" text="Steven Gerrard" playerID="null" />
+<Player id="P18" spans="2271~2277" text="Heaton" playerID="null" />
+<Player id="P19" spans="2342~2353" text="Lucas Leiva" playerID="null" />
+<Player id="P20" spans="2368~2381" text="Scott Arfield" playerID="null" />
+<Player id="P21" spans="2414~2425" text="George Boyd" playerID="null" />
+<Player id="P22" spans="2555~2563" text="Sterling" playerID="null" />
+<Player id="P23" spans="2619~2627" text="Coutinho" playerID="null" />
+<Player id="P24" spans="2659~2665" text="Heaton" playerID="null" />
+<Player id="P25" spans="2691~2699" text="Coutinho" playerID="null" />
+<Player id="P26" spans="2712~2718" text="Heaton" playerID="null" />
+<Player id="P27" spans="2768~2773" text="Vokes" playerID="null" />
+<Player id="P28" spans="2778~2784" text="Barnes" playerID="null" />
+<Coref id="C0" spans="481~483" text="he" playerID="null" />
+<Coref id="C1" spans="815~817" text="he" playerID="null" />
+<Coref id="C2" spans="1146~1149" text="his" playerID="null" />
+<Coref id="C3" spans="2251~2253" text="he" playerID="null" />
+<Coref id="C4" spans="2734~2737" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

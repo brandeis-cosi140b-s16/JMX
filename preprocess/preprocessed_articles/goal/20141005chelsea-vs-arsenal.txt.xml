@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-arsenal/1703617
+
+Oct 5, 2014 11:28:47 AM
+
+Chelsea got goals on either side of halftime to grab a comfortable win.
+
+Jose Mourinho once again came out on top in his rivalry with Arsene Wenger as Chelsea defeated Arsenal 2-0 at Stamford Bridge.
+
+Following a feisty Premier League encounter on Sunday, Wenger has now failed to get the better of Mourinho in 12 meetings, with five draws and seven defeats for Arsenal in those matches - including last season's 6-0 drubbing in the corresponding fixture.
+
+This latest reverse came courtesy of Eden Hazard's first-half penalty and Diego Costa's ninth goal of the season, as Chelsea moved five points clear of nearest rival Manchester City at the top of the table.
+
+The only downside for the home faithful was an injury to first-choice goalkeeper Thibaut Courtois, who was forced off after suffering a nasty blow to the head in an early collision with Alexis Sanchez. 
+
+In what was a full-blooded match, Laurent Koscielny was perhaps fortunate not to be shown a red card for denying a clear goal-scoring opportunity in bringing down Hazard for Chelsea's spot kick, but Costa's sublime finish after a lofted pass from former Arsenal midfielder Cesc Fabregas with 12 minutes left but the result beyond doubt.
+
+Calum Chambers could also have been dismissed after hauling down Andre Schurrle when already on a booking, while Gary Cahill's forceful tackle on Alexis could have been more severely punished by referee Martin Atkinson, who brandished only a caution.
+
+That first-half challenge also sparked a touchline altercation between Wenger and Mourinho, with the former placing his hands on the chest of the Portuguese as tempers frayed. The pair opted to dispense with the customary handshakes at the final whistle.
+
+The defeat saw Arsenal's unbeaten start to the Premier League campaign brought to an end, as Wenger's men fell nine points behind their London neighbour after just seven matches.
+
+Both sides made one change following their exploits in the UEFA Champions League in midweek, as Cesar Azpilicueta returned at left back for Chelsea in place of Filipe Luis and Jack Wilshere came in for Alex Oxlade-Chamberlain for the visiting side.
+
+After a 15-minute delay to kick-off, reportedly due to a number of flares being let off outside the ground, there was a moment of concern for Chelsea in the 10th minute as Courtois collided with Alexis.
+
+The Belgium international was able to get to his feet and resume action but he was clearly still shaken from the clash and had to be withdrawn in the 24th minute as Petr Cech entered the fray.
+
+With little happening on the field, the opening stages were also notable for an argument on the touchline as Cahill's heavy challenge on Alexis provoked an irate response from Wenger, who pushed Mourinho in the chest.
+
+The Portuguese gestured for Wenger to return to his technical area, before Atkinson called both managers over in an attempt to calm matters.
+
+Finally, after 27 minutes, a moment of magic from Hazard led to Chelsea breaking the deadlock.
+
+The Belgian drifted beyond Santi Cazorla and Chambers, before being upended by Koscielny's trip inside the box. 
+
+Hazard, who scored a penalty in the 6-0 rout last season, calmly sent Wojciech Szczesny the wrong way from the spot.
+
+Wilshere's poor touch then allowed Cech to gather as Arsenal went in search of an immediate equalizer.
+
+Chelsea almost doubled the lead shortly before the hour when Hazard's driven cross deflected off Mathieu Flamini and then the arm of Szczesny, before Arsenal felt it should have had a penalty when Wilshere's effort hit the arm of Fabregas, although it was unclear whether the incident had occurred inside the box.
+
+Hazard ought to have netted his and Chelsea's second when he fired off target from close range 14 minutes from time, but soon afterwards Costa made the game safe.
+
+He ran onto Fabregas' pass and lobbed a deft finish over the advancing Szczesny.
+
+Danny Welbeck was perhaps lucky to only receive a yellow card for a two-footed lunge on Fabregas in stoppage time as Arsenal desperately chased the game, but Chelsea comfortably held on to secure maximum points.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="580~591" text="Eden Hazard" playerID="null" />
+<Player id="P1" spans="617~628" text="Diego Costa" playerID="null" />
+<Player id="P2" spans="832~848" text="Thibaut Courtois" playerID="null" />
+<Player id="P3" spans="937~951" text="Alexis Sanchez" playerID="null" />
+<Player id="P4" spans="944~951" text="Sanchez" playerID="null" />
+<Player id="P5" spans="989~1006" text="Laurent Koscielny" playerID="null" />
+<Player id="P6" spans="1118~1124" text="Hazard" playerID="null" />
+<Player id="P7" spans="1154~1159" text="Costa" playerID="null" />
+<Player id="P8" spans="1228~1241" text="Cesc Fabregas" playerID="null" />
+<Player id="P9" spans="1293~1307" text="Calum Chambers" playerID="null" />
+<Player id="P10" spans="1358~1372" text="Andre Schurrle" playerID="null" />
+<Player id="P11" spans="1406~1417" text="Gary Cahill" playerID="null" />
+<Player id="P12" spans="2077~2094" text="Cesar Azpilicueta" playerID="null" />
+<Player id="P13" spans="2141~2152" text="Filipe Luis" playerID="null" />
+<Player id="P14" spans="2157~2170" text="Jack Wilshere" playerID="null" />
+<Player id="P15" spans="2183~2206" text="Alex Oxlade-Chamberlain" playerID="null" />
+<Player id="P16" spans="2403~2411" text="Courtois" playerID="null" />
+<Player id="P17" spans="2600~2609" text="Petr Cech" playerID="null" />
+<Player id="P18" spans="2738~2744" text="Cahill" playerID="null" />
+<Player id="P19" spans="3040~3046" text="Hazard" playerID="null" />
+<Player id="P20" spans="3113~3126" text="Santi Cazorla" playerID="null" />
+<Player id="P21" spans="3131~3139" text="Chambers" playerID="null" />
+<Player id="P22" spans="3165~3174" text="Koscielny" playerID="null" />
+<Player id="P23" spans="3200~3206" text="Hazard" playerID="null" />
+<Player id="P24" spans="3270~3287" text="Wojciech Szczesny" playerID="null" />
+<Player id="P25" spans="3318~3326" text="Wilshere" playerID="null" />
+<Player id="P26" spans="3353~3357" text="Cech" playerID="null" />
+<Player id="P27" spans="3483~3489" text="Hazard" playerID="null" />
+<Player id="P28" spans="3519~3534" text="Mathieu Flamini" playerID="null" />
+<Player id="P29" spans="3555~3563" text="Szczesny" playerID="null" />
+<Player id="P30" spans="3619~3627" text="Wilshere" playerID="null" />
+<Player id="P31" spans="3652~3660" text="Fabregas" playerID="null" />
+<Player id="P32" spans="3737~3743" text="Hazard" playerID="null" />
+<Player id="P33" spans="3874~3879" text="Costa" playerID="null" />
+<Player id="P34" spans="3913~3921" text="Fabregas" playerID="null" />
+<Player id="P35" spans="3972~3980" text="Szczesny" playerID="null" />
+<Player id="P36" spans="3983~3996" text="Danny Welbeck" playerID="null" />
+<Player id="P37" spans="4071~4079" text="Fabregas" playerID="null" />
+<Coref id="C0" spans="203~206" text="his" playerID="null" />
+<Coref id="C1" spans="1661~1664" text="his" playerID="null" />
+<Coref id="C2" spans="2480~2483" text="his" playerID="null" />
+<Coref id="C3" spans="2511~2513" text="he" playerID="null" />
+<Coref id="C4" spans="2896~2899" text="his" playerID="null" />
+<Coref id="C5" spans="3765~3768" text="his" playerID="null" />
+<Coref id="C6" spans="3795~3797" text="he" playerID="null" />
+<Coref id="C7" spans="3901~3903" text="He" playerID="null" />
+</TAGS>
+</SoccEval1.2>

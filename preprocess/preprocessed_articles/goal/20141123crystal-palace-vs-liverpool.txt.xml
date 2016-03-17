@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/crystal-palace-vs-liverpool/1703721
+
+Nov 23, 2014 10:22:08 AM
+
+Two late goals pushed Liverpool to another loss in the Premier League.
+
+Selhurst Park again proved an unhappy hunting ground for Liverpool as Crystal Palace earned a 3-1 win in the Premier League on Sunday.
+
+Dwight Gayle, Joe Ledley and Mile Jedinak got the goals to ensure Brendan Rodgers' side, which famously let a three-goal lead slip at the ground last season in a game that derailed the club's Premier League title challenge, continued its poor start to the campaign.
+
+It appeared Liverpool would exorcise the demons from last time out when Lambert, afforded a rare starting opportunity since returning to his boyhood team, converted his first goal for the club in the second minute.
+
+But Gayle, whose double in that 3-3 draw proved so pivotal, levelled matters 15 minutes later as Palace found the ideal riposte.
+
+Ledley and Jedinak finished the job with late strikes to heap further misery on Liverpool.
+
+The result saw Palace climb out of the bottom three on goal difference following a first win in six league outings.
+
+Liverpool flew out of the blocks to take the lead as Lambert, playing in place of the injured Mario Balotelli, justified his selection in the second minute.
+
+It was the striker's connection with Adam Lallana, so fruitful at Southampton before both completed off-season moves to Anfield, that made the difference as the former picked out the 32-year-old with a lovely ball in behind Martin Kelly. Lambert did the rest expertly, deftly controlling the ball before producing the coolest of finishes.
+
+Thoughts that an easy afternoon might ensue were quickly put to rest, however, as Gayle leveled in the 17th minute.
+
+Yannick Bolasie was the architect, his strike at the end of a driving run rattling the post to gift Gayle a tap-in from the rebound.
+
+The game took on an end-to-end nature thereafter, with Bolasie again threatening when forcing Simon Mignolet into a solid stop with a powerful strike from distance.
+
+He continued to prove the biggest threat, epitomized by him forcing Dejan Lovren into a superb block at the end of a fine counterattack.
+
+His next chance came just before the break, Bolasie striking just over from a tight angle having collected Jason Puncheon's through ball.
+
+Liverpool created the first chance of the second period, Martin Skrtel volleying just wide after Palace failed to clear Steven Gerrard's corner.
+
+Yet Palace grew into the game again following that chance as the club pressed forward with menace.
+
+The home side was unable to take advantage of good openings - something the club nearly paid for when Javi Manquillo side-footed just wide from 12 yards.
+
+Liverpool was rueing that miss almost immediately, Ledley slotting through the legs of Mignolet following more good work from the outstanding Bolasie to send the home crowd into raptures.
+
+Hopes of a comeback were quickly snuffed out, too, as Jedinak produced a stunning 25-yard free kick that flew into the top corner after Skrtel had brought down Gayle.
+
+The full-time whistle confirmed Liverpool's sixth top-flight defeat of the campaign and left a rain-soaked Rodgers with plenty to contemplate.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="304~316" text="Dwight Gayle" playerID="null" />
+<Player id="P1" spans="318~328" text="Joe Ledley" playerID="null" />
+<Player id="P2" spans="333~345" text="Mile Jedinak" playerID="null" />
+<Player id="P3" spans="643~650" text="Lambert" playerID="null" />
+<Player id="P4" spans="791~796" text="Gayle" playerID="null" />
+<Player id="P5" spans="917~923" text="Ledley" playerID="null" />
+<Player id="P6" spans="928~935" text="Jedinak" playerID="null" />
+<Player id="P7" spans="1179~1186" text="Lambert" playerID="null" />
+<Player id="P8" spans="1220~1235" text="Mario Balotelli" playerID="null" />
+<Player id="P9" spans="1321~1333" text="Adam Lallana" playerID="null" />
+<Player id="P10" spans="1508~1520" text="Martin Kelly" playerID="null" />
+<Player id="P11" spans="1522~1529" text="Lambert" playerID="null" />
+<Player id="P12" spans="1706~1711" text="Gayle" playerID="null" />
+<Player id="P13" spans="1741~1756" text="Yannick Bolasie" playerID="null" />
+<Player id="P14" spans="1841~1846" text="Gayle" playerID="null" />
+<Player id="P15" spans="1930~1937" text="Bolasie" playerID="null" />
+<Player id="P16" spans="1969~1983" text="Simon Mignolet" playerID="null" />
+<Player id="P17" spans="2109~2121" text="Dejan Lovren" playerID="null" />
+<Player id="P18" spans="2223~2230" text="Bolasie" playerID="null" />
+<Player id="P19" spans="2286~2300" text="Jason Puncheon" playerID="null" />
+<Player id="P20" spans="2375~2388" text="Martin Skrtel" playerID="null" />
+<Player id="P21" spans="2438~2452" text="Steven Gerrard" playerID="null" />
+<Player id="P22" spans="2671~2680" text="Manquillo" playerID="null" />
+<Player id="P23" spans="2770~2776" text="Ledley" playerID="null" />
+<Player id="P24" spans="2806~2814" text="Mignolet" playerID="null" />
+<Player id="P25" spans="2861~2868" text="Bolasie" playerID="null" />
+<Player id="P26" spans="2962~2969" text="Jedinak" playerID="null" />
+<Player id="P27" spans="3044~3050" text="Skrtel" playerID="null" />
+<Player id="P28" spans="3068~3073" text="Gayle" playerID="null" />
+<Coref id="C0" spans="708~711" text="his" playerID="null" />
+<Coref id="C1" spans="736~739" text="his" playerID="null" />
+<Coref id="C2" spans="1247~1250" text="his" playerID="null" />
+<Coref id="C3" spans="1776~1779" text="his" playerID="null" />
+<Coref id="C4" spans="2041~2043" text="He" playerID="null" />
+<Coref id="C5" spans="2179~2182" text="His" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/manchester-city-vs-chelsea/1703583
+
+Sep 21, 2014 12:54:00 PM
+
+The Blues legend volleyed in James Milner's cross to pull the Premier League champion level after Andre Schurrle had broken the deadlock and Pablo Zabaleta had seen red.
+
+Frank Lampard came back to haunt Chelsea as 10-man Manchester City rallied to earn a share of the spoils with a 1-1 draw after a dramatic encounter at the Etihad Stadium.
+Jose Mourinho's men looked set to repeat the slim Premier League victory earned at City last season after Pablo Zabaleta was sent off and Andre Schurrle netted following a brilliant counter.
+
+But substitute Lampard ensured it would end honors even between the two title contenders as he netted acrobatically late on.
+
+Lampard, who scored 208 goals in 626 games for Chelsea before departing in July, had his name sung by the visiting fans following his introduction in place of Aleksandar Kolarov late in the second half.
+
+Those tributes were soon replaced by silence, however, as the 36-year-old, who is on loan at the Etihad Stadium from New York City, grabbed a deserved equalizer for the 10-man home team.
+
+The goal ended Chelsea's 100 percent start to the league season, and Mourinho will rue the missed opportunity to have gone eight points clear of arguably his side's fiercest rival.
+
+Manuel Pellegrini took the surprise step of handing Eliaquim Mangala something of a baptism of fire. The Frenchman made his debut in place of Martin Demichelis as one of four changes from Wednesday's defeat to Bayern Munich.
+
+Diego Costa's hamstrings held up enough to see him lead Chelsea's line, bumping Didier Drogba back to the bench after a lackluster show in their UEFA Champions League draw with Schalke.
+
+The Spain striker's first contribution to the contest was a full-blooded 50-50 with Vincent Kompany that saw him come off second best after Yaya Toure had forced the first save of the game out of Joe Hart.
+
+Though Cesc Fabregas and Nemanja Matic's influence in midfield increased, the Chelsea was unable to completely stem the flow of City attacks and was fortunate to see Fernandinho fail to properly connect with Aleksandar Kolarov's cut back and Sergio Aguero half volley an Edin Dzeko knockdown over the crossbar when he might have done better.
+
+But neither side could find a breakthrough before halftime, despite Aguero and Costa getting brief glimpses at goal just prior to the break.
+
+Mourinho will undoubtedly have called for more from his players during the interval, but City picked up where it left off following the restart.
+
+Aguero tested Thibaut Courtois early on with a left-footed attempt from the edge of the box moments before just failing to control a cross into the box when a goal would have been the likely outcome.
+
+The Argentine again was at the heart of things when his snapshot forced another Courtois save but Ramires was on hand to clear the rebound with Dzeko lurking.
+
+City's hopes of making the most of the ascendancy received a significant blow with just over an hour gone, as Zabaleta received his marching orders after a clip of Costa's heels brought a second yellow card.
+
+That forced Pellegrini into a reshuffle that saw Dzeko make way for Bacary Sagna but the addition of another defender could not prevent Chelsea taking the lead.
+
+The visiting side broke incisively from an opposition corner before Costa played Eden Hazard into enough space on the right side to pick out a delightful low cross that Schurrle turned in at the back post.
+
+Costa thumped the post from distance but the home team responded to rescue an unlikely point in the most incredible of circumstances, Chelsea's record goalscorer Lampard turning home James Milner's smartly volleyed cross.
+
+Lampard predictably refused to celebrate, but even went close to securing a winner as Chelsea's fine early progress was checked for the first time.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="124~129" text="James" playerID="null" />
+<Player id="P1" spans="124~136" text="James Milner" playerID="null" />
+<Player id="P2" spans="193~207" text="Andre Schurrle" playerID="null" />
+<Player id="P3" spans="236~250" text="Pablo Zabaleta" playerID="null" />
+<Player id="P4" spans="266~279" text="Frank Lampard" playerID="null" />
+<Player id="P5" spans="543~557" text="Pablo Zabaleta" playerID="null" />
+<Player id="P6" spans="575~589" text="Andre Schurrle" playerID="null" />
+<Player id="P7" spans="644~651" text="Lampard" playerID="null" />
+<Player id="P8" spans="755~762" text="Lampard" playerID="null" />
+<Player id="P9" spans="914~932" text="Aleksandar Kolarov" playerID="null" />
+<Player id="P10" spans="1381~1397" text="Eliaquim Mangala" playerID="null" />
+<Player id="P11" spans="1471~1488" text="Martin Demichelis" playerID="null" />
+<Player id="P12" spans="1555~1566" text="Diego Costa" playerID="null" />
+<Player id="P13" spans="1635~1648" text="Didier Drogba" playerID="null" />
+<Player id="P14" spans="1826~1841" text="Vincent Kompany" playerID="null" />
+<Player id="P15" spans="1882~1892" text="Yaya Toure" playerID="null" />
+<Player id="P16" spans="1887~1892" text="Toure" playerID="null" />
+<Player id="P17" spans="1938~1946" text="Joe Hart" playerID="null" />
+<Player id="P18" spans="1956~1969" text="Cesc Fabregas" playerID="null" />
+<Player id="P19" spans="1974~1987" text="Nemanja Matic" playerID="null" />
+<Player id="P20" spans="2115~2126" text="Fernandinho" playerID="null" />
+<Player id="P21" spans="2157~2175" text="Aleksandar Kolarov" playerID="null" />
+<Player id="P22" spans="2191~2204" text="Sergio Aguero" playerID="null" />
+<Player id="P23" spans="2220~2230" text="Edin Dzeko" playerID="null" />
+<Player id="P24" spans="2360~2366" text="Aguero" playerID="null" />
+<Player id="P25" spans="2371~2376" text="Costa" playerID="null" />
+<Player id="P26" spans="2580~2586" text="Aguero" playerID="null" />
+<Player id="P27" spans="2594~2610" text="Thibaut Courtois" playerID="null" />
+<Player id="P28" spans="2861~2869" text="Courtois" playerID="null" />
+<Player id="P29" spans="2879~2886" text="Ramires" playerID="null" />
+<Player id="P30" spans="2925~2930" text="Dzeko" playerID="null" />
+<Player id="P31" spans="3051~3059" text="Zabaleta" playerID="null" />
+<Player id="P32" spans="3105~3110" text="Costa" playerID="null" />
+<Player id="P33" spans="3199~3204" text="Dzeko" playerID="null" />
+<Player id="P34" spans="3218~3230" text="Bacary Sagna" playerID="null" />
+<Player id="P35" spans="3380~3385" text="Costa" playerID="null" />
+<Player id="P36" spans="3393~3404" text="Eden Hazard" playerID="null" />
+<Player id="P37" spans="3481~3489" text="Schurrle" playerID="null" />
+<Player id="P38" spans="3519~3524" text="Costa" playerID="null" />
+<Player id="P39" spans="3681~3688" text="Lampard" playerID="null" />
+<Player id="P40" spans="3702~3707" text="James" playerID="null" />
+<Player id="P41" spans="3702~3714" text="James Milner" playerID="null" />
+<Player id="P42" spans="3742~3749" text="Lampard" playerID="null" />
+<Coref id="C0" spans="721~723" text="he" playerID="null" />
+<Coref id="C1" spans="840~843" text="his" playerID="null" />
+<Coref id="C2" spans="885~888" text="his" playerID="null" />
+<Coref id="C3" spans="1301~1304" text="his" playerID="null" />
+<Coref id="C4" spans="1449~1452" text="his" playerID="null" />
+<Coref id="C5" spans="2264~2266" text="he" playerID="null" />
+<Coref id="C6" spans="2486~2489" text="his" playerID="null" />
+<Coref id="C7" spans="2833~2836" text="his" playerID="null" />
+<Coref id="C8" spans="3069~3072" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-burnley/1703831
+
+Dec 20, 2014 12:32:49 PM
+
+The Argentine delivered his first Premier League goal in style to complete a strong week for Spurs.
+
+Erik Lamela's superb first Premier League goal earned Tottenham a 2-1 win over Burnley in an entertaining encounter at White Hart Lane.
+
+The Argentinian, who arrived for a club-record fee from Roma prior to the 2013-14 campaign, had previously gone 25 league appearances without finding the net for Spurs, but he broke his duck in fine style on Saturday.
+
+Lamela produced a sublime curling finish from 25 yards to net the winner in the 35th minute, after a strike of similar quality from Ashley Barnes had canceled out Harry Kane's header.
+
+Kane met Nacer Chadli's pinpoint delivery midway through the first half - his 14th goal of the season in all competitions and third in as many matches.
+
+Barnes netted the winner in Burnley's 1-0 victory over Southampton last weekend and, although there was a slice of fortune about that strike, there was nothing lucky about his third Premier League goal as he hit a magnificent effort into the top corner from just outside the area.
+
+That goal was outshone by Lamela's effort, however, as Spurs completed a successful seven days, having defeated Swansea City last weekend and progressed to the semifinal of the League Cup with a 4-0 thrashing of Newcastle United on Wednesday.
+
+The hosts showed one alteration from their 2-1 victory in south Wales as Chadli came in for Roberto Soldado.
+
+Burnley, unchanged from its clash with Southampton, threatened an early opener when Scott Arfield fired off target from Kieran Trippier's deep cross in the second minute.
+
+After that promising start for the visitors, Spurs began to assert themselves on the game and took the lead in the 21st minute.
+
+Kane's quick thinking at a free kick released Chadli down the left and the striker broke into the box where he met the Belgian's perfect cross with a simple header from close range.
+
+The advantage was short-lived, however, as Barnes arced a delightful finish into the top right-hand corner from 20 yards six minutes later.
+
+Ten minutes before the interval, Lamela's moment of magic ensured Spurs moved back in front as he cut inside on his left foot and curled a superb shot inside the far post beyond the despairing dive of Tom Heaton.
+
+Ryan Mason injured his ankle late in the first half while shooting off target and had to be replaced by Benjamin Stambouli.
+
+As in the first period, Burnley made a strong start in the second with Danny Ings denied three times by Hugo Lloris in the opening nine minutes.
+
+Kane came closed to a third late on when he just failed to get a telling touch on Eriksen's low cross, before Lloris kept out substitute Ross Wallace's low free kick in stoppage time, allowing Spurs to climb to sixth, while Burnley drops back into the bottom three on goal difference.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="198~209" text="Erik Lamela" playerID="null" />
+<Player id="P1" spans="323~327" text="Hart" playerID="null" />
+<Player id="P2" spans="554~560" text="Lamela" playerID="null" />
+<Player id="P3" spans="686~699" text="Ashley Barnes" playerID="null" />
+<Player id="P4" spans="717~727" text="Harry Kane" playerID="null" />
+<Player id="P5" spans="739~743" text="Kane" playerID="null" />
+<Player id="P6" spans="748~760" text="Nacer Chadli" playerID="null" />
+<Player id="P7" spans="892~898" text="Barnes" playerID="null" />
+<Player id="P8" spans="1200~1206" text="Lamela" playerID="null" />
+<Player id="P9" spans="1491~1497" text="Chadli" playerID="null" />
+<Player id="P10" spans="1510~1525" text="Roberto Soldado" playerID="null" />
+<Player id="P11" spans="1612~1625" text="Scott Arfield" playerID="null" />
+<Player id="P12" spans="1648~1663" text="Kieran Trippier" playerID="null" />
+<Player id="P13" spans="1829~1833" text="Kane" playerID="null" />
+<Player id="P14" spans="1875~1881" text="Chadli" playerID="null" />
+<Player id="P15" spans="2055~2061" text="Barnes" playerID="null" />
+<Player id="P16" spans="2186~2192" text="Lamela" playerID="null" />
+<Player id="P17" spans="2354~2364" text="Tom Heaton" playerID="null" />
+<Player id="P18" spans="2367~2377" text="Ryan Mason" playerID="null" />
+<Player id="P19" spans="2471~2489" text="Benjamin Stambouli" playerID="null" />
+<Player id="P20" spans="2563~2573" text="Danny Ings" playerID="null" />
+<Player id="P21" spans="2596~2607" text="Hugo Lloris" playerID="null" />
+<Player id="P22" spans="2638~2642" text="Kane" playerID="null" />
+<Player id="P23" spans="2720~2727" text="Eriksen" playerID="null" />
+<Player id="P24" spans="2748~2754" text="Lloris" playerID="null" />
+<Player id="P25" spans="2775~2787" text="Ross Wallace" playerID="null" />
+<Coref id="C0" spans="121~124" text="his" playerID="null" />
+<Coref id="C1" spans="508~510" text="he" playerID="null" />
+<Coref id="C2" spans="517~520" text="his" playerID="null" />
+<Coref id="C3" spans="813~816" text="his" playerID="null" />
+<Coref id="C4" spans="1064~1067" text="his" playerID="null" />
+<Coref id="C5" spans="1097~1099" text="he" playerID="null" />
+<Coref id="C6" spans="1937~1939" text="he" playerID="null" />
+<Coref id="C7" spans="2248~2250" text="he" playerID="null" />
+<Coref id="C8" spans="2265~2268" text="his" playerID="null" />
+<Coref id="C9" spans="2386~2389" text="his" playerID="null" />
+<Coref id="C10" spans="2679~2681" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

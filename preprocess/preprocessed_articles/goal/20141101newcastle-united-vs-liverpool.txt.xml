@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/newcastle-united-vs-liverpool/1703691
+
+Nov 1, 2014 10:46:23 AM
+
+The Reds' sluggish start to the 2014-15 campaign continued with a loss at St. James' Park.
+
+Ayoze Perez scored the winner for Newcastle United for the second Premier League match running as Liverpool was beaten 1-0 on Saturday.
+
+The Spaniard netted the decisive goal in the 2-1 triumph at Tottenham on Sunday and came off the bench at St. James' Park to earn Newcastle's fourth win in a row in all competitions and move to within a point of Liverpool.
+
+The Premier League's highest scoring fixture — having yielded 129 goals before this meeting — looked set to be heading for a scoreless draw until Perez's 73rd-minute strike, which condemned the visitors to their fourth top-flight defeat of the season.
+
+Both clubs progressed to the League Cup quarterfinals midweek, with Newcastle having further alleviated the pressure on manager Alan Pardew by producing a shock 2-0 success over holder Manchester City.
+
+It was two much-changed sides that lined up Saturday and Pardew reaped the rewards from having rested several key players for Wednesday's trip to the Etihad Stadium.
+
+Pardew acknowledged that the weakened team he named against City was a nod toward the importance of this fixture, with five players — Tim Krul, Steven Taylor, Moussa Sissoko, Sammy Ameobi and Papiss Cisse — returning, while Mehdi Abeid earned a Premier League debut.
+
+Liverpool boss Brendan Rodgers also made numerous changes from the League Cup win over Swansea City, and Mario Balotelli was rewarded for his equalizing goal off the bench in that 2-1 triumph as the Italian was handed a start, with Steven Gerrard and Raheem Sterling coming back into the side.
+
+The hosts had appeals for a penalty waved away by referee Andre Marriner in the 10th minute when Sissoko went to ground under a challenge from Joe Allen, with replays suggesting they had cause to feel aggrieved. 
+
+Newcastle suffered a blow midway through the half when Gabriel Obertan, scorer of the winning goal in his side's last home match against Leicester City, pulled up while chasing a long ball down the right, with Rolando Aarons introduced in his place.
+
+Liverpool survived a scare late in the half when Cisse's goal-bound shot was headed away by the alert Glen Johnson, while Martin Skrtel headed Gerrard's corner wide from 8 yards at the other end.
+
+The Senegal striker did not return for the second half as Perez was brought on to add fresh impetus to Newcastle's attack, with that change ultimately proving crucial.
+
+Tempers flared on the hour mark when Daryl Janmaat scythed down Balotelli and was, perhaps, a little fortunate to escape with just a yellow card. 
+
+Former Sunderland man Fabio Borini threatened with a powerful low strike from the edge of the area two minutes after coming off the bench, but it was Perez who made the breakthrough. Sissoko's cross was not dealt with by Alberto Moreno, and Perez was on hand to fire the ball home.
+
+A rapid breakaway almost led to a second when Remy Cabella and Perez linked well, but the Frenchman's effort was kept out by the right foot of Simon Mignolet.
+
+Liverpool offered little in the closing stages and, with a trip to the Santiago Bernabeu to take on European champion Real Madrid coming up Tuesday, Rodgers was left with plenty to ponder.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="175~180" text="James" playerID="null" />
+<Player id="P1" spans="189~200" text="Ayoze Perez" playerID="null" />
+<Player id="P2" spans="436~441" text="James" playerID="null" />
+<Player id="P3" spans="696~701" text="Perez" playerID="null" />
+<Player id="P4" spans="1307~1315" text="Tim Krul" playerID="null" />
+<Player id="P5" spans="1317~1330" text="Steven Taylor" playerID="null" />
+<Player id="P6" spans="1324~1330" text="Taylor" playerID="null" />
+<Player id="P7" spans="1332~1346" text="Moussa Sissoko" playerID="null" />
+<Player id="P8" spans="1348~1360" text="Sammy Ameobi" playerID="null" />
+<Player id="P9" spans="1354~1360" text="Ameobi" playerID="null" />
+<Player id="P10" spans="1372~1377" text="Cisse" playerID="null" />
+<Player id="P11" spans="1397~1408" text="Mehdi Abeid" playerID="null" />
+<Player id="P12" spans="1546~1561" text="Mario Balotelli" playerID="null" />
+<Player id="P13" spans="1673~1687" text="Steven Gerrard" playerID="null" />
+<Player id="P14" spans="1692~1707" text="Raheem Sterling" playerID="null" />
+<Player id="P15" spans="1833~1840" text="Sissoko" playerID="null" />
+<Player id="P16" spans="1879~1888" text="Joe Allen" playerID="null" />
+<Player id="P17" spans="2005~2020" text="Gabriel Obertan" playerID="null" />
+<Player id="P18" spans="2160~2174" text="Rolando Aarons" playerID="null" />
+<Player id="P19" spans="2250~2255" text="Cisse" playerID="null" />
+<Player id="P20" spans="2303~2315" text="Glen Johnson" playerID="null" />
+<Player id="P21" spans="2308~2315" text="Johnson" playerID="null" />
+<Player id="P22" spans="2323~2336" text="Martin Skrtel" playerID="null" />
+<Player id="P23" spans="2344~2351" text="Gerrard" playerID="null" />
+<Player id="P24" spans="2456~2461" text="Perez" playerID="null" />
+<Player id="P25" spans="2604~2617" text="Daryl Janmaat" playerID="null" />
+<Player id="P26" spans="2631~2640" text="Balotelli" playerID="null" />
+<Player id="P27" spans="2737~2749" text="Fabio Borini" playerID="null" />
+<Player id="P28" spans="2865~2870" text="Perez" playerID="null" />
+<Player id="P29" spans="2898~2905" text="Sissoko" playerID="null" />
+<Player id="P30" spans="2936~2950" text="Alberto Moreno" playerID="null" />
+<Player id="P31" spans="2956~2961" text="Perez" playerID="null" />
+<Player id="P32" spans="3044~3056" text="Remy Cabella" playerID="null" />
+<Player id="P33" spans="3061~3066" text="Perez" playerID="null" />
+<Player id="P34" spans="3141~3155" text="Simon Mignolet" playerID="null" />
+<Coref id="C0" spans="1216~1218" text="he" playerID="null" />
+<Coref id="C1" spans="1579~1582" text="his" playerID="null" />
+<Coref id="C2" spans="2052~2055" text="his" playerID="null" />
+<Coref id="C3" spans="2189~2192" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/southampton-vs-chelsea/1703867
+
+Dec 28, 2014 10:55:00 AM
+
+Ronald Koeman's men took an early lead through Sadio Mane but an equalizer from the Belgian saw the two sides share the spoils, despite Morgan Schneiderlin's late red card.
+
+Chelsea will finish 2014 as the Premier League leader, despite Jose Mourinho's side toiling to a 1-1 draw at Southampton on Sunday.
+The West Londoners failed to hit their usual impeccable standards at the St. Mary's Stadium on Sunday, with Southampton displaying its top-four credentials in a battling display.
+
+An upset appeared on the cards when Sadio Mane made the most of sloppy defending from Chelsea captain John Terry, recently promised a new deal by Mourinho, to race through and deftly lift over Thibaut Courtois for his second goal in as many matches.
+
+But a moment of brilliance from Eden Hazard shortly before the break leveled proceedings, as he curled home his seventh league goal of the campaign.
+
+Chelsea pushed hard for a winner after the break and felt hard done when Cesc Fabregas was booked for simulation despite being tripped by Matt Targett. Mourinho's side ultimately had to settle for a point — despite an 88th-minute red card for Southampton's Morgan Schneiderlin.
+
+A draw ensures Chelsea will top the pile going into 2015, while Southampton hit back at its sceptics after recent defeats to Manchester City, Arsenal and Manchester United.
+
+Dusan Tadic, one of four Southampton changes from the 3-1 beating of Crystal Palace on Boxing Day, tested the water early with a shot from distance that went well wide.
+
+The Serbia winger then played an influential role as the hosts moved ahead in the 16th minute. His expertly dinked through ball caught Terry flat-footed and the Chelsea skipper was left trailing in Mane's wake as the Senegal winger sprung the offside trap and kept his cool to lift the ball over Courtois.
+
+Chelsea made just three alterations to the team that beat West Ham on Friday and did not take long to showcase its talent, dominating the majority of possession, but was uncharacteristically wasteful in the final third.
+
+Yet the visitors restored parity on the stroke of half-time with a fine finish from Hazard. Creator-in-chief Fabregas showed great vision to play a delicate chip into the path of Hazard in the left channel, who cut inside Belgium colleague Toby Alderweireld and bent a fierce shot into the far corner.
+
+Fabregas was again involved 10 minutes after the break when he was tripped inside the penalty area by teenage fullback Targett — making his first league start in place of Chelsea loanee Ryan Bertrand — but referee Anthony Taylor deemed it a dive and booked the incredulous Spaniard.
+
+The visitors continued to press and Fabregas once again teed up Hazard on the hour, but this time he flashed wide of the right-hand post, while Didier Drogba was introduced to add muscle to Chelsea's attack.
+
+For all the visitors' pressure, a clear-cut opportunity never materialized. Even when Schneiderlin received a second yellow card and subsequent red for hacking down Fabregras on the halfway line, Chelsea could not find a way through, missing the chance to keep daylight between itself and Manchester City.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="138~148" text="Sadio Mane" playerID="null" />
+<Player id="P1" spans="227~233" text="Morgan" playerID="null" />
+<Player id="P2" spans="227~246" text="Morgan Schneiderlin" playerID="null" />
+<Player id="P3" spans="613~623" text="Sadio Mane" playerID="null" />
+<Player id="P4" spans="679~689" text="John Terry" playerID="null" />
+<Player id="P5" spans="770~786" text="Thibaut Courtois" playerID="null" />
+<Player id="P6" spans="860~871" text="Eden Hazard" playerID="null" />
+<Player id="P7" spans="1051~1064" text="Cesc Fabregas" playerID="null" />
+<Player id="P8" spans="1116~1128" text="Matt Targett" playerID="null" />
+<Player id="P9" spans="1235~1241" text="Morgan" playerID="null" />
+<Player id="P10" spans="1235~1254" text="Morgan Schneiderlin" playerID="null" />
+<Player id="P11" spans="1431~1442" text="Dusan Tadic" playerID="null" />
+<Player id="P12" spans="1736~1741" text="Terry" playerID="null" />
+<Player id="P13" spans="1799~1803" text="Mane" playerID="null" />
+<Player id="P14" spans="1897~1905" text="Courtois" playerID="null" />
+<Player id="P15" spans="2213~2219" text="Hazard" playerID="null" />
+<Player id="P16" spans="2238~2246" text="Fabregas" playerID="null" />
+<Player id="P17" spans="2308~2314" text="Hazard" playerID="null" />
+<Player id="P18" spans="2369~2386" text="Toby Alderweireld" playerID="null" />
+<Player id="P19" spans="2432~2440" text="Fabregas" playerID="null" />
+<Player id="P20" spans="2551~2558" text="Targett" playerID="null" />
+<Player id="P21" spans="2618~2631" text="Ryan Bertrand" playerID="null" />
+<Player id="P22" spans="2654~2660" text="Taylor" playerID="null" />
+<Player id="P23" spans="2752~2760" text="Fabregas" playerID="null" />
+<Player id="P24" spans="2780~2786" text="Hazard" playerID="null" />
+<Player id="P25" spans="2860~2873" text="Didier Drogba" playerID="null" />
+<Player id="P26" spans="3011~3023" text="Schneiderlin" playerID="null" />
+<Coref id="C0" spans="791~794" text="his" playerID="null" />
+<Coref id="C1" spans="921~923" text="he" playerID="null" />
+<Coref id="C2" spans="936~939" text="his" playerID="null" />
+<Coref id="C3" spans="1696~1699" text="His" playerID="null" />
+<Coref id="C4" spans="1866~1869" text="his" playerID="null" />
+<Coref id="C5" spans="2492~2494" text="he" playerID="null" />
+<Coref id="C6" spans="2568~2571" text="his" playerID="null" />
+<Coref id="C7" spans="2814~2816" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

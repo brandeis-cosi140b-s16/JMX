@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-hull-city/1703799
+
+Dec 13, 2014 11:58:07 AM
+
+The Blues bounced back from their first defeat of the Premier League season with a comfortable victory over 10-man Hull.
+
+Chelsea returned to winning ways in the Premier League with a comfortable 2-0 victory over 10-man Hull City at Stamford Bridge on Saturday.
+
+Jose Mourinho's side suffered its first defeat of the season at Newcastle United last weekend, but looked back to its best early on as Eden Hazard headed it into a seventh-minute lead.
+
+The hosts' early promise fizzled out, however, with chances few and far between for both sides for much of the encounter.
+
+But Tom Huddlestone was given his marching orders on the hour mark for catching Filipe Luis with his studs, and Chelsea soon pounced to double its advantage – Diego Costa diverting the ball beyond goalkeeper Allan McGregor eight minutes later.
+
+The victory sees Chelsea maintain its three-point advantage over second-place Manchester City, while Hull — now without a win in nine — remains in the bottom three.
+
+Chelsea reverted to a more familiar starting XI after making a number of changes for its UEFA Champions League win over Sporting Lisbon on Wednesday, and it was two of those returning stars who unlocked the visitors' defense with ease in the seventh minute.
+
+Oscar was given time on the left wing to pick out the advancing Hazard with a precision cross, and the unchallenged Belgian rose well to power home a header. The goal was Hazard's 65th in league football, but only his second header.
+
+Hull — without the underperforming Hatem Ben Arfa amid reports the Frenchman's loan from Newcastle is on the verge of being terminated — was dealt a further blow when Michael Dawson was forced off through injury three minutes after Hazard's goal.
+
+Steve Bruce's men were struggling to keep possession, and Petr Cech — making his first Premier League start of the season in place of the injured Thibaut Courtois — was a spectator for long spells, with Sone Aluko blasting over Hull's first opening after 20 minutes.
+
+David Meyler resorted to using a hand as he looked to connect with a 25th-minute corner, earning a yellow card from referee Chris Foy.
+
+Hull did eventually settle, limiting the hosts' attacking opportunities, but offered little going forward as Chelsea comfortably sat on its one-goal advantage.
+
+Jake Livermore sent a low drive trickling wide of the left-hand upright as Hull looked to make a positive start to the second period, but the task got considerably tougher on the hour mark when Huddlestone was dismissed for a clumsy challenge on left back Filipe Luis.
+
+James Chester's handball in the penalty area soon after went unpunished, before Chelsea made the most of its man advantage.
+
+Hazard found Costa with a well-worked through ball, and the Spain international prodded past McGregor to put the match to bed.
+
+Hull rarely looked like hauling itself back into the match in the closing 20 minutes, and the focus will now switch to ensuring its winless run does not hit double figures at home against Swansea City next weekend.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="487~498" text="Eden Hazard" playerID="null" />
+<Player id="P1" spans="665~680" text="Tom Huddlestone" playerID="null" />
+<Player id="P2" spans="741~752" text="Filipe Luis" playerID="null" />
+<Player id="P3" spans="820~831" text="Diego Costa" playerID="null" />
+<Player id="P4" spans="869~883" text="Allan McGregor" playerID="null" />
+<Player id="P5" spans="1331~1336" text="Oscar" playerID="null" />
+<Player id="P6" spans="1395~1401" text="Hazard" playerID="null" />
+<Player id="P7" spans="1502~1508" text="Hazard" playerID="null" />
+<Player id="P8" spans="1600~1614" text="Hatem Ben Arfa" playerID="null" />
+<Player id="P9" spans="1732~1746" text="Michael Dawson" playerID="null" />
+<Player id="P10" spans="1740~1746" text="Dawson" playerID="null" />
+<Player id="P11" spans="1797~1803" text="Hazard" playerID="null" />
+<Player id="P12" spans="1819~1824" text="Bruce" playerID="null" />
+<Player id="P13" spans="1871~1880" text="Petr Cech" playerID="null" />
+<Player id="P14" spans="1959~1975" text="Thibaut Courtois" playerID="null" />
+<Player id="P15" spans="2016~2026" text="Sone Aluko" playerID="null" />
+<Player id="P16" spans="2081~2093" text="David Meyler" playerID="null" />
+<Player id="P17" spans="2378~2392" text="Jake Livermore" playerID="null" />
+<Player id="P18" spans="2572~2583" text="Huddlestone" playerID="null" />
+<Player id="P19" spans="2634~2645" text="Filipe Luis" playerID="null" />
+<Player id="P20" spans="2648~2661" text="James Chester" playerID="null" />
+<Player id="P21" spans="2773~2779" text="Hazard" playerID="null" />
+<Player id="P22" spans="2786~2791" text="Costa" playerID="null" />
+<Player id="P23" spans="2866~2874" text="McGregor" playerID="null" />
+<Coref id="C0" spans="691~694" text="his" playerID="null" />
+<Coref id="C1" spans="758~761" text="his" playerID="null" />
+<Coref id="C2" spans="1545~1548" text="his" playerID="null" />
+<Coref id="C3" spans="1890~1893" text="his" playerID="null" />
+<Coref id="C4" spans="2122~2124" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

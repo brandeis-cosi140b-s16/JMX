@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.goal.com/en-us/match/sunderland-vs-tottenham-hotspur/1703571
+
+Sep 13, 2014 11:50:00 AM
+
+The striker turned a Jordi Gomez free-kick into his own net late on to ensure the home side took a share of the spoils from a clash dominated by Mauricio Pochettino's men
+
+A Harry Kane own goal allowed Sunderland to snatch a 2-2 draw against Tottenham on Saturday afternoon.
+
+It seemed the visitors would get back to winning ways when Christian Eriksen put them ahead just after half-time, with Adam Johnson having earlier cancelled out Nacer Chadli's strike at the Stadium of Light.
+
+But after Erik Lamela rattled the woodwork, Sunderland earned a share of the spoils when Jordi Gomez's free-kick hit Kane and flew into the net.
+
+Both sides entered the game having fallen to disappointing defeats prior to the international break.
+
+Tottenham lost 3-0 to Liverpool, while Charlie Austin grabbed the only goal as Sunderland were defeated by QPR.
+
+And neither was able to get a desired three points this time around, although Gus Poyet will surely have been the happier of the managers.
+
+There was little hangover from the two-week absence as Tottenham flew out of the blocks, Danny Rose forcing a fine save from Vito Mannone after the visitors cut through their opponents with ease.
+
+Any disappointment at that miss was soon extinguished, Chadli continuing his fine start to the season by slotting home following a Mannone parry that kept out Emmanuel Adebayor's powerful strike.
+
+Yet Sunderland regrouped and responded immediately when a fine counter-attack ended with Johnson's deflected effort beating Hugo Lloris.
+
+The breathless start continued, though, with Mannone having to be on high alert to deny Chadli and Adebayor in quick succession.
+
+Things unsurprisingly calmed down, although Tottenham still looked a constant threat as Eriksen - who had assisted Adebayor's chance with a sumptuous lob - cleverly found pockets of space.
+
+It was Mousa Dembele who was next to threaten, taking advantage of being afforded too much space when unleashing a vicious left-footed strike from long range that rattled the post.
+
+The second period begin in the same manner as the first, Eriksen putting Tottenham back in front.
+
+Chadli was again instrumental, sending in a cross that Patrick van Aanholt could only clear into Wes Brown, the ricochet leaving Eriksen with the simplest of finishes.
+
+Much like after the opening goal, Sunderland were suddenly spurred into life - although an end product to their endeavour was severely lacking.
+
+Johnson was still looking dangerous for Poyet's men, however, as he showed when firing a powerful 25-yard effort inches wide.
+
+That was one of the rare moments of excitement for the home support, with Tottenham still looking in control amid their back four showing great composure.
+
+Yet they could still not find the goal that would provide more comfort for the visiting faithful, Lamela coming agonisingly close when his curling effort rattled the woodwork.
+
+Then came Kane's moment of misfortune as Sunderland drew level against the run of play, and they could even have won it, Buckley turning a glorious chance just wide of the post late on.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="120~131" text="Jordi Gomez" playerID="null" />
+<Player id="P1" spans="273~283" text="Harry Kane" playerID="null" />
+<Player id="P2" spans="434~451" text="Christian Eriksen" playerID="null" />
+<Player id="P3" spans="494~506" text="Adam Johnson" playerID="null" />
+<Player id="P4" spans="536~548" text="Nacer Chadli" playerID="null" />
+<Player id="P5" spans="594~605" text="Erik Lamela" playerID="null" />
+<Player id="P6" spans="673~684" text="Jordi Gomez" playerID="null" />
+<Player id="P7" spans="701~705" text="Kane" playerID="null" />
+<Player id="P8" spans="871~885" text="Charlie Austin" playerID="null" />
+<Player id="P9" spans="1027~1032" text="Poyet" playerID="null" />
+<Player id="P10" spans="1174~1184" text="Danny Rose" playerID="null" />
+<Player id="P11" spans="1210~1222" text="Vito Mannone" playerID="null" />
+<Player id="P12" spans="1337~1343" text="Chadli" playerID="null" />
+<Player id="P13" spans="1413~1420" text="Mannone" playerID="null" />
+<Player id="P14" spans="1441~1458" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P15" spans="1568~1575" text="Johnson" playerID="null" />
+<Player id="P16" spans="1603~1614" text="Hugo Lloris" playerID="null" />
+<Player id="P17" spans="1662~1669" text="Mannone" playerID="null" />
+<Player id="P18" spans="1705~1711" text="Chadli" playerID="null" />
+<Player id="P19" spans="1716~1724" text="Adebayor" playerID="null" />
+<Player id="P20" spans="1835~1842" text="Eriksen" playerID="null" />
+<Player id="P21" spans="1862~1870" text="Adebayor" playerID="null" />
+<Player id="P22" spans="1950~1957" text="Dembele" playerID="null" />
+<Player id="P23" spans="2176~2183" text="Eriksen" playerID="null" />
+<Player id="P24" spans="2218~2224" text="Chadli" playerID="null" />
+<Player id="P25" spans="2273~2292" text="Patrick van Aanholt" playerID="null" />
+<Player id="P26" spans="2315~2324" text="Wes Brown" playerID="null" />
+<Player id="P27" spans="2319~2324" text="Brown" playerID="null" />
+<Player id="P28" spans="2347~2354" text="Eriksen" playerID="null" />
+<Player id="P29" spans="2532~2539" text="Johnson" playerID="null" />
+<Player id="P30" spans="2572~2577" text="Poyet" playerID="null" />
+<Player id="P31" spans="2913~2919" text="Lamela" playerID="null" />
+<Player id="P32" spans="3002~3006" text="Kane" playerID="null" />
+<Player id="P33" spans="3113~3120" text="Buckley" playerID="null" />
+<Coref id="C0" spans="147~150" text="his" playerID="null" />
+<Coref id="C1" spans="1355~1358" text="his" playerID="null" />
+<Coref id="C2" spans="2597~2599" text="he" playerID="null" />
+<Coref id="C3" spans="2950~2953" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-everton/1703989
+
+Feb 11, 2015 4:36:00 PM
+
+Jose Mourinho's side looked set to see its advantage at the top of the Premier League shrink, but the midfielder's late goal sealed all three points in dramatic fashion.
+
+A late strike from Willian ensured Chelsea beat Everton 1-0 at Stamford Bridge on Wednesday to remain seven points clear at the top of the Premier League.
+
+Tim Howard looked set to deny the leaders victory on his return from injury, but the Everton goalkeeper was unable to keep out a deflected strike from Brazil midfielder Willian just a minute from time in a dramatic finale.
+
+Eden Hazard, Willian and Nemanja Matic were all thwarted by the former Manchester United man and Branislav Ivanovic had a late goal disallowed for offside, before Willian secured an 11th win from 12 top-flight home games.
+
+Romelu Lukaku was denied by a fine save from the recalled Petr Cech and also went close in the first half for the visitor, which had Gareth Barry sent off for a second bookable offense just before Willian struck.
+
+Manchester City's 4-1 victory at Stoke City ensured Chelsea's advantage at the summit remains seven points, while Everton has won just one of its last nine Premier League games.
+
+Juan Cuadrado made his first Chelsea start, while Cech, Kurt Zouma and Loic Remy also came into the side. Oscar was not risked because of an injury, but fit-again midfielder Cesc Fabregas was named among the substitutes
+
+Howard started at the expense of Joel Robles, while Aaron Lennon was handed a first Everton start and Ross Barkley was recalled.
+
+Matic almost made an early impact with a goal when he beat two Everton players before firing a left-footed strike over the crossbar.
+
+Fellow midfielder Willian went even closer with a dipping shot from just outside the penalty area, before Lukaku almost struck at the other end against his former club when he raced into the box. His low effort was kept out by the feet of Cech after only seven minutes.
+
+Cuadrado looked a threat and the big-money deadline-day recruit dragged a shot wide of the far post and then Howard saved a Remy header in a frantic start.
+
+The lively Hazard went agonizingly close to getting on the end of Cesar Azpilicueta's fine cross as Everton struggled to contain the leaders, but Chelsea was unable to find the back of the net before the break.
+
+Everton manager Roberto Martinez replaced Muhamed Besic, who was shown an early yellow card, with James McCarthy at halftime and Chelsea was soon back on the front foot after the break.
+
+Hazard was a constant menace to the Everton defense, and the Belgium winger fired the ball across the face of the goal, but Bryan Oviedo was well positioned to avert the danger.
+
+The outstanding Hazard then surged into the area, after producing some fine close control, before forcing a save from Howard. The Everton goalkeeper also had to be at his best to save Matic's well executed free-kick.
+
+The busy Howard again demonstrated why Martinez was so eager to recall him when he produced a diving stop to keep out a measured Willian effort, before Cech showed his class at the other end to thwart an unmarked Lukaku.
+
+Belgium striker Lukaku looked certain to convert Oviedo's ball in from the left, but Cech stood up to keep out his finish from only six yards out.
+
+Jose Mourinho replaced Cuadrado and Remy with Fabregas and Didier Drogba 20 minutes from time, and Chelsea had a late goal disallowed when Matic's shot was deflected in off Ivanovic, who was offside.
+
+Barry was then dismissed for a challenge on Willian which sparked a mass confrontation, and there was more drama to come, as Howard fisted away a cross into Willian's path and he rifled home with the aid of a defletion to stun Everton.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="276~283" text="Willian" playerID="null" />
+<Player id="P1" spans="413~423" text="Tim Howard" playerID="null" />
+<Player id="P2" spans="582~589" text="Willian" playerID="null" />
+<Player id="P3" spans="637~648" text="Eden Hazard" playerID="null" />
+<Player id="P4" spans="650~657" text="Willian" playerID="null" />
+<Player id="P5" spans="662~675" text="Nemanja Matic" playerID="null" />
+<Player id="P6" spans="734~752" text="Branislav Ivanovic" playerID="null" />
+<Player id="P7" spans="800~807" text="Willian" playerID="null" />
+<Player id="P8" spans="860~873" text="Romelu Lukaku" playerID="null" />
+<Player id="P9" spans="918~927" text="Petr Cech" playerID="null" />
+<Player id="P10" spans="993~1005" text="Gareth Barry" playerID="null" />
+<Player id="P11" spans="1057~1064" text="Willian" playerID="null" />
+<Player id="P12" spans="1253~1266" text="Juan Cuadrado" playerID="null" />
+<Player id="P13" spans="1303~1307" text="Cech" playerID="null" />
+<Player id="P14" spans="1309~1319" text="Kurt Zouma" playerID="null" />
+<Player id="P15" spans="1324~1333" text="Loic Remy" playerID="null" />
+<Player id="P16" spans="1359~1364" text="Oscar" playerID="null" />
+<Player id="P17" spans="1427~1440" text="Cesc Fabregas" playerID="null" />
+<Player id="P18" spans="1474~1480" text="Howard" playerID="null" />
+<Player id="P19" spans="1507~1518" text="Joel Robles" playerID="null" />
+<Player id="P20" spans="1526~1538" text="Aaron Lennon" playerID="null" />
+<Player id="P21" spans="1576~1588" text="Ross Barkley" playerID="null" />
+<Player id="P22" spans="1604~1609" text="Matic" playerID="null" />
+<Player id="P23" spans="1756~1763" text="Willian" playerID="null" />
+<Player id="P24" spans="1844~1850" text="Lukaku" playerID="null" />
+<Player id="P25" spans="1977~1981" text="Cech" playerID="null" />
+<Player id="P26" spans="2009~2017" text="Cuadrado" playerID="null" />
+<Player id="P27" spans="2118~2124" text="Howard" playerID="null" />
+<Player id="P28" spans="2133~2137" text="Remy" playerID="null" />
+<Player id="P29" spans="2177~2183" text="Hazard" playerID="null" />
+<Player id="P30" spans="2232~2249" text="Cesar Azpilicueta" playerID="null" />
+<Player id="P31" spans="2402~2410" text="Martinez" playerID="null" />
+<Player id="P32" spans="2420~2433" text="Muhamed Besic" playerID="null" />
+<Player id="P33" spans="2476~2481" text="James" playerID="null" />
+<Player id="P34" spans="2476~2490" text="James McCarthy" playerID="null" />
+<Player id="P35" spans="2482~2490" text="McCarthy" playerID="null" />
+<Player id="P36" spans="2565~2571" text="Hazard" playerID="null" />
+<Player id="P37" spans="2689~2701" text="Bryan Oviedo" playerID="null" />
+<Player id="P38" spans="2760~2766" text="Hazard" playerID="null" />
+<Player id="P39" spans="2862~2868" text="Howard" playerID="null" />
+<Player id="P40" spans="2928~2933" text="Matic" playerID="null" />
+<Player id="P41" spans="2971~2977" text="Howard" playerID="null" />
+<Player id="P42" spans="3001~3009" text="Martinez" playerID="null" />
+<Player id="P43" spans="3091~3098" text="Willian" playerID="null" />
+<Player id="P44" spans="3114~3118" text="Cech" playerID="null" />
+<Player id="P45" spans="3175~3181" text="Lukaku" playerID="null" />
+<Player id="P46" spans="3200~3206" text="Lukaku" playerID="null" />
+<Player id="P47" spans="3233~3239" text="Oviedo" playerID="null" />
+<Player id="P48" spans="3269~3273" text="Cech" playerID="null" />
+<Player id="P49" spans="3355~3363" text="Cuadrado" playerID="null" />
+<Player id="P50" spans="3368~3372" text="Remy" playerID="null" />
+<Player id="P51" spans="3378~3386" text="Fabregas" playerID="null" />
+<Player id="P52" spans="3391~3404" text="Didier Drogba" playerID="null" />
+<Player id="P53" spans="3471~3476" text="Matic" playerID="null" />
+<Player id="P54" spans="3505~3513" text="Ivanovic" playerID="null" />
+<Player id="P55" spans="3533~3538" text="Barry" playerID="null" />
+<Player id="P56" spans="3577~3584" text="Willian" playerID="null" />
+<Player id="P57" spans="3658~3664" text="Howard" playerID="null" />
+<Player id="P58" spans="3690~3697" text="Willian" playerID="null" />
+<Coref id="C0" spans="466~469" text="his" playerID="null" />
+<Coref id="C1" spans="1272~1275" text="his" playerID="null" />
+<Coref id="C2" spans="1655~1657" text="he" playerID="null" />
+<Coref id="C3" spans="1890~1893" text="his" playerID="null" />
+<Coref id="C4" spans="1911~1913" text="he" playerID="null" />
+<Coref id="C5" spans="1934~1937" text="His" playerID="null" />
+<Coref id="C6" spans="2911~2914" text="his" playerID="null" />
+<Coref id="C7" spans="3042~3044" text="he" playerID="null" />
+<Coref id="C8" spans="3126~3129" text="his" playerID="null" />
+<Coref id="C9" spans="3295~3298" text="his" playerID="null" />
+<Coref id="C10" spans="3709~3711" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

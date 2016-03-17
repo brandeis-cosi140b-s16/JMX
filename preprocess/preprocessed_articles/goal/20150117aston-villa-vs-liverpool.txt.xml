@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/aston-villa-vs-liverpool/1703915
+
+Jan 17, 2015 11:51:00 AM
+
+The Italian and the former Southampton man both scored their second career goals for the Reds to extend the hosts' winless run in the Premier League to seven
+
+Goals from Fabio Borini and substitute Rickie Lambert helped Liverpool inflict more misery on beleaguered Aston Villa and under-fire manager Paul Lambert with a comfortable 2-0 win on Saturday.
+
+The build-up at Villa Park was dominated by talk of a supporter protest against Lambert and the Villa hierarchy during the early stages of the match and, although there was no huge demonstration from the stands, the pressure will continue to mount after a seventh league match without a win.
+
+Italian forward Borini prodded home the opener in the 24th minute for his first Liverpool goal in the Premier League since April 2013.
+
+Martin Skrtel saw Villa goalkeeper Brad Guzan tip his header onto the post after the break, but it was Villa which created the better second-half openings with Christian Benteke and Nathan Baker both missing promising chances.
+
+Liverpool took advantage of Villa's profligacy, though, when Lambert - brought off the bench for Borini - drilled home expertly 11 minutes from time.
+
+Defeat for Villa means it remains just three points above the relegation zone, while an improving Liverpool moves up to sixth.
+
+Both defenses were on top in a scrappy opening, although Baker - playing in place of the suspended Ciaran Clark in one of two changes - and Benteke had half-chances with headers.
+
+Alberto Moreno then thought he had opened the scoring for Liverpool by racing on to Philippe Coutinho's through ball and slotting past Guzan, only to be flagged for offside.
+
+Liverpool was not to be denied in the 24th minute, though.
+
+Stand-in captain Jordan Henderson's excellent guided cross from the right was volleyed home by the outstretched boot of Borini from close range, ending his lengthy wait for a Premier League goal in a Liverpool shirt.
+
+Raheem Sterling – back in the side in place of captain Steven Gerrard after being rested for the win over Sunderland last weekend – had the opportunity to double the visitors' lead when he raced free, only to chip tamely into the hands of Guzan.
+
+Villa finished the half well, but Simon Mignolet kept out Carlos Sanchez's stinging long-range drive and Tom Cleverley poked wide when one-on-one with the Belgian goalkeeper.
+
+Shortly after the restart, Guzan made a fine stop to push Skrtel's powerful header onto the post, while Sanchez was perhaps lucky to avoid punishment when he caught Sterling in the face with a high boot.
+
+Lambert brought on Andreas Weimann and Valencia loanee Carles Gil for his debut from the bench in an attempt to find more spark going forward.
+
+And Villa responded just after the hour mark when Benteke spun sharply in the area and unleashed a fierce half-volley at compatriot Mignolet, who parried well.
+
+The home side continued to threaten and Baker put a thumping header over the crossbar with Mignolet stranded, before last-ditch defending from Skrtel denied Benteke a good opportunity in the penalty area.
+
+Having escaped those scares, Liverpool put the game beyond doubt when Lambert - who had been on the pitch just eight minutes - latched onto Sterling's pass and drilled an angled shot into bottom left-hand corner, with Villa fans then voicing their frustration as the final whistle blew.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="263~275" text="Fabio Borini" playerID="null" />
+<Player id="P1" spans="291~305" text="Rickie Lambert" playerID="null" />
+<Player id="P2" spans="398~405" text="Lambert" playerID="null" />
+<Player id="P3" spans="527~534" text="Lambert" playerID="null" />
+<Player id="P4" spans="756~762" text="Borini" playerID="null" />
+<Player id="P5" spans="876~889" text="Martin Skrtel" playerID="null" />
+<Player id="P6" spans="911~921" text="Brad Guzan" playerID="null" />
+<Player id="P7" spans="1036~1053" text="Christian Benteke" playerID="null" />
+<Player id="P8" spans="1058~1070" text="Nathan Baker" playerID="null" />
+<Player id="P9" spans="1165~1172" text="Lambert" playerID="null" />
+<Player id="P10" spans="1201~1207" text="Borini" playerID="null" />
+<Player id="P11" spans="1440~1445" text="Baker" playerID="null" />
+<Player id="P12" spans="1482~1494" text="Ciaran Clark" playerID="null" />
+<Player id="P13" spans="1523~1530" text="Benteke" playerID="null" />
+<Player id="P14" spans="1563~1577" text="Alberto Moreno" playerID="null" />
+<Player id="P15" spans="1656~1664" text="Coutinho" playerID="null" />
+<Player id="P16" spans="1698~1703" text="Guzan" playerID="null" />
+<Player id="P17" spans="1815~1831" text="Jordan Henderson" playerID="null" />
+<Player id="P18" spans="1918~1924" text="Borini" playerID="null" />
+<Player id="P19" spans="2016~2031" text="Raheem Sterling" playerID="null" />
+<Player id="P20" spans="2071~2085" text="Steven Gerrard" playerID="null" />
+<Player id="P21" spans="2255~2260" text="Guzan" playerID="null" />
+<Player id="P22" spans="2297~2311" text="Simon Mignolet" playerID="null" />
+<Player id="P23" spans="2321~2335" text="Carlos Sanchez" playerID="null" />
+<Player id="P24" spans="2368~2381" text="Tom Cleverley" playerID="null" />
+<Player id="P25" spans="2466~2471" text="Guzan" playerID="null" />
+<Player id="P26" spans="2497~2503" text="Skrtel" playerID="null" />
+<Player id="P27" spans="2543~2550" text="Sanchez" playerID="null" />
+<Player id="P28" spans="2604~2612" text="Sterling" playerID="null" />
+<Player id="P29" spans="2644~2651" text="Lambert" playerID="null" />
+<Player id="P30" spans="2663~2678" text="Andreas Weimann" playerID="null" />
+<Player id="P31" spans="2683~2691" text="Valencia" playerID="null" />
+<Player id="P32" spans="2699~2709" text="Carles Gil" playerID="null" />
+<Player id="P33" spans="2838~2845" text="Benteke" playerID="null" />
+<Player id="P34" spans="2920~2928" text="Mignolet" playerID="null" />
+<Player id="P35" spans="2989~2994" text="Baker" playerID="null" />
+<Player id="P36" spans="3040~3048" text="Mignolet" playerID="null" />
+<Player id="P37" spans="3092~3098" text="Skrtel" playerID="null" />
+<Player id="P38" spans="3106~3113" text="Benteke" playerID="null" />
+<Player id="P39" spans="3225~3232" text="Lambert" playerID="null" />
+<Player id="P40" spans="3295~3303" text="Sterling" playerID="null" />
+<Coref id="C0" spans="810~813" text="his" playerID="null" />
+<Coref id="C1" spans="926~929" text="his" playerID="null" />
+<Coref id="C2" spans="1591~1593" text="he" playerID="null" />
+<Coref id="C3" spans="1950~1953" text="his" playerID="null" />
+<Coref id="C4" spans="2202~2204" text="he" playerID="null" />
+<Coref id="C5" spans="2594~2596" text="he" playerID="null" />
+<Coref id="C6" spans="2714~2717" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

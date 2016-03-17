@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/leicester-city-vs-chelsea/1704019
+
+Apr 29, 2015 5:03:15 PM
+
+Didier Drogba, John Terry and Ramires scored as Chelsea beat Leicester City 3-1 to put one hand on the Premier League title.
+
+Chelsea can win the Premier League title Sunday after John Terry and Ramires struck late to give the Blues a 3-1 come-from-behind victory at Leicester City.
+
+Jose Mourinho's side extended its lead over both Manchester City and Arsenal to 13 points with a gutsy win at the King Power Stadium on Wednesday that showcased its character.
+
+And now Chelsea, unbeaten in 14 league games, can secure English football's greatest prize for the first time since 2010 with victory against Crystal Palace at Stamford Bridge on Sunday.
+
+Leicester, which had won four matches in a row to move out of the relegation zone it had occupied since November, lost Andy King and Robert Huth in the first 25 minutes to injuries, but still took the lead on the stroke of half time through Marc Albrighton.
+
+The hosts were the better side in the first half, but Chelsea responded like a champion does, with Didier Drogba leveling proceedings in the 48th minute.
+
+Chelsea captain Terry then struck with 11 minutes remaining before a Ramires stunner capped a superb away win.
+
+Leicester, which remains one point above the bottom three, faces Newcastle United in a crucial relegation clash Saturday.
+
+Chelsea took no risk with goalkeeper Thibaut Courtois - battling a minor hip problem - and replaced him with Petr Cech, while Oscar dropped to the bench after his nasty collision with Arsenal's David Ospina on Sunday.
+
+Leicester, which gave forward Jamie Vardy another pain-killing injection to allow him to play, made a bright start, pressing and harrying Chelsea, which rued Cesc Fabregas' decision to square across the face of goal instead of shoot in the 17th minute.
+
+The departures of King, on his 300th Leicester appearance, and Huth, robbed the home side of momentum, but, in a first half bereft of chances, it almost took the lead through an unlikely source, as Paul Konchesky's near-post volley was superbly pushed onto the post by Cech.
+
+Chelsea survived the ensuing goalmouth scramble, but did not last until the break, as a fast counter in the third minute of stoppage time saw substitute Matty James play in Vardy down the left.
+
+Vardy got to the byline and cut back, with Cesar Azpilicueta's slip allowing Albrighton to steal in and, first time, fire into the bottom-left corner to delight the home crowd.
+
+Chelsea came out firing after the break, though, and was quickly on level terms through Drogba, after a dink from Eden Hazard - the newly crowned PFA Player of the Year - set Branislav Ivanovic free.
+
+And the defender stormed towards the byline before steering a pass to Drogba, who made no mistake from nine yards with a typically predatory finish.
+
+The Ivorian spooned a great chance over less than two minutes later, while Fabregas should have done better when Willian's cross from the right had Leicester scrambling, but the ex-Arsenal man saw the ball bounce off his knee and go wide.
+
+The chances kept coming for Chelsea, as Drogba flashed an effort just wide from a difficult angle, while Willian curled over as the visitors pressed for a second goal.
+
+And it came in the 79th minute as, after Gary Cahill's header from Fabregas' corner was saved by Kasper Schmeichel, Terry reacted quickest to flick in from close range.
+
+Leicester was given no chance to mount a late rally, either, as Ramires rocketed a first-time effort into the top-left corner from just outside the penalty area four minutes later, sealing Chelsea's terrific triumph.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="93~106" text="Didier Drogba" playerID="null" />
+<Player id="P1" spans="108~118" text="John Terry" playerID="null" />
+<Player id="P2" spans="123~130" text="Ramires" playerID="null" />
+<Player id="P3" spans="273~283" text="John Terry" playerID="null" />
+<Player id="P4" spans="288~295" text="Ramires" playerID="null" />
+<Player id="P5" spans="491~495" text="King" playerID="null" />
+<Player id="P6" spans="861~870" text="Andy King" playerID="null" />
+<Player id="P7" spans="866~870" text="King" playerID="null" />
+<Player id="P8" spans="875~886" text="Robert Huth" playerID="null" />
+<Player id="P9" spans="983~998" text="Marc Albrighton" playerID="null" />
+<Player id="P10" spans="1100~1113" text="Didier Drogba" playerID="null" />
+<Player id="P11" spans="1172~1177" text="Terry" playerID="null" />
+<Player id="P12" spans="1225~1232" text="Ramires" playerID="null" />
+<Player id="P13" spans="1428~1444" text="Thibaut Courtois" playerID="null" />
+<Player id="P14" spans="1500~1509" text="Petr Cech" playerID="null" />
+<Player id="P15" spans="1517~1522" text="Oscar" playerID="null" />
+<Player id="P16" spans="1585~1597" text="David Ospina" playerID="null" />
+<Player id="P17" spans="1640~1651" text="Jamie Vardy" playerID="null" />
+<Player id="P18" spans="1768~1781" text="Cesc Fabregas" playerID="null" />
+<Player id="P19" spans="1882~1886" text="King" playerID="null" />
+<Player id="P20" spans="1927~1931" text="Huth" playerID="null" />
+<Player id="P21" spans="2062~2076" text="Paul Konchesky" playerID="null" />
+<Player id="P22" spans="2133~2137" text="Cech" playerID="null" />
+<Player id="P23" spans="2293~2304" text="Matty James" playerID="null" />
+<Player id="P24" spans="2299~2304" text="James" playerID="null" />
+<Player id="P25" spans="2313~2318" text="Vardy" playerID="null" />
+<Player id="P26" spans="2335~2340" text="Vardy" playerID="null" />
+<Player id="P27" spans="2378~2395" text="Cesar Azpilicueta" playerID="null" />
+<Player id="P28" spans="2412~2422" text="Albrighton" playerID="null" />
+<Player id="P29" spans="2601~2607" text="Drogba" playerID="null" />
+<Player id="P30" spans="2627~2638" text="Eden Hazard" playerID="null" />
+<Player id="P31" spans="2688~2706" text="Branislav Ivanovic" playerID="null" />
+<Player id="P32" spans="2784~2790" text="Drogba" playerID="null" />
+<Player id="P33" spans="2939~2947" text="Fabregas" playerID="null" />
+<Player id="P34" spans="2977~2984" text="Willian" playerID="null" />
+<Player id="P35" spans="3144~3150" text="Drogba" playerID="null" />
+<Player id="P36" spans="3209~3216" text="Willian" playerID="null" />
+<Player id="P37" spans="3314~3325" text="Gary Cahill" playerID="null" />
+<Player id="P38" spans="3340~3348" text="Fabregas" playerID="null" />
+<Player id="P39" spans="3370~3387" text="Kasper Schmeichel" playerID="null" />
+<Player id="P40" spans="3389~3394" text="Terry" playerID="null" />
+<Player id="P41" spans="3507~3514" text="Ramires" playerID="null" />
+<Coref id="C0" spans="1550~1553" text="his" playerID="null" />
+<Coref id="C1" spans="1891~1894" text="his" playerID="null" />
+<Coref id="C2" spans="3081~3084" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-crystal-palace/1703791
+
+Dec 6, 2014 12:13:15 PM
+
+Neither side could find the breakthrough, and the result will please the visitors much more than the home side.
+
+Tottenham was held to a 0-0 draw by Crystal Palace at White Hart Lane on Saturday, as the host side was left to rue a lack of cutting edge.
+
+Spurs were looking to win back-to-back home games in the Premier League for the first time this season, but failed to break down a resolute Palace back line.
+
+While Neil Warnock's side had the better of the first half in north London, largely inspired by lively wingers Yannick Bolasie and Wilfried Zaha, Palace had its defensive ranks to thank after the break. 
+
+The visitors did well to keep the likes Harry Kane and Roberto Soldado quiet in the face of almost constant Spurs possession as Warnock's men bounced back from their 1-0 defeat at fellow struggler Aston Villa on Tuesday.
+
+The Spaniard in particular spurned his fair share of chances, displaying a lack of sharpness despite scoring his first league goal since March against Everton last weekend.
+
+Both sides had chances late on - substitute Jason Puncheon almost giving Palace its first away league win since September when he rattled the crossbar - as sections of the home support voiced their discontent at the goal less draw.
+
+With Palace on top, Soldado - one of two Spurs changes - missed the opportunity to put the hosts in front against the run of play when he cleared the crossbar from inside the area.
+
+Mauricio Pochettino brought on Nacer Chadli for Erik Lamela at the break, but Spurs continued to be contained by a well-drilled Palace outfit.
+
+The home side dominated possession and upped the pressure in search of an opener, with Soldado slicing a shot well wide from inside the area following an incisive ball from Eriksen just after the hour.
+
+Palace almost grabbed the winner 17 minutes from time as substitute Puncheon crashed a strike off the underside off the crossbar before Joel Ward blocked Paulinho's goal-bound strike inside the six-yard box.
+
+However, the spoils were shared in a result that will likely please Warnock much more than his opposite number Pochettino.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="276~280" text="Hart" playerID="null" />
+<Player id="P1" spans="627~642" text="Yannick Bolasie" playerID="null" />
+<Player id="P2" spans="647~660" text="Wilfried Zaha" playerID="null" />
+<Player id="P3" spans="761~771" text="Harry Kane" playerID="null" />
+<Player id="P4" spans="776~791" text="Roberto Soldado" playerID="null" />
+<Player id="P5" spans="1161~1175" text="Jason Puncheon" playerID="null" />
+<Player id="P6" spans="1370~1377" text="Soldado" playerID="null" />
+<Player id="P7" spans="1563~1575" text="Nacer Chadli" playerID="null" />
+<Player id="P8" spans="1580~1591" text="Erik Lamela" playerID="null" />
+<Player id="P9" spans="1763~1770" text="Soldado" playerID="null" />
+<Player id="P10" spans="1849~1856" text="Eriksen" playerID="null" />
+<Player id="P11" spans="1947~1955" text="Puncheon" playerID="null" />
+<Player id="P12" spans="2015~2024" text="Joel Ward" playerID="null" />
+<Player id="P13" spans="2020~2024" text="Ward" playerID="null" />
+<Player id="P14" spans="2033~2041" text="Paulinho" playerID="null" />
+<Coref id="C0" spans="978~981" text="his" playerID="null" />
+<Coref id="C1" spans="1052~1055" text="his" playerID="null" />
+<Coref id="C2" spans="1244~1246" text="he" playerID="null" />
+<Coref id="C3" spans="1485~1487" text="he" playerID="null" />
+<Coref id="C4" spans="2179~2182" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

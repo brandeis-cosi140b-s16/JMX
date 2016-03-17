@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.goal.com/en-us/match/queens-park-rangers-vs-liverpool/1703647
+
+Oct 19, 2014 10:49:39 AM
+
+Multiple late goals saw Liverpool take the spoils in a dizzying ending.
+
+Richard Dunne and Steven Caulker put goals into their own net as Liverpool won 3-2 against QPR following remarkable late drama at Loftus Road.
+
+Caulker's error in the sixth minute of injury time ultimately settled a pulsating Premier League clash in Liverpool's favor, but only after a see-saw battle had produced four goals in the last nine minutes and an almost unbelievable finale.
+
+Chilean Eduardo Vargas - fresh from a double against Peru on international duty - looked set to grab the headlines heading into injury time.
+
+On as a 79th-minute replacement for Bobby Zamora, the striker scored for the first time since arriving on loan from Napoli to level at 1-1, and then tied the scores again at 2-2 after Philippe Coutinho's exquisite goal had once again given Liverpool the ascendancy.
+
+Richard Dunne had earlier put through his own net to open the scoring, in the process becoming the first player in Premier League history to score 10 own goals, but it was his teammate Caulker whose unwanted contribution proved decisive when he turned the ball past Alex McCarthy.
+
+The visitor had endured a difficult week which saw Raheem Sterling in the spotlight for feeling tired while on England duty and Daniel Sturridge suffer another injury setback However, Sterling received a warm reception by both sets of supporters, having spent some time at the QPR academy before moving north, and he played a vital role in the goal that eventually won the match.
+
+Goalkeeper McCarthy made his Premier League debut for QPR, with Robert Green suffering from tonsillitis, while Rio Ferdinand was dropped to the bench, with Dunne coming in along with Yun Suk-young and Bobby Zamora.
+
+Liverpool made four changes, with Mario Balotelli back in for Rickie Lambert up front, while Glen Johnson and Jose Enrique returned as fullbacks and Emre Can played for the first time since the end of August after recovering from an ankle injury.
+
+QPR started brightly and almost went ahead when Charlie Austin battled past Johnson and Martin Skrtel before being denied by Simon Mignolet rushing out to save with his feet.
+
+The host blew another great chance approaching the half-hour mark when Zamora broke clear down the right and pulled a fine pass back across the area, only for Leroy Fer to fire against the crossbar from eight yards out with the goal at his mercy.
+
+Fer again hit the woodwork with a header from Zamora's cross and Johnson just managed to clear the danger as Austin and Sandro raced in to pounce on the rebound.
+
+Liverpool showed little attacking threat throughout the first period, but Steven Gerrard went close as the interval approached when curling a shot just wide of the post.
+
+Harry Redknapp was forced to replace Nedum Onuoha with Matt Phillips during the break but QPR was straight back on the front foot as Sandro forced Mignolet to make a fine save.
+
+Liverpool started to find more of a rhythm around the hour mark and Balotelli should have scored when McCarthy could only palm out an Adam Lallana effort, but the Italian blasted wildly over the crossbar with the rebound.
+
+The visitor did take the lead on 67 minutes, though, when quick thinking by Sterling at a set piece set Johnson free down the right and his low cross was turned into his own net by Dunne.
+
+Mignolet was at full stretch to keep out a header from substitute Armand Traore and McCarthy saved a Balotelli shot with his legs as the game opened up.
+
+QPR drew level on 87 minutes as another replacement, Vargas, was first to react to Austin's knock-back after Liverpool had failed to clear a free-kick.
+
+But that was merely the precursor to even more late drama.
+
+Coutinho then raced up the other end to put the visitors back in front after being played in by Gerrard, before Vargas struck again with a header two minutes into stoppage time. However, even that was not the end of the scoring, as Sterling sprinted in behind the QPR defense and his cross was turned into his own net by a luckless Caulker.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="173~186" text="Richard Dunne" playerID="null" />
+<Player id="P1" spans="191~205" text="Steven Caulker" playerID="null" />
+<Player id="P2" spans="317~324" text="Caulker" playerID="null" />
+<Player id="P3" spans="567~581" text="Eduardo Vargas" playerID="null" />
+<Player id="P4" spans="737~749" text="Bobby Zamora" playerID="null" />
+<Player id="P5" spans="894~902" text="Coutinho" playerID="null" />
+<Player id="P6" spans="968~981" text="Richard Dunne" playerID="null" />
+<Player id="P7" spans="1153~1160" text="Caulker" playerID="null" />
+<Player id="P8" spans="1234~1247" text="Alex McCarthy" playerID="null" />
+<Player id="P9" spans="1239~1247" text="McCarthy" playerID="null" />
+<Player id="P10" spans="1301~1316" text="Raheem Sterling" playerID="null" />
+<Player id="P11" spans="1378~1394" text="Daniel Sturridge" playerID="null" />
+<Player id="P12" spans="1434~1442" text="Sterling" playerID="null" />
+<Player id="P13" spans="1642~1650" text="McCarthy" playerID="null" />
+<Player id="P14" spans="1695~1707" text="Robert Green" playerID="null" />
+<Player id="P15" spans="1742~1755" text="Rio Ferdinand" playerID="null" />
+<Player id="P16" spans="1787~1792" text="Dunne" playerID="null" />
+<Player id="P17" spans="1832~1844" text="Bobby Zamora" playerID="null" />
+<Player id="P18" spans="1881~1896" text="Mario Balotelli" playerID="null" />
+<Player id="P19" spans="1909~1923" text="Rickie Lambert" playerID="null" />
+<Player id="P20" spans="1940~1952" text="Glen Johnson" playerID="null" />
+<Player id="P21" spans="1945~1952" text="Johnson" playerID="null" />
+<Player id="P22" spans="1957~1969" text="Jose Enrique" playerID="null" />
+<Player id="P23" spans="1996~2004" text="Emre Can" playerID="null" />
+<Player id="P24" spans="2143~2157" text="Charlie Austin" playerID="null" />
+<Player id="P25" spans="2171~2178" text="Johnson" playerID="null" />
+<Player id="P26" spans="2183~2196" text="Martin Skrtel" playerID="null" />
+<Player id="P27" spans="2220~2234" text="Simon Mignolet" playerID="null" />
+<Player id="P28" spans="2342~2348" text="Zamora" playerID="null" />
+<Player id="P29" spans="2430~2439" text="Leroy Fer" playerID="null" />
+<Player id="P30" spans="2519~2522" text="Fer" playerID="null" />
+<Player id="P31" spans="2565~2571" text="Zamora" playerID="null" />
+<Player id="P32" spans="2584~2591" text="Johnson" playerID="null" />
+<Player id="P33" spans="2628~2634" text="Austin" playerID="null" />
+<Player id="P34" spans="2639~2645" text="Sandro" playerID="null" />
+<Player id="P35" spans="2756~2770" text="Steven Gerrard" playerID="null" />
+<Player id="P36" spans="2890~2902" text="Nedum Onuoha" playerID="null" />
+<Player id="P37" spans="2908~2921" text="Matt Phillips" playerID="null" />
+<Player id="P38" spans="2986~2992" text="Sandro" playerID="null" />
+<Player id="P39" spans="3000~3008" text="Mignolet" playerID="null" />
+<Player id="P40" spans="3099~3108" text="Balotelli" playerID="null" />
+<Player id="P41" spans="3133~3141" text="McCarthy" playerID="null" />
+<Player id="P42" spans="3165~3177" text="Adam Lallana" playerID="null" />
+<Player id="P43" spans="3330~3338" text="Sterling" playerID="null" />
+<Player id="P44" spans="3358~3365" text="Johnson" playerID="null" />
+<Player id="P45" spans="3435~3440" text="Dunne" playerID="null" />
+<Player id="P46" spans="3443~3451" text="Mignolet" playerID="null" />
+<Player id="P47" spans="3509~3522" text="Armand Traore" playerID="null" />
+<Player id="P48" spans="3527~3535" text="McCarthy" playerID="null" />
+<Player id="P49" spans="3544~3553" text="Balotelli" playerID="null" />
+<Player id="P50" spans="3650~3656" text="Vargas" playerID="null" />
+<Player id="P51" spans="3680~3686" text="Austin" playerID="null" />
+<Player id="P52" spans="3810~3818" text="Coutinho" playerID="null" />
+<Player id="P53" spans="3906~3913" text="Gerrard" playerID="null" />
+<Player id="P54" spans="3922~3928" text="Vargas" playerID="null" />
+<Player id="P55" spans="4042~4050" text="Sterling" playerID="null" />
+<Player id="P56" spans="4142~4149" text="Caulker" playerID="null" />
+<Coref id="C0" spans="1006~1009" text="his" playerID="null" />
+<Coref id="C1" spans="1140~1143" text="his" playerID="null" />
+<Coref id="C2" spans="1210~1212" text="he" playerID="null" />
+<Coref id="C3" spans="1564~1566" text="he" playerID="null" />
+<Coref id="C4" spans="1656~1659" text="his" playerID="null" />
+<Coref id="C5" spans="2260~2263" text="his" playerID="null" />
+<Coref id="C6" spans="2507~2510" text="his" playerID="null" />
+<Coref id="C7" spans="3390~3393" text="his" playerID="null" />
+<Coref id="C8" spans="3420~3423" text="his" playerID="null" />
+<Coref id="C9" spans="3564~3567" text="his" playerID="null" />
+<Coref id="C10" spans="4090~4093" text="his" playerID="null" />
+<Coref id="C11" spans="4116~4119" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/manchester-city-vs-tottenham-hotspur/1703643
+
+Oct 18, 2014 9:46:23 AM
+
+The striker dominated a wild affair that saw four penalty kicks awarded and Federico Fazio sent off.
+
+Sergio Aguero's four-goal haul continued Manchester City's dominance over Tottenham with a 4-1 win at the Etihad Stadium.
+
+The man Mauricio Pochettino described this week as the "best striker in the world" inspired Saturday's win as Spurs — who shipped 11 goals to City in the Premier League last season — were left to lament Roberto Soldado's saved penalty and Federico Fazio's dismissal in a game that saw four spot kicks awarded by referee Jon Moss.
+
+Both sides pounced on mistakes to score inside the opening 15 minutes, with Aguero the beneficiary of some sloppy play from Erik Lamela as City broke the deadlock.
+
+Spurs hit back through Christian Eriksen just two minutes later after Fernando was dispossessed in midfield, only for Lamela to endure more frustration as he was penalized after Frank Lampard went down in the box.
+
+Aguero stroked home his second from the spot to become City's all-time leading Premier League scorer with 59 and restore the hosts' lead in the 20th minute.
+
+City spurned the chance to extend their advantage when Aguero saw a penalty saved by Hugo Lloris shortly after the half-hour mark, volleying the rebound over the bar, and Soldado followed suit in the second half as Joe Hart kept his penalty out.
+
+The game was put beyond Spurs when Aguero wrapped up his hat trick from yet another penalty, with Fazio's red card for hauling him down putting a blemish in his Premier League debut, and the City man added his fourth to take his top-flight tally for the season to nine. 
+
+Manuel Pellegrini made six changes to his starting XI from the victory at Aston Villa prior to the international break, possibly with an eye on Tuesday's UEFA Champions League trip to CSKA Moscow, and Spurs' fluid passing caused City problems early on. 
+
+Eriksen should perhaps have hit the target from inside the area eight minutes in before Aguero made Lamela pay for his carelessness by shifting the ball quickly onto his right foot and curling an effort past Lloris.
+
+However, the visitors' response was almost immediate — Ryan Mason taking the ball off Fernando before Soldado's pass allowed Eriksen a clear sight of goal, his shot coming off Hart's knee and nestling into the net via the crossbar
+
+Lamela's difficult half continued when he was harshly judged to have fouled Lampard inside the area, allowing Aguero to continue his fine form and surpass Carlos Tevez in terms of Premier League goals for the English champions.
+
+Lampard — one of the six to come into the City side — was forced off with an apparent thigh injury following a challenge from Mason before Aguero wasted the chance to wrap up a first-half hat trick.
+
+Lloris kept his penalty out following Younes Kaboul's clumsy tackle on David Silva, and the Argentinian acrobatically fired the rebound over.
+
+Spurs were awarded the game's third penalty when Martin Demichelis was ruled to have fouled Eriksen — but Soldado, making his first league start since March, fluffed his lines with a weak effort easily saved by Hart.
+
+Aguero ensured his hat trick from the spot after Fazio brought him down inside the area, before adding to his tally with a smart curled finish late.
+
+James Milner struck the post inside the final two minutes, but the damage had already been done in yet another disappointing trip to the Etihad for Tottenham.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="180~194" text="Federico Fazio" playerID="null" />
+<Player id="P1" spans="206~219" text="Sergio Aguero" playerID="null" />
+<Player id="P2" spans="532~547" text="Roberto Soldado" playerID="null" />
+<Player id="P3" spans="568~582" text="Federico Fazio" playerID="null" />
+<Player id="P4" spans="736~742" text="Aguero" playerID="null" />
+<Player id="P5" spans="784~795" text="Erik Lamela" playerID="null" />
+<Player id="P6" spans="848~865" text="Christian Eriksen" playerID="null" />
+<Player id="P7" spans="895~903" text="Fernando" playerID="null" />
+<Player id="P8" spans="943~949" text="Lamela" playerID="null" />
+<Player id="P9" spans="1003~1016" text="Frank Lampard" playerID="null" />
+<Player id="P10" spans="1040~1046" text="Aguero" playerID="null" />
+<Player id="P11" spans="1253~1259" text="Aguero" playerID="null" />
+<Player id="P12" spans="1283~1294" text="Hugo Lloris" playerID="null" />
+<Player id="P13" spans="1369~1376" text="Soldado" playerID="null" />
+<Player id="P14" spans="1413~1421" text="Joe Hart" playerID="null" />
+<Player id="P15" spans="1480~1486" text="Aguero" playerID="null" />
+<Player id="P16" spans="1543~1548" text="Fazio" playerID="null" />
+<Player id="P17" spans="1972~1979" text="Eriksen" playerID="null" />
+<Player id="P18" spans="2060~2066" text="Aguero" playerID="null" />
+<Player id="P19" spans="2072~2078" text="Lamela" playerID="null" />
+<Player id="P20" spans="2180~2186" text="Lloris" playerID="null" />
+<Player id="P21" spans="2244~2254" text="Ryan Mason" playerID="null" />
+<Player id="P22" spans="2275~2283" text="Fernando" playerID="null" />
+<Player id="P23" spans="2291~2298" text="Soldado" playerID="null" />
+<Player id="P24" spans="2314~2321" text="Eriksen" playerID="null" />
+<Player id="P25" spans="2365~2369" text="Hart" playerID="null" />
+<Player id="P26" spans="2421~2427" text="Lamela" playerID="null" />
+<Player id="P27" spans="2497~2504" text="Lampard" playerID="null" />
+<Player id="P28" spans="2531~2537" text="Aguero" playerID="null" />
+<Player id="P29" spans="2650~2657" text="Lampard" playerID="null" />
+<Player id="P30" spans="2776~2781" text="Mason" playerID="null" />
+<Player id="P31" spans="2789~2795" text="Aguero" playerID="null" />
+<Player id="P32" spans="2850~2856" text="Lloris" playerID="null" />
+<Player id="P33" spans="2888~2901" text="Younes Kaboul" playerID="null" />
+<Player id="P34" spans="2921~2932" text="David Silva" playerID="null" />
+<Player id="P35" spans="2927~2932" text="Silva" playerID="null" />
+<Player id="P36" spans="3042~3059" text="Martin Demichelis" playerID="null" />
+<Player id="P37" spans="3085~3092" text="Eriksen" playerID="null" />
+<Player id="P38" spans="3099~3106" text="Soldado" playerID="null" />
+<Player id="P39" spans="3204~3208" text="Hart" playerID="null" />
+<Player id="P40" spans="3211~3217" text="Aguero" playerID="null" />
+<Player id="P41" spans="3260~3265" text="Fazio" playerID="null" />
+<Player id="P42" spans="3361~3366" text="James" playerID="null" />
+<Player id="P43" spans="3361~3373" text="James Milner" playerID="null" />
+<Coref id="C0" spans="980~982" text="he" playerID="null" />
+<Coref id="C1" spans="1060~1063" text="his" playerID="null" />
+<Coref id="C2" spans="1427~1430" text="his" playerID="null" />
+<Coref id="C3" spans="1498~1501" text="his" playerID="null" />
+<Coref id="C4" spans="1602~1605" text="his" playerID="null" />
+<Coref id="C5" spans="1651~1654" text="his" playerID="null" />
+<Coref id="C6" spans="1670~1673" text="his" playerID="null" />
+<Coref id="C7" spans="1755~1758" text="his" playerID="null" />
+<Coref id="C8" spans="2087~2090" text="his" playerID="null" />
+<Coref id="C9" spans="2138~2141" text="his" playerID="null" />
+<Coref id="C10" spans="2345~2348" text="his" playerID="null" />
+<Coref id="C11" spans="2460~2462" text="he" playerID="null" />
+<Coref id="C12" spans="2550~2553" text="his" playerID="null" />
+<Coref id="C13" spans="2862~2865" text="his" playerID="null" />
+<Coref id="C14" spans="3115~3118" text="his" playerID="null" />
+<Coref id="C15" spans="3159~3162" text="his" playerID="null" />
+<Coref id="C16" spans="3226~3229" text="his" playerID="null" />
+<Coref id="C17" spans="3317~3320" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

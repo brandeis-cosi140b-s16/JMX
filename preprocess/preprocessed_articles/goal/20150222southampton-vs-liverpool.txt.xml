@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/southampton-vs-liverpool/1704007
+
+Feb 22, 2015 1:16:38 PM
+
+Philippe Coutinho scored a wonderful early goal before Raheem Sterling sealed a vital 2-0 win for Liverpool at Southampton.
+
+Liverpool enhanced its UEFA Champions League qualification prospects with a 2-0 Premier League win at Southampton on Sunday.
+
+Philippe Coutinho scored a magnificent long-range opener amid a frantic start when the home team had a pair of strong penalty appeals turned down.
+
+Southampton enjoyed sustained periods of pressure, but Liverpool's defense managed to hold firm, leaving Raheem Sterling to double the advantage in the 73rd minute.
+
+The result moves Liverpool, unbeaten in the league since mid-December, up to sixth in the table - a point behind its opponent and two shy of Manchester United in fourth.
+
+Filip Djuricic was handed a first start in attack for Southampton, who welcomed back left back Matt Targett and midfielder James Ward-Prowse.
+
+A hip injury to Liverpool defender Mamadou Sakho meant Dejan Lovren joined Adam Lallana in starting against his former club, while Sterling replaced Daniel Sturridge.
+
+Djuricic was immediately into the action, going down under pressure from Emre Can in the penalty area after 20 seconds, but referee Kevin Friend was unmoved.
+
+Liverpool responded to that uncertain opening by stylishly grabbing a third-minute lead when Lazar Markovic fed the ball to Coutinho, who netted superbly from 30 yards via the underside of the crossbar.
+
+There was more frustration for Southampton as another challenge on Djuricic inside the box, this time from Joe Allen, went unpunished and Simon Mignolet made a fine save when the loose ball broke to Eljero Elia.
+
+Friend provoked further ire from the home support two minutes before halftime when Mignolet charged down Elia's effort on the end of a long punt forward from marginally outside his area and was not punished for handball.
+
+The Belgium goalkeeper then beat away a Djuricic strike to ensure Liverpool's advantage remained intact at the break.
+
+Having seen his defense under sustained pressure, Liverpool boss Brendan Rodgers sent on Alberto Moreno in place of Markovic at left wingback, while Morgan Schneiderlin replaced Steven Davis for Southampton.
+
+Graziano Pelle scuffed wide from 20 yards following a slick passing move as the host remained on the front foot.
+
+Southampton manager Ronald Koeman introduced Sadio Mane in place of Ward-Prowse, and the forward had a shot on the turn blocked by Martin Skrtel as the hour approached.
+
+Sturridge bolstered the Liverpool attack in place of Lallana and some wonderful skill from the England man beat Jose Fonte before he failed to get a shot away.
+
+Rodgers' men sealed the points when Targett lost his footing in trying to clear Moreno's low cross and Fraser Forster could only touch Sterling's firm low strike into the net.
+
+In the closing minutes, Sturridge twice came close to getting his name on the scoresheet as Southampton absorbed their latest setback in a run of one win in four league outings - scoring a solitary goal during this time.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="101~109" text="Coutinho" playerID="null" />
+<Player id="P1" spans="147~162" text="Raheem Sterling" playerID="null" />
+<Player id="P2" spans="352~360" text="Coutinho" playerID="null" />
+<Player id="P3" spans="596~611" text="Raheem Sterling" playerID="null" />
+<Player id="P4" spans="828~842" text="Filip Djuricic" playerID="null" />
+<Player id="P5" spans="923~935" text="Matt Targett" playerID="null" />
+<Player id="P6" spans="951~968" text="James Ward-Prowse" playerID="null" />
+<Player id="P7" spans="957~961" text="Ward" playerID="null" />
+<Player id="P8" spans="1006~1019" text="Mamadou Sakho" playerID="null" />
+<Player id="P9" spans="1026~1038" text="Dejan Lovren" playerID="null" />
+<Player id="P10" spans="1046~1058" text="Adam Lallana" playerID="null" />
+<Player id="P11" spans="1102~1110" text="Sterling" playerID="null" />
+<Player id="P12" spans="1120~1136" text="Daniel Sturridge" playerID="null" />
+<Player id="P13" spans="1139~1147" text="Djuricic" playerID="null" />
+<Player id="P14" spans="1212~1220" text="Emre Can" playerID="null" />
+<Player id="P15" spans="1391~1405" text="Lazar Markovic" playerID="null" />
+<Player id="P16" spans="1422~1430" text="Coutinho" playerID="null" />
+<Player id="P17" spans="1569~1577" text="Djuricic" playerID="null" />
+<Player id="P18" spans="1609~1618" text="Joe Allen" playerID="null" />
+<Player id="P19" spans="1640~1654" text="Simon Mignolet" playerID="null" />
+<Player id="P20" spans="1701~1712" text="Eljero Elia" playerID="null" />
+<Player id="P21" spans="1798~1806" text="Mignolet" playerID="null" />
+<Player id="P22" spans="1820~1824" text="Elia" playerID="null" />
+<Player id="P23" spans="1977~1985" text="Djuricic" playerID="null" />
+<Player id="P24" spans="2145~2159" text="Alberto Moreno" playerID="null" />
+<Player id="P25" spans="2172~2180" text="Markovic" playerID="null" />
+<Player id="P26" spans="2205~2211" text="Morgan" playerID="null" />
+<Player id="P27" spans="2205~2224" text="Morgan Schneiderlin" playerID="null" />
+<Player id="P28" spans="2234~2246" text="Steven Davis" playerID="null" />
+<Player id="P29" spans="2265~2279" text="Graziano Pelle" playerID="null" />
+<Player id="P30" spans="2424~2434" text="Sadio Mane" playerID="null" />
+<Player id="P31" spans="2447~2451" text="Ward" playerID="null" />
+<Player id="P32" spans="2510~2523" text="Martin Skrtel" playerID="null" />
+<Player id="P33" spans="2549~2558" text="Sturridge" playerID="null" />
+<Player id="P34" spans="2602~2609" text="Lallana" playerID="null" />
+<Player id="P35" spans="2661~2671" text="Jose Fonte" playerID="null" />
+<Player id="P36" spans="2746~2753" text="Targett" playerID="null" />
+<Player id="P37" spans="2790~2796" text="Moreno" playerID="null" />
+<Player id="P38" spans="2813~2827" text="Fraser Forster" playerID="null" />
+<Player id="P39" spans="2845~2853" text="Sterling" playerID="null" />
+<Player id="P40" spans="2911~2920" text="Sturridge" playerID="null" />
+<Coref id="C0" spans="1079~1082" text="his" playerID="null" />
+<Coref id="C1" spans="1892~1895" text="his" playerID="null" />
+<Coref id="C2" spans="2068~2071" text="his" playerID="null" />
+<Coref id="C3" spans="2679~2681" text="he" playerID="null" />
+<Coref id="C4" spans="2759~2762" text="his" playerID="null" />
+<Coref id="C5" spans="2949~2952" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

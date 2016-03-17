@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/leicester-city-vs-tottenham-hotspur/1703845
+
+Dec 26, 2014 11:53:00 AM
+
+Goals from Christian Eriksen and Harry Kane gave Spurs a win over Leicester City.
+
+Leicester remains bottom of the Premier League table as Christian Eriksen's free kick secured a 2-1 win for Tottenham at the King Power Stadium.
+Harry Kane gave Spurs a superb start with his third league goal in as many games in the second minute, but the visiting side was unable to pull clear prior to the interval.
+
+Rock-bottom Leicester, which had manager Nigel Pearson serving a one-match touch-line ban for abusing a fan, leveled three minutes after the break through Leonardo Ulloa.
+
+Chances continued to come for Pearson's men thereafter, but they were punished for their wastefulness when Eriksen caught Ben Hamer off guard from a set piece.
+
+Tottenham has now won three league games in succession, while Leicester remains rooted to the foot of the table despite an improved display.
+
+Having failed to win any of its last 12 league matches, Leicester would have hoped for a solid start, yet the club fell behind almost immediately.
+
+Erik Lamela released Nacer Chadli in behind the Leicester defense and the Belgium international rolled a low cross to Kane, who touched the ball away from Wes Morgan before firing past Hamer.
+
+Ulloa – one of two changes for Leicester – struggled to get involved in the opening exchanges, but brought a save out of Hugo Lloris after 18 minutes.
+
+The Argentine striker flicked up a pass from Jeffrey Schlupp and volleyed towards goal from 20 yards, although Tottenham's goalkeeper had no problems tipping it over.
+
+Tottenham, which recalled Danny Rose and Benjamin Stambouli, was posing much more of an attacking threat than the home side and was denied a second goal on two occasions by last-ditch tackles.
+
+On the half hour, Marcin Wasilewski prevented Lamela from converting a tap-in after neat work from Kane and Christian Eriksen, before Paul Konchesky got back just in time to halt Nabil Bentaleb three minutes later.
+
+Leicester should have gone into the break level but Lloris saved well from Riyad Mahrez and, even when the Frenchman was beaten, the post kept out Ulloa's header.
+
+Ulloa was not to be denied early in the second half, though, as a cute flick converted Mahrez's low cross from the right.
+
+Leicester should have been ahead four minutes later, but Mahrez's free kick rattled the frame of the goal from 20 yards, with Lloris a mere spectator.
+
+Leicester was now in the ascendancy and it took a superb save from Lloris to keep the scores level. Schlupp skipped past Kyle Walker but his left-foot drive was tipped wide by the France international.
+
+Eriksen made the home team pay for its profligacy with 20 minutes remaining as he caught Hamer off-guard with a long-range free kick, the Denmark midfielder beating the goalkeeper at his near post.
+
+Leicester pushed for an equalizer with the introduction of Jamie Vardy and Anthony Knockaert, but it was Wes Morgan who went closest to leveling.
+
+However, Lloris was equal to two efforts from the Leicester captain to secure the victory and extend City's winless run in the league to 13 matches.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="115~132" text="Christian Eriksen" playerID="null" />
+<Player id="P1" spans="137~147" text="Harry Kane" playerID="null" />
+<Player id="P2" spans="243~260" text="Christian Eriksen" playerID="null" />
+<Player id="P3" spans="312~316" text="King" playerID="null" />
+<Player id="P4" spans="332~342" text="Harry Kane" playerID="null" />
+<Player id="P5" spans="553~560" text="Pearson" playerID="null" />
+<Player id="P6" spans="661~675" text="Leonardo Ulloa" playerID="null" />
+<Player id="P7" spans="708~715" text="Pearson" playerID="null" />
+<Player id="P8" spans="785~792" text="Eriksen" playerID="null" />
+<Player id="P9" spans="800~809" text="Ben Hamer" playerID="null" />
+<Player id="P10" spans="1129~1140" text="Erik Lamela" playerID="null" />
+<Player id="P11" spans="1150~1162" text="Nacer Chadli" playerID="null" />
+<Player id="P12" spans="1247~1251" text="Kane" playerID="null" />
+<Player id="P13" spans="1284~1294" text="Wes Morgan" playerID="null" />
+<Player id="P14" spans="1314~1319" text="Hamer" playerID="null" />
+<Player id="P15" spans="1322~1327" text="Ulloa" playerID="null" />
+<Player id="P16" spans="1443~1454" text="Hugo Lloris" playerID="null" />
+<Player id="P17" spans="1519~1534" text="Jeffrey Schlupp" playerID="null" />
+<Player id="P18" spans="1668~1678" text="Danny Rose" playerID="null" />
+<Player id="P19" spans="1683~1701" text="Benjamin Stambouli" playerID="null" />
+<Player id="P20" spans="1854~1871" text="Marcin Wasilewski" playerID="null" />
+<Player id="P21" spans="1882~1888" text="Lamela" playerID="null" />
+<Player id="P22" spans="1935~1939" text="Kane" playerID="null" />
+<Player id="P23" spans="1944~1961" text="Christian Eriksen" playerID="null" />
+<Player id="P24" spans="1970~1984" text="Paul Konchesky" playerID="null" />
+<Player id="P25" spans="2015~2029" text="Nabil Bentaleb" playerID="null" />
+<Player id="P26" spans="2104~2110" text="Lloris" playerID="null" />
+<Player id="P27" spans="2127~2139" text="Riyad Mahrez" playerID="null" />
+<Player id="P28" spans="2199~2204" text="Ulloa" playerID="null" />
+<Player id="P29" spans="2216~2221" text="Ulloa" playerID="null" />
+<Player id="P30" spans="2303~2309" text="Mahrez" playerID="null" />
+<Player id="P31" spans="2396~2402" text="Mahrez" playerID="null" />
+<Player id="P32" spans="2465~2471" text="Lloris" playerID="null" />
+<Player id="P33" spans="2558~2564" text="Lloris" playerID="null" />
+<Player id="P34" spans="2591~2598" text="Schlupp" playerID="null" />
+<Player id="P35" spans="2612~2623" text="Kyle Walker" playerID="null" />
+<Player id="P36" spans="2694~2701" text="Eriksen" playerID="null" />
+<Player id="P37" spans="2783~2788" text="Hamer" playerID="null" />
+<Player id="P38" spans="2952~2963" text="Jamie Vardy" playerID="null" />
+<Player id="P39" spans="2968~2985" text="Anthony Knockaert" playerID="null" />
+<Player id="P40" spans="2998~3008" text="Wes Morgan" playerID="null" />
+<Player id="P41" spans="3049~3055" text="Lloris" playerID="null" />
+<Coref id="C0" spans="374~377" text="his" playerID="null" />
+<Coref id="C1" spans="2628~2631" text="his" playerID="null" />
+<Coref id="C2" spans="2773~2775" text="he" playerID="null" />
+<Coref id="C3" spans="2877~2880" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/crystal-palace-vs-tottenham-hotspur/1703901
+
+Jan 10, 2015 2:23:00 PM
+
+Harry Kane had given Spurs the advantage, however, Dwight Gayle's penalty and a fine goal from his strike partner saw the new manager's homecoming in with a much-needed victory
+
+Crystal Palace fought back from a goal down to secure a 2-1 win over Tottenham.
+
+Alan Pardew's homecoming as the Eagles' boss was met by a brave display from his new side but Spurs, on the back of a 5-3 win over Chelsea, matched Palace in the first half.
+
+Mauricio Pochettino's men could have taken the lead when Kyle Walker's cross deflected into the path of Christian Eriksen, however he failed to make his eight-yard effort count.
+
+Palace then had a glorious chance of its own to take the lead as Glenn Murray went one-on-one with Hugo Lloris, however the Frenchman spread himself well to deny the striker.
+
+It took just three minutes of the second half for Spurs to take the lead, though, as Harry Kane gave Pochettino's men the advantage.
+
+The striker, who has proven his goalscoring credentials in the first-team this season, capitalized after Nacer Chadli lost the ball, which was gleefully claimed by Kane, who arrowed his shot low past Julian Speroni.
+
+Spurs continued to press, however. Pardew's men were effective on the counter and made the visitors pay when Benjamin Stambouli brought down Joe Ledley in the box.
+
+It looked to be a fortuitous penalty after replays, however Dwight Gayle stepped up to peg Pochettino's men back to make it 1-1 with 20 minutes to play.
+
+Spurs, who had looked comfortable shortly after Kane's strike, succumbed to a second Palace goal as Jason Puncheon found the bottom-right corner with a fine, sweeping shot past Lloris.
+
+Palace continued to press through Wilfried Zaha but, more importantly, held on to seal a much-needed first win for Pardew.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="103~113" text="Harry Kane" playerID="null" />
+<Player id="P1" spans="154~166" text="Dwight Gayle" playerID="null" />
+<Player id="P2" spans="594~605" text="Kyle Walker" playerID="null" />
+<Player id="P3" spans="641~658" text="Christian Eriksen" playerID="null" />
+<Player id="P4" spans="781~793" text="Glenn Murray" playerID="null" />
+<Player id="P5" spans="815~826" text="Hugo Lloris" playerID="null" />
+<Player id="P6" spans="977~987" text="Harry Kane" playerID="null" />
+<Player id="P7" spans="1131~1143" text="Nacer Chadli" playerID="null" />
+<Player id="P8" spans="1190~1194" text="Kane" playerID="null" />
+<Player id="P9" spans="1226~1240" text="Julian Speroni" playerID="null" />
+<Player id="P10" spans="1352~1370" text="Benjamin Stambouli" playerID="null" />
+<Player id="P11" spans="1384~1394" text="Joe Ledley" playerID="null" />
+<Player id="P12" spans="1468~1480" text="Dwight Gayle" playerID="null" />
+<Player id="P13" spans="1610~1614" text="Kane" playerID="null" />
+<Player id="P14" spans="1662~1676" text="Jason Puncheon" playerID="null" />
+<Player id="P15" spans="1739~1745" text="Lloris" playerID="null" />
+<Player id="P16" spans="1782~1795" text="Wilfried Zaha" playerID="null" />
+<Coref id="C0" spans="198~201" text="his" playerID="null" />
+<Coref id="C1" spans="439~442" text="his" playerID="null" />
+<Coref id="C2" spans="668~670" text="he" playerID="null" />
+<Coref id="C3" spans="686~689" text="his" playerID="null" />
+<Coref id="C4" spans="1054~1057" text="his" playerID="null" />
+<Coref id="C5" spans="1208~1211" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

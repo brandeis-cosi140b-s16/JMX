@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/everton-vs-chelsea/1703539
+
+Aug 30, 2014 2:24:00 PM
+
+The Spaniard — who was a fitness doubt for the game with a minor muscular injury — continued his prolific scoring form as goals reigned supreme at Goodison Park.
+
+A clinical double from Diego Costa helped Chelsea withstand a spirited Everton fightback and triumph in a nine-goal classic at Goodison Park.
+
+Costa and Branislav Ivanovic struck inside three minutes to put Jose Mourinho's men in a commanding position but a flying Kevin Mirallas header brought the hosts back into contention before the interval.
+
+A Seamus Coleman own goal in the 67th minute put Chelsea back in control before Nemanja Matic, Samuel Eto'o and Ramires struck within the space of four incredible minutes. But Costa netted again at the death as the Blues held on to preserve their perfect start to the season.
+
+It had been feared that the 25-year-old would miss the match, with Chelsea announcing Thursday that the former Atletico Madrid talisman had suffered a "minor muscular problem." But Costa collected Cesc Fabregas' pass and sprung the offside trap before sliding the ball between the legs of a woefully exposed Tim Howard after just 35 seconds.
+
+Things went from bad to worse for Roberto Martinez's side when Ramires forced the ball through a disorganized home defense to pick out Ivanovic, who in turn found the back of the net — although he looked to have strayed beyond the last defender.
+
+Amazingly, the early drama continued as Howard raced out to collect Eden Hazard's searching long ball and handled outside his area, but the American goalkeeper escaped punishment.
+
+The hosts thought they had pulled a goal back in the 15th minute after former Chelsea striker Romelu Lukaku's header struck the crossbar and was turned in by Distin, but the defender was offside.
+
+Distin was then relieved to see a Fabregas strike flash just wide after the Frenchman had got a toe on the ball in the 29th minute.
+
+Everton responded, and Mirallas brought it back into the game with an excellent header from Coleman's cross in first-half stoppage time.
+
+Phil Jagielka's careless pass inside his own half almost sent Everton back to square one within seven minutes of the restart, but Costa was thwarted by Howard after racing through on goal.
+
+Chelsea's third did arrive in the 68th minute when Hazard's attempted cutback was turned into his own net by Coleman, only for Naismith to hit back inside 60 seconds with a cool finish after getting in behind a static visiting defence.
+
+Matic's measured strike from distance kept Chelsea on top, though its lead was narrowed when Eto'o seized his moment to keep the pressure on with a close-range finish.
+
+Remarkably, that was not the end of the scoring, as Ramires found the bottom corner with 13 minutes left and then substitute Muhamed Besic's poor first touch handed Costa his second, completing a memorable Chelsea victory.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="272~283" text="Diego Costa" playerID="null" />
+<Player id="P1" spans="392~397" text="Costa" playerID="null" />
+<Player id="P2" spans="402~420" text="Branislav Ivanovic" playerID="null" />
+<Player id="P3" spans="514~528" text="Kevin Mirallas" playerID="null" />
+<Player id="P4" spans="599~613" text="Seamus Coleman" playerID="null" />
+<Player id="P5" spans="677~690" text="Nemanja Matic" playerID="null" />
+<Player id="P6" spans="692~704" text="Samuel Eto'o" playerID="null" />
+<Player id="P7" spans="709~716" text="Ramires" playerID="null" />
+<Player id="P8" spans="773~778" text="Costa" playerID="null" />
+<Player id="P9" spans="1055~1060" text="Costa" playerID="null" />
+<Player id="P10" spans="1071~1084" text="Cesc Fabregas" playerID="null" />
+<Player id="P11" spans="1182~1192" text="Tim Howard" playerID="null" />
+<Player id="P12" spans="1259~1267" text="Martinez" playerID="null" />
+<Player id="P13" spans="1280~1287" text="Ramires" playerID="null" />
+<Player id="P14" spans="1352~1360" text="Ivanovic" playerID="null" />
+<Player id="P15" spans="1504~1510" text="Howard" playerID="null" />
+<Player id="P16" spans="1532~1543" text="Eden Hazard" playerID="null" />
+<Player id="P17" spans="1739~1752" text="Romelu Lukaku" playerID="null" />
+<Player id="P18" spans="1803~1809" text="Distin" playerID="null" />
+<Player id="P19" spans="1842~1848" text="Distin" playerID="null" />
+<Player id="P20" spans="1876~1884" text="Fabregas" playerID="null" />
+<Player id="P21" spans="1998~2006" text="Mirallas" playerID="null" />
+<Player id="P22" spans="2067~2074" text="Coleman" playerID="null" />
+<Player id="P23" spans="2113~2126" text="Phil Jagielka" playerID="null" />
+<Player id="P24" spans="2243~2248" text="Costa" playerID="null" />
+<Player id="P25" spans="2265~2271" text="Howard" playerID="null" />
+<Player id="P26" spans="2354~2360" text="Hazard" playerID="null" />
+<Player id="P27" spans="2412~2419" text="Coleman" playerID="null" />
+<Player id="P28" spans="2430~2438" text="Naismith" playerID="null" />
+<Player id="P29" spans="2540~2545" text="Matic" playerID="null" />
+<Player id="P30" spans="2633~2638" text="Eto'o" playerID="null" />
+<Player id="P31" spans="2761~2768" text="Ramires" playerID="null" />
+<Player id="P32" spans="2834~2847" text="Muhamed Besic" playerID="null" />
+<Player id="P33" spans="2874~2879" text="Costa" playerID="null" />
+<Coref id="C0" spans="179~182" text="his" playerID="null" />
+<Coref id="C1" spans="1411~1413" text="he" playerID="null" />
+<Coref id="C2" spans="1586~1589" text="his" playerID="null" />
+<Coref id="C3" spans="2150~2153" text="his" playerID="null" />
+<Coref id="C4" spans="2397~2400" text="his" playerID="null" />
+<Coref id="C5" spans="2646~2649" text="his" playerID="null" />
+<Coref id="C6" spans="2880~2883" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

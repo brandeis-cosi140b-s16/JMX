@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/hull-city-vs-tottenham-hotspur/1703725
+
+Nov 23, 2014 1:23:05 PM
+
+Tottenham trailed early but took advantage of Hull going to 10 men.
+
+Tottenham produced another fightback to beat Hull City 2-1 after Gaston Ramirez was sent off on his first start for Steve Bruce’s side.
+
+Jake Livermore had given Hull a halftime lead at the KC Stadium on Sunday with his first goal of the season, but he was unable to celebrate a victory against his former club.
+
+On-loan winger Ramirez was shown a straight red card following an off-the-ball incident with Jan Vertonghen five minutes after the break and Tottenham dominated from then on.
+
+Harry Kane equalized with his 11th goal of the season after Eriksen's free kick had struck the post, before the Dane grabbed a late winner, as Tottenham claimed all three points from behind against 10 men - just as they did at Aston Villa in their last Premier League away game.
+
+Mauricio Pochettino's side had been beaten by Stoke City before the international break and the Argentine coach got the response he was looking for, while Hull only have two victories to their name in the top flight this term.
+
+Fit-again defender Michael Dawson returned to face his former club as one of six changes to the Hull side that lost at Burnley, with Allan McGregor, Ramirez, Andrew Robertson, Hatem Ben Arfa  and Nikica Jelavic also starting.
+
+Pochettino also made six changes, as Eric Dier, Vertonghen, Ben Davies, Mousa Dembele, Erik Lamela and Roberto Soldado came into the side.
+
+Captain Younes Kaboul and striker Emmanuel Adebayor were not involved.
+
+Hull had failed to score in its last three games, but it was in front after only eight minutes when Livermore returned to haunt Tottenham.
+
+The midfielder conceded in the build up it would be strange to face his former club, and he looked unsure how to react after letting fly with a right-footed strike that found the far corner of the net from 20 yards out.
+
+Davies then spared stand-in captain Hugo Lloris' blushes when he blocked Ramirez's effort after the France goalkeeper had flapped at a free kick 19 minutes in.
+
+The Tottenham shot stopper showed his class with a fine reflex save down to his left to deny Robbie Brady, before Ben Arfa blazed a shot over the crossbar after Lloris had palmed Ramirez's left-footed strike into his path.
+
+McGregor was called into action at the other end eight minutes before halftime, palming away Lamela's well-struck shot following a swift break, and Hull breathed a sigh of relief when Eriksen flashed a dangerous ball across the face of the goal but nobody was on the end of it.
+
+Pochettino replaced Dier, who had been booked in the first half, with Vlad Chiriches at the break and Tottenham's chances of getting back into the game were enhanced when Ramirez was dismissed five minutes into the second half.
+
+Referee Craig Pawson gave Ramirez his marching orders after his assistant spotted an off-the-ball incident between the Uruguay international and Vertonghen.
+
+Hull boss Bruce was furious with the decision, and he was left even more frustrated when Tottenham equalized after 61 minutes. Kane was on hand to turn the ball into an empty net after Eriksen's sublime free kick had struck the woodwork.
+
+Kane ought to have put the visitor in front when substitute Aaron Lennon picked him out with a precise cross, but the striker somehow headed wide from close range and Lamela blazed a shot over the crossbar after cutting in from the left as Tottenham dominated.
+
+But Eriksen won it in the final minute, as he made space for himself and unleashed a right-footed strike which found the far corner of the net.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="232~246" text="Gaston Ramirez" playerID="null" />
+<Player id="P1" spans="289~294" text="Bruce" playerID="null" />
+<Player id="P2" spans="304~318" text="Jake Livermore" playerID="null" />
+<Player id="P3" spans="495~502" text="Ramirez" playerID="null" />
+<Player id="P4" spans="573~587" text="Jan Vertonghen" playerID="null" />
+<Player id="P5" spans="656~666" text="Harry Kane" playerID="null" />
+<Player id="P6" spans="716~723" text="Eriksen" playerID="null" />
+<Player id="P7" spans="1183~1197" text="Michael Dawson" playerID="null" />
+<Player id="P8" spans="1191~1197" text="Dawson" playerID="null" />
+<Player id="P9" spans="1297~1311" text="Allan McGregor" playerID="null" />
+<Player id="P10" spans="1313~1320" text="Ramirez" playerID="null" />
+<Player id="P11" spans="1322~1338" text="Andrew Robertson" playerID="null" />
+<Player id="P12" spans="1340~1354" text="Hatem Ben Arfa" playerID="null" />
+<Player id="P13" spans="1360~1374" text="Nikica Jelavic" playerID="null" />
+<Player id="P14" spans="1428~1437" text="Eric Dier" playerID="null" />
+<Player id="P15" spans="1439~1449" text="Vertonghen" playerID="null" />
+<Player id="P16" spans="1451~1461" text="Ben Davies" playerID="null" />
+<Player id="P17" spans="1469~1476" text="Dembele" playerID="null" />
+<Player id="P18" spans="1478~1489" text="Erik Lamela" playerID="null" />
+<Player id="P19" spans="1494~1509" text="Roberto Soldado" playerID="null" />
+<Player id="P20" spans="1539~1552" text="Younes Kaboul" playerID="null" />
+<Player id="P21" spans="1565~1582" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P22" spans="1703~1712" text="Livermore" playerID="null" />
+<Player id="P23" spans="1964~1970" text="Davies" playerID="null" />
+<Player id="P24" spans="2000~2011" text="Hugo Lloris" playerID="null" />
+<Player id="P25" spans="2037~2044" text="Ramirez" playerID="null" />
+<Player id="P26" spans="2218~2230" text="Robbie Brady" playerID="null" />
+<Player id="P27" spans="2243~2247" text="Arfa" playerID="null" />
+<Player id="P28" spans="2286~2292" text="Lloris" playerID="null" />
+<Player id="P29" spans="2304~2311" text="Ramirez" playerID="null" />
+<Player id="P30" spans="2349~2357" text="McGregor" playerID="null" />
+<Player id="P31" spans="2442~2448" text="Lamela" playerID="null" />
+<Player id="P32" spans="2533~2540" text="Eriksen" playerID="null" />
+<Player id="P33" spans="2648~2652" text="Dier" playerID="null" />
+<Player id="P34" spans="2698~2712" text="Vlad Chiriches" playerID="null" />
+<Player id="P35" spans="2799~2806" text="Ramirez" playerID="null" />
+<Player id="P36" spans="2883~2890" text="Ramirez" playerID="null" />
+<Player id="P37" spans="3002~3012" text="Vertonghen" playerID="null" />
+<Player id="P38" spans="3025~3030" text="Bruce" playerID="null" />
+<Player id="P39" spans="3142~3146" text="Kane" playerID="null" />
+<Player id="P40" spans="3200~3207" text="Eriksen" playerID="null" />
+<Player id="P41" spans="3254~3258" text="Kane" playerID="null" />
+<Player id="P42" spans="3314~3326" text="Aaron Lennon" playerID="null" />
+<Player id="P43" spans="3421~3427" text="Lamela" playerID="null" />
+<Player id="P44" spans="3520~3527" text="Eriksen" playerID="null" />
+<Coref id="C0" spans="263~266" text="his" playerID="null" />
+<Coref id="C1" spans="383~386" text="his" playerID="null" />
+<Coref id="C2" spans="417~419" text="he" playerID="null" />
+<Coref id="C3" spans="462~465" text="his" playerID="null" />
+<Coref id="C4" spans="682~685" text="his" playerID="null" />
+<Coref id="C5" spans="1065~1067" text="he" playerID="null" />
+<Coref id="C6" spans="1215~1218" text="his" playerID="null" />
+<Coref id="C7" spans="1811~1814" text="his" playerID="null" />
+<Coref id="C8" spans="1832~1834" text="he" playerID="null" />
+<Coref id="C9" spans="2026~2028" text="he" playerID="null" />
+<Coref id="C10" spans="2159~2162" text="his" playerID="null" />
+<Coref id="C11" spans="2201~2204" text="his" playerID="null" />
+<Coref id="C12" spans="2338~2341" text="his" playerID="null" />
+<Coref id="C13" spans="2891~2894" text="his" playerID="null" />
+<Coref id="C14" spans="2917~2920" text="his" playerID="null" />
+<Coref id="C15" spans="3066~3068" text="he" playerID="null" />
+<Coref id="C16" spans="3559~3561" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

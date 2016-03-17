@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-manchester-city/1703937
+
+Jan 31, 2015 2:21:00 PM
+
+Manuel Pellegrini had the Spaniard to thank for pulling his side back into it after cancelling out Loic Remy's opener as Frank Lampard made an emotional return to Stamford Bridge
+
+Chelsea preserved its place at the top of the table after a 1-1 draw with Manchester City.
+
+The Blues were without Diego Costa, who received a three-match ban for a stamp on Emre Can during the League Cup semifinal second leg this week.
+The man to benefit from Costa's absence, Loic Remy, took center stage at Stamford Bridge on Saturday.
+
+He gave the hosts a 41st-minute lead, before a rare mistake from Chelsea goalkeeper Thibaut Courtois allowed David Silva to equalize in the final minute of the first half.
+
+Although Manuel Pellegrini's team controlled much of the second period, its winless league run extended to three matches.
+
+City overhauled deficits in late runs to the Premier League crown in 2012 and 2014, and a similar effort may now be required, as Mourinho’s men remain five points clear with 15 games remaining.
+
+Aside from Costa's absence, Ramires came into the Chelsea midfield as Cesc Fabregas missed out with a hamstring injury, while Bacary Sagna was a surprise inclusion at right back ahead of Pablo Zabaleta for Manchester City.
+
+The visitors started sharply, as Courtois beat away a stinging shot from Jesus Navas inside the first 20 seconds and Fernandinho had a low, angled drive deflected wide.
+
+James Milner was alert to disposes Chelsea right back Branislav Ivanovic in the 24th minute and play the ball into Sergio Aguero, but Kurt Zouma forced City's top scorer to shoot from an acute angle and Courtois saved comfortably.
+
+Courtois' opposite number, Joe Hart, made his first save of the match from an Oscar effort after an error by Vincent Kompany let Remy escape down the left flank.
+
+John Terry then joined fellow captain Kompany in having an error go unpunished - Aguero pulling a shot wastefully wide after the former England man had missed his kick from a 32nd-minute punt downfield.
+
+That was a chance the Argentina striker would regret 10 minutes later, as Eden Hazard brilliantly steered Ivanovic's flighted pass back across goal for Remy to convert.
+
+City's response was immediate, as Courtois fumbled a searching Navas cross, Aguero smashed the loose ball back towards goal and Silva prodded home.
+
+Frank Lampard enjoyed warm applause on his return to Stamford Bridge while warming up with the City substitutes, as his colleagues on the field enjoyed an encouraging start the second half.
+
+Silva and Navas combined on the right flank for Fernandinho to plant a header into the turf - Courtois turning the bouncing ball over.
+
+Milner then looped a headed attempt onto the roof of the net, the impressive Navas again supplying the ammunition, and City's control increased as Chelsea's midweek League Cup exertions began to tell.
+
+Lampard finally made a 76th-minute introduction as City attempted a late assault.
+
+However, with Mourinho increasingly animated on the touchline, his side displayed steely resilience in keeping with its manager’s siege mentality, as the Blues closed out what could prove a vital point in the title race.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="193~202" text="Loic Remy" playerID="null" />
+<Player id="P1" spans="215~228" text="Frank Lampard" playerID="null" />
+<Player id="P2" spans="389~400" text="Diego Costa" playerID="null" />
+<Player id="P3" spans="448~456" text="Emre Can" playerID="null" />
+<Player id="P4" spans="535~540" text="Costa" playerID="null" />
+<Player id="P5" spans="552~561" text="Loic Remy" playerID="null" />
+<Player id="P6" spans="698~714" text="Thibaut Courtois" playerID="null" />
+<Player id="P7" spans="723~734" text="David Silva" playerID="null" />
+<Player id="P8" spans="729~734" text="Silva" playerID="null" />
+<Player id="P9" spans="1116~1121" text="Costa" playerID="null" />
+<Player id="P10" spans="1133~1140" text="Ramires" playerID="null" />
+<Player id="P11" spans="1175~1188" text="Cesc Fabregas" playerID="null" />
+<Player id="P12" spans="1231~1243" text="Bacary Sagna" playerID="null" />
+<Player id="P13" spans="1292~1306" text="Pablo Zabaleta" playerID="null" />
+<Player id="P14" spans="1362~1370" text="Courtois" playerID="null" />
+<Player id="P15" spans="1402~1413" text="Jesus Navas" playerID="null" />
+<Player id="P16" spans="1446~1457" text="Fernandinho" playerID="null" />
+<Player id="P17" spans="1499~1504" text="James" playerID="null" />
+<Player id="P18" spans="1499~1511" text="James Milner" playerID="null" />
+<Player id="P19" spans="1553~1571" text="Branislav Ivanovic" playerID="null" />
+<Player id="P20" spans="1614~1627" text="Sergio Aguero" playerID="null" />
+<Player id="P21" spans="1633~1643" text="Kurt Zouma" playerID="null" />
+<Player id="P22" spans="1702~1710" text="Courtois" playerID="null" />
+<Player id="P23" spans="1731~1739" text="Courtois" playerID="null" />
+<Player id="P24" spans="1758~1766" text="Joe Hart" playerID="null" />
+<Player id="P25" spans="1809~1814" text="Oscar" playerID="null" />
+<Player id="P26" spans="1840~1855" text="Vincent Kompany" playerID="null" />
+<Player id="P27" spans="1860~1864" text="Remy" playerID="null" />
+<Player id="P28" spans="1894~1904" text="John Terry" playerID="null" />
+<Player id="P29" spans="1932~1939" text="Kompany" playerID="null" />
+<Player id="P30" spans="1975~1981" text="Aguero" playerID="null" />
+<Player id="P31" spans="2172~2183" text="Eden Hazard" playerID="null" />
+<Player id="P32" spans="2204~2212" text="Ivanovic" playerID="null" />
+<Player id="P33" spans="2250~2254" text="Remy" playerID="null" />
+<Player id="P34" spans="2302~2310" text="Courtois" playerID="null" />
+<Player id="P35" spans="2331~2336" text="Navas" playerID="null" />
+<Player id="P36" spans="2344~2350" text="Aguero" playerID="null" />
+<Player id="P37" spans="2396~2401" text="Silva" playerID="null" />
+<Player id="P38" spans="2417~2430" text="Frank Lampard" playerID="null" />
+<Player id="P39" spans="2608~2613" text="Silva" playerID="null" />
+<Player id="P40" spans="2618~2623" text="Navas" playerID="null" />
+<Player id="P41" spans="2656~2667" text="Fernandinho" playerID="null" />
+<Player id="P42" spans="2702~2710" text="Courtois" playerID="null" />
+<Player id="P43" spans="2744~2750" text="Milner" playerID="null" />
+<Player id="P44" spans="2821~2826" text="Navas" playerID="null" />
+<Player id="P45" spans="2946~2953" text="Lampard" playerID="null" />
+<Coref id="C0" spans="150~153" text="his" playerID="null" />
+<Coref id="C1" spans="614~616" text="He" playerID="null" />
+<Coref id="C2" spans="1773~1776" text="his" playerID="null" />
+<Coref id="C3" spans="2053~2056" text="his" playerID="null" />
+<Coref id="C4" spans="2456~2459" text="his" playerID="null" />
+<Coref id="C5" spans="2533~2536" text="his" playerID="null" />
+<Coref id="C6" spans="3092~3095" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

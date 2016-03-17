@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.goal.com/en-us/match/tottenham-hotspur-vs-liverpool/1703551
+
+Aug 31, 2014 10:20:00 AM
+
+The winger netted the opener after just eight minutes and was a constant threat throughout as the hosts collapsed to Brendan Rodgers' side once more.
+
+Mario Balotelli made a promising debut as Brendan Rodgers celebrated his 100th game in charge of Liverpool with a 3-0 win at Tottenham.
+
+Rodgers insisted in the buildup to Sunday's fixture that his club would not become "the Balotelli show" but the controversial striker went straight into the starting lineup at the expense of Philippe Coutinho.
+
+Captain Steven Gerrard also joked that the Italy international had already made an impact with his new teammates by changing the pre-match music in the dressing room and he certainly looked at ease from the outset.
+
+An early header almost gave Balotelli a dream start and he linked up well with fellow forwards Raheem Sterling and Daniel Sturridge for the hour he was on to help Liverpool bounce back from Monday's 3-1 defeat at Manchester City and follow up last season's 5-0 and 4-0 victories over Tottenham with another emphatic Premier League romp.
+
+It was England starlet Sterling who put the visitors on the road to victory when finishing off a neat early break.  
+
+Gerrard, who will not be involved in England's matches after recently calling time on his international career, doubled the lead from the penalty spot four minutes into the second half and Alberto Moreno opened his account for Liverpool in some style as Tottenham fell to its first defeat under Mauricio Pochettino.
+
+As well as bringing in Balotelli, Liverpool also made two changes in defense, with Mamadou Sakho and Javier Manquillo replacing Glen Johnson and Martin Skrtel, but Adam Lallana did not make the squad despite traveling to London after recovering from injury.
+
+Having shuffled his deck for Thursday's Europa League defeat of AEL, Pochettino reverted to the same starting lineup that crushed QPR last weekend.
+
+Balotelli almost made a sensational start when heading on target from a Sturridge cross after just two minutes, but Hugo Lloris did well to save.
+
+However, the visitors were ahead five minutes later when Sterling sprinted in at the back post to slot a low shot home after good work from Jordan Henderson and Sturridge.
+
+Emmanuel Adebayor had a chance to hit back immediately when put through by Nabil Bentaleb but his lob sailed over Simon Mignolet and the crossbar.
+
+Eric Dier had the home fans on their feet when a crunching tackle sent Balotelli sprawling, while the striker attracted more jeers when hooking wildly wide of an open goal after a poor clearance by Lloris, who had raced out of his area.
+
+At the other end, Mignolet had to display strong hands to keep out a ferocious Nacer Chadli strike, but Liverpool remained in front at the break.
+
+The visitors were quick out of the blocks again in the second period and were awarded a penalty when Dier pulled back Joe Allen in the box, with Gerrard taking full advantage by striking firmly past Lloris into the bottom-left corner of the net.
+
+Pochettino introduced Andros Townsend and Mousa Dembele but the hosts were three down 60 minutes in when Moreno dispossessed the former and raced down the left before cutting in to fire past Lloris on the other side of the goal.
+
+Balotelli left the field soon after, to rapturous applause from the away fans, and Liverpool could have gone further ahead when Sterling waltzed through some woeful defending before hitting his shot tamely at Lloris.
+
+Tottenham, which went into the game on the back of wins over West Ham and QPR, should have had a late penalty as Dejan Lovren was guilty of grabbing Adebayor's shirt, but a goal would have provided little consolation for the host.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="249~264" text="Mario Balotelli" playerID="null" />
+<Player id="P1" spans="474~483" text="Balotelli" playerID="null" />
+<Player id="P2" spans="586~594" text="Coutinho" playerID="null" />
+<Player id="P3" spans="605~619" text="Steven Gerrard" playerID="null" />
+<Player id="P4" spans="841~850" text="Balotelli" playerID="null" />
+<Player id="P5" spans="908~923" text="Raheem Sterling" playerID="null" />
+<Player id="P6" spans="928~944" text="Daniel Sturridge" playerID="null" />
+<Player id="P7" spans="1174~1182" text="Sterling" playerID="null" />
+<Player id="P8" spans="1269~1276" text="Gerrard" playerID="null" />
+<Player id="P9" spans="1458~1472" text="Alberto Moreno" playerID="null" />
+<Player id="P10" spans="1609~1618" text="Balotelli" playerID="null" />
+<Player id="P11" spans="1669~1682" text="Mamadou Sakho" playerID="null" />
+<Player id="P12" spans="1687~1703" text="Javier Manquillo" playerID="null" />
+<Player id="P13" spans="1714~1726" text="Glen Johnson" playerID="null" />
+<Player id="P14" spans="1719~1726" text="Johnson" playerID="null" />
+<Player id="P15" spans="1731~1744" text="Martin Skrtel" playerID="null" />
+<Player id="P16" spans="1750~1762" text="Adam Lallana" playerID="null" />
+<Player id="P17" spans="1994~2003" text="Balotelli" playerID="null" />
+<Player id="P18" spans="2066~2075" text="Sturridge" playerID="null" />
+<Player id="P19" spans="2110~2121" text="Hugo Lloris" playerID="null" />
+<Player id="P20" spans="2198~2206" text="Sterling" playerID="null" />
+<Player id="P21" spans="2281~2297" text="Jordan Henderson" playerID="null" />
+<Player id="P22" spans="2302~2311" text="Sturridge" playerID="null" />
+<Player id="P23" spans="2314~2331" text="Emmanuel Adebayor" playerID="null" />
+<Player id="P24" spans="2389~2403" text="Nabil Bentaleb" playerID="null" />
+<Player id="P25" spans="2428~2442" text="Simon Mignolet" playerID="null" />
+<Player id="P26" spans="2462~2471" text="Eric Dier" playerID="null" />
+<Player id="P27" spans="2533~2542" text="Balotelli" playerID="null" />
+<Player id="P28" spans="2660~2666" text="Lloris" playerID="null" />
+<Player id="P29" spans="2718~2726" text="Mignolet" playerID="null" />
+<Player id="P30" spans="2779~2791" text="Nacer Chadli" playerID="null" />
+<Player id="P31" spans="2948~2952" text="Dier" playerID="null" />
+<Player id="P32" spans="2965~2974" text="Joe Allen" playerID="null" />
+<Player id="P33" spans="2992~2999" text="Gerrard" playerID="null" />
+<Player id="P34" spans="3046~3052" text="Lloris" playerID="null" />
+<Player id="P35" spans="3116~3131" text="Andros Townsend" playerID="null" />
+<Player id="P36" spans="3142~3149" text="Dembele" playerID="null" />
+<Player id="P37" spans="3199~3205" text="Moreno" playerID="null" />
+<Player id="P38" spans="3285~3291" text="Lloris" playerID="null" />
+<Player id="P39" spans="3324~3333" text="Balotelli" playerID="null" />
+<Player id="P40" spans="3452~3460" text="Sterling" playerID="null" />
+<Player id="P41" spans="3533~3539" text="Lloris" playerID="null" />
+<Player id="P42" spans="3655~3667" text="Dejan Lovren" playerID="null" />
+<Player id="P43" spans="3691~3699" text="Adebayor" playerID="null" />
+<Coref id="C0" spans="318~321" text="his" playerID="null" />
+<Coref id="C1" spans="443~446" text="his" playerID="null" />
+<Coref id="C2" spans="692~695" text="his" playerID="null" />
+<Coref id="C3" spans="767~769" text="he" playerID="null" />
+<Coref id="C4" spans="869~871" text="he" playerID="null" />
+<Coref id="C5" spans="958~960" text="he" playerID="null" />
+<Coref id="C6" spans="1355~1358" text="his" playerID="null" />
+<Coref id="C7" spans="1480~1483" text="his" playerID="null" />
+<Coref id="C8" spans="1861~1864" text="his" playerID="null" />
+<Coref id="C9" spans="2408~2411" text="his" playerID="null" />
+<Coref id="C10" spans="2689~2692" text="his" playerID="null" />
+<Coref id="C11" spans="3514~3517" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

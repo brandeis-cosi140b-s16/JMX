@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-crystal-palace/1704217
+
+May 16, 2015 2:33:59 PM
+
+Crystal Palace ensured that Steven Gerrard ended his emotional final Anfield appearance with a defeat.
+
+Crystal Palace spoiled Steven Gerrard's farewell party with a 3-1 Premier League win over Liverpool at Anfield.
+
+Gerrard's final appearance on his home ground before joining the LA Galaxy dominated the pre-match buildup and Adam Lallana's 26th-minute opener meant the 34-year-old's 354th competitive Anfield outing was all set up to end in success.
+
+But Palace ignored the script, as the brilliant Yannick Bolasie and Jason Puncheon led the charge against a shaky Liverpool back line, the latter equalizing with a free kick late in the first half.
+
+Visiting substitute Wilfried Zaha scored 22 seconds after his 59th-minute introduction and then won a late penalty that Glenn Murray converted on the rebound, as Alan Pardew's team completed a deserved league double over the Merseyside outfit.
+
+The 120th Premier League goal Gerrard and his adoring faithful craved proved elusive and Liverpool now heads into the final weekend of the season yet to secure UEFA Europa League qualification.
+
+Gerrard was afforded a guard of honor by the players from both sides and a thunderous reception from the Anfield crowd as he entered the field separately with his daughters, Lilly-Ella, Lexie and Lourdes. 
+
+The pre-match festivities, capped by a spine-tingling rendition of "You'll Never Walk Alone," gave way to an initially subdued contest with a testimonial feel, as neither team created any chances of note during the opening exchanges.
+
+Palace winger Bolasie almost scored the opening goal after 23 minutes when his speculative shot spun wide off Liverpool defender Martin Skrtel with goalkeeper Simon Mignolet beaten.
+
+Ex-Liverpool defender Martin Kelly featured as one of five changes to an experimental Palace lineup and he had an unwitting hand in his former team’s opener — playing a dreadful pass back toward fellow center back Scott Dann for Lallana to intercept, charge through on goal and finish emphatically.
+
+Palace should have been level in the 29th minute when Bolasie outmuscled Dejan Lovren to send in a low cross from the right. Emre Can could only clear as far as Joe Ledley, who blazed a shot wastefully over.
+
+Mignolet got down well to keep out a deflected strike from Puncheon and the same player gave the Londoners the equalizer they deserved two minutes before halftime.
+
+Can was booked for bringing Bolasie down in full flight on the edge of the box and Puncheon left Mignolet red-faced by whipping a fine left-footed free kick across the goalkeeper and into his side of the net.
+
+Liverpool wing back Jordon Ibe drove a shot into the side netting after 49 minutes after a strong start to the second half from Palace.
+
+Jordan Henderson also had an effort deflected wide but the visitors continued to attack with the greater authority and Zaha's instant impact put them ahead.
+
+Bolasie was again instrumental, cutting the ball back across the 6-yard box for his fellow attacker to score with his first touch.
+
+Gerrard finally enjoyed a sight of goal in the 64th minute, arrowing a drive toward the bottom corner that Julian Speroni saved. Once more, Palace responded and Bolasie turned inside Skrtel to rattle a shot against the crossbar.
+
+The fairytale ending ultimately proved beyond Gerrard, with Zaha winning a 91st-minute penalty — although fellow substitute Lucas Leiva's foul appeared to be fractionally outside the area.
+
+Murray, another substitute who had already struck the post, fired home after Mignolet had saved his initial spot kick before Anfield rose to acclaim its hero at full time.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="123~137" text="Steven Gerrard" playerID="null" />
+<Player id="P1" spans="222~236" text="Steven Gerrard" playerID="null" />
+<Player id="P2" spans="312~319" text="Gerrard" playerID="null" />
+<Player id="P3" spans="423~435" text="Adam Lallana" playerID="null" />
+<Player id="P4" spans="597~612" text="Yannick Bolasie" playerID="null" />
+<Player id="P5" spans="617~631" text="Jason Puncheon" playerID="null" />
+<Player id="P6" spans="768~781" text="Wilfried Zaha" playerID="null" />
+<Player id="P7" spans="868~880" text="Glenn Murray" playerID="null" />
+<Player id="P8" spans="1023~1030" text="Gerrard" playerID="null" />
+<Player id="P9" spans="1188~1195" text="Gerrard" playerID="null" />
+<Player id="P10" spans="1644~1651" text="Bolasie" playerID="null" />
+<Player id="P11" spans="1759~1772" text="Martin Skrtel" playerID="null" />
+<Player id="P12" spans="1789~1803" text="Simon Mignolet" playerID="null" />
+<Player id="P13" spans="1835~1847" text="Martin Kelly" playerID="null" />
+<Player id="P14" spans="2027~2037" text="Scott Dann" playerID="null" />
+<Player id="P15" spans="2042~2049" text="Lallana" playerID="null" />
+<Player id="P16" spans="2167~2174" text="Bolasie" playerID="null" />
+<Player id="P17" spans="2186~2198" text="Dejan Lovren" playerID="null" />
+<Player id="P18" spans="2238~2246" text="Emre Can" playerID="null" />
+<Player id="P19" spans="2274~2284" text="Joe Ledley" playerID="null" />
+<Player id="P20" spans="2322~2330" text="Mignolet" playerID="null" />
+<Player id="P21" spans="2381~2389" text="Puncheon" playerID="null" />
+<Player id="P22" spans="2487~2490" text="Can" playerID="null" />
+<Player id="P23" spans="2515~2522" text="Bolasie" playerID="null" />
+<Player id="P24" spans="2570~2578" text="Puncheon" playerID="null" />
+<Player id="P25" spans="2584~2592" text="Mignolet" playerID="null" />
+<Player id="P26" spans="2717~2727" text="Jordon Ibe" playerID="null" />
+<Player id="P27" spans="2834~2850" text="Jordan Henderson" playerID="null" />
+<Player id="P28" spans="2953~2957" text="Zaha" playerID="null" />
+<Player id="P29" spans="2992~2999" text="Bolasie" playerID="null" />
+<Player id="P30" spans="3124~3131" text="Gerrard" playerID="null" />
+<Player id="P31" spans="3231~3245" text="Julian Speroni" playerID="null" />
+<Player id="P32" spans="3285~3292" text="Bolasie" playerID="null" />
+<Player id="P33" spans="3307~3313" text="Skrtel" playerID="null" />
+<Player id="P34" spans="3400~3407" text="Gerrard" playerID="null" />
+<Player id="P35" spans="3414~3418" text="Zaha" playerID="null" />
+<Player id="P36" spans="3478~3489" text="Lucas Leiva" playerID="null" />
+<Player id="P37" spans="3544~3550" text="Murray" playerID="null" />
+<Player id="P38" spans="3621~3629" text="Mignolet" playerID="null" />
+<Coref id="C0" spans="144~147" text="his" playerID="null" />
+<Coref id="C1" spans="342~345" text="his" playerID="null" />
+<Coref id="C2" spans="806~809" text="his" playerID="null" />
+<Coref id="C3" spans="1035~1038" text="his" playerID="null" />
+<Coref id="C4" spans="1310~1312" text="he" playerID="null" />
+<Coref id="C5" spans="1347~1350" text="his" playerID="null" />
+<Coref id="C6" spans="1705~1708" text="his" playerID="null" />
+<Coref id="C7" spans="1917~1919" text="he" playerID="null" />
+<Coref id="C8" spans="1945~1948" text="his" playerID="null" />
+<Coref id="C9" spans="2675~2678" text="his" playerID="null" />
+<Coref id="C10" spans="3072~3075" text="his" playerID="null" />
+<Coref id="C11" spans="3106~3109" text="his" playerID="null" />
+<Coref id="C12" spans="3640~3643" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-hull-city/1703657
+
+Oct 25, 2014 12:25:22 PM
+
+The home side was unable to make up for its heavy defeat to Real Madrid in the Champions League, suffering a frustrating draw.
+
+Liverpool spurned the chance to end a difficult few days with a win as the Reds were held to a 0-0 Premier League draw by Hull City on Saturday.
+
+Brendan Rodgers' side was convincingly beaten by Real Madrid in the UEFA Champions League on Wednesday, with Mario Balotelli's performance and halftime shirt swap causing controversy.
+
+However, Rodgers kept faith with the Italian for Saturday's Premier League clash at Anfield and the former Milan striker went close twice in the second half - incredibly hitting an effort straight at Eldin Jaukopovic from five yards with the last kick of the game.
+
+Liverpool's attacking ranks looked disjointed at times as it missed out on the chance to record a third consecutive top-flight victory, although the team's first clean sheet at Anfield since March will serve as a small positive.
+
+Steve Bruce's side is now three unbeaten on the road after a solid defensive showing stifled the hosts, adding to last weekend's point picked up at Arsenal.
+
+Robbie Brady - replacing the injured Andrew Robertson at left wingback - struggled to get to grips with Raheem Sterling early on and the former Manchester United trainee was perhaps fortunate to see the England man pulled up for hand ball after bundling him over in the penalty area.
+
+Dejan Lovren's header was then kept out by Ahmed Elmohamady on the line after nine minutes before Balotelli was denied by Jakupovic from a narrow angle, though Hull's third-choice goalkeeper, making a rare outing due to injuries to Allan McGregor and Steve Harper, was rarely tested.
+
+Having sat deep for much of the half, Hull found its feet just before the interval with Jake Livermore bringing a save out of Simon Mignolet after good work from Hatem Ben Arfa on the right before a fierce Tom Huddlestone volley deflected just wide off Martin Skrtel.
+
+Liverpool dominated after the break and Balotelli looked set to register his first league goal for the club just after the hour but an acrobatic clearance from Brady kept the scores level and Sterling's firm effort on the rebound was gathered comfortably by Jakupovic.
+
+The frustration continued for Liverpool and Balotelli as a third penalty shout was waved away after a clumsy challenge from Alex Bruce before the Italian spurned the final chance of the game. 
+
+Substitute Coutinho crossed after good work down the left and Balotelli could only hit his effort at the goalkeeper as Hull clung on for a point.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="474~489" text="Mario Balotelli" playerID="null" />
+<Player id="P1" spans="1052~1057" text="Bruce" playerID="null" />
+<Player id="P2" spans="1204~1216" text="Robbie Brady" playerID="null" />
+<Player id="P3" spans="1241~1257" text="Andrew Robertson" playerID="null" />
+<Player id="P4" spans="1308~1323" text="Raheem Sterling" playerID="null" />
+<Player id="P5" spans="1489~1501" text="Dejan Lovren" playerID="null" />
+<Player id="P6" spans="1532~1548" text="Ahmed Elmohamady" playerID="null" />
+<Player id="P7" spans="1587~1596" text="Balotelli" playerID="null" />
+<Player id="P8" spans="1611~1620" text="Jakupovic" playerID="null" />
+<Player id="P9" spans="1721~1735" text="Allan McGregor" playerID="null" />
+<Player id="P10" spans="1740~1752" text="Steve Harper" playerID="null" />
+<Player id="P11" spans="1862~1876" text="Jake Livermore" playerID="null" />
+<Player id="P12" spans="1900~1914" text="Simon Mignolet" playerID="null" />
+<Player id="P13" spans="1936~1950" text="Hatem Ben Arfa" playerID="null" />
+<Player id="P14" spans="1980~1995" text="Tom Huddlestone" playerID="null" />
+<Player id="P15" spans="2027~2040" text="Martin Skrtel" playerID="null" />
+<Player id="P16" spans="2083~2092" text="Balotelli" playerID="null" />
+<Player id="P17" spans="2203~2208" text="Brady" playerID="null" />
+<Player id="P18" spans="2235~2243" text="Sterling" playerID="null" />
+<Player id="P19" spans="2301~2310" text="Jakupovic" playerID="null" />
+<Player id="P20" spans="2357~2366" text="Balotelli" playerID="null" />
+<Player id="P21" spans="2437~2447" text="Alex Bruce" playerID="null" />
+<Player id="P22" spans="2518~2526" text="Coutinho" playerID="null" />
+<Player id="P23" spans="2569~2578" text="Balotelli" playerID="null" />
+<Coref id="C0" spans="2116~2119" text="his" playerID="null" />
+<Coref id="C1" spans="2594~2597" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

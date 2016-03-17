@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-manchester-united/1703871
+
+Dec 28, 2014 8:50:00 AM
+
+Radamel Falcao, Robin van Persie and Juan Mata missed golden chances as a match of early promise petered out.
+
+Wasteful finishing and some fine saves from Hugo Lloris ensured Manchester United had to settle for a scoreless draw at Tottenham on Sunday.
+
+Tottenham was indebted to goalkeeper Lloris in the first half in particular as United had the better of a frenetic Premier League clash at White Hart Lane. 
+Robin van Persie ought to have beaten the France international on at least one occasion as Louis van Gaal's side stretched its unbeaten run to nine matches but had to settle for a second straight draw away from home.
+
+A point for United ensured it will head into 2015 in third place, with a trip to Stoke City to come on New Year's Day.
+
+Tottenham, which is now unbeaten in its last five games against United, had won its previous four games in all competitions, but failed to do enough to extend that run despite raising its game in the second half.
+
+Andros Townsend made only his second Premier League start of the season as Mauricio Pochettino opted for four changes to the Tottenham side that won at Leicester City.
+
+United — which named an unchanged lineup for a league match for the first time in more than two years — took charge after a frantic start and Radamel Falcao should have done better when Juan Mata played him in, but the Colombia striker got the ball stuck under his feet and his tame effort was comfortably saved by Lloris.
+
+Mata's deflected free kick struck the post and some great defending from Vlad Chiriches denied Van Persie the chance to tuck home the rebound after 21 minutes.
+
+Lloris then got a fingertip to Phil Jones' close-range header, but failed to divert the ball away from goal and Tottenham was relieved to see the linesman's flag up when Jan Vertonghen was unable to prevent the ball from crossing the line with an acrobatic clearance.
+
+United continued to cause Tottenham problems and Lloris rescued the hosts when Van Persie showed great technique to control Michael Carrick's fine ball over the top, but the Netherlands striker took one touch too many and the Frenchman denied him.
+
+The busy Lloris kept out a Wayne Rooney header and Ashley Young's measured right-footed effort before halftime as United dominated but was unable to edge in front.
+
+Van Gaal made a substitution at the break, with Rafael da Silva replacing Antonio Valencia, and Van Persie had another great chance to put them in front nine minutes into the second half, but volleyed over the crossbar after Mata picked him out.
+
+A scrappy period of play ensued before Townsend picked up a loose ball and let fly with a vicious strike from long range that was well gathered by David de Gea.
+
+United could have been out of sight if it had been more composed in front of goal and Mata blazed wildly over the bar from 10 yards out after 67 minutes when Rafael cut the ball back to the Spain midfielder.
+
+De Gea got down well to smother Federico Fazio's left-footed shot following some uncertain United defending 18 minutes from time as the opening goal remained elusive.
+
+The Spain goalkeeper comfortably palmed away Christian Eriksen's free kick and Ryan Mason blazed over the bar after great work from Harry Kane eight minutes from time as Tottenham finished strongly but was unable to snatch a winner.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="114~120" text="Falcao" playerID="null" />
+<Player id="P1" spans="122~138" text="Robin van Persie" playerID="null" />
+<Player id="P2" spans="143~152" text="Juan Mata" playerID="null" />
+<Player id="P3" spans="261~272" text="Hugo Lloris" playerID="null" />
+<Player id="P4" spans="396~402" text="Lloris" playerID="null" />
+<Player id="P5" spans="504~508" text="Hart" playerID="null" />
+<Player id="P6" spans="516~532" text="Robin van Persie" playerID="null" />
+<Player id="P7" spans="1068~1083" text="Andros Townsend" playerID="null" />
+<Player id="P8" spans="1387~1393" text="Falcao" playerID="null" />
+<Player id="P9" spans="1423~1432" text="Juan Mata" playerID="null" />
+<Player id="P10" spans="1552~1558" text="Lloris" playerID="null" />
+<Player id="P11" spans="1561~1565" text="Mata" playerID="null" />
+<Player id="P12" spans="1634~1648" text="Vlad Chiriches" playerID="null" />
+<Player id="P13" spans="1660~1666" text="Persie" playerID="null" />
+<Player id="P14" spans="1722~1728" text="Lloris" playerID="null" />
+<Player id="P15" spans="1753~1763" text="Phil Jones" playerID="null" />
+<Player id="P16" spans="1758~1763" text="Jones" playerID="null" />
+<Player id="P17" spans="1892~1906" text="Jan Vertonghen" playerID="null" />
+<Player id="P18" spans="2040~2046" text="Lloris" playerID="null" />
+<Player id="P19" spans="2074~2080" text="Persie" playerID="null" />
+<Player id="P20" spans="2115~2130" text="Michael Carrick" playerID="null" />
+<Player id="P21" spans="2249~2255" text="Lloris" playerID="null" />
+<Player id="P22" spans="2267~2279" text="Wayne Rooney" playerID="null" />
+<Player id="P23" spans="2291~2303" text="Ashley Young" playerID="null" />
+<Player id="P24" spans="2453~2459" text="Rafael" playerID="null" />
+<Player id="P25" spans="2463~2468" text="Silva" playerID="null" />
+<Player id="P26" spans="2479~2495" text="Antonio Valencia" playerID="null" />
+<Player id="P27" spans="2487~2495" text="Valencia" playerID="null" />
+<Player id="P28" spans="2505~2511" text="Persie" playerID="null" />
+<Player id="P29" spans="2630~2634" text="Mata" playerID="null" />
+<Player id="P30" spans="2691~2699" text="Townsend" playerID="null" />
+<Player id="P31" spans="2799~2811" text="David de Gea" playerID="null" />
+<Player id="P32" spans="2900~2904" text="Mata" playerID="null" />
+<Player id="P33" spans="2972~2978" text="Rafael" playerID="null" />
+<Player id="P34" spans="3026~3029" text="Gea" playerID="null" />
+<Player id="P35" spans="3055~3069" text="Federico Fazio" playerID="null" />
+<Player id="P36" spans="3236~3253" text="Christian Eriksen" playerID="null" />
+<Player id="P37" spans="3270~3280" text="Ryan Mason" playerID="null" />
+<Player id="P38" spans="3323~3333" text="Harry Kane" playerID="null" />
+<Coref id="C0" spans="1094~1097" text="his" playerID="null" />
+<Coref id="C1" spans="1498~1501" text="his" playerID="null" />
+<Coref id="C2" spans="1511~1514" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

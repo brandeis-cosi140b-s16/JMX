@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/tottenham-hotspur-vs-stoke-city/1703709
+
+Nov 9, 2014 10:40:10 AM
+
+The issues for Spurs continued on Sunday with a loss to Stoke City.
+
+​Stoke City added to Mauricio Pochettino's Premier League woes with a 2-1 victory over Tottenham at White Hart Lane on Sunday.
+
+Goals from Bojan Krkic and Jonathan Walters subjected Tottenham to a fourth home defeat of the top-flight season, and Stoke's first league win over the club since 2011.
+
+Bojan's mazy dribble led to his first goal of the campaign in the opening six minutes, while Walters added a second just after the half hour with a close-range volley.
+
+Pochettino's attempts to revive Tottenham after the break took time to have any effect, but eventually the home side got back into the match as Nacer Chadli volleyed home from an improbable angle in the 78th minute.
+
+Tottenham continued to push for an equalizer, but was hampered by Kyle Naugton's late dismissal and Stoke's defense remained resolute to record a second league win away from home this term.
+
+Victory lifts the visitor team back into the top 10, while Tottenham's third league defeat in four matches sees it slip into the bottom half. 
+
+Tottenham created the opening chance in the fourth minute as Harry Kane, handed his first league start as one of three changes, saw his header from a Chadli cross easily saved by Asmir Begovic.
+
+Stoke took the lead two minutes later courtesy of Bojan's excellent solo effort.
+
+Having exchanged passes with Steven N'Zonzi inside his own half, the former Barcelona striker embarked on a run towards goal from the halfway line and, with no Tottenham challenge forthcoming, he unleashed a low shot from 20 yards that beat Hugo Lloris.
+
+Stoke's joy was dampened slightly in the seventh minute when Phil Bardsley, Mark Hughes' only change after serving a suspension, was forced off with a groin injury, Geoff Cameron replacing him.
+
+Kane continued to pose a threat in the attacking third for Tottenham, but he was unable to beat Begovic, the Bosnia and Herzegovina international saving twice from the young striker.
+
+Another defensive injury saw Stoke make a second change before the half hour as Marc Muniesa replaced Marc Wilson, but it failed to negatively impact the visiting side which doubled the lead after 32 minutes.
+
+Tottenham's defending was again poor, a simple Ryan Shawcross header finding Mame Biram Diouf in space and his square ball was tapped in by the unmarked Walters.
+
+Pochettino rang the changes at the break in a bid to lift the home side, Erik Lamela and Mousa Dembele entering the fray for the ineffective Andros Townsend and Christian Eriksen.
+
+Lamela nearly had the desired impact as a run down the left resulted in a pass to Kane, but again the striker was unable to beat Begovic.
+
+More disorganized defending from Tottenham almost gifted Stoke a third goal, as Federico Fazio gifted the ball to N'Zonzi inside the penalty area, but the Argentine's blushes were spared as the resulting shot was lashed wide.
+
+With time running out Tottenham began to lay siege on the Stoke goal, Begovic saving brilliantly from a Lamela free kick before Chadli finally reduced the deficit. 
+
+Danny Rose made good ground down the left and delivered a cross to the back post where Chadli volleyed into the top corner from a very tight angle.
+
+Tottenham's momentum was brought to an abrupt halt in the closing minutes as Naughton cynically brought down Victor Moses, and Stoke could have extended the lead further through substitute Stephen Ireland.
+
+Lloris made a fine save to deny the midfielder and the final whistle was met by the sound of Tottenham's booing fans.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="274~278" text="Hart" playerID="null" />
+<Player id="P1" spans="307~318" text="Bojan Krkic" playerID="null" />
+<Player id="P2" spans="323~339" text="Jonathan Walters" playerID="null" />
+<Player id="P3" spans="559~566" text="Walters" playerID="null" />
+<Player id="P4" spans="779~791" text="Nacer Chadli" playerID="null" />
+<Player id="P5" spans="1248~1258" text="Harry Kane" playerID="null" />
+<Player id="P6" spans="1337~1343" text="Chadli" playerID="null" />
+<Player id="P7" spans="1366~1379" text="Asmir Begovic" playerID="null" />
+<Player id="P8" spans="1493~1507" text="Steven N'Zonzi" playerID="null" />
+<Player id="P9" spans="1705~1716" text="Hugo Lloris" playerID="null" />
+<Player id="P10" spans="1780~1793" text="Phil Bardsley" playerID="null" />
+<Player id="P11" spans="1884~1897" text="Geoff Cameron" playerID="null" />
+<Player id="P12" spans="1914~1918" text="Kane" playerID="null" />
+<Player id="P13" spans="2010~2017" text="Begovic" playerID="null" />
+<Player id="P14" spans="2178~2190" text="Marc Muniesa" playerID="null" />
+<Player id="P15" spans="2200~2211" text="Marc Wilson" playerID="null" />
+<Player id="P16" spans="2355~2369" text="Ryan Shawcross" playerID="null" />
+<Player id="P17" spans="2396~2401" text="Diouf" playerID="null" />
+<Player id="P18" spans="2461~2468" text="Walters" playerID="null" />
+<Player id="P19" spans="2544~2555" text="Erik Lamela" playerID="null" />
+<Player id="P20" spans="2566~2573" text="Dembele" playerID="null" />
+<Player id="P21" spans="2612~2627" text="Andros Townsend" playerID="null" />
+<Player id="P22" spans="2632~2649" text="Christian Eriksen" playerID="null" />
+<Player id="P23" spans="2652~2658" text="Lamela" playerID="null" />
+<Player id="P24" spans="2734~2738" text="Kane" playerID="null" />
+<Player id="P25" spans="2781~2788" text="Begovic" playerID="null" />
+<Player id="P26" spans="2871~2885" text="Federico Fazio" playerID="null" />
+<Player id="P27" spans="2905~2912" text="N'Zonzi" playerID="null" />
+<Player id="P28" spans="3088~3095" text="Begovic" playerID="null" />
+<Player id="P29" spans="3122~3128" text="Lamela" playerID="null" />
+<Player id="P30" spans="3146~3152" text="Chadli" playerID="null" />
+<Player id="P31" spans="3184~3194" text="Danny Rose" playerID="null" />
+<Player id="P32" spans="3271~3277" text="Chadli" playerID="null" />
+<Player id="P33" spans="3410~3418" text="Naughton" playerID="null" />
+<Player id="P34" spans="3442~3454" text="Victor Moses" playerID="null" />
+<Player id="P35" spans="3522~3537" text="Stephen Ireland" playerID="null" />
+<Player id="P36" spans="3540~3546" text="Lloris" playerID="null" />
+<Coref id="C0" spans="494~497" text="his" playerID="null" />
+<Coref id="C1" spans="1267~1270" text="his" playerID="null" />
+<Coref id="C2" spans="1319~1322" text="his" playerID="null" />
+<Coref id="C3" spans="1515~1518" text="his" playerID="null" />
+<Coref id="C4" spans="1657~1659" text="he" playerID="null" />
+<Coref id="C5" spans="1988~1990" text="he" playerID="null" />
+<Coref id="C6" spans="2415~2418" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

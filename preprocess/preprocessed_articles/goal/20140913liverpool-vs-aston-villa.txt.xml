@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-aston-villa/1703563
+
+Sep 13, 2014 2:32:20 PM
+
+Paul Lambert's men continued their impressive start to the Premier League campaign with their third win in four games.
+
+Gabriel Agbonlahor's early strike was enough for Aston Villa to beat Liverpool 1-0 and continue Villa's excellent recent form at Anfield.
+
+Villa drew 2-2 at Liverpool in the Premier League last season after winning 3-1 in its previous visit and Brendan Rodgers’ side was once again found wanting against the visitors from the midlands on Saturday.
+
+Agbonlahor capitalized on hesitant defending in the eighth minute to put Villa in front and there was no way back for Liverpool.
+
+Philippe Senderos should have doubled Villa's advantage during an impressive start from Paul Lambert's men.
+
+Senderos and his fellow defenders then produced a successful second-half rearguard display, during which Liverpool struggled to create a clear opening until Philippe Coutinho crashed an 81st-minute shot against the post.
+
+Three wins and a draw from its opening games represents Villa's best start to a Premier League season for 16 years, while two wins and as many defeats mean Liverpool is already six points behind early pacesetter Chelsea.
+
+Tom Cleverley replaced Charles N'Zogbia in the Aston Villa midfield following his loan move from Manchester United, while Nathan Baker replaced Ron Vlaar at center back due to the club captain's calf injury.
+
+Liverpool's front three of Lazar Markovic, Adam Lallana and Mario Balotelli were all making their home debuts in a lineup featuring six close-season signings.
+
+On the back of his midweek exertions for England and perhaps with an eye on Liverpool's UEFA Champions League return on Tuesday night, Raheem Sterling started on the bench.
+
+Markovic crashed an early volley over the crossbar and also glanced a sixth-minute Javi Manquillo cross over when the on-rushing Balotelli appeared better placed to finish.
+
+But it was Villa which drew first blood as Agbonlahor turned home Senderos' header from Ashley Westwood's corner.
+
+An unmarked Senderos should have doubled Villa's lead in the 13th minute after Lallana earned a booking for a rash challenge on Cleverley.
+
+The former Arsenal center back then contributed in more legitimate fashion when he blocked Lallana's 32nd-minute volley from Jordan Henderson's header down.
+
+Lallana sent a rasping 43rd-minute drive narrowly wide and Liverpool belatedly rallied in the closing moments of the first half - Balotelli's speculative strike looping over off Alan Hutton before Baker produced a vital stoppage time block as Alberto Moreno stormed into the box.
+
+Liverpool pegged Villa inside its own half at the start of the second half, with Balotelli glancing a header wide from a 48th-minute corner as the home side was restricted to half chances.
+
+Sterling replaced Lallana with an hour played and Hutton was rightly booked for greeting the England forward with a robust challenge that prompted a scuffle involving players from both teams.
+
+Fabio Borini and Rickie Lambert replaced Balotelli and Markovic with 20 minutes remaining and Liverpool came close to an equalizer when Coutinho's effort at the end of a jinking run came back off the upright.
+
+It was the closest Liverpool came as the Reds endured yet more frustration at the hands of Villa.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="97~104" text="Lambert" playerID="null" />
+<Player id="P1" spans="212~230" text="Gabriel Agbonlahor" playerID="null" />
+<Player id="P2" spans="561~571" text="Agbonlahor" playerID="null" />
+<Player id="P3" spans="691~708" text="Philippe Senderos" playerID="null" />
+<Player id="P4" spans="784~791" text="Lambert" playerID="null" />
+<Player id="P5" spans="800~808" text="Senderos" playerID="null" />
+<Player id="P6" spans="966~974" text="Coutinho" playerID="null" />
+<Player id="P7" spans="1244~1257" text="Tom Cleverley" playerID="null" />
+<Player id="P8" spans="1267~1283" text="Charles N'Zogbia" playerID="null" />
+<Player id="P9" spans="1366~1378" text="Nathan Baker" playerID="null" />
+<Player id="P10" spans="1388~1397" text="Ron Vlaar" playerID="null" />
+<Player id="P11" spans="1480~1494" text="Lazar Markovic" playerID="null" />
+<Player id="P12" spans="1496~1508" text="Adam Lallana" playerID="null" />
+<Player id="P13" spans="1513~1528" text="Mario Balotelli" playerID="null" />
+<Player id="P14" spans="1748~1763" text="Raheem Sterling" playerID="null" />
+<Player id="P15" spans="1787~1795" text="Markovic" playerID="null" />
+<Player id="P16" spans="1875~1884" text="Manquillo" playerID="null" />
+<Player id="P17" spans="1916~1925" text="Balotelli" playerID="null" />
+<Player id="P18" spans="2004~2014" text="Agbonlahor" playerID="null" />
+<Player id="P19" spans="2027~2035" text="Senderos" playerID="null" />
+<Player id="P20" spans="2049~2064" text="Ashley Westwood" playerID="null" />
+<Player id="P21" spans="2088~2096" text="Senderos" playerID="null" />
+<Player id="P22" spans="2155~2162" text="Lallana" playerID="null" />
+<Player id="P23" spans="2204~2213" text="Cleverley" playerID="null" />
+<Player id="P24" spans="2307~2314" text="Lallana" playerID="null" />
+<Player id="P25" spans="2341~2357" text="Jordan Henderson" playerID="null" />
+<Player id="P26" spans="2374~2381" text="Lallana" playerID="null" />
+<Player id="P27" spans="2504~2513" text="Balotelli" playerID="null" />
+<Player id="P28" spans="2552~2563" text="Alan Hutton" playerID="null" />
+<Player id="P29" spans="2571~2576" text="Baker" playerID="null" />
+<Player id="P30" spans="2617~2631" text="Alberto Moreno" playerID="null" />
+<Player id="P31" spans="2736~2745" text="Balotelli" playerID="null" />
+<Player id="P32" spans="2845~2853" text="Sterling" playerID="null" />
+<Player id="P33" spans="2863~2870" text="Lallana" playerID="null" />
+<Player id="P34" spans="2895~2901" text="Hutton" playerID="null" />
+<Player id="P35" spans="3038~3050" text="Fabio Borini" playerID="null" />
+<Player id="P36" spans="3055~3069" text="Rickie Lambert" playerID="null" />
+<Player id="P37" spans="3079~3088" text="Balotelli" playerID="null" />
+<Player id="P38" spans="3093~3101" text="Markovic" playerID="null" />
+<Player id="P39" spans="3174~3182" text="Coutinho" playerID="null" />
+<Coref id="C0" spans="813~816" text="his" playerID="null" />
+<Coref id="C1" spans="1322~1325" text="his" playerID="null" />
+<Coref id="C2" spans="1628~1631" text="his" playerID="null" />
+<Coref id="C3" spans="2296~2298" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/liverpool-vs-manchester-city/1704021
+
+Mar 1, 2015 8:53:34 AM
+
+Liverpool moved into fifth place in the Premier League on Sunday with a 2-1 victory over Manchester City at Anfield.
+
+Philippe Coutinho dealt a blow to Manchester City's Premier League title hopes with the decisive goal in Liverpool's 2-1 win at Anfield on Sunday.
+
+With Chelsea playing in the League Cup final later in the day, City could have moved within two points of the leaders, but Coutinho's stunning strike instead ensured Liverpool claimed a crucial victory in its bid for a top-four finish. 
+
+Jordan Henderson brought the game to life after 11 minutes with his third league goal of the season for the hosts, with the 24-year-old finding the top corner from 20 yards.
+
+City was level midway through the half as Edin Dzeko calmly converted his 50th Premier League strike from a sublime Sergio Aguero pass.
+
+After such an action-packed 45 minutes, the second half struggled to reach similar heights until Coutinho took center stage 15 minutes from time, with the Brazilian curling home from the left side of the penalty area.
+
+Manuel Pellegrini's side pushed for a second equalizer to no avail. City remains five points behind Chelsea having played one more game, while Liverpool is up to fifth. 
+
+A frenetic start was dominated by Liverpool – which made four changes from its defeat to Besiktas on Thursday – with Adam Lallana twice coming close.
+
+Lallana's first effort was saved by Joe Hart after a superb pass from Coutinho and, although the second beat the City goalkeeper, it was ruled out for offside.
+
+Any disappointment quickly faded, though, as Henderson fired in a fine strike from the edge of the penalty area in the 11th minute.
+
+Coutinho was again involved as he robbed Vincent Kompany before combining with Raheem Sterling to get the ball to Henderson, with the Liverpool captain giving Hart no chance with a powerful shot into the top-right corner.
+
+City — who also made four changes following midweek European disappointment against Barcelona — responded strongly, Aguero sending a low drive against the post a minute after Henderson's opener.
+
+The champions continued to press and a crisp passing move involving Yaya Toure, David Silva and Aguero saw Dzeko bring them level after 25 minutes. The striker collected a perfectly weighted reverse pass from strike partner Aguero before firing past Simon Mignolet from 12 yards.
+
+Lallana had a chance to restore Liverpool's lead before the break from a chipped Lazar Markovic pass, but pulled his effort wide of Hart's goal.
+
+Both sides wasted chances early in the second half as Aguero and Sterling failed to convert from inside the penalty area, while Lallana had a second effort ruled out by the assistant referee. Silva then spurned a promising position for City with an overhit free kick.
+
+That proved to be costly as Liverpool finally made its possession pay, with Coutinho cutting in from the left, evading the challenge of Samir Nasri and Pablo Zabaleta, and curling a shot past Hart to secure the win.
+
+Aguero came agonizingly close to earning City a point with a low effort after 79 minutes, but the visitors were unable to find a second goal and handed the advantage to Chelsea in the race for the title.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="222~230" text="Coutinho" playerID="null" />
+<Player id="P1" spans="484~492" text="Coutinho" playerID="null" />
+<Player id="P2" spans="599~615" text="Jordan Henderson" playerID="null" />
+<Player id="P3" spans="816~826" text="Edin Dzeko" playerID="null" />
+<Player id="P4" spans="890~903" text="Sergio Aguero" playerID="null" />
+<Player id="P5" spans="1008~1016" text="Coutinho" playerID="null" />
+<Player id="P6" spans="1418~1430" text="Adam Lallana" playerID="null" />
+<Player id="P7" spans="1452~1459" text="Lallana" playerID="null" />
+<Player id="P8" spans="1488~1496" text="Joe Hart" playerID="null" />
+<Player id="P9" spans="1522~1530" text="Coutinho" playerID="null" />
+<Player id="P10" spans="1658~1667" text="Henderson" playerID="null" />
+<Player id="P11" spans="1746~1754" text="Coutinho" playerID="null" />
+<Player id="P12" spans="1787~1802" text="Vincent Kompany" playerID="null" />
+<Player id="P13" spans="1825~1840" text="Raheem Sterling" playerID="null" />
+<Player id="P14" spans="1860~1869" text="Henderson" playerID="null" />
+<Player id="P15" spans="1905~1909" text="Hart" playerID="null" />
+<Player id="P16" spans="2085~2091" text="Aguero" playerID="null" />
+<Player id="P17" spans="2144~2153" text="Henderson" playerID="null" />
+<Player id="P18" spans="2233~2243" text="Yaya Toure" playerID="null" />
+<Player id="P19" spans="2238~2243" text="Toure" playerID="null" />
+<Player id="P20" spans="2245~2256" text="David Silva" playerID="null" />
+<Player id="P21" spans="2251~2256" text="Silva" playerID="null" />
+<Player id="P22" spans="2261~2267" text="Aguero" playerID="null" />
+<Player id="P23" spans="2272~2277" text="Dzeko" playerID="null" />
+<Player id="P24" spans="2389~2395" text="Aguero" playerID="null" />
+<Player id="P25" spans="2415~2429" text="Simon Mignolet" playerID="null" />
+<Player id="P26" spans="2446~2453" text="Lallana" playerID="null" />
+<Player id="P27" spans="2527~2541" text="Lazar Markovic" playerID="null" />
+<Player id="P28" spans="2578~2582" text="Hart" playerID="null" />
+<Player id="P29" spans="2646~2652" text="Aguero" playerID="null" />
+<Player id="P30" spans="2657~2665" text="Sterling" playerID="null" />
+<Player id="P31" spans="2720~2727" text="Lallana" playerID="null" />
+<Player id="P32" spans="2784~2789" text="Silva" playerID="null" />
+<Player id="P33" spans="2937~2945" text="Coutinho" playerID="null" />
+<Player id="P34" spans="2997~3008" text="Samir Nasri" playerID="null" />
+<Player id="P35" spans="3013~3027" text="Pablo Zabaleta" playerID="null" />
+<Player id="P36" spans="3053~3057" text="Hart" playerID="null" />
+<Player id="P37" spans="3078~3084" text="Aguero" playerID="null" />
+<Coref id="C0" spans="663~666" text="his" playerID="null" />
+<Coref id="C1" spans="844~847" text="his" playerID="null" />
+<Coref id="C2" spans="1777~1779" text="he" playerID="null" />
+<Coref id="C3" spans="2559~2562" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

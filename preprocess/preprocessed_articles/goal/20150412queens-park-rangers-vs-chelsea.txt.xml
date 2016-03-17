@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/queens-park-rangers-vs-chelsea/1704121
+
+Apr 12, 2015 10:45:31 AM
+
+Chelsea snatched a 1-0 Premier League win at QPR on Sunday, with Cesc Fabregas scoring a late winner for the leader.
+
+Cesc Fabregas scored with Chelsea's first shot on target two minutes from time to snatch a 1-0 victory at local rival QPR on Sunday.
+
+With Diego Costa and Loic Remy both out injured, Premier League leader Chelsea was short of out-and-out attacking options at Loftus Road and looked set to end the match without troubling home goalkeeper Rob Green. However, Fabregas - wearing a protective face mask after breaking his nose against Stoke City last weekend - drilled home a late winner to cruelly deny Chris Ramsey's side a valuable point in the fight against relegation.
+
+QPR had looked well-drilled and appeared most likely to snatch a winner in the second half - Matt Phillips coming closest for the home side when he turned to shoot in the center of the penalty area shortly after the hour mark, only for Chelsea goalkeeper Thibaut Courtois to push it wide.
+
+But Fabregas, whose former club Arsenal is now Chelsea's main title rival, had the final say, re-establishing a seven-point advantage at the top with his side's 100th goal in all competitions this season. QPR, meanwhile, remains two points adrift of safety.
+
+A Remy muscle injury sustained in training on Saturday left 37-year-old Didier Drogba as Chelsea's only recognized striker, with Costa having already been ruled out for four matches with a hamstring problem. And the veteran had justifiable claims for a back pass against Steven Caulker waved away early on.
+
+The incident came after Willian had inadvertently found the right-hand post with a cross into the penalty area, but intentional goalscoring opportunities were at a premium for much of the opening period. In fact, it took until the last two minutes of the half for either side to register a shot on target.
+
+The ball fell to Charlie Austin just outside the penalty area, but Courtois got down well to his right to save the QPR forward's powerful strike.
+
+Fabregas headed over from close range before the half was up to leave the game goalless at the break.
+
+QPR almost snuck in front at the beginning of the second half when a Phillips cross, from a similar position to the delivery that saw Willian hit the woodwork in the first half, came close to beating Courtois at the far post, eventually bouncing wide.
+
+And the Belgian stopper had to be on his guard again soon after, when Karl Henry – in for Niko Kranjcar as QPR's only change – teed up Clint Hill for a curling effort that was held by Courtois.
+
+Phillips' shot from 12 yards out after 64 minutes perhaps represented QPR's best chance to snatch all three points and Fabregas pounced to punish that wasted opportunity.
+
+A poor Green clearance invited pressure onto the home defense and, teed up by Eden Hazard on his 100th Premier League appearance, Fabregas sent a low strike into the bottom left-hand corner to seal the win.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="164~177" text="Cesc Fabregas" playerID="null" />
+<Player id="P1" spans="217~230" text="Cesc Fabregas" playerID="null" />
+<Player id="P2" spans="356~367" text="Diego Costa" playerID="null" />
+<Player id="P3" spans="372~381" text="Loic Remy" playerID="null" />
+<Player id="P4" spans="558~563" text="Green" playerID="null" />
+<Player id="P5" spans="574~582" text="Fabregas" playerID="null" />
+<Player id="P6" spans="723~729" text="Ramsey" playerID="null" />
+<Player id="P7" spans="881~894" text="Matt Phillips" playerID="null" />
+<Player id="P8" spans="1043~1059" text="Thibaut Courtois" playerID="null" />
+<Player id="P9" spans="1082~1090" text="Fabregas" playerID="null" />
+<Player id="P10" spans="1339~1343" text="Remy" playerID="null" />
+<Player id="P11" spans="1409~1422" text="Didier Drogba" playerID="null" />
+<Player id="P12" spans="1466~1471" text="Costa" playerID="null" />
+<Player id="P13" spans="1608~1622" text="Steven Caulker" playerID="null" />
+<Player id="P14" spans="1669~1676" text="Willian" playerID="null" />
+<Player id="P15" spans="1969~1983" text="Charlie Austin" playerID="null" />
+<Player id="P16" spans="2019~2027" text="Courtois" playerID="null" />
+<Player id="P17" spans="2099~2107" text="Fabregas" playerID="null" />
+<Player id="P18" spans="2271~2279" text="Phillips" playerID="null" />
+<Player id="P19" spans="2336~2343" text="Willian" playerID="null" />
+<Player id="P20" spans="2402~2410" text="Courtois" playerID="null" />
+<Player id="P21" spans="2525~2535" text="Karl Henry" playerID="null" />
+<Player id="P22" spans="2530~2535" text="Henry" playerID="null" />
+<Player id="P23" spans="2545~2558" text="Niko Kranjcar" playerID="null" />
+<Player id="P24" spans="2590~2600" text="Clint Hill" playerID="null" />
+<Player id="P25" spans="2639~2647" text="Courtois" playerID="null" />
+<Player id="P26" spans="2650~2658" text="Phillips" playerID="null" />
+<Player id="P27" spans="2769~2777" text="Fabregas" playerID="null" />
+<Player id="P28" spans="2829~2834" text="Green" playerID="null" />
+<Player id="P29" spans="2900~2911" text="Eden Hazard" playerID="null" />
+<Player id="P30" spans="2952~2960" text="Fabregas" playerID="null" />
+<Coref id="C0" spans="631~634" text="his" playerID="null" />
+<Coref id="C1" spans="933~935" text="he" playerID="null" />
+<Coref id="C2" spans="1228~1231" text="his" playerID="null" />
+<Coref id="C3" spans="2045~2048" text="his" playerID="null" />
+<Coref id="C4" spans="2492~2495" text="his" playerID="null" />
+<Coref id="C5" spans="2915~2918" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

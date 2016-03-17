@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-leicester-city/1703517
+
+Aug 23, 2014 12:09:00 PM
+
+Chelsea's big summer signing continued his strong start for the team with another goal in a win.
+
+Diego Costa continued his seamless introduction to the Premier League with his second goal in a week as Chelsea beat Leicester City 2-0.
+
+Jose Mourinho's title hopeful turned in a dazzling display to beat Burnley 3-1 in the club's opening fixture, with Spaniard Costa starring, but found another newly promoted team a far tougher nut to crack on Saturday.
+
+Home goalkeeper Thibaut Courtois was every bit as busy as his Leicester counterpart Kasper Schmeichel during the opening hour, with David Nugent’s failure to capitalize on a 55th-minute opening particularly costly for the visiting side.
+
+Following a low-key first half, Mourinho's decision to push his fullbacks forward after the interval paid dividends, with Branislav Ivanovic creating a scruffy 63rd-minute goal for Costa to break the deadlock.
+
+It continued the flying start to his Chelsea career for the big-money arrival from Atletico Madrid and provided Mourinho with a welcome display of the cutting edge that Chelsea lacked in the push for Premier League honors last season.
+
+Eden Hazard once again showed his class with a wonderful solo effort to seal the points, netting the second with 13 minutes left.
+
+The home side pushed forward early on and Cesc Fabregas - who had performed a star turn on his debut at Burnley - played in Costa to set up Andre Schurrle in the eighth minute, but the Germany international shot over.
+
+Gary Cahill then had a shot blocked when Schmeichel flapped at a 20th-minute corner.
+
+Nevertheless, the visiting side made a confident start as Nugent, Jeffrey Schlupp and Riyad Mahrez all asked questions of the Chelsea defense.
+
+Schurrle headed over when a previously low-key Hazard shimmied his way to the byline, before Mahrez's own nifty footwork left Cesar Azpilicueta in his wake and created enough room for the winger to fire in a rasping 32nd-minute drive that Courtois had to beat away to safety.
+
+The impressive Mahrez was guilty of overplaying as Azpilicueta snuffed out another promising attack and Chelsea responded, with City center back Wes Morgan flinging himself forward to divert Costa's 36th-minute strike over the crossbar.
+
+Oscar clipped an 18-yard effort against the the inside of post three minutes after half-time and, as Chelsea kept the ball alive, Ivanovic headed at goal from Azpilicueta's cross to draw a fine stop from Schmeichel.
+
+Courtois then found himself back in action to keep out Nugent's deflected attempt on the counter-attack, although the sight of Schurrle curling a shot over the crossbar underlined Chelsea's continued threat.
+
+Oscar had a 54th-minute penalty claim for handball rejected and, a few seconds later, Ivanovic hammered in a shot from distance to extend Schmeichel once more.
+
+Again, though, Courtois was forced to outdo his opposite number, saving superbly after Nugent had raced clear one-on-one only to produce a shot that lacked conviction.
+
+Schmeichel still appeared destined to be the busier of the two, clawing Fabregas' dinked chip behind in the 58th minute before Leicester's resistance was finally broken five minutes later.
+
+Oscar sent Ivanovic racing into the City box and he found Costa, who scrambled the ball home under pressure.
+
+Leicester faded as an attacking force thereafter while Chelsea introduced Didier Drogba late on for his second home Premier League bow.
+
+But, despite seeing Hazard jink beyond substitute Marc Albrighton to rifle in a 77th-minute finish, Leicester boss Nigel Pearson was given plenty of reason to be optimistic for the challenges ahead.
+
+Chelsea, meanwhile, already look every bit title challengers.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="192~203" text="Diego Costa" playerID="null" />
+<Player id="P1" spans="454~459" text="Costa" playerID="null" />
+<Player id="P2" spans="565~581" text="Thibaut Courtois" playerID="null" />
+<Player id="P3" spans="633~650" text="Kasper Schmeichel" playerID="null" />
+<Player id="P4" spans="681~693" text="David Nugent" playerID="null" />
+<Player id="P5" spans="909~927" text="Branislav Ivanovic" playerID="null" />
+<Player id="P6" spans="968~973" text="Costa" playerID="null" />
+<Player id="P7" spans="1234~1245" text="Eden Hazard" playerID="null" />
+<Player id="P8" spans="1407~1420" text="Cesc Fabregas" playerID="null" />
+<Player id="P9" spans="1489~1494" text="Costa" playerID="null" />
+<Player id="P10" spans="1505~1519" text="Andre Schurrle" playerID="null" />
+<Player id="P11" spans="1584~1595" text="Gary Cahill" playerID="null" />
+<Player id="P12" spans="1625~1635" text="Schmeichel" playerID="null" />
+<Player id="P13" spans="1728~1734" text="Nugent" playerID="null" />
+<Player id="P14" spans="1736~1751" text="Jeffrey Schlupp" playerID="null" />
+<Player id="P15" spans="1756~1768" text="Riyad Mahrez" playerID="null" />
+<Player id="P16" spans="1814~1822" text="Schurrle" playerID="null" />
+<Player id="P17" spans="1861~1867" text="Hazard" playerID="null" />
+<Player id="P18" spans="1907~1913" text="Mahrez" playerID="null" />
+<Player id="P19" spans="1940~1957" text="Cesar Azpilicueta" playerID="null" />
+<Player id="P20" spans="2053~2061" text="Courtois" playerID="null" />
+<Player id="P21" spans="2106~2112" text="Mahrez" playerID="null" />
+<Player id="P22" spans="2142~2153" text="Azpilicueta" playerID="null" />
+<Player id="P23" spans="2236~2246" text="Wes Morgan" playerID="null" />
+<Player id="P24" spans="2282~2287" text="Costa" playerID="null" />
+<Player id="P25" spans="2329~2334" text="Oscar" playerID="null" />
+<Player id="P26" spans="2459~2467" text="Ivanovic" playerID="null" />
+<Player id="P27" spans="2488~2499" text="Azpilicueta" playerID="null" />
+<Player id="P28" spans="2533~2543" text="Schmeichel" playerID="null" />
+<Player id="P29" spans="2546~2554" text="Courtois" playerID="null" />
+<Player id="P30" spans="2601~2607" text="Nugent" playerID="null" />
+<Player id="P31" spans="2673~2681" text="Schurrle" playerID="null" />
+<Player id="P32" spans="2755~2760" text="Oscar" playerID="null" />
+<Player id="P33" spans="2841~2849" text="Ivanovic" playerID="null" />
+<Player id="P34" spans="2893~2903" text="Schmeichel" playerID="null" />
+<Player id="P35" spans="2931~2939" text="Courtois" playerID="null" />
+<Player id="P36" spans="3003~3009" text="Nugent" playerID="null" />
+<Player id="P37" spans="3085~3095" text="Schmeichel" playerID="null" />
+<Player id="P38" spans="3157~3165" text="Fabregas" playerID="null" />
+<Player id="P39" spans="3275~3280" text="Oscar" playerID="null" />
+<Player id="P40" spans="3286~3294" text="Ivanovic" playerID="null" />
+<Player id="P41" spans="3333~3338" text="Costa" playerID="null" />
+<Player id="P42" spans="3459~3472" text="Didier Drogba" playerID="null" />
+<Player id="P43" spans="3542~3548" text="Hazard" playerID="null" />
+<Player id="P44" spans="3572~3587" text="Marc Albrighton" playerID="null" />
+<Player id="P45" spans="3643~3650" text="Pearson" playerID="null" />
+<Coref id="C0" spans="133~136" text="his" playerID="null" />
+<Coref id="C1" spans="214~217" text="his" playerID="null" />
+<Coref id="C2" spans="267~270" text="his" playerID="null" />
+<Coref id="C3" spans="607~610" text="his" playerID="null" />
+<Coref id="C4" spans="847~850" text="his" playerID="null" />
+<Coref id="C5" spans="1031~1034" text="his" playerID="null" />
+<Coref id="C6" spans="1264~1267" text="his" playerID="null" />
+<Coref id="C7" spans="1456~1459" text="his" playerID="null" />
+<Coref id="C8" spans="1877~1880" text="his" playerID="null" />
+<Coref id="C9" spans="1961~1964" text="his" playerID="null" />
+<Coref id="C10" spans="2960~2963" text="his" playerID="null" />
+<Coref id="C11" spans="3324~3326" text="he" playerID="null" />
+<Coref id="C12" spans="3485~3488" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

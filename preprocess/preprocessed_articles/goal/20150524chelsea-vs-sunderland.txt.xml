@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-sunderland/1704239
+
+May 24, 2015 11:50:00 AM
+
+Steven Fletcher put the visitors in front but Jose Mourinho's side rallied to lift the Premier League trophy in style
+
+Chelsea sealed a victorious end to their title-winning campaign as two goals from Loic Remy helped them see off Sunderland 3-1 at Stamford Bridge.
+
+The France international came off the bench to secure all three points to the delight of a packed home crowd, Remy converting his first after a superb run from Eden Hazard and adding a second in the closing minutes.
+
+Chelsea had fallen behind in the first half as Steven Fletcher netted his first league goal since November, but Diego Costa cancelled that out from the spot.
+
+Both goals came either side of a poignant moment after 28 minutes, as Didier Drogba - who announced before kick-off he was leaving the club for a second time at the end of the season - was carried from the pitch by the Chelsea players, having been substituted by Jose Mourinho.
+
+Remy could have had his name on the scoresheet much earlier, but he spurned two excellent chances before finally accepting the third to register his sixth of the campaign.
+
+His second strike signalled time for the party to start, as Chelsea rolled out the flicks and tricks to bring the curtain down on a successful season.
+
+With a celebratory mood inside Stamford Bridge, the champions – who made six changes – were quickly into their stride and they would have been ahead inside five minutes had Drogba converted Willian's low cross.
+
+They did not have it all their own way early on, though, as Sunderland played some nice football on the counterattack - Seb Larsson stretching Petr Cech with a curling effort from 20 yards.
+
+Vito Mannone in the Sunderland goal also needed to be alert when Branislav Ivanovic tested him with a rasping drive two minutes later, but the opening goal was not far away.
+
+As the half-hour approached, Chelsea failed to deal with a right-wing corner, the ball bounced inside the six-yard box and Fletcher made no mistake at the back post.
+
+The game then had a surreal moment, as Drogba's final Chelsea appearance came to an early end. He was replaced by Costa, with his team-mates opting to carry the veteran from the pitch to a standing ovation that included Sunderland players and the referee.
+
+It did not take Costa long to make an impact, as he brought Chelsea level from the penalty spot after 36 minutes. The Spain international converted from 12 yards after Juan Cuadrado had been felled by John O'Shea.
+
+Remy – introduced for the injured Cuadrado – twice went close to giving the hosts the lead after the restart, the forward just lacking the final touch after superb build-up play.
+
+However, Sunderland were not prepared to sit back and allow them to finish with a flourish, and they were denied chances of their own around the hour mark.
+
+Jermain Defoe saw a scuffed volley cleared off the line by John Terry after 59 minutes, and Fletcher was unable to steer his header on target at the back post four minutes later.
+
+And the visitors were made to rue those misses as Chelsea sealed all three points with 20 minutes to play, Remy finally finding his shooting boots to beat Mannone from the edge of the penalty area.
+
+Remy added a third late on with a deft finish from close range as the champions rounded off the campaign in fitting fashion.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="90~105" text="Steven Fletcher" playerID="null" />
+<Player id="P1" spans="291~300" text="Loic Remy" playerID="null" />
+<Player id="P2" spans="467~471" text="Remy" playerID="null" />
+<Player id="P3" spans="517~528" text="Eden Hazard" playerID="null" />
+<Player id="P4" spans="621~636" text="Steven Fletcher" playerID="null" />
+<Player id="P5" spans="686~697" text="Diego Costa" playerID="null" />
+<Player id="P6" spans="803~816" text="Didier Drogba" playerID="null" />
+<Player id="P7" spans="1012~1016" text="Remy" playerID="null" />
+<Player id="P8" spans="1510~1516" text="Drogba" playerID="null" />
+<Player id="P9" spans="1527~1534" text="Willian" playerID="null" />
+<Player id="P10" spans="1673~1680" text="Larsson" playerID="null" />
+<Player id="P11" spans="1692~1701" text="Petr Cech" playerID="null" />
+<Player id="P12" spans="1740~1752" text="Vito Mannone" playerID="null" />
+<Player id="P13" spans="1805~1823" text="Branislav Ivanovic" playerID="null" />
+<Player id="P14" spans="2038~2046" text="Fletcher" playerID="null" />
+<Player id="P15" spans="2121~2127" text="Drogba" playerID="null" />
+<Player id="P16" spans="2196~2201" text="Costa" playerID="null" />
+<Player id="P17" spans="2355~2360" text="Costa" playerID="null" />
+<Player id="P18" spans="2507~2520" text="Juan Cuadrado" playerID="null" />
+<Player id="P19" spans="2540~2551" text="John O'Shea" playerID="null" />
+<Player id="P20" spans="2554~2558" text="Remy" playerID="null" />
+<Player id="P21" spans="2588~2596" text="Cuadrado" playerID="null" />
+<Player id="P22" spans="2891~2904" text="Jermain Defoe" playerID="null" />
+<Player id="P23" spans="2950~2960" text="John Terry" playerID="null" />
+<Player id="P24" spans="2983~2991" text="Fletcher" playerID="null" />
+<Player id="P25" spans="3178~3182" text="Remy" playerID="null" />
+<Player id="P26" spans="3226~3233" text="Mannone" playerID="null" />
+<Player id="P27" spans="3270~3274" text="Remy" playerID="null" />
+<Coref id="C0" spans="483~486" text="his" playerID="null" />
+<Coref id="C1" spans="644~647" text="his" playerID="null" />
+<Coref id="C2" spans="849~851" text="he" playerID="null" />
+<Coref id="C3" spans="1032~1035" text="his" playerID="null" />
+<Coref id="C4" spans="1077~1079" text="he" playerID="null" />
+<Coref id="C5" spans="1157~1160" text="his" playerID="null" />
+<Coref id="C6" spans="1185~1188" text="His" playerID="null" />
+<Coref id="C7" spans="2177~2179" text="He" playerID="null" />
+<Coref id="C8" spans="2208~2211" text="his" playerID="null" />
+<Coref id="C9" spans="2388~2390" text="he" playerID="null" />
+<Coref id="C10" spans="3012~3015" text="his" playerID="null" />
+<Coref id="C11" spans="3199~3202" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

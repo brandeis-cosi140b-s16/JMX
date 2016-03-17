@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/everton-vs-liverpool/1703959
+
+Feb 7, 2015 2:33:09 PM
+
+The 224th Merseyside derby ended level as Everton and Liverpool played out a 0-0 draw at Goodison Park.
+
+Everton and Liverpool could not be separated on Saturday as the 224th Merseyside derby ended in a 0-0 draw.
+
+The visitors created more chances, and went closest to a breakthrough when Jordon Ibe - making only his second Premier League start - rattled the post with a drive from distance midway through the first half.
+
+Steven Gerrard, featuring in what could be his final league derby, also went close on a couple of occasions but even the introduction of Daniel Sturridge early in the second half could not help Liverpool find a winner.
+
+A tense affair threatened to boil over 12 minutes from time when a disagreement between Muhamed Besic and Ibe sparked a brief altercation between the two sets of players. Referee Anthony Taylor cautioned Besic, Steven Naismith and Jordan Henderson before tempers were calmed.
+
+For Everton, it was a 10th consecutive Merseyside derby without victory in all competitions, dating back to its last success in October 2010.
+
+The draw leaves Roberto Martinez's men 12th in the table with just two Premier League wins in 12, while Liverpool is five places better off having lost just one of its past dozen top-flight outings.
+
+Liverpool was first to threaten in the 10th minute when Joel Robles tipped away Gerrard's free kick that was heading for the top corner.
+
+The visitors suffered a blow when Lucas Leiva had to be withdrawn on the quarter-hour with what looked like an injury to his left thigh. He was replaced by Joe Allen.
+
+Two minutes later, Raheem Sterling's deflected shot rolled across the box and Robles had to rush smartly across his line to deny Ibe from close range. Ibe went even closer in the 27th minute when he raced forward into space and thumped an effort off the left-hand post with Robles beaten.
+
+Kevin Mirallas sent a free kick narrowly wide from 30 yards at the start of the second half, although Simon Mignolet looked to have it covered at his near post.
+
+Liverpool hit back with Sterling twice shooting straight at Robles before an acrobatic Gerrard effort was headed over the crossbar by Naismith.
+
+With 55 minutes gone, Brendan Rodgers brought on Sturridge in place of Philippe Coutinho in a bid to break the deadlock. Everton responded with a change of its own as Aaron Lennon, signed on loan from Tottenham on transfer deadline day, replaced Mirallas.
+
+With five minutes remaining there was one final chance for the hosts when Seamus Coleman saw his effort parried behind by Mignolet, as the game ended with honors even.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="376~386" text="Jordon Ibe" playerID="null" />
+<Player id="P1" spans="511~525" text="Steven Gerrard" playerID="null" />
+<Player id="P2" spans="648~664" text="Daniel Sturridge" playerID="null" />
+<Player id="P3" spans="819~832" text="Muhamed Besic" playerID="null" />
+<Player id="P4" spans="837~840" text="Ibe" playerID="null" />
+<Player id="P5" spans="918~924" text="Taylor" playerID="null" />
+<Player id="P6" spans="935~940" text="Besic" playerID="null" />
+<Player id="P7" spans="942~957" text="Steven Naismith" playerID="null" />
+<Player id="P8" spans="962~978" text="Jordan Henderson" playerID="null" />
+<Player id="P9" spans="1175~1183" text="Martinez" playerID="null" />
+<Player id="P10" spans="1407~1418" text="Joel Robles" playerID="null" />
+<Player id="P11" spans="1431~1438" text="Gerrard" playerID="null" />
+<Player id="P12" spans="1523~1534" text="Lucas Leiva" playerID="null" />
+<Player id="P13" spans="1645~1654" text="Joe Allen" playerID="null" />
+<Player id="P14" spans="1676~1691" text="Raheem Sterling" playerID="null" />
+<Player id="P15" spans="1735~1741" text="Robles" playerID="null" />
+<Player id="P16" spans="1786~1789" text="Ibe" playerID="null" />
+<Player id="P17" spans="1808~1811" text="Ibe" playerID="null" />
+<Player id="P18" spans="1931~1937" text="Robles" playerID="null" />
+<Player id="P19" spans="1947~1961" text="Kevin Mirallas" playerID="null" />
+<Player id="P20" spans="2049~2063" text="Simon Mignolet" playerID="null" />
+<Player id="P21" spans="2133~2141" text="Sterling" playerID="null" />
+<Player id="P22" spans="2169~2175" text="Robles" playerID="null" />
+<Player id="P23" spans="2196~2203" text="Gerrard" playerID="null" />
+<Player id="P24" spans="2243~2251" text="Naismith" playerID="null" />
+<Player id="P25" spans="2303~2312" text="Sturridge" playerID="null" />
+<Player id="P26" spans="2334~2342" text="Coutinho" playerID="null" />
+<Player id="P27" spans="2421~2433" text="Aaron Lennon" playerID="null" />
+<Player id="P28" spans="2500~2508" text="Mirallas" playerID="null" />
+<Player id="P29" spans="2585~2599" text="Seamus Coleman" playerID="null" />
+<Player id="P30" spans="2633~2641" text="Mignolet" playerID="null" />
+<Coref id="C0" spans="401~404" text="his" playerID="null" />
+<Coref id="C1" spans="554~557" text="his" playerID="null" />
+<Coref id="C2" spans="1610~1613" text="his" playerID="null" />
+<Coref id="C3" spans="1626~1628" text="He" playerID="null" />
+<Coref id="C4" spans="1769~1772" text="his" playerID="null" />
+<Coref id="C5" spans="1853~1855" text="he" playerID="null" />
+<Coref id="C6" spans="2093~2096" text="his" playerID="null" />
+<Coref id="C7" spans="2604~2607" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>
