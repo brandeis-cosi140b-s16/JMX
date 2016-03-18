@@ -43,11 +43,11 @@ def tagPlayer(doc, players):
         f.write("</TAGS>\n</SoccEval1.2>") #v1.2
 
 if __name__ == "__main__":
-    with open("./playerlist_noaccent.txt","r",-1,"UTF-8") as f: #playerlist_noaccent for goal.com, playerlist for guardian
+    with open("./playerlist.txt","r",-1,"UTF-8") as f: #playerlist_noaccent for goal.com, playerlist for guardian
         players = f.read().split("\n")
         players.remove("")
     files=[]
-    direc=os.path.dirname(os.path.abspath("./"))+"\\goal_articles\\spur"
+    direc=os.path.dirname(os.path.abspath("./"))+"\\guardian_articles\\seasonreviews"
     for (dirpath, dirnames, filenames) in os.walk(direc):
         files.append([os.path.join(dirpath,name) for name in filenames])
     files=files[0]

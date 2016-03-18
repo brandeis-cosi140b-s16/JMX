@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/blog/2015/may/25/premier-league-2014-15-referee-of-season
+
+Premier League 2014-15 review: referee of the season | Scott Murray
+
+
+Welcome to theguardian.com review of the 2014-15 Premier League season. Now that the campaign has ended we would like you to help us choose your favourite goal, the best referee and the best manager, and other winners in a total of 10 categories.
+ 
+We have nominated some contenders but this is just to get the discussion going: we would like your suggestions so that we can compile the best into final polls that you can vote on. The polls will be published at midday on Tuesday 26 May, so please tell us what you think. Thanks
+ Mark Clattenburg 
+Clattenburg has had an eventful season, destined for ever to be defined by his decision to wheelspin off on his own after a match between West Bromwich Albion and Crystal Palace, in breach of some petty refereeing regulation or other. In flight to see Ed Sheeran in concert, he spoke en route to a peeved Neil Warnock on his bluetooth, travelling salesman style, which flouted another ludicrous diktat. A shame, seeing he’s probably the most consistent whistler in the land right now. Former ref Mark Halsey, one of the most reliable we’ve ever had, thought it a disgrace that the 40-year-old hasn’t been given an FA Cup final yet. Maybe next year.
+ Michael Oliver  
+Hasn’t been perfect by any means: he should really have sent both Diego Costa and Jordan Henderson packing in the League Cup semi-final second leg at Stamford Bridge, and was astonishingly lenient when Joe Hart stuck the nut on him during the Manchester derby. But he won widespread praise for his handling of the Manchester United v Arsenal FA Cup quarter-final, a powder keg that threatened to blow on more than one occasion. He got most of the contentious decisions right, and the biggest one spot on, booking Ángel Di María for diving, then sending him packing after the winger grabbed at his shirt. It was instructive that after the match an exasperated Louis van Gaal tore into his player, rather than the referee. And only 30 years old to boot. Bless.
+ Phil Dowd 
+Likes a yellow card, does Phil Dowd. He’s brandished 113 in 26 games, including 10 during Swansea 2-1 Arsenal and nine (plus one red) while reffing Manchester United 1-1 Chelsea. But the policy seems to work well enough, as he’s only had to send four players off all season, and two of those came in the same match, a cynical affair between Hull and Leicester. Has the air of a man who is thoroughly tired of dealing with child-men, which is to be commended. Also, was accused of being fat by José Mourinho; when a referee gets under his skin, you sense he might have done something right.
+ Martin Atkinson  
+Had arguably the biggest shocker of the season when taking charge of Chelsea-Burnley, failing to spot Ashley Barnes’s dreadful challenge on Nemanja Matic, instead sending the Serb off for his incensed retaliation. On the flip side, he took unquestionably the bravest decision of the campaign: lesser men might have found a way to ignore Steven Gerrard’s ludicrous lunge on Ander Herrera during that surreal 38-second cameo at Anfield in March. Either way, he’s England’s premier referee right now, highly regarded on the continent, having been given the first leg of the Juventus-Real Madrid Champions League semi, and the upcoming Europa League final.
+ Chris Foy 
+Foy makes our list for sarcastically offering José Mourinho a handkerchief after the Chelsea boss accused him of reducing Diego Costa to tears by booking him for diving against Hull. Mourinho, to his immense credit, took the joke in good humour. Tottenham fans are likely to be less tolerant of Foy’s foibles, the ref having disallowed a Jan Vertonghen breakaway goal against Sunderland for offside, despite the defender taking up possession four yards inside his own half (Blame the lino if you like, the ref can always ignore the lino). But Foy’s just retired, so this represents the last chance for us to show him how much we appreciated his efforts. Eh?
+ Check out the other categories 
+Pundit of the season
+ 
+Match of the season
+ 
+Signing of the season
+ 
+Manager of the season
+ 
+Flop of the season
+ 
+Player of the season
+ 
+Goal of the season
+ 
+Gripe of the season
+ 
+Innovations for the future
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="156~162" text="Murray" playerID="null" />
+<Player id="P1" spans="1446~1457" text="Diego Costa" playerID="null" />
+<Player id="P2" spans="1462~1478" text="Jordan Henderson" playerID="null" />
+<Player id="P3" spans="1582~1590" text="Joe Hart" playerID="null" />
+<Player id="P4" spans="1893~1907" text="Ángel Di María" playerID="null" />
+<Player id="P5" spans="2862~2875" text="Ashley Barnes" playerID="null" />
+<Player id="P6" spans="2900~2913" text="Nemanja Matic" playerID="null" />
+<Player id="P7" spans="3097~3111" text="Steven Gerrard" playerID="null" />
+<Player id="P8" spans="3133~3146" text="Ander Herrera" playerID="null" />
+<Player id="P9" spans="3547~3558" text="Diego Costa" playerID="null" />
+<Player id="P10" spans="3763~3777" text="Jan Vertonghen" playerID="null" />
+<Coref id="C0" spans="788~791" text="his" playerID="null" />
+<Coref id="C1" spans="821~824" text="his" playerID="null" />
+<Coref id="C2" spans="988~990" text="he" playerID="null" />
+<Coref id="C3" spans="1034~1037" text="his" playerID="null" />
+<Coref id="C4" spans="1132~1134" text="he" playerID="null" />
+<Coref id="C5" spans="1414~1416" text="he" playerID="null" />
+<Coref id="C6" spans="1645~1647" text="he" playerID="null" />
+<Coref id="C7" spans="1674~1677" text="his" playerID="null" />
+<Coref id="C8" spans="1808~1810" text="He" playerID="null" />
+<Coref id="C9" spans="1973~1976" text="his" playerID="null" />
+<Coref id="C10" spans="2064~2067" text="his" playerID="null" />
+<Coref id="C11" spans="2188~2190" text="He" playerID="null" />
+<Coref id="C12" spans="2375~2377" text="he" playerID="null" />
+<Coref id="C13" spans="2685~2688" text="his" playerID="null" />
+<Coref id="C14" spans="2705~2707" text="he" playerID="null" />
+<Coref id="C15" spans="2948~2951" text="his" playerID="null" />
+<Coref id="C16" spans="2992~2994" text="he" playerID="null" />
+<Coref id="C17" spans="3216~3218" text="he" playerID="null" />
+<Coref id="C18" spans="3621~3624" text="his" playerID="null" />
+<Coref id="C19" spans="3885~3888" text="his" playerID="null" />
+<Coref id="C20" spans="4066~4069" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

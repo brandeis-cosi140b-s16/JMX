@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/blog/2015/may/25/premier-league-2014-15-signing-of-season
+
+Premier League 2014-15 review: signing of the season | Scott Murray
+
+
+Welcome to theguardian.com review of the 2014-15 Premier League season. Now that the campaign has ended we would like you to help us choose your favourite goal, the best referee and the best manager, and other winners in a total of 10 categories.
+ 
+We have nominated some contenders but this is just to get the discussion going: we would like your suggestions so that we can compile the best into final polls that you can vote on. The polls will be published at midday on Tuesday 26 May, so please tell us what you think. Thanks
+ Esteban Cambiasso  
+Was Leicester City’s wriggle out of relegation bother the greatest Premier League escape of all? Fans of West Bromwich Albion and Sunderland might have something to say about it, but most would find it hard to make the case against. A run of six wins in seven games – and the only reverse during that run against champions-elect Chelsea – hauled them off the bottom of the table to safety. And in the middle of it all, 34-year-old Esteban Cambiasso, a free transfer from Internazionale, without question the best pound-for-pound signing of the season.
+ Diego Costa  
+Luis had left the building, and the Premier League was suddenly short of a pantomime villain. Step forward Diego Costa, whose ability to spin bedlam out of thin air, then saunter off with a faux-innocent bemused look on his face, is second to none. Hilariously entertaining, brazenly snide, he ticked all the boxes: easy to hate, but you’d love him if he was playing for your team. Also he’s not a half-bad goalscorer, as proven by that whirlwind start to his career in England: seven goals in his first four games, breezing past a record set by Sergio Agüero and Mick Quinn (and it’s not often you see those two names bound together). A steal at £32m.
+ Ander Herrera  
+Manchester United’s big-name, big-money signings of Ángel Di María and Radamel Falcao proved to be a massive blow-out. Luke Shaw has been dogged by injury, while Marcos Rojo and Daley Blind have been steady but not spectacular. United’s summer spree would have proved rather underwhelming, then, were it not for their £29m signing from Athletic Bilbao. Neat and tidy possession. Precision attacking: six goals from seven shots this season (before the last game of the season) is some ratio. And a little bite in the tackle too, his innocent coupon belying his willingness to unsettle an opponent or two. Just ask Steven Gerrard.
+ Sadio Mané  
+And to think everyone thought Southampton had suffered a disastrous transfer window last summer. We could quite easily have selected Fraser Forster, Dusan Tadic, Graziano Pellè or Ryan Bertrand for this, but Mané gets the nod for that 176-second blast against Aston Villa, which turned him into an instant Premier League legend. The first two goals in that hat-trick showcased his sharpness in the scramble, no mean talent in itself. But it was the third that oozed class, an open-body side-foot into the top-right corner from the edge of the box. Robbie Fowler would have been proud of the lot.
+ Alexis Sánchez  
+One of the brightest stars at the World Cup was never going to struggle to adapt to the English game, but the £30m signing from Barcelona was still spectacularly quick in making his mark. He scored 24 goals in 51 appearances and came charging to the rescue when Arsenal needed him most, with nerve-settling winners against Besiktas in the Champions League qualifier and Reading in the FA Cup semi. How different Arsenal’s season would have been if those hadn’t gone in.
+ • Check out the other categories: 
+Pundit of the season
+ 
+Match of the season
+ 
+Flop of the season
+ 
+Manager of the season
+ 
+Innovations for the future
+ 
+Player of the season
+ 
+Goal of the season
+ 
+Gripe of the season
+ 
+Referee of the season
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="156~162" text="Murray" playerID="null" />
+<Player id="P1" spans="695~712" text="Esteban Cambiasso" playerID="null" />
+<Player id="P2" spans="1146~1163" text="Esteban Cambiasso" playerID="null" />
+<Player id="P3" spans="1268~1279" text="Diego Costa" playerID="null" />
+<Player id="P4" spans="1389~1400" text="Diego Costa" playerID="null" />
+<Player id="P5" spans="1828~1841" text="Sergio Agüero" playerID="null" />
+<Player id="P6" spans="1851~1856" text="Quinn" playerID="null" />
+<Player id="P7" spans="1936~1949" text="Ander Herrera" playerID="null" />
+<Player id="P8" spans="2004~2018" text="Ángel Di María" playerID="null" />
+<Player id="P9" spans="2031~2037" text="Falcao" playerID="null" />
+<Player id="P10" spans="2071~2080" text="Luke Shaw" playerID="null" />
+<Player id="P11" spans="2114~2125" text="Marcos Rojo" playerID="null" />
+<Player id="P12" spans="2130~2141" text="Daley Blind" playerID="null" />
+<Player id="P13" spans="2565~2579" text="Steven Gerrard" playerID="null" />
+<Player id="P14" spans="2582~2592" text="Sadio Mané" playerID="null" />
+<Player id="P15" spans="2728~2742" text="Fraser Forster" playerID="null" />
+<Player id="P16" spans="2744~2755" text="Dusan Tadic" playerID="null" />
+<Player id="P17" spans="2757~2771" text="Graziano Pellè" playerID="null" />
+<Player id="P18" spans="2775~2788" text="Ryan Bertrand" playerID="null" />
+<Player id="P19" spans="2803~2807" text="Mané" playerID="null" />
+<Player id="P20" spans="3192~3206" text="Alexis Sánchez" playerID="null" />
+<Player id="P21" spans="3199~3206" text="Sánchez" playerID="null" />
+<Coref id="C0" spans="1502~1505" text="his" playerID="null" />
+<Coref id="C1" spans="1573~1575" text="he" playerID="null" />
+<Coref id="C2" spans="1634~1636" text="he" playerID="null" />
+<Coref id="C3" spans="1669~1671" text="he" playerID="null" />
+<Coref id="C4" spans="1738~1741" text="his" playerID="null" />
+<Coref id="C5" spans="1776~1779" text="his" playerID="null" />
+<Coref id="C6" spans="2480~2483" text="his" playerID="null" />
+<Coref id="C7" spans="2508~2511" text="his" playerID="null" />
+<Coref id="C8" spans="2972~2975" text="his" playerID="null" />
+<Coref id="C9" spans="3387~3390" text="his" playerID="null" />
+<Coref id="C10" spans="3397~3399" text="He" playerID="null" />
+</TAGS>
+</SoccEval1.2>

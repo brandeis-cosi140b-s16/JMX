@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/blog/2015/may/25/premier-league-2014-15-flop-of-season
+
+Premier League 2014-15 review: flop of the season | Paul Doyle
+
+
+Welcome to theguardian.com review of the 2014-15 Premier League season. Now that the campaign has ended we would like you to help us choose your favourite goal, the best referee and the best manager, and other winners in a total of 10 categories.
+ 
+We have nominated some contenders, but this is just to get the discussion going: we would like your suggestions so that we can compile the best into final polls that you can vote on. The polls will be published at midday on Tuesday 26 May, so please tell us what you think. Thanks
+ Liverpool  
+There is a case for saying that Liverpool would have been better off sticking the Luis Suárez swag on a random selection in the 3.10 at Aintree than in splurging it on the likes of Dejan Lovren and Mario Balotelli, who, it is fair to say, have endured difficult debut seasons at Anfield after big transfers. Liverpool were dire in the first third of the season as Brendan Rodgers grappled for a new method and then, just as it seemed they had got their act together and could challenge for a return to the Champions League (in which they were terrible this term), they fell apart again, leading to suggestions that they need more major surgery in the summer.
+ Newcastle United 
+You could spend all day ticking off the symptoms of Newcastle’s regression this season – such as, say, their manager accusing one of their players of getting sent off on purpose; the awfulness of the 4-0 defeat at Southampton even before the awfulness of most of their performances under John Carver; Mike Ashley; or the drop in quality of their French imports, as personified by Emmanuel Riviére, whose fall when clean through against Leicester was a telling snapshot of his campaign, though, in fairness, he kept plugging away and scored his first goals two weeks later, on his 22nd league appearance.
+ Queens Park Rangers 
+Where to pin the blame? On Harry Redknapp for failing to glean a single point away from Loftus Road before leaving mid-season? On a squad containing, according to Joey Barton, “bad eggs” and some players who too often seemed out of their depth and/or too entrenched in their comfort zone? Or on a chairman who insisted he had learned from past mistakes but saw his team ignominiously relegated from the top flight for the second successive time? This season has truly been a collective flop at QPR.
+ Ángel Di María 
+Perhaps you can cut Radamel Falcao a little slack – he has not quite been the same since suffering serious knee ligament damage last year – but what is Ángel Di María’s excuse? The most expensive signing in Premier League history made a terrific start to his career at Manchester United but faded so badly that he can no longer even get a starting place ahead of the reborn Ashley Young and there is talk that the club want to offload him this summer.
+ Paul Lambert  
+Aston Villa began the season brightly and the club’s owners were so enthused that they handed the manager a new contract. Villa then embarked on a wretched run of two wins in 21 matches, plummeting down the table and stinking the place out with a strain of football that yielded an average of less than half a goal per Premier League game. His assistant, Roy Keane, quit in November and Lambert was put out of his misery in February, after which Tim Sherwood arrived and showed that getting the team to play enterprising football was not impossible, after all.
+ • Check out the other categories 
+Pundit of the season
+ 
+Match of the season
+ 
+Signing of the season
+ 
+Manager of the season
+ 
+Innovations for the future
+ 
+Player of the season
+ 
+Goal of the season
+ 
+Gripe of the season
+ 
+Referee of the season
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="149~154" text="Doyle" playerID="null" />
+<Player id="P1" spans="881~893" text="Dejan Lovren" playerID="null" />
+<Player id="P2" spans="898~913" text="Mario Balotelli" playerID="null" />
+<Player id="P3" spans="2167~2178" text="Joey Barton" playerID="null" />
+<Player id="P4" spans="2504~2518" text="Ángel Di María" playerID="null" />
+<Player id="P5" spans="2548~2554" text="Falcao" playerID="null" />
+<Player id="P6" spans="2672~2686" text="Ángel Di María" playerID="null" />
+<Player id="P7" spans="2894~2906" text="Ashley Young" playerID="null" />
+<Player id="P8" spans="2978~2985" text="Lambert" playerID="null" />
+<Player id="P9" spans="3347~3352" text="Keane" playerID="null" />
+<Player id="P10" spans="3375~3382" text="Lambert" playerID="null" />
+<Coref id="C0" spans="1850~1853" text="his" playerID="null" />
+<Coref id="C1" spans="1885~1887" text="he" playerID="null" />
+<Coref id="C2" spans="1918~1921" text="his" playerID="null" />
+<Coref id="C3" spans="1954~1957" text="his" playerID="null" />
+<Coref id="C4" spans="2323~2325" text="he" playerID="null" />
+<Coref id="C5" spans="2365~2368" text="his" playerID="null" />
+<Coref id="C6" spans="2572~2574" text="he" playerID="null" />
+<Coref id="C7" spans="2775~2778" text="his" playerID="null" />
+<Coref id="C8" spans="2831~2833" text="he" playerID="null" />
+<Coref id="C9" spans="3328~3331" text="His" playerID="null" />
+<Coref id="C10" spans="3398~3401" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>
