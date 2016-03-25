@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<SoccEval1.1>
+<SoccEval1.2>
 <TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/27/chelsea-aston-villa-premier-league-match-report
 
 Chelsea 3-0 Aston Villa | Premier League match report
@@ -93,4 +93,4 @@ Twenty minutes later, Aly Cissokho having in the meantime cleared Oscar’s casu
 <Coref id="C23" spans="3459~3462" text="his" playerID="null" />
 <Coref id="C24" spans="4448~4450" text="he" playerID="null" />
 </TAGS>
-</SoccEval1.1>
+</SoccEval1.2>
