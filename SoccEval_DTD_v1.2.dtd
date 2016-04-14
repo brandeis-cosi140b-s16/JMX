@@ -20,5 +20,5 @@
 <!ATTLIST Opinion reported ( false | true ) #IMPLIED "false" >
 
 <!ELEMENT TargetLink EMPTY >
-<!ATTLIST TargetLink arg0 IDREF prefix="fact or opinion" #REQUIRED >
+<!ATTLIST TargetLink arg0 IDREF prefix="fact_or_opinion" #REQUIRED >
 <!ATTLIST TargetLink arg1 IDREF prefix="target" #REQUIRED >
