@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/blog/2015/may/25/premier-league-2014-15-player-of-season
+
+Premier League 2014-15 review: player of the season | Paul Doyle
+
+
+Welcome to theguardian.com review of the 2014-15 Premier League season. Now that the campaign has ended we would like you to help us choose your favourite goal, the best referee and the best manager, and other winners in a total of 10 categories.
+ 
+We have nominated some contenders but this is just to get the discussion going: we would like your suggestions so that we can compile the best into final polls that you can vote on. The polls will be published at midday on Tuesday 26 May, so please tell us what you think. Thanks
+ Eden Hazard  
+Chelsea may not have been the most swashbuckling of champions but this nifty mischief-maker was always a joy to watch. This was by far Hazard’s most consistent season since his arrival at Stamford Bridge in 2012 as he successfully shouldered much of the creative burden for his team, embroidering their play with snazzy dribbles, ingenious passes and some decisive finishes.
+ John Terry 
+The centre-back turned 34 during the campaign but delivered performances that ridiculed the suggestion – so common a couple of years ago – that he was past it. He led, masterfully, the title-winning defence for every minute of every match, helping to integrate young Kurt Zouma to the side when Gary Cahill endured an iffy spell. Terry also chipped in with enough goals to make him the highest scoring defender of the Premier League era.
+ Harry Kane 
+At the beginning of the season Tottenham Hotspur were not sure Harry Kane was good enough for them, now their challenge is to hang on to the young striker. Kane’s first full campaign in the Premier League was such a success that Tottenham fans were almost able to forget about Roberto Soldado and Emmanuel Adebayor. The youngster dazzled with his dynamism and deadliness, regularly discombobulating seasoned top-flight defenders.
+ David de Gea  
+For the first half of the season, in particular, the Spaniard was a Winston Wolfe figure at Manchester United, tidying up messes by the goofs around him. United would surely not have been in contention for a Champions League place if not for the agility of their goalkeeper, who earned victories from matches United could otherwise have lost, such as at home to Everton, when his blocks included a save from a Leighton Baines penalty, at home to Liverpool, when even the three goals they scored might not have been enough to secure a point if their goalkeeper had not excelled, and away at Southampton and Crystal Palace. And many others.
+ Yannick Bolasie 
+Yes, he should have scored more goals, but no, there is no other player in the Premier League with the same ability to astonish as Bolasie. His trickery, which Alan Pardew helped to unlock after the departure of the limited and limiting Neil Warnock, was the chief highlight of Crystal Palace’s climb up the table and a regular source of exasperation for defenders, who never knew what Bolasie was going to do next. Blessed with formidable speed and strength to go with his rare skill, the 25-year-old was always worth watching.
+ • Check out the other categories:  
+Pundit of the season
+ 
+Match of the season
+ 
+Flop of the season
+ 
+Manager of the season
+ 
+Innovations for the future
+ 
+Signing of the season
+ 
+Goal of the season
+ 
+Gripe of the season
+ 
+Referee of the season
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P1" spans="691~702" text="Eden Hazard" playerID="101" />
+<Player id="P2" spans="840~846" text="Hazard" playerID="101" />
+<Player id="P3" spans="1081~1091" text="John Terry" playerID="102" />
+<Player id="P4" spans="1360~1370" text="Kurt Zouma" playerID="103" />
+<Player id="P5" spans="1388~1399" text="Gary Cahill" playerID="104" />
+<Player id="P6" spans="1423~1428" text="Terry" playerID="102" />
+<Player id="P7" spans="1532~1542" text="Harry Kane" playerID="105" />
+<Player id="P8" spans="1607~1617" text="Harry Kane" playerID="105" />
+<Player id="P9" spans="1700~1704" text="Kane" playerID="105" />
+<Player id="P10" spans="1821~1836" text="Roberto Soldado" playerID="106" />
+<Player id="P11" spans="1841~1858" text="Emmanuel Adebayor" playerID="107" />
+<Player id="P12" spans="1975~1987" text="David de Gea" playerID="108" />
+<Player id="P13" spans="2400~2415" text="Leighton Baines" playerID="109" />
+<Player id="P14" spans="2630~2645" text="Yannick Bolasie" playerID="110" />
+<Player id="P15" spans="2778~2785" text="Bolasie" playerID="110" />
+<Player id="P16" spans="3033~3040" text="Bolasie" playerID="110" />
+<Coref id="C0" spans="878~881" text="his" playerID="101" />
+<Coref id="C1" spans="920~922" text="he" playerID="101" />
+<Coref id="C2" spans="979~982" text="his" playerID="101" />
+<Coref id="C3" spans="1237~1239" text="he" playerID="102" />
+<Coref id="C4" spans="1253~1255" text="He" playerID="102" />
+<Coref id="C5" spans="1887~1890" text="his" playerID="105" />
+<Coref id="C6" spans="2366~2369" text="his" playerID="108" />
+<Coref id="C7" spans="2652~2654" text="he" playerID="110" />
+<Coref id="C8" spans="2787~2790" text="His" playerID="110" />
+<Coref id="C9" spans="3117~3120" text="his" playerID="110" />
+<Coref id="C11" spans="771~796" text="this nifty mischief-maker" playerID="101" />
+<Coref id="C12" spans="1093~1108" text="The centre-back" playerID="102" />
+<Coref id="C13" spans="1681~1698" text="the young striker" playerID="105" />
+<Coref id="C14" spans="1860~1873" text="The youngster" playerID="105" />
+<Coref id="C15" spans="2043~2051" text="Spaniard" playerID="108" />
+<Coref id="C16" spans="2139~2142" text="him" playerID="108" />
+<Coref id="C17" spans="2247~2263" text="their goalkeeper" playerID="108" />
+<Coref id="C18" spans="2533~2549" text="their goalkeeper" playerID="108" />
+<Coref id="C19" spans="3133~3148" text="the 25-year-old" playerID="110" />
+<Fact id="F1" spans="2386~2423" text="a save from a Leighton Baines penalty" type="save" time="last season" factID="1" />
+<Fact id="F2" spans="2558~2627" text="excelled, and away at Southampton and Crystal Palace. And many others" type="save" time="last season" factID="2" />
+<Opinion id="O0" spans="1018~1033" text="snazzy dribbles" reported="false" type="soccer skill" polarity="+" hypothetical="counterfactive" time="last season" />
+<Opinion id="O1" spans="1035~1051" text="ingenious passes" reported="false" type="soccer skill" polarity="+" hypothetical="counterfactive" time="last season" />
+<Opinion id="O2" spans="1061~1078" text="decisive finishes" reported="false" type="soccer skill" polarity="+" hypothetical="counterfactive" time="last season" />
+<Opinion id="O3" spans="776~781" text="nifty" reported="false" type="general attribute" polarity="+" hypothetical="counterfactive" time="last season" />
+<Opinion id="O4" spans="923~987" text="successfully shouldered much of the creative burden for his team" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O5" spans="1143~1251" text="delivered performances that ridiculed the suggestion – so common a couple of years ago – that he was past it" reported="false" type="growth-decline" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O6" spans="1256~1331" text="led, masterfully, the title-winning defence for every minute of every match" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O7" spans="1333~1382" text="helping to integrate young Kurt Zouma to the side" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O8" spans="1479~1529" text="highest scoring defender of the Premier League era" reported="false" type="accomplishment" polarity="+" hypothetical="counterfactive" time="last season" />
+<Opinion id="O9" spans="1760~1767" text="success" reported="false" polarity="+" hypothetical="counterfactive" time="distant past" type="impact on team" />
+<Opinion id="O10" spans="1891~1914" text="dynamism and deadliness" reported="false" type="general attribute" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O11" spans="1773~1858" text="Tottenham fans were almost able to forget about Roberto Soldado and Emmanuel Adebayor" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="prediction" />
+<Opinion id="O12" spans="1926~1972" text="discombobulating seasoned top-flight defenders" reported="false" type="soccer skill" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O13" spans="2101~2142" text="tidying up messes by the goofs around him" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O14" spans="2236~2243" text="agility" reported="false" type="general attribute" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O15" spans="2452~2627" text="even the three goals they scored might not have been enough to secure a point if their goalkeeper had not excelled, and away at Southampton and Crystal Palace. And many others" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="prediction" />
+<Opinion id="O16" spans="2269~2331" text="earned victories from matches United could otherwise have lost" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O17" spans="2694~2785" text="there is no other player in the Premier League with the same ability to astonish as Bolasie" reported="false" type="accomplishment" polarity="+" time="last season" hypothetical="prediction" />
+<Opinion id="O18" spans="2791~2799" text="trickery" reported="false" type="general attribute" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O19" spans="2906~3011" text="chief highlight of Crystal Palace’s climb up the table and a regular source of exasperation for defenders" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O20" spans="3076~3105" text="formidable speed and strength" reported="false" type="general attribute" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O21" spans="3121~3131" text="rare skill" reported="false" type="general attribute" time="last season" hypothetical="counterfactive" polarity="+" />
+<Opinion id="O22" spans="3133~3174" text="the 25-year-old was always worth watching" reported="false" type="other opinion" polarity="+" time="last season" hypothetical="prediction" />
+<TargetLink id="T0" fact_or_opinionID="F1" fact_or_opinionText="a save from a Leighton Baines penalty" targetID="P12" targetText="David de Gea" />
+<TargetLink id="T1" fact_or_opinionID="F2" fact_or_opinionText="excelled, and away at Southampton and Crystal Palace. And many others" targetID="P12" targetText="David de Gea" />
+<TargetLink id="T2" fact_or_opinionID="O0" fact_or_opinionText="snazzy dribbles" targetID="P1" targetText="Eden Hazard" />
+<TargetLink id="T3" fact_or_opinionID="O1" fact_or_opinionText="ingenious passes" targetID="P1" targetText="Eden Hazard" />
+<TargetLink id="T4" fact_or_opinionID="O2" fact_or_opinionText="decisive finishes" targetID="P1" targetText="Eden Hazard" />
+<TargetLink id="T5" fact_or_opinionID="O3" fact_or_opinionText="nifty" targetID="P1" targetText="Eden Hazard" />
+<TargetLink id="T6" fact_or_opinionID="O4" fact_or_opinionText="successfully shouldered much of the creative burden for his team" targetID="P1" targetText="Eden Hazard" />
+<TargetLink id="T7" fact_or_opinionID="O5" fact_or_opinionText="delivered performances that ridiculed the suggestion – so common a couple of years ago – that he was past it" targetID="P3" targetText="John Terry" />
+<TargetLink id="T8" fact_or_opinionID="O6" fact_or_opinionText="led, masterfully, the title-winning defence for every minute of every match" targetID="P3" targetText="John Terry" />
+<TargetLink id="T9" fact_or_opinionID="O7" fact_or_opinionText="helping to integrate young Kurt Zouma to the side" targetID="P3" targetText="John Terry" />
+<TargetLink id="T10" fact_or_opinionID="O8" fact_or_opinionText="highest scoring defender of the Premier League era" targetID="P3" targetText="John Terry" />
+<TargetLink id="T11" fact_or_opinionID="O9" fact_or_opinionText="success" targetID="P7" targetText="Harry Kane" />
+<TargetLink id="T12" fact_or_opinionID="O10" fact_or_opinionText="dynamism and deadliness" targetID="P7" targetText="Harry Kane" />
+<TargetLink id="T13" fact_or_opinionID="O11" fact_or_opinionText="Tottenham fans were almost able to forget about Roberto Soldado and Emmanuel Adebayor" targetID="P7" targetText="Harry Kane" />
+<TargetLink id="T14" fact_or_opinionID="O12" fact_or_opinionText="discombobulating seasoned top-flight defenders" targetID="P7" targetText="Harry Kane" />
+<TargetLink id="T15" fact_or_opinionID="O13" fact_or_opinionText="tidying up messes by the goofs around him" targetID="P12" targetText="David de Gea" />
+<TargetLink id="T16" fact_or_opinionID="O14" fact_or_opinionText="agility" targetID="P12" targetText="David de Gea" />
+<TargetLink id="T17" fact_or_opinionID="O15" fact_or_opinionText="even the three goals they scored might not have been enough to secure a point if their goalkeeper had not excelled, and away at Southampton and Crystal Palace. And many others" targetID="P12" targetText="David de Gea" />
+<TargetLink id="T18" fact_or_opinionID="O16" fact_or_opinionText="earned victories from matches United could otherwise have lost" targetID="P12" targetText="David de Gea" />
+<TargetLink id="T19" fact_or_opinionID="O17" fact_or_opinionText="there is no other player in the Premier League with the same ability to astonish as Bolasie" targetID="P14" targetText="Yannick Bolasie" />
+<TargetLink id="T20" fact_or_opinionID="O18" fact_or_opinionText="trickery" targetID="P14" targetText="Yannick Bolasie" />
+<TargetLink id="T21" fact_or_opinionID="O19" fact_or_opinionText="chief highlight of Crystal Palace’s climb up the table and a regular source of exasperation for defenders" targetID="P14" targetText="Yannick Bolasie" />
+<TargetLink id="T22" fact_or_opinionID="O20" fact_or_opinionText="formidable speed and strength" targetID="P14" targetText="Yannick Bolasie" />
+<TargetLink id="T23" fact_or_opinionID="O21" fact_or_opinionText="rare skill" targetID="P14" targetText="Yannick Bolasie" />
+<TargetLink id="T24" fact_or_opinionID="O22" fact_or_opinionText="the 25-year-old was always worth watching" targetID="P14" targetText="Yannick Bolasie" />
+</TAGS>
+</SoccEval1.2>
