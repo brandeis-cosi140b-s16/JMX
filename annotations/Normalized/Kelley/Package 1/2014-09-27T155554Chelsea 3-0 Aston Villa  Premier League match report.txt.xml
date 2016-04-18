@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/27/chelsea-aston-villa-premier-league-match-report
+
+Chelsea 3-0 Aston Villa | Premier League match report
+
+
+Against Arsenal last week Aston Villa’s team had been laid low by a virus; this time they were brought to their knees by a phenomenon they found similarly impossible to defend against and equally destructive to their morale and their victory chances, in the rather more human shape of Diego Costa.
+ 
+The Chelsea striker scored one – his eighth goal in six league matches – and created another before coming off to spend the last 10 minutes resting his suspect hamstrings, the leaders’ victory assured. It was a fine if imperfect display from the Spaniard, whose passing outside the penalty area was often imprecise, but, more importantly, his movement was constant and menacing, and when the ball fell his way in the area he was typically devastating.
+ 
+José Mourinho said that goals were of particular importance for Costa given that he is doing “almost nothing” in training. “For me what’s important is that the team scores enough goals to win,” he said. “But I know it’s good for him and for his confidence, especially for a player like him who’s not training as he should, so he cannot be on top of his game.”
+ 
+Having complained earlier in the week that Spain remain free to select Costa despite his injury concerns, Mourinho now pinpointed the period next month in which they have back-to-back qualifiers against Slovakia and Luxembourg as key to Costa’s long-term fortunes for club and country. ‚
+ 
+“If he stays here, and spends 15 days just on treatment and recovery and making the muscle stronger, he has the perfect chance to be top for Chelsea and for the national team,” he said. “If he doesn’t have this chance, he will always play one game, and the next he’s in trouble.”
+ 
+He played this game, and it was Villa who were in trouble. The visitors had built their impressive early-season form on defensive solidity rather than attacking brio – they arrived here with three clean sheets and just eight shots on target in five previous games – but a team that struggles so badly to create and take chances is unlikely to prosper against this calibre of opponent.
+ 
+They were never overrun but Thibaut Courtois made only one save, from Alan Hutton’s tame effort at the end of a long individual run in the 69th minute, despite a flurry of almost-chances at the start of each half.
+ 
+“Against teams like this, when you get a chance you have to score,” said the Villa manager, Paul Lambert. “But when you come here, if you get beat you’ve got to leave with your confidence intact, which we certainly are. Other than failing to get a goal, I couldn’t ask for anything more.”
+ 
+From Lambert’s perspective there was an element of misfortune about the first and third goals, with Willian benefitting from handy ricochets on both occasions.
+ 
+For the first, the Brazilian was sent scurrying down the right by Branislav Ivanovic and, with all team-mates to his left marked, he shot low and hard towards the near post. Brad Guzan pushed the ball straight back into his path, and this time Willian pulled back to the now-clear Oscar, whose finish trundled through Philippe Senderos’s legs on its way to goal.
+ 
+Willian came close to a second in the 15th minute when he ran on to Costa’s excellent backheel flick and set off down the centre but Nathan Baker diligently shepherded him wide of goal, from where his shot was deflected the wrong side of the near post.
+ 
+Though their advantage remained slender, Chelsea displayed the class and confidence that befits league leaders and title favourites, with Oscar beating Senderos with a drop of the shoulder that provoked not so much cheers from the nearby fans as a collective sigh of pleasure, and Eden Hazard, who was otherwise becalmed, attempting a showy rabona.
+ 
+“I don’t remember feeling fear or scared or not comfortable,” said Mourinho. “The team always gave the feeling that everything was under control.”
+ 
+All the more so when, in the 59th minute, the Villa defence was momentarily mesmerised by some neat triangular passing on the left and forgot to keep an eye on Costa, who scored with a powerful header when César Azpilicueta finally speared in a cross.
+ 
+Twenty minutes later, Aly Cissokho having in the meantime cleared Oscar’s casual effort as it rolled towards the line, Costa was found in too much space on the left, from where he cut inside, cut inside a little more and then sent in a shot that bounced off Guzan and Cissokho before landing helpfully between Willian and an empty net.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P21" spans="4223~4240" text="César Azpilicueta" playerID="112" />
+<Player id="P20" spans="4177~4182" text="Costa" playerID="101" />
+<Player id="P23" spans="4337~4342" text="Oscar" playerID="107" />
+<Player id="P22" spans="4293~4305" text="Aly Cissokho" playerID="113" />
+<Player id="P25" spans="4529~4534" text="Guzan" playerID="106" />
+<Player id="P24" spans="4390~4395" text="Costa" playerID="101" />
+<Player id="P27" spans="4581~4588" text="Willian" playerID="104" />
+<Player id="P26" spans="4539~4547" text="Cissokho" playerID="114" />
+<Player id="P0" spans="438~449" text="Diego Costa" playerID="101" />
+<Player id="P1" spans="971~976" text="Costa" playerID="101" />
+<Player id="P2" spans="1340~1345" text="Costa" playerID="101" />
+<Player id="P3" spans="1506~1511" text="Costa" playerID="101" />
+<Player id="P4" spans="2256~2272" text="Thibaut Courtois" playerID="102" />
+<Player id="P5" spans="2298~2309" text="Alan Hutton" playerID="103" />
+<Player id="P8" spans="2835~2842" text="Willian" playerID="104" />
+<Player id="P9" spans="2963~2981" text="Branislav Ivanovic" playerID="105" />
+<Player id="P10" spans="3071~3081" text="Brad Guzan" playerID="106" />
+<Player id="P12" spans="3178~3183" text="Oscar" playerID="107" />
+<Player id="P11" spans="3141~3148" text="Willian" playerID="104" />
+<Player id="P14" spans="3262~3269" text="Willian" playerID="104" />
+<Player id="P13" spans="3215~3232" text="Philippe Senderos" playerID="108" />
+<Player id="P16" spans="3395~3407" text="Nathan Baker" playerID="109" />
+<Player id="P15" spans="3330~3335" text="Costa" playerID="101" />
+<Player id="P18" spans="3669~3677" text="Senderos" playerID="108" />
+<Player id="P17" spans="3655~3660" text="Oscar" playerID="107" />
+<Player id="P19" spans="3798~3809" text="Eden Hazard" playerID="111" />
+<Coref id="C11" spans="1354~1357" text="his" playerID="101" />
+<Coref id="C10" spans="1256~1259" text="his" playerID="101" />
+<Coref id="C13" spans="1660~1662" text="he" playerID="101" />
+<Coref id="C12" spans="1563~1565" text="he" playerID="101" />
+<Coref id="C15" spans="1749~1751" text="he" playerID="101" />
+<Coref id="C17" spans="1821~1823" text="he" playerID="101" />
+<Coref id="C16" spans="1778~1780" text="he" playerID="101" />
+<Coref id="C19" spans="3010~3013" text="his" playerID="104" />
+<Coref id="C18" spans="1841~1843" text="He" playerID="101" />
+<Coref id="C20" spans="3027~3029" text="he" playerID="104" />
+<Coref id="C22" spans="3317~3319" text="he" playerID="104" />
+<Coref id="C21" spans="3117~3120" text="his" playerID="104" />
+<Coref id="C24" spans="4448~4450" text="he" playerID="101" />
+<Coref id="C23" spans="3459~3462" text="his" playerID="104" />
+<Coref id="C26" spans="695~707" text="the Spaniard" playerID="101" />
+<Coref id="C25" spans="453~472" text="The Chelsea striker" playerID="101" />
+<Coref id="C27" spans="2912~2925" text="the Brazilian" playerID="104" />
+<Coref id="C0" spans="486~489" text="his" playerID="101" />
+<Coref id="C1" spans="601~604" text="his" playerID="101" />
+<Coref id="C2" spans="792~795" text="his" playerID="101" />
+<Coref id="C3" spans="855~858" text="his" playerID="101" />
+<Coref id="C4" spans="875~877" text="he" playerID="101" />
+<Coref id="C5" spans="988~990" text="he" playerID="101" />
+<Coref id="C7" spans="1148~1151" text="his" playerID="101" />
+<Coref id="C8" spans="1219~1221" text="he" playerID="101" />
+<Coref id="C9" spans="1233~1235" text="he" playerID="101" />
+<Fact id="F21" spans="4463~4487" text="cut inside a little more" time="last match" type="movement" factID="4" />
+<Fact id="F20" spans="4437~4461" text="from where he cut inside" time="last match" type="movement" factID="5" />
+<Fact id="F22" spans="4488~4605" text="and then sent in a shot that bounced off Guzan and Cissokho before landing helpfully between Willian and an empty net" time="last match" type="goal" factID="1" />
+<Fact id="F0" spans="473~483" text="scored one" type="goal" time="last match" factID="1" />
+<Fact id="F2" spans="4184~4217" text="who scored with a powerful header" time="last match" type="goal" factID="2" />
+<Fact id="F3" spans="546~563" text="before coming off" time="last match" type="substitute out" factID="6" />
+<Fact id="F4" spans="593~623" text="resting his suspect hamstrings" time="last match" type="injury" factID="7" />
+<Fact id="F5" spans="2312~2378" text="tame effort at the end of a long individual run in the 69th minute" time="last match" type="shot" factID="8" />
+<Fact id="F6" spans="2273~2291" text="made only one save" type="save" time="last match" factID="9" />
+<Fact id="F7" spans="2807~2812" text="first" time="last match" type="assist" factID="10" />
+<Fact id="F8" spans="2817~2822" text="third" time="last match" type="assist" factID="11" />
+<Fact id="F9" spans="2930~2981" text="sent scurrying down the right by Branislav Ivanovic" type="movement" time="last match" factID="12" />
+<Fact id="F10" spans="3027~3069" text="he shot low and hard towards the near post" type="shot" time="last match" factID="13" />
+<Fact id="F12" spans="3149~3183" text="pulled back to the now-clear Oscar" type="assist" time="last match" factID="14" />
+<Fact id="F11" spans="3082~3125" text="pushed the ball straight back into his path" type="movement" time="last match" factID="15" />
+<Fact id="F14" spans="3320~3362" text="ran on to Costa’s excellent backheel flick" time="last match" type="positioning" factID="16" />
+<Fact id="F13" spans="3185~3258" text="whose finish trundled through Philippe Senderos’s legs on its way to goal" time="last match" type="goal" factID="3" />
+<Fact id="F16" spans="3408~3446" text="diligently shepherded him wide of goal" time="last match" type="movement" factID="1" />
+<Fact id="F15" spans="3367~3390" text="set off down the centre" type="movement" time="last match" factID="17" />
+<Fact id="F18" spans="4306~4388" text="having in the meantime cleared Oscar’s casual effort as it rolled towards the line" time="last match" type="save" factID="18" />
+<Fact id="F17" spans="3459~3513" text="his shot was deflected the wrong side of the near post" type="shot" time="last match" factID="19" />
+<Fact id="F19" spans="4396~4435" text="was found in too much space on the left" time="last match" type="positioning" factID="20" />
+<Opinion id="O0" spans="227~437" text=" this time they were brought to their knees by a phenomenon they found similarly impossible to defend against and equally destructive to their morale and their victory chances, in the rather more human shape of" polarity="+" reported="false" type="impact on team" time="last match" />
+<Opinion id="O1" spans="709~767" text="whose passing outside the penalty area was often imprecise" polarity="+" type="soccer skill" time="last match" reported="false" />
+<Opinion id="O2" spans="792~830" text="his movement was constant and menacing" time="last match" reported="false" polarity="+" type="general attribute" />
+<Opinion id="O3" spans="836~903" text="when the ball fell his way in the area he was typically devastating" time="last match" type="general attribute" reported="false" polarity="+" />
+<Opinion id="O4" spans="1844~1898" text="played this game, and it was Villa who were in trouble" polarity="+" reported="false" time="last match" type="impact on team" />
+<Opinion id="O5" spans="3338~3362" text="excellent backheel flick" type="soccer skill" polarity="+" time="last match" reported="false" />
+<Opinion id="O6" spans="3661~3792" text="beating Senderos with a drop of the shoulder that provoked not so much cheers from the nearby fans as a collective sigh of pleasure" type="soccer skill" polarity="+" time="last match" reported="false" />
+<TargetLink id="T21" fact_or_opinionID="F15" fact_or_opinionText="set off down the centre" targetID="C22" targetText="he" />
+<TargetLink id="T20" fact_or_opinionID="F14" fact_or_opinionText="ran on to Costa’s excellent backheel flick" targetID="C22" targetText="he" />
+<TargetLink id="T23" fact_or_opinionID="F17" fact_or_opinionText="his shot was deflected the wrong side of the near post" targetID="C22" targetText="he" />
+<TargetLink id="T22" fact_or_opinionID="F16" fact_or_opinionText="diligently shepherded him wide of goal" targetID="P16" targetText="Nathan Baker" />
+<TargetLink id="T25" fact_or_opinionID="F2" fact_or_opinionText="who scored with a powerful header" targetID="P20" targetText="Costa" />
+<TargetLink id="T24" fact_or_opinionID="O6" fact_or_opinionText="beating Senderos with a drop of the shoulder that provoked not so much cheers from the nearby fans as a collective sigh of pleasure" targetID="P17" targetText="Oscar" />
+<TargetLink id="T27" fact_or_opinionID="F22" fact_or_opinionText="and then sent in a shot that bounced off Guzan and Cissokho before landing helpfully between Willian and an empty net" targetID="P24" targetText="Costa" />
+<TargetLink id="T26" fact_or_opinionID="F18" fact_or_opinionText="having in the meantime cleared Oscar’s casual effort as it rolled towards the line" targetID="P22" targetText="Aly Cissokho" />
+<TargetLink id="T29" fact_or_opinionID="F19" fact_or_opinionText="was found in too much space on the left" targetID="P24" targetText="Costa" />
+<TargetLink id="T28" fact_or_opinionID="F20" fact_or_opinionText="from where he cut inside" targetID="P24" targetText="Costa" />
+<TargetLink id="T0" fact_or_opinionID="O0" fact_or_opinionText=" this time they were brought to their knees by a phenomenon they found similarly impossible to defend against and equally destructive to their morale and their victory chances, in the rather more human shape of" targetID="P0" targetText="Diego Costa" />
+<TargetLink id="T1" fact_or_opinionID="F0" fact_or_opinionText="scored one" targetID="C25" targetText="The Chelsea striker" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="before coming off" targetID="C25" targetText="The Chelsea striker" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="resting his suspect hamstrings" targetID="C25" targetText="The Chelsea striker" />
+<TargetLink id="T5" fact_or_opinionID="O1" fact_or_opinionText="whose passing outside the penalty area was often imprecise" targetID="C26" targetText="the Spaniard" />
+<TargetLink id="T6" fact_or_opinionID="O2" fact_or_opinionText="his movement was constant and menacing" targetID="C2" targetText="his" />
+<TargetLink id="T7" fact_or_opinionID="O3" fact_or_opinionText="when the ball fell his way in the area he was typically devastating" targetID="C26" targetText="the Spaniard" />
+<TargetLink id="T8" fact_or_opinionID="O4" fact_or_opinionText="played this game, and it was Villa who were in trouble" targetID="C18" targetText="He" />
+<TargetLink id="T9" fact_or_opinionID="F5" fact_or_opinionText="tame effort at the end of a long individual run in the 69th minute" targetID="P5" targetText="Alan Hutton" />
+<TargetLink id="T10" fact_or_opinionID="F6" fact_or_opinionText="made only one save" targetID="P4" targetText="Thibaut Courtois" />
+<TargetLink id="T12" fact_or_opinionID="F7" fact_or_opinionText="first" targetID="P8" targetText="Willian" />
+<TargetLink id="T11" fact_or_opinionID="F8" fact_or_opinionText="third" targetID="P8" targetText="Willian" />
+<TargetLink id="T14" fact_or_opinionID="F10" fact_or_opinionText="he shot low and hard towards the near post" targetID="C27" targetText="the Brazilian" />
+<TargetLink id="T13" fact_or_opinionID="F9" fact_or_opinionText="sent scurrying down the right by Branislav Ivanovic" targetID="C27" targetText="the Brazilian" />
+<TargetLink id="T16" fact_or_opinionID="F12" fact_or_opinionText="pulled back to the now-clear Oscar" targetID="P11" targetText="Willian" />
+<TargetLink id="T15" fact_or_opinionID="F11" fact_or_opinionText="pushed the ball straight back into his path" targetID="P10" targetText="Brad Guzan" />
+<TargetLink id="T18" fact_or_opinionID="O5" fact_or_opinionText="excellent backheel flick" targetID="P15" targetText="Costa" />
+<TargetLink id="T17" fact_or_opinionID="F13" fact_or_opinionText="whose finish trundled through Philippe Senderos’s legs on its way to goal" targetID="P12" targetText="Oscar" />
+</TAGS>
+</SoccEval1.2>

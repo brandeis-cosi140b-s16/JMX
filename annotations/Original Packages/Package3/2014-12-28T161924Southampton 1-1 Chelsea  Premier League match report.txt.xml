@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/dec/28/southampton-chelsea-premier-league-match-report
+
+Southampton 1-1 Chelsea | Premier League match report
+
+
+When the full story of the Premier League season comes to be told, this may be one of the occasions Chelsea look back on with a measure of satisfaction given they were facing a team in fourth who have overcome recent difficulties and had not dropped a point on every other occasion they had gone in front this season.
+ 
+Equally José Mourinho and his players will know it could have been considerably better in view of the long spells in the second half when they went looking for the winner only to come up unusually short in attack. Cesc Fàbregas and Eden Hazard played virtually every pass in those 45 minutes apart from the killer one and their frustrations did not stop there on a day when two bookable offences by Morgan Schneiderlin meant Southampton had to get through the last couple of minutes of normal time, plus another four for stoppages, a man down.
+ 
+The complaints from Mourinho were certainly prolonged after another diving controversy involving one of his players presented Chelsea’s manager with an opportunity to allege that his club were being treated differently from others, presumably by the media as much as the match officials. Fàbregas was disgusted with the yellow card that the referee, Anthony Taylor, showed him early in the second half and the replays supported his case.
+ 
+Mourinho launched into an impassioned outburst afterwards about “a campaign” against Chelsea and he also called for television replays to be shown to referees when they have made a clear mistake. As always he sounded as if he believed every single word but, despite rightful grievances about the latest incident, if his team are suffering from a reputation, then a good part of that, undeniably, is of their own making.
+ 
+On a more positive note their response to Sadio Mané’s 17th-minute goal, preceded by a rare positional lapse from John Terry, showed all their qualities of resilience and togetherness. Terry’s expertise has been a considerable factor in why this was the first time Chelsea have conceded a goal in their last four league matches. On this occasion, however, he was caught in two minds between going for the ball and trying to maintain a defensive line and managed to do neither. At 34 Terry’s legs were not going to spare him and Mané, played onside, ran on to Dusan Tadic’s pass before having the composure and presence of mind to lift a bouncing ball over the oncoming Thibaut Courtois.
+ 
+At that stage Southampton looked full of energy and spirit and the ironic chants of “the Saints are staying up” were noisily reminding everyone about the frequency with which they were portrayed as relegation possibilities, rather than Champions League hopefuls, at the start of the season.
+ 
+Schneiderlin and Victor Wanyama were quick to the ball and strong in the tackle, preventing Fàbregas and Nemanja Matic from dominating the midfield in the way that happened after the interval. Hazard, such a menace throughout the second period, was subdued in the opening half an hour and Matt Targett, one of the teenagers from Southampton’s conveyor belt of seemingly endless young talent, had slotted in so harmoniously that his direct opponent, André Schürrle, was substituted by Willian at half-time. Targett is a 19-year-old left-back of rich promise on this evidence, even if he was grateful to be given the benefit of the doubt after the incident that led to Fàbregas’s booking when it could conceivably have been a penalty decision. There was clear contact between the two players even if Southampton could argue it was Fàbregas moving into his opponent rather than the other way round.
+ 
+Chelsea took their time to get going but the pattern of the game changed in first-half stoppage time when Fàbregas lifted the ball into the path of Hazard, running through the inside-left channel, and the Belgian was set free for the first time. Hazard, wanting the ball on his right foot, still had plenty to do and had to cut inside the full-back, Maya Yoshida, as well as the nearer centre-half, Toby Alderweireld. He did so brilliantly, finding the space to take aim, and fired his shot into the far corner with power and precision.
+ 
+Mourinho’s team had so much of the ball after the break that they will be exasperated by their inability to create more chances. Diego Costa had one of his least productive games and, for all the menace of Hazard and Fàbregas, Fraser Forster in Southampton’s goal was surprisingly underworked given how much time the ball spent in and around his penalty area.
+ 
+Alderweireld showed again what a fine centre-half he is and Ronald Koeman made a sensible decision to replace a tiring Yoshida given that the defender was facing the elusive Hazard and had already been booked.
+ 
+Didier Drogba immediately started to trouble his opponents when he came off the bench but the best chance for Chelsea came from a mistake by the substitute James Ward-Prowse and a misplaced back-pass that threatened to undo all of Southampton’s defensive work. Costa lost his footing when he had the opportunity to run clear and the home side held on after Schneiderlin’s foul on Fàbregas, following an earlier booking for one on Hazard, left them a man down during the final exchanges.
+ 
+Man of the match Eden Hazard (Chelsea)
+ 
+Southampton (4-2-3-1) Forster; Yoshida (Gardos 62), Fonte, Alderweireld, Targett; Wanyama, Schneiderlin; S Davis (Long 77), Mané, Tadic (Ward-Prowse 58); Pellè. Subs not used K Davis, Isgrove, Reed, McCarthy.
+ 
+Booked Yoshida, Pellè. Sent off Schneiderlin.
+ 
+Chelsea (4-2-3-1) Courtois; Ivanovic, Cahill, Terry, Luis; Matic, Mikel (Drogba 74); Schürrle (Willian ht), Fàbregas, Hazard; Costa (Rémy 89). Subs not used Cech, Zouma, Ramires, Azpilicueta.
+ 
+Booked Matic, Fàbregas
+ 
+Referee A Taylor.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="687~700" text="Cesc Fàbregas" playerID="null" />
+<Player id="P1" spans="705~716" text="Eden Hazard" playerID="null" />
+<Player id="P2" spans="872~878" text="Morgan" playerID="null" />
+<Player id="P3" spans="872~891" text="Morgan Schneiderlin" playerID="null" />
+<Player id="P4" spans="1307~1315" text="Fàbregas" playerID="null" />
+<Player id="P5" spans="1377~1383" text="Taylor" playerID="null" />
+<Player id="P6" spans="1923~1933" text="Sadio Mané" playerID="null" />
+<Player id="P7" spans="1995~2005" text="John Terry" playerID="null" />
+<Player id="P8" spans="2066~2071" text="Terry" playerID="null" />
+<Player id="P9" spans="2364~2369" text="Terry" playerID="null" />
+<Player id="P10" spans="2409~2413" text="Mané" playerID="null" />
+<Player id="P11" spans="2440~2451" text="Dusan Tadic" playerID="null" />
+<Player id="P12" spans="2550~2566" text="Thibaut Courtois" playerID="null" />
+<Player id="P13" spans="2863~2875" text="Schneiderlin" playerID="null" />
+<Player id="P14" spans="2880~2894" text="Victor Wanyama" playerID="null" />
+<Player id="P15" spans="2955~2963" text="Fàbregas" playerID="null" />
+<Player id="P16" spans="2968~2981" text="Nemanja Matic" playerID="null" />
+<Player id="P17" spans="3056~3062" text="Hazard" playerID="null" />
+<Player id="P18" spans="3152~3164" text="Matt Targett" playerID="null" />
+<Player id="P19" spans="3312~3326" text="André Schürrle" playerID="null" />
+<Player id="P20" spans="3347~3354" text="Willian" playerID="null" />
+<Player id="P21" spans="3369~3376" text="Targett" playerID="null" />
+<Player id="P22" spans="3530~3538" text="Fàbregas" playerID="null" />
+<Player id="P23" spans="3692~3700" text="Fàbregas" playerID="null" />
+<Player id="P24" spans="3867~3875" text="Fàbregas" playerID="null" />
+<Player id="P25" spans="3909~3915" text="Hazard" playerID="null" />
+<Player id="P26" spans="4007~4013" text="Hazard" playerID="null" />
+<Player id="P27" spans="4111~4123" text="Maya Yoshida" playerID="null" />
+<Player id="P28" spans="4160~4177" text="Toby Alderweireld" playerID="null" />
+<Player id="P29" spans="4429~4440" text="Diego Costa" playerID="null" />
+<Player id="P30" spans="4506~4512" text="Hazard" playerID="null" />
+<Player id="P31" spans="4517~4525" text="Fàbregas" playerID="null" />
+<Player id="P32" spans="4527~4541" text="Fraser Forster" playerID="null" />
+<Player id="P33" spans="4662~4674" text="Alderweireld" playerID="null" />
+<Player id="P34" spans="4781~4788" text="Yoshida" playerID="null" />
+<Player id="P35" spans="4836~4842" text="Hazard" playerID="null" />
+<Player id="P36" spans="4874~4887" text="Didier Drogba" playerID="null" />
+<Player id="P37" spans="5030~5047" text="James Ward-Prowse" playerID="null" />
+<Player id="P38" spans="5036~5040" text="Ward" playerID="null" />
+<Player id="P39" spans="5135~5140" text="Costa" playerID="null" />
+<Player id="P40" spans="5231~5243" text="Schneiderlin" playerID="null" />
+<Player id="P41" spans="5254~5262" text="Fàbregas" playerID="null" />
+<Player id="P42" spans="5304~5310" text="Hazard" playerID="null" />
+<Player id="P43" spans="5380~5391" text="Eden Hazard" playerID="null" />
+<Player id="P44" spans="5426~5433" text="Forster" playerID="null" />
+<Player id="P45" spans="5435~5442" text="Yoshida" playerID="null" />
+<Player id="P46" spans="5444~5450" text="Gardos" playerID="null" />
+<Player id="P47" spans="5456~5461" text="Fonte" playerID="null" />
+<Player id="P48" spans="5463~5475" text="Alderweireld" playerID="null" />
+<Player id="P49" spans="5477~5484" text="Targett" playerID="null" />
+<Player id="P50" spans="5486~5493" text="Wanyama" playerID="null" />
+<Player id="P51" spans="5495~5507" text="Schneiderlin" playerID="null" />
+<Player id="P52" spans="5511~5516" text="Davis" playerID="null" />
+<Player id="P53" spans="5518~5522" text="Long" playerID="null" />
+<Player id="P54" spans="5528~5532" text="Mané" playerID="null" />
+<Player id="P55" spans="5534~5539" text="Tadic" playerID="null" />
+<Player id="P56" spans="5541~5545" text="Ward" playerID="null" />
+<Player id="P57" spans="5558~5563" text="Pellè" playerID="null" />
+<Player id="P58" spans="5581~5586" text="Davis" playerID="null" />
+<Player id="P59" spans="5588~5595" text="Isgrove" playerID="null" />
+<Player id="P60" spans="5597~5601" text="Reed" playerID="null" />
+<Player id="P61" spans="5603~5611" text="McCarthy" playerID="null" />
+<Player id="P62" spans="5622~5629" text="Yoshida" playerID="null" />
+<Player id="P63" spans="5631~5636" text="Pellè" playerID="null" />
+<Player id="P64" spans="5647~5659" text="Schneiderlin" playerID="null" />
+<Player id="P65" spans="5681~5689" text="Courtois" playerID="null" />
+<Player id="P66" spans="5691~5699" text="Ivanovic" playerID="null" />
+<Player id="P67" spans="5701~5707" text="Cahill" playerID="null" />
+<Player id="P68" spans="5709~5714" text="Terry" playerID="null" />
+<Player id="P69" spans="5722~5727" text="Matic" playerID="null" />
+<Player id="P70" spans="5729~5734" text="Mikel" playerID="null" />
+<Player id="P71" spans="5736~5742" text="Drogba" playerID="null" />
+<Player id="P72" spans="5748~5756" text="Schürrle" playerID="null" />
+<Player id="P73" spans="5758~5765" text="Willian" playerID="null" />
+<Player id="P74" spans="5771~5779" text="Fàbregas" playerID="null" />
+<Player id="P75" spans="5781~5787" text="Hazard" playerID="null" />
+<Player id="P76" spans="5789~5794" text="Costa" playerID="null" />
+<Player id="P77" spans="5796~5800" text="Rémy" playerID="null" />
+<Player id="P78" spans="5820~5824" text="Cech" playerID="null" />
+<Player id="P79" spans="5826~5831" text="Zouma" playerID="null" />
+<Player id="P80" spans="5833~5840" text="Ramires" playerID="null" />
+<Player id="P81" spans="5842~5853" text="Azpilicueta" playerID="null" />
+<Player id="P82" spans="5864~5869" text="Matic" playerID="null" />
+<Player id="P83" spans="5871~5879" text="Fàbregas" playerID="null" />
+<Player id="P84" spans="5892~5898" text="Taylor" playerID="null" />
+<Coref id="C0" spans="499~502" text="his" playerID="null" />
+<Coref id="C1" spans="1123~1126" text="his" playerID="null" />
+<Coref id="C2" spans="1198~1201" text="his" playerID="null" />
+<Coref id="C3" spans="1447~1450" text="his" playerID="null" />
+<Coref id="C4" spans="1556~1558" text="he" playerID="null" />
+<Coref id="C5" spans="1665~1667" text="he" playerID="null" />
+<Coref id="C6" spans="1682~1684" text="he" playerID="null" />
+<Coref id="C7" spans="1775~1778" text="his" playerID="null" />
+<Coref id="C8" spans="2237~2239" text="he" playerID="null" />
+<Coref id="C9" spans="3291~3294" text="his" playerID="null" />
+<Coref id="C10" spans="3446~3448" text="he" playerID="null" />
+<Coref id="C11" spans="3713~3716" text="his" playerID="null" />
+<Coref id="C12" spans="4035~4038" text="his" playerID="null" />
+<Coref id="C13" spans="4179~4181" text="He" playerID="null" />
+<Coref id="C14" spans="4243~4246" text="his" playerID="null" />
+<Coref id="C15" spans="4452~4455" text="his" playerID="null" />
+<Coref id="C16" spans="4642~4645" text="his" playerID="null" />
+<Coref id="C17" spans="4712~4714" text="he" playerID="null" />
+<Coref id="C18" spans="4919~4922" text="his" playerID="null" />
+<Coref id="C19" spans="4938~4940" text="he" playerID="null" />
+<Coref id="C20" spans="5146~5149" text="his" playerID="null" />
+<Coref id="C21" spans="5163~5165" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

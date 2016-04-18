@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/aug/18/burnley-chelsea-premier-league-match-report
+
+Burnley 1-3 Chelsea | Premier League match report
+
+
+It turned out to be a deception. Burnley had taken the lead and, briefly, their supporters must have dared wonder whether they would be talking about Scott Arfield’s goal in years to come with the fondness they reserve for Robbie Blake’s finest moment for the club. Then Chelsea snapped them out of their dreams, ruthlessly and brilliantly. It was pass-them-to-death football during that blitz of retaliatory strikes and, by the time they were done, José Mourinho’s team had left the team that came up from the Championship looking in need of smelling salts.
+ 
+Another side might have been badly affected by that early setback, in a strange environment, with an excitable home crowd. Mourinho’s players simply rolled up their sleeves and set about turning the game upside down. Diego Costa, on his first Premier League start, quickly settled them down with the equaliser. They took the lead four minutes later when André Schürrle finished off a wonderful exchange of passes and they were rampant by the time Branislav Ivanovic added the third. Cesc Fábregas was superb on his re-introduction to English football and there was a vibrancy to Chelsea’s attacking that was not always evident last season.
+ 
+Sean Dyche, the Burnley manager, talked later about a side “with a touch of arrogance”. He meant it as a compliment and Mourinho’s team could be excused for slacking off in the second half when the game was effectively over as a contest. Chelsea still left the clear impression that the arrival of Costa and, in particular, Fábregas had already improved them.
+ 
+Dyche can take a flicker of encouragement from the way the team he described as “the biggest underdogs in the history of the league” bared their teeth early on. Unfortunately for them, they also quickly discovered Chelsea are not a side to wilt the moment something goes wrong. “Emotionally we were not affected,” Mourinho said. “We never lost our composure.”
+ 
+Their response was a reminder to Burnley about the gulf between the sides they now have to face compared with last season. It was a blur of speed and movement and a lesson, too, about what can happen when a team built for £5m bumps into one with a valuation of £190m. Burnley are simply not accustomed to playing sides that move the ball this devastatingly.
+ 
+Chelsea’s equaliser came within four minutes when Ivanovic broke forward on the right. His low centre took a slight flick off Michael Duff and then went across the goalmouth before coming back off the post. From six yards Costa had his first chance of the evening. He was on the ball in a flash, scoring emphatically with his left foot.
+ 
+If that carried a touch of good fortune, the next goal left Chelsea’s opponents dizzy. Eden Hazard’s mazy run through the middle started the move. Ivanovic turned the ball into Fábregas and the former Arsenal and Barcelona player clipped a beautifully weighted pass into Schürrle’s path. Schürrle had anticipated what was coming and did not break stride as he stroked the ball past Tom Heaton.
+ 
+Burnley’s ordeal might have been worse but for the referee, Michael Oliver, deciding Costa had dived when he intercepted Ben Mee’s back-pass in front of Burnley’s goalkeeper. Costa looked appalled, as strikers always do in those moments, but it was only a passing irritation and within three minutes Fábregas had swung over a corner from the left for Ivanovic to volley in Chelsea’s third goal.
+ 
+For Burnley the first lesson must be that they cannot continue defending this obligingly. The tone was set in the fourth minute when the right-back Kieran Tripper underhit a pass to Heaton and the mistake almost led to Schürrle scoring. Mee was culpable for losing Ivanovic for his goal and Dyche, who talked afterwards about urgently needing to strengthen his squad, must have been startled by the frequency of their lapses.
+ 
+There are walls at Turf Moor lined with the match reports – “Fergie Tamed” – from that night, the last time they began a Premier League season, when Blake lashed the winning goal into the roof of Manchester United’s net. “Our Turf,” was the message in the claret and blue mosaic in the Jimmy McIlroy Stand and Arfield’s 14th-minute strike fleetingly raised the possibility of another shock. A free transfer from Huddersfield Town last year, Arfield had taken the goal brilliantly, firing through a crowded penalty area to beat the static Thibaut Courtois. After that, however, Burnley did not really test Courtois, on the night he took over from Petr Cech as Chelsea’s first-choice goalkeeper, until early in the second half when he palmed away another Arfield effort.
+ 
+Didier Drogba, back at the club where he fits best, came on as a second-half substitute and showed a glimpse of his old gifts, taking down Courtois’s long kick on his knee and volleying a shot just wide with his next touch. Majestic in the first half, comfortable in the second, Chelsea look like a team who mean business.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="295~308" text="Scott Arfield" playerID="101" />
+<Player id="P1" spans="923~934" text="Diego Costa" playerID="103" />
+<Player id="P2" spans="1060~1074" text="André Schürrle" playerID="104" />
+<Player id="P3" spans="1153~1171" text="Branislav Ivanovic" playerID="105" />
+<Player id="P4" spans="1646~1651" text="Costa" playerID="103" />
+<Player id="P5" spans="2482~2490" text="Ivanovic" playerID="105" />
+<Player id="P6" spans="2558~2570" text="Michael Duff" playerID="107" />
+<Player id="P7" spans="2654~2659" text="Costa" playerID="103" />
+<Player id="P8" spans="2858~2869" text="Eden Hazard" playerID="108" />
+<Player id="P9" spans="2918~2926" text="Ivanovic" playerID="105" />
+<Player id="P10" spans="3042~3050" text="Schürrle" playerID="109" />
+<Player id="P11" spans="3059~3067" text="Schürrle" playerID="109" />
+<Player id="P12" spans="3153~3163" text="Tom Heaton" playerID="110" />
+<Player id="P13" spans="3252~3257" text="Costa" playerID="103" />
+<Player id="P14" spans="3288~3295" text="Ben Mee" playerID="111" />
+<Player id="P15" spans="3342~3347" text="Costa" playerID="103" />
+<Player id="P16" spans="3518~3526" text="Ivanovic" playerID="105" />
+<Player id="P17" spans="3746~3752" text="Heaton" playerID="113" />
+<Player id="P18" spans="3783~3791" text="Schürrle" playerID="109" />
+<Player id="P19" spans="3801~3804" text="Mee" playerID="111" />
+<Player id="P20" spans="3829~3837" text="Ivanovic" playerID="105" />
+<Player id="P21" spans="4302~4309" text="Arfield" playerID="115" />
+<Player id="P22" spans="4433~4440" text="Arfield" playerID="115" />
+<Player id="P23" spans="4530~4546" text="Thibaut Courtois" playerID="116" />
+<Player id="P24" spans="4597~4605" text="Courtois" playerID="116" />
+<Player id="P25" spans="4638~4647" text="Petr Cech" playerID="117" />
+<Player id="P26" spans="4745~4752" text="Arfield" playerID="115" />
+<Player id="P27" spans="4763~4776" text="Didier Drogba" playerID="118" />
+<Player id="P28" spans="4902~4910" text="Courtois" playerID="116" />
+<Player id="P29" spans="368~380" text="Robbie Blake" playerID="102" />
+<Player id="P30" spans="1189~1202" text="Cesc Fábregas" playerID="106" />
+<Player id="P31" spans="1672~1680" text="Fábregas" playerID="106" />
+<Player id="P32" spans="2948~2956" text="Fábregas" playerID="106" />
+<Player id="P33" spans="3467~3475" text="Fábregas" playerID="106" />
+<Player id="P34" spans="3711~3726" text=" Kieran Tripper" playerID="112" />
+<Player id="P35" spans="3855~3860" text="Dyche" playerID="114" />
+<Player id="P36" spans="4141~4146" text="Blake" playerID="102" />
+<Coref id="C0" spans="939~942" text="his" playerID="103" />
+<Coref id="C1" spans="1217~1220" text="his" playerID="106" />
+<Coref id="C4" spans="2519~2522" text="His" playerID="105" />
+<Coref id="C5" spans="2664~2667" text="his" playerID="103" />
+<Coref id="C6" spans="2697~2699" text="He" playerID="103" />
+<Coref id="C7" spans="2754~2757" text="his" playerID="103" />
+<Coref id="C8" spans="3128~3130" text="he" playerID="109" />
+<Coref id="C9" spans="3273~3275" text="he" playerID="103" />
+<Coref id="C10" spans="3842~3845" text="his" playerID="105" />
+<Coref id="C11" spans="3921~3924" text="his" playerID="114" />
+<Coref id="C12" spans="4620~4622" text="he" playerID="116" />
+<Coref id="C13" spans="4722~4724" text="he" playerID="116" />
+<Coref id="C14" spans="4801~4803" text="he" playerID="118" />
+<Coref id="C15" spans="4875~4878" text="his" playerID="118" />
+<Coref id="C17" spans="4971~4974" text="his" playerID="118" />
+<Coref id="C18" spans="2961~3000" text="the former Arsenal and Barcelona player" playerID="106" />
+<Fact id="F0" spans="311~315" text="goal" time="last match" factID="1" type="goal" />
+<Fact id="F1" spans="1006~1015" text="equaliser" time="last match" factID="2" type="goal" />
+<Fact id="F2" spans="1112~1118" text="passes" time="last match" factID="3" type="pass" />
+<Fact id="F4" spans="1172~1187" text="added the third" time="last match" factID="4" type="goal" />
+<Fact id="F5" spans="2728~2735" text="scoring" time="last match" type="goal" factID="5" />
+<Fact id="F6" spans="2872~2880" text="mazy run" time="last match" factID="6" type="movement" />
+<Fact id="F7" spans="2927~2942" text="turned the ball" time="last match" type="assist" factID="7" />
+<Fact id="F8" spans="3032~3036" text="pass" time="last match" type="pass" factID="8" />
+<Fact id="F9" spans="3131~3163" text="stroked the ball past Tom Heaton" time="last match" factID="9" type="pass" />
+<Fact id="F10" spans="3262~3267" text="dived" time="last match" type="foul" factID="10" />
+<Fact id="F11" spans="3298~3307" text="back-pass" time="last match" type="pass" factID="11" />
+<Fact id="F12" spans="3480~3499" text="swung over a corner" time="last match" factID="12" type="assist" />
+<Fact id="F13" spans="3530~3560" text="volley in Chelsea’s third goal" time="last match" type="goal" factID="13" />
+<Fact id="F14" spans="3727~3742" text="underhit a pass" type="pass" factID="14" time="last match" />
+<Fact id="F15" spans="3846~3850" text="goal" time="last match" type="goal" factID="15" />
+<Fact id="F16" spans="4147~4170" text="lashed the winning goal" time="last match" factID="16" type="goal" />
+<Fact id="F17" spans="4324~4330" text="strike" time="last match" type="shot" factID="17" />
+<Fact id="F18" spans="4472~4510" text=" firing through a crowded penalty area" time="last match" factID="18" type="goal" />
+<Fact id="F19" spans="4823~4850" text="as a second-half substitute" time="last match" factID="19" type="substitute in" />
+<Fact id="F20" spans="4913~4922" text="long kick" time="last match" factID="20" type="pass" />
+<Fact id="F21" spans="4939~4955" text="volleying a shot" time="last match" factID="21" type="goal" />
+<Fact id="F22" spans="4975~4985" text="next touch" time="last match" type="shot" factID="22" />
+<Opinion id="O0" spans="342~350" text="fondness" reported="false" type="general attribute" polarity="+" time="last match" hypothetical="prediction" />
+<Opinion id="O1" spans="1090~1099" text="wonderful" time="last match" reported="false" polarity="+" hypothetical="prediction" type="general attribute" />
+<Opinion id="O2" spans="3809~3817" text="culpable" time="last match" reported="false" polarity="-" type="impact on team" hypothetical="prediction" />
+<Opinion id="O3" spans="4460~4471" text="brilliantly" time="last match" reported="false" polarity="+" hypothetical="counterfactive" type="accomplishment" />
+<Opinion id="O4" spans="4725~4736" text="palmed away" time="last match" reported="false" polarity="-" hypothetical="counterfactive" type="soccer skill" />
+<Opinion id="O5" spans="4879~4888" text="old gifts" time="last match" reported="false" type="soccer skill" polarity="+" hypothetical="counterfactive" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="goal" targetID="P0" targetText="Scott Arfield" />
+<TargetLink id="T1" fact_or_opinionID="O0" fact_or_opinionText="fondness" targetID="P29" targetText="Robbie Blake" />
+<TargetLink id="T2" fact_or_opinionID="F1" fact_or_opinionText="equaliser" targetID="C0" targetText="his" />
+<TargetLink id="T3" fact_or_opinionID="O1" fact_or_opinionText="wonderful" targetID="P2" targetText="André Schürrle" />
+<TargetLink id="T4" fact_or_opinionID="F2" fact_or_opinionText="passes" targetID="P2" targetText="André Schürrle" />
+<TargetLink id="T5" fact_or_opinionID="F4" fact_or_opinionText="added the third" targetID="P3" targetText="Branislav Ivanovic" />
+<TargetLink id="T6" fact_or_opinionID="F5" fact_or_opinionText="scoring" targetID="C6" targetText="He" />
+<TargetLink id="T7" fact_or_opinionID="F8" fact_or_opinionText="pass" targetID="C18" targetText="the former Arsenal and Barcelona player" />
+<TargetLink id="T8" fact_or_opinionID="F6" fact_or_opinionText="mazy run" targetID="P8" targetText="Eden Hazard" />
+<TargetLink id="T9" fact_or_opinionID="F7" fact_or_opinionText="turned the ball" targetID="P9" targetText="Ivanovic" />
+<TargetLink id="T10" fact_or_opinionID="F9" fact_or_opinionText="stroked the ball past Tom Heaton" targetID="C8" targetText="he" />
+<TargetLink id="T11" fact_or_opinionID="F10" fact_or_opinionText="dived" targetID="P13" targetText="Costa" />
+<TargetLink id="T12" fact_or_opinionID="F11" fact_or_opinionText="back-pass" targetID="P14" targetText="Ben Mee" />
+<TargetLink id="T13" fact_or_opinionID="F12" fact_or_opinionText="swung over a corner" targetID="P33" targetText="Fábregas" />
+<TargetLink id="T14" fact_or_opinionID="F13" fact_or_opinionText="volley in Chelsea’s third goal" targetID="P16" targetText="Ivanovic" />
+<TargetLink id="T15" fact_or_opinionID="O2" fact_or_opinionText="culpable" targetID="P19" targetText="Mee" />
+<TargetLink id="T16" fact_or_opinionID="F15" fact_or_opinionText="goal" targetID="C10" targetText="his" />
+<TargetLink id="T17" fact_or_opinionID="F16" fact_or_opinionText="lashed the winning goal" targetID="P36" targetText="Blake" />
+<TargetLink id="T18" fact_or_opinionID="F17" fact_or_opinionText="strike" targetID="P21" targetText="Arfield" />
+<TargetLink id="T19" fact_or_opinionID="O3" fact_or_opinionText="brilliantly" targetID="P22" targetText="Arfield" />
+<TargetLink id="T20" fact_or_opinionID="F18" fact_or_opinionText=" firing through a crowded penalty area" targetID="P22" targetText="Arfield" />
+<TargetLink id="T21" fact_or_opinionID="O4" fact_or_opinionText="palmed away" targetID="C13" targetText="he" />
+<TargetLink id="T22" fact_or_opinionID="O5" fact_or_opinionText="old gifts" targetID="C15" targetText="his" />
+<TargetLink id="T23" fact_or_opinionID="F19" fact_or_opinionText="as a second-half substitute" targetID="C14" targetText="he" />
+<TargetLink id="T24" fact_or_opinionID="F20" fact_or_opinionText="long kick" targetID="P28" targetText="Courtois" />
+<TargetLink id="T25" fact_or_opinionID="F21" fact_or_opinionText="volleying a shot" targetID="C15" targetText="his" />
+<TargetLink id="T26" fact_or_opinionID="F20" fact_or_opinionText="long kick" targetID="P28" targetText="Courtois" />
+<TargetLink id="T27" fact_or_opinionID="F22" fact_or_opinionText="next touch" targetID="C17" targetText="his" />
+</TAGS>
+</SoccEval1.2>

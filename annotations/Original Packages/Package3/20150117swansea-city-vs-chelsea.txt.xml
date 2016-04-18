@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/swansea-city-vs-chelsea/1703929
+
+Jan 17, 2015 11:50:00 AM
+
+The attackers score two goals apiece in the first half, while Andre Schurrle added to the margin of victory late.
+
+Diego Costa and Oscar both scored twice as Chelsea romped to a 5-0 Premier League victory over Swansea City on Saturday.
+A scintillating first-half display from Jose Mourinho's men saw them run riot at the Liberty Stadium, with four of the visitors' five goals coming before the break.
+
+Swansea was the architect of its own downfall at times, though, with Oscar profiting from a poor pass to open the scoring from 20 yards within the opening minute, and Costa opening his account with a composed finish. The striker added his second following a mistake from Federico Fernandez in the 34th minute, before he turned provider as Oscar made it four two minutes later.
+
+Chelsea coasted to victory in the second half, with Andre Schurrle rounding off the scoring from close range late.
+
+Victory sees Chelsea move five points clear at the top of the table — second-place Manchester City face Arsenal on Sunday — while Swansea remains in ninth after its heaviest defeat of the season.
+
+With Leon Britton sidelined by a groin injury, Swansea was forced to play Gylfi Sigurdsson in a deeper midfield role, and it cost the club almost instantly. The Iceland international played a loose pass inside his own half that ricocheted off Tom Carroll to Oscar — the Brazilian punishing the mistake with a low drive from the edge of the penalty area.
+
+Sigurdsson immediately came close to atoning for his error with a long-range effort that clipped the post on its way wide, but Swansea should have been further behind when Willian blazed over after 12 minutes.
+
+Mourinho's side was in total control and, after Eden Hazard saw a low shot saved, the Blues doubled their lead as Costa applied the finishing touch to a flowing move. Oscar, Willian and Cesc Fabregas exchanged passes on the edge of the penalty area before the latter played in his Spain teammate, and he emphatically fired beyond goalkeeper Lukasz Fabianski.
+
+Another two goals arrived before the break as Chelsea punished some more slack Swansea defending, the first coming when Costa pounced on Fernandez's weak back pass and the second — Chelsea's fourth — going in two minutes later.
+
+Willian powered through the Swansea midfield before finding Costa, whose cutback found Oscar — and the playmaker fired high into Fabianski's goal.
+
+There was still time for Willian to hit the crossbar before the break, but it mattered little to Chelsea, which threatened again early in the second half with Fabregas wasting a close-range effort.
+
+After such a disastrous first half, things began to improve for Swansea as its pass-and-move football returned, but Chelsea's defense comfortably kept the home side at bay.
+
+Patient play was the name of the game for the visitors and, after another period of possession, the ball fell to Hazard in the 71st minute, the Belgian unleashing a powerful shot that Fabianski was able to push away.
+
+Substitute Schurrle added gloss to Chelsea's win with the fifth goal in the 79th minute, the Germany international ghosting into the penalty area to convert Branislav Ivanovic's low cross and seal an emphatic win.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="154~168" text="Andre Schurrle" playerID="null" />
+<Player id="P1" spans="207~218" text="Diego Costa" playerID="null" />
+<Player id="P2" spans="223~228" text="Oscar" playerID="null" />
+<Player id="P3" spans="563~568" text="Oscar" playerID="null" />
+<Player id="P4" spans="661~666" text="Costa" playerID="null" />
+<Player id="P5" spans="765~783" text="Federico Fernandez" playerID="null" />
+<Player id="P6" spans="833~838" text="Oscar" playerID="null" />
+<Player id="P7" spans="924~938" text="Andre Schurrle" playerID="null" />
+<Player id="P8" spans="1190~1202" text="Leon Britton" playerID="null" />
+<Player id="P9" spans="1259~1275" text="Gylfi Sigurdsson" playerID="null" />
+<Player id="P10" spans="1428~1439" text="Tom Carroll" playerID="null" />
+<Player id="P11" spans="1432~1439" text="Carroll" playerID="null" />
+<Player id="P12" spans="1443~1448" text="Oscar" playerID="null" />
+<Player id="P13" spans="1540~1550" text="Sigurdsson" playerID="null" />
+<Player id="P14" spans="1712~1719" text="Willian" playerID="null" />
+<Player id="P15" spans="1799~1810" text="Eden Hazard" playerID="null" />
+<Player id="P16" spans="1865~1870" text="Costa" playerID="null" />
+<Player id="P17" spans="1918~1923" text="Oscar" playerID="null" />
+<Player id="P18" spans="1925~1932" text="Willian" playerID="null" />
+<Player id="P19" spans="1937~1950" text="Cesc Fabregas" playerID="null" />
+<Player id="P20" spans="2092~2108" text="Lukasz Fabianski" playerID="null" />
+<Player id="P21" spans="2231~2236" text="Costa" playerID="null" />
+<Player id="P22" spans="2248~2257" text="Fernandez" playerID="null" />
+<Player id="P23" spans="2340~2347" text="Willian" playerID="null" />
+<Player id="P24" spans="2400~2405" text="Costa" playerID="null" />
+<Player id="P25" spans="2427~2432" text="Oscar" playerID="null" />
+<Player id="P26" spans="2469~2478" text="Fabianski" playerID="null" />
+<Player id="P27" spans="2513~2520" text="Willian" playerID="null" />
+<Player id="P28" spans="2647~2655" text="Fabregas" playerID="null" />
+<Player id="P29" spans="2974~2980" text="Hazard" playerID="null" />
+<Player id="P30" spans="3045~3054" text="Fabianski" playerID="null" />
+<Player id="P31" spans="3090~3098" text="Schurrle" playerID="null" />
+<Player id="P32" spans="3236~3254" text="Branislav Ivanovic" playerID="null" />
+<Coref id="C0" spans="675~678" text="his" playerID="null" />
+<Coref id="C1" spans="729~732" text="his" playerID="null" />
+<Coref id="C2" spans="811~813" text="he" playerID="null" />
+<Coref id="C3" spans="1395~1398" text="his" playerID="null" />
+<Coref id="C4" spans="1589~1592" text="his" playerID="null" />
+<Coref id="C5" spans="2028~2031" text="his" playerID="null" />
+<Coref id="C6" spans="2052~2054" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

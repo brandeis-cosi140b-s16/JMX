@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/west-ham-united-vs-chelsea/1704045
+
+Mar 4, 2015 4:52:51 PM
+
+Eden Hazard's goal was all League Cup winner Chelsea needed to beat London rival West Ham in the Premier League on Wednesday.
+
+Chelsea followed up its League Cup triumph over Tottenham with another London derby victory on Wednesday, beating West Ham 1-0 as its assault on the Premier League title continued.
+
+The top-flight leader tasted Wembley joy at the weekend and Eden Hazard's first-half header proved enough to cap a winning return to league action, with Jose Mourinho's side staying five points ahead of Manchester City.
+
+Chelsea led 1-0 at the break thanks to Hazard's close-range header, although West Ham should have been level before the interval with Diafra Sakho nodding straight at Thibaut Courtois.
+
+Hazard impressed throughout and twice in the second half laid on great chances for Ramires, who was denied a goal by the frame of the post and a fine stop from Adrian.
+
+The result increases the pressure on West Ham boss Sam Allardyce, who saw his side's winless run in the league stretched to six matches, leaving the Hammers in 10th place.
+
+West Ham, which saw Winston Reid limp off in the eighth minute to be replaced by James Collins, gradually gained a foothold and Courtois - one of two changes from the League Cup final for the visitor - was quick off his line to deny Kevin Nolan after he was slipped in by Mark Noble. 
+
+But it was Mourinho's side which seized the advantage in the 22nd minute. Hazard's pass to Cesc Fabregas was worked right to Ramires and his cross picked out the unmarked Belgium international to nod home from six yards.
+
+Chelsea had the chance to make it 2-0 when Hazard sent Costa free in a swift breakaway, but the striker dawdled on the ball and allowed Carl Jenkinson to make a fine tackle.
+
+Jenkinson was then involved at the other end as his pinpoint cross found Sakho in space just six yards out, but his header was too close to Courtois and an excellent chance went begging.
+
+The hosts started the second half with positive intent and two dangerous Stewart Downing crosses caused confusion in Chelsea's defense.
+
+Chelsea reasserted control from thereon and the excellent Hazard played Ramires in behind the defense. The midfielder cut inside Collins before rolling his shot against the left-hand post.
+
+At the other end Gary Cahill made an excellent challenge to deny Sahko after Courtois spilled Enner Valencia's tame effort.
+
+Both teams saw penalty shouts dismissed by referee Andre Marriner in the closing stages. First Branislav Ivanovic felt Collins had handled his shot in the area, before West Ham substitute Nene was denied a similar claim against Cahill.
+
+It appeared as though substitute Willian would add a second for Chelsea in stoppage time, only for Aaron Cresswell to block his shot on the line - and that proved the last meaningful action as West Ham failed to score against Chelsea in the league for the fifth game running.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="93~104" text="Eden Hazard" playerID="null" />
+<Player id="P1" spans="462~473" text="Eden Hazard" playerID="null" />
+<Player id="P2" spans="662~668" text="Hazard" playerID="null" />
+<Player id="P3" spans="757~769" text="Diafra Sakho" playerID="null" />
+<Player id="P4" spans="764~769" text="Sakho" playerID="null" />
+<Player id="P5" spans="790~806" text="Thibaut Courtois" playerID="null" />
+<Player id="P6" spans="809~815" text="Hazard" playerID="null" />
+<Player id="P7" spans="892~899" text="Ramires" playerID="null" />
+<Player id="P8" spans="969~975" text="Adrian" playerID="null" />
+<Player id="P9" spans="1171~1183" text="Winston Reid" playerID="null" />
+<Player id="P10" spans="1232~1245" text="James Collins" playerID="null" />
+<Player id="P11" spans="1279~1287" text="Courtois" playerID="null" />
+<Player id="P12" spans="1384~1395" text="Kevin Nolan" playerID="null" />
+<Player id="P13" spans="1423~1433" text="Mark Noble" playerID="null" />
+<Player id="P14" spans="1511~1517" text="Hazard" playerID="null" />
+<Player id="P15" spans="1528~1541" text="Cesc Fabregas" playerID="null" />
+<Player id="P16" spans="1562~1569" text="Ramires" playerID="null" />
+<Player id="P17" spans="1702~1708" text="Hazard" playerID="null" />
+<Player id="P18" spans="1714~1719" text="Costa" playerID="null" />
+<Player id="P19" spans="1795~1809" text="Carl Jenkinson" playerID="null" />
+<Player id="P20" spans="1834~1843" text="Jenkinson" playerID="null" />
+<Player id="P21" spans="1907~1912" text="Sakho" playerID="null" />
+<Player id="P22" spans="1974~1982" text="Courtois" playerID="null" />
+<Player id="P23" spans="2095~2110" text="Stewart Downing" playerID="null" />
+<Player id="P24" spans="2217~2223" text="Hazard" playerID="null" />
+<Player id="P25" spans="2231~2238" text="Ramires" playerID="null" />
+<Player id="P26" spans="2288~2295" text="Collins" playerID="null" />
+<Player id="P27" spans="2366~2377" text="Gary Cahill" playerID="null" />
+<Player id="P28" spans="2426~2434" text="Courtois" playerID="null" />
+<Player id="P29" spans="2443~2457" text="Enner Valencia" playerID="null" />
+<Player id="P30" spans="2569~2587" text="Branislav Ivanovic" playerID="null" />
+<Player id="P31" spans="2593~2600" text="Collins" playerID="null" />
+<Player id="P32" spans="2662~2666" text="Nene" playerID="null" />
+<Player id="P33" spans="2702~2708" text="Cahill" playerID="null" />
+<Player id="P34" spans="2744~2751" text="Willian" playerID="null" />
+<Player id="P35" spans="2810~2825" text="Aaron Cresswell" playerID="null" />
+<Coref id="C0" spans="1052~1055" text="his" playerID="null" />
+<Coref id="C1" spans="1367~1370" text="his" playerID="null" />
+<Coref id="C2" spans="1402~1404" text="he" playerID="null" />
+<Coref id="C3" spans="1574~1577" text="his" playerID="null" />
+<Coref id="C4" spans="1882~1885" text="his" playerID="null" />
+<Coref id="C5" spans="1946~1949" text="his" playerID="null" />
+<Coref id="C6" spans="2311~2314" text="his" playerID="null" />
+<Coref id="C7" spans="2613~2616" text="his" playerID="null" />
+<Coref id="C8" spans="2835~2838" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

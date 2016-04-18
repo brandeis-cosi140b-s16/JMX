@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/hull-city-vs-chelsea/1704077
+
+Mar 22, 2015 2:11:32 PM
+
+Substitute Loic Remy scored with his first touch as Chelsea beat Hull City 3-2 after Steve Bruce's side had mounted a fightback.
+
+Loic Remy spared Thibaut Courtois' blushes by coming off the bench to score the winner as Chelsea beat Hull City 3-2 to move six points clear at the top of the Premier League.
+
+Chelsea raced into a two-goal lead at the KC Stadium on Sunday courtesy of classy finishes from Eden Hazard and Diego Costa inside nine minutes. Jose Mourinho's men were far from their best, though, and Hull took advantage as Ahmed Elmohamady pulled a goal back, then just 74 seconds later Courtois tried to be too clever with a Branislav Ivanovic back pass and allowed Abel Hernandez to slot in his first goal since October.
+
+A stunning triple save from Courtois went some way to repaying his teammates as the hosts continued to press forward. But Remy had the final say with his first touch after replacing Costa, and it was a moment to forget for Allan McGregor, as the striker's tame shot squirmed through his legs and into the net.
+
+Victory for the London club ensured that it heads into the international break in command of the title race - the Blues still have a game in hand over second-placed Manchester City - while Hull remains just three points above the relegation zone.
+
+Hazard scored a stunning goal at Hull last season and he took less than two minutes to hit another sublime effort, latching onto Costa's lay-off and surging forward before letting fly with his left foot to find the far corner with a classy 20-yard finish.
+
+Hernandez was wasteful when one-on-one soon after, and Hull was punished in the ninth minute as Cesc Fabregas picked out Costa and the Spain striker cut in from the left before picking his spot inside the far post in measured style.
+
+Hull retained a threat going forward, though, and the home side stunned Chelsea by scoring twice in a little more than a minute to draw level.
+
+Elmohamady gave Steve Bruce's men hope when he arrived at the back post to convert Andy Robertson's teasing cross after the left-back beat Ivanovic far too easily 26 minutes in. Hull fans had barely finished celebrating when Courtois inexplicably lost control of the ball to gift the grateful Hernandez a tap-in.
+
+Perhaps with harsh words from Mourinho ringing in the players' ears, Chelsea made a bright start to the second half, with Fabregas shooting just wide following a slick move.
+
+Courtois redeemed himself by denying Elmohamady as well as powerful strikes from Jake Livermore and Gaston Ramirez following up as Chelsea continued to look vulnerable at the back.
+
+Costa, who moved level on 19 goals with Harry Kane in the race for the Premier League golden boot, was withdrawn clutching his hamstring 15 minutes from time but his replacement Remy won it almost immediately.
+
+Willian crossed for the former QPR man, whose left-footed effort should have been dealt with by McGregor but the Hull keeper allowed the ball to creep past him, keeping Bruce's side firmly in the battle at the bottom and tightening Chelsea's grip on top spot.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="99~108" text="Loic Remy" playerID="null" />
+<Player id="P1" spans="179~184" text="Bruce" playerID="null" />
+<Player id="P2" spans="218~227" text="Loic Remy" playerID="null" />
+<Player id="P3" spans="235~251" text="Thibaut Courtois" playerID="null" />
+<Player id="P4" spans="491~502" text="Eden Hazard" playerID="null" />
+<Player id="P5" spans="507~518" text="Diego Costa" playerID="null" />
+<Player id="P6" spans="621~637" text="Ahmed Elmohamady" playerID="null" />
+<Player id="P7" spans="685~693" text="Courtois" playerID="null" />
+<Player id="P8" spans="724~742" text="Branislav Ivanovic" playerID="null" />
+<Player id="P9" spans="765~779" text="Abel Hernandez" playerID="null" />
+<Player id="P10" spans="850~858" text="Courtois" playerID="null" />
+<Player id="P11" spans="944~948" text="Remy" playerID="null" />
+<Player id="P12" spans="1004~1009" text="Costa" playerID="null" />
+<Player id="P13" spans="1045~1059" text="Allan McGregor" playerID="null" />
+<Player id="P14" spans="1381~1387" text="Hazard" playerID="null" />
+<Player id="P15" spans="1510~1515" text="Costa" playerID="null" />
+<Player id="P16" spans="1638~1647" text="Hernandez" playerID="null" />
+<Player id="P17" spans="1734~1747" text="Cesc Fabregas" playerID="null" />
+<Player id="P18" spans="1759~1764" text="Costa" playerID="null" />
+<Player id="P19" spans="2016~2026" text="Elmohamady" playerID="null" />
+<Player id="P20" spans="2038~2043" text="Bruce" playerID="null" />
+<Player id="P21" spans="2104~2113" text="Robertson" playerID="null" />
+<Player id="P22" spans="2155~2163" text="Ivanovic" playerID="null" />
+<Player id="P23" spans="2241~2249" text="Courtois" playerID="null" />
+<Player id="P24" spans="2309~2318" text="Hernandez" playerID="null" />
+<Player id="P25" spans="2452~2460" text="Fabregas" playerID="null" />
+<Player id="P26" spans="2505~2513" text="Courtois" playerID="null" />
+<Player id="P27" spans="2542~2552" text="Elmohamady" playerID="null" />
+<Player id="P28" spans="2586~2600" text="Jake Livermore" playerID="null" />
+<Player id="P29" spans="2605~2619" text="Gaston Ramirez" playerID="null" />
+<Player id="P30" spans="2687~2692" text="Costa" playerID="null" />
+<Player id="P31" spans="2727~2737" text="Harry Kane" playerID="null" />
+<Player id="P32" spans="2865~2869" text="Remy" playerID="null" />
+<Player id="P33" spans="2898~2905" text="Willian" playerID="null" />
+<Player id="P34" spans="2994~3002" text="McGregor" playerID="null" />
+<Player id="P35" spans="3067~3072" text="Bruce" playerID="null" />
+<Coref id="C0" spans="121~124" text="his" playerID="null" />
+<Coref id="C1" spans="791~794" text="his" playerID="null" />
+<Coref id="C2" spans="885~888" text="his" playerID="null" />
+<Coref id="C3" spans="972~975" text="his" playerID="null" />
+<Coref id="C4" spans="1105~1108" text="his" playerID="null" />
+<Coref id="C5" spans="1435~1437" text="he" playerID="null" />
+<Coref id="C6" spans="1570~1573" text="his" playerID="null" />
+<Coref id="C7" spans="1823~1826" text="his" playerID="null" />
+<Coref id="C8" spans="2060~2062" text="he" playerID="null" />
+<Coref id="C9" spans="2810~2813" text="his" playerID="null" />
+<Coref id="C10" spans="2849~2852" text="his" playerID="null" />
+</TAGS>
+</SoccEval1.2>

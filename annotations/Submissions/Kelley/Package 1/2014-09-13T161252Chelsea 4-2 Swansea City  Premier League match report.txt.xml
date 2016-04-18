@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/13/chelsea-swansea-city-premier-league-match-report
+
+Chelsea 4-2 Swansea City | Premier League match report
+
+
+The days of big-money Chelsea strikers arriving cursed appear to be over. Where forwards from Chris Sutton to Fernando Torres via Andriy Shevchenko had once toiled, weighed down by oppressive transfer fees and associated expectations, Diego Costa’s staggering introduction to life in the Premier League is merely maintained. This hat-trick ensured his side’s perfect record was extended at the expense of that of Swansea’s, despite the forward having been hampered by a hamstring strain in the build-up to this game. Already it feels as if his limps, like those of Gordon Greenidge, are far more likely to leave opponents wincing.
+ 
+This was a devastating display, a demonstration of strength and predatory finishing to confirm this team has upgraded significantly from last term’s inconsistent front-line. There was a powerful header forced through bodies in a packed penalty area, a side-footed finish swept beyond Lukasz Fabianski after a fine rat-a-tat build-up exchange between team-mates, and a smartly accepted third from Ramires’s scuffed shot.
+ 
+Costa retreated 18 minutes from time having now scored seven times in four league appearances, from 14 shots, for his new club. Torres took 43 games to register that many. The only other player to have scored in his first four games for Chelsea was Jack Meredith back in 1928, and he managed only two more thereafter. Costa’s stay should prove more productive.
+ 
+Just as encouraging is his almost telepathic relationship with Cesc Fàbregas, who grew into this game once team-mates had flocked to his aid in the middle, with the arrival from Barcelona adding another two assists – he now has six this season – to his own productive start to life in these parts. The way he combined with the excellent Eden Hazard 11 minutes after the interval, waiting for Ashley Williams to commit before pulling back for Costa to finish, was a reminder of true quality.
+ 
+Roman Abramovich, up in his executive box, spent most of the second half on his feet cooing at his players’ flowing moves. He even had a debut goal from the substitute Loïc Rémy, to celebrate before the end as this occasion, initially so awkward, degenerated into a thrashing.
+ 
+José Mourinho will have rejoiced in his side’s new-found bite in front of goal, their counterattacks brutally executed at times, though he will have taken as much heart from his players’ ability to recover from a sloppy, becalmed opening. This ended as much a show of character against slick, confident opponents as a demonstration of strength.
+ 
+Swansea had initially outnumbered their hosts in midfield, from where Ki Sung-yueng dictated much of the first half, and had deservedly led through a John Terry own goal converted from Neil Taylor’s skimmed centre. Garry Monk described his team’s play in that period as “some of the best we’ve ever played against this quality of team”. That was no exaggeration, so assured was their approach and incisive their forays forward.
+ 
+Bafétimbi Gomis and Wayne Routledge might have doubled their lead, the winger curling agonisingly wide with Thibaut Courtois beaten. But having been spared further damage, the hosts eventually adapted, recovered and were rewarded. The trio of forwards stationed behind Costa tracked back to stifle Ki’s distribution at source and the aggressive running of Gylfi Sigurdsson and Jonjo Shelvey was smothered.
+ 
+Fàbregas, initially out-muscled and overpowered, duly imposed his own qualities on the contest. It was his corner Costa converted beyond Fabianski, Jordi Amat having been preoccupied attempting to unnerve Branislav Ivanovic in the six-yard box.
+ 
+That equaliser was timely, coming just before the interval, with Ramires’s introduction for the ineffective André Schürrle ensuring the hosts ripped the momentum back for good. They pressed with renewed vigour and Costa’s plunder took over, the hosts’ strength holding sway. The forward’s finishing was assured, Rémy’s immediate impact having replaced the scorer of the hat-trick adding to the locals’ sense of glee. Didier Drogba, nursing an ankle injury, was not missed.
+ 
+“We made changes and were too strong for them in the end,” said Mourinho. “We changed everything at half-time and, with the intensity we showed in that second half, they could not compete. We could give to the stadium what the crowd were waiting for: a win secured in a beautiful way.”
+ 
+Shelvey still exploited some defensive vulnerability late on to claw back a consolation – Swansea did not deserve to feel scorched – but Chelsea, just as they had at Everton in their previous fixture, are confident they can out-gun all-comers. “You saw the power and quality Chelsea have in that second half,” Monk said. “I think they’ll be champions.”
+ 
+Manchester City, five points adrift of the early leaders, will test that theory at the Etihad on 21 September though, for now, Costa and Co are irrepressible.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P21" spans="3391~3396" text="Costa" playerID="1" />
+<Player id="P20" spans="3230~3246" text="Thibaut Courtois" playerID="9" />
+<Player id="P23" spans="3478~3494" text="Gylfi Sigurdsson" playerID="11" />
+<Player id="P22" spans="3420~3422" text="Ki" playerID="10" />
+<Player id="P25" spans="3530~3538" text="Fàbregas" playerID="4" />
+<Player id="P24" spans="3499~3512" text="Jonjo Shelvey" playerID="12" />
+<Player id="P27" spans="3667~3676" text="Fabianski" playerID="2" />
+<Player id="P26" spans="3644~3649" text="Costa" playerID="1" />
+<Player id="P29" spans="3735~3753" text="Branislav Ivanovic" playerID="14" />
+<Player id="P28" spans="3678~3688" text="Jordi Amat" playerID="13" />
+<Player id="P30" spans="3842~3849" text="Ramires" playerID="3" />
+<Player id="P32" spans="3991~3996" text="Costa" playerID="1" />
+<Player id="P31" spans="3885~3899" text="André Schürrle" playerID="15" />
+<Player id="P34" spans="4194~4207" text="Didier Drogba" playerID="16" />
+<Player id="P33" spans="4089~4093" text="Rémy" playerID="7" />
+<Player id="P36" spans="5022~5027" text="Costa" playerID="1" />
+<Player id="P35" spans="4540~4547" text="Shelvey" playerID="12" />
+<Player id="P38" spans="3122~3137" text="Bafétimbi Gomis" playerID="17" />
+<Player id="P37" spans="2762~2775" text="Ki Sung-yueng" playerID="10" />
+<Player id="P2" spans="390~401" text="Diego Costa" playerID="1" />
+<Player id="P3" spans="1072~1088" text="Lukasz Fabianski" playerID="2" />
+<Player id="P4" spans="1184~1191" text="Ramires" playerID="3" />
+<Player id="P5" spans="1210~1215" text="Costa" playerID="1" />
+<Player id="P7" spans="1528~1533" text="Costa" playerID="1" />
+<Player id="P8" spans="1636~1649" text="Cesc Fàbregas" playerID="4" />
+<Player id="P9" spans="1910~1921" text="Eden Hazard" playerID="5" />
+<Player id="P10" spans="1965~1980" text="Ashley Williams" playerID="6" />
+<Player id="P12" spans="2015~2020" text="Costa" playerID="1" />
+<Player id="P13" spans="2234~2243" text="Loïc Rémy" playerID="7" />
+<Player id="P19" spans="3142~3157" text="Wayne Routledge" playerID="8" />
+<Coref id="C19" spans="3633~3636" text="his" playerID="4" />
+<Coref id="C21" spans="1734~1760" text="the arrival from Barcelona" playerID="1" />
+<Coref id="C23" spans="3189~3199" text="the winger" playerID="8" />
+<Coref id="C0" spans="503~506" text="his" playerID="1" />
+<Coref id="C2" spans="1324~1327" text="his" playerID="1" />
+<Coref id="C5" spans="1596~1599" text="his" playerID="1" />
+<Coref id="C6" spans="1706~1709" text="his" playerID="4" />
+<Coref id="C7" spans="1790~1792" text="he" playerID="1" />
+<Coref id="C9" spans="1879~1881" text="he" playerID="1" />
+<Fact id="F0" spans="1761~1787" text="adding another two assists" time="last match" type="assist" factID="1" />
+<Fact id="F1" spans="1790~1816" text="he now has six this season" type="assist" time="current season" factID="2" />
+<Fact id="F2" spans="2203~2213" text="debut goal" type="goal" time="last match" factID="3" />
+<Fact id="F3" spans="3200~3253" text="curling agonisingly wide with Thibaut Courtois beaten" time="last match" type="shot" factID="4" />
+<Fact id="F4" spans="3650~3773" text="converted beyond Fabianski, Jordi Amat having been preoccupied attempting to unnerve Branislav Ivanovic in the six-yard box" time="last match" type="goal" factID="5" />
+<Opinion id="O11" spans="3584~3624" text="imposed his own qualities on the contest" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O10" spans="3566~3577" text="overpowered" time="last match" reported="false" type="general attribute" polarity="-" />
+<Opinion id="O13" spans="4554~4627" text="exploited some defensive vulnerability late on to claw back a consolation" time="last match" reported="false" type="accomplishment" polarity="+" />
+<Opinion id="O0" spans="404~478" text="staggering introduction to life in the Premier League is merely maintained" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O1" spans="480~577" text="This hat-trick ensured his side’s perfect record was extended at the expense of that of Swansea’s" time="last match" reported="false" type="impact on team" polarity="+" />
+<Opinion id="O2" spans="1536~1569" text="stay should prove more productive" time="last match" reported="false" type="impact on team" polarity="+" />
+<Opinion id="O3" spans="1573~1649" text="Just as encouraging is his almost telepathic relationship with Cesc Fàbregas" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O4" spans="1651~1727" text="who grew into this game once team-mates had flocked to his aid in the middle" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O6" spans="1871~2063" text="The way he combined with the excellent Eden Hazard 11 minutes after the interval, waiting for Ashley Williams to commit before pulling back for Costa to finish, was a reminder of true quality." time="last match" reported="false" type="soccer skill" polarity="+" />
+<Opinion id="O7" spans="2776~2807" text="dictated much of the first half" time="last match" reported="false" type="soccer skill" polarity="+" />
+<Opinion id="O8" spans="3158~3187" text="might have doubled their lead" type="other opinion" polarity="+" time="last match" hypothetical="counterfactive" reported="false" />
+<Opinion id="O9" spans="3550~3561" text="out-muscled" time="last match" reported="false" type="general attribute" polarity="-" />
+<TargetLink id="T4" fact-opinionID="O4" fact-opinionText="who grew into this game once team-mates had flocked to his aid in the middle" targetID="P8" targetText="Cesc Fàbregas" />
+<TargetLink id="T5" fact-opinionID="F0" fact-opinionText="adding another two assists" targetID="C21" targetText="the arrival from Barcelona" />
+<TargetLink id="T7" fact-opinionID="F1" fact-opinionText="he now has six this season" targetID="C7" targetText="he" />
+<TargetLink id="T8" fact-opinionID="O6" fact-opinionText="The way he combined with the excellent Eden Hazard 11 minutes after the interval, waiting for Ashley Williams to commit before pulling back for Costa to finish, was a reminder of true quality." targetID="C9" targetText="he" />
+<TargetLink id="T9" fact-opinionID="F2" fact-opinionText="debut goal" targetID="P13" targetText="Loïc Rémy" />
+<TargetLink id="T10" fact-opinionID="O7" fact-opinionText="dictated much of the first half" targetID="P37" targetText="Ki Sung-yueng" />
+<TargetLink id="T12" fact-opinionID="O8" fact-opinionText="might have doubled their lead" targetID="P19" targetText="Wayne Routledge" />
+<TargetLink id="T11" fact-opinionID="F3" fact-opinionText="curling agonisingly wide with Thibaut Courtois beaten" targetID="C23" targetText="the winger" />
+<TargetLink id="T14" fact-opinionID="O11" fact-opinionText="imposed his own qualities on the contest" targetID="P25" targetText="Fàbregas" />
+<TargetLink id="T13" fact-opinionID="O8" fact-opinionText="might have doubled their lead" targetID="P38" targetText="Bafétimbi Gomis" />
+<TargetLink id="T16" fact-opinionID="O9" fact-opinionText="out-muscled" targetID="P25" targetText="Fàbregas" />
+<TargetLink id="T15" fact-opinionID="O10" fact-opinionText="overpowered" targetID="P25" targetText="Fàbregas" />
+<TargetLink id="T18" fact-opinionID="F4" fact-opinionText="converted beyond Fabianski, Jordi Amat having been preoccupied attempting to unnerve Branislav Ivanovic in the six-yard box" targetID="P26" targetText="Costa" />
+<TargetLink id="T17" fact-opinionID="O13" fact-opinionText="exploited some defensive vulnerability late on to claw back a consolation" targetID="P35" targetText="Shelvey" />
+<TargetLink id="T0" fact-opinionID="O1" fact-opinionText="This hat-trick ensured his side’s perfect record was extended at the expense of that of Swansea’s" targetID="P2" targetText="Diego Costa" />
+<TargetLink id="T1" fact-opinionID="O0" fact-opinionText="staggering introduction to life in the Premier League is merely maintained" targetID="P2" targetText="Diego Costa" />
+<TargetLink id="T2" fact-opinionID="O2" fact-opinionText="stay should prove more productive" targetID="P7" targetText="Costa" />
+<TargetLink id="T3" fact-opinionID="O3" fact-opinionText="Just as encouraging is his almost telepathic relationship with Cesc Fàbregas" targetID="C5" targetText="his" />
+</TAGS>
+</SoccEval1.2>

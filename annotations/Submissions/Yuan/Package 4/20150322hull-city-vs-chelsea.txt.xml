@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/hull-city-vs-chelsea/1704077
+
+Mar 22, 2015 2:11:32 PM
+
+Substitute Loic Remy scored with his first touch as Chelsea beat Hull City 3-2 after Steve Bruce's side had mounted a fightback.
+
+Loic Remy spared Thibaut Courtois' blushes by coming off the bench to score the winner as Chelsea beat Hull City 3-2 to move six points clear at the top of the Premier League.
+
+Chelsea raced into a two-goal lead at the KC Stadium on Sunday courtesy of classy finishes from Eden Hazard and Diego Costa inside nine minutes. Jose Mourinho's men were far from their best, though, and Hull took advantage as Ahmed Elmohamady pulled a goal back, then just 74 seconds later Courtois tried to be too clever with a Branislav Ivanovic back pass and allowed Abel Hernandez to slot in his first goal since October.
+
+A stunning triple save from Courtois went some way to repaying his teammates as the hosts continued to press forward. But Remy had the final say with his first touch after replacing Costa, and it was a moment to forget for Allan McGregor, as the striker's tame shot squirmed through his legs and into the net.
+
+Victory for the London club ensured that it heads into the international break in command of the title race - the Blues still have a game in hand over second-placed Manchester City - while Hull remains just three points above the relegation zone.
+
+Hazard scored a stunning goal at Hull last season and he took less than two minutes to hit another sublime effort, latching onto Costa's lay-off and surging forward before letting fly with his left foot to find the far corner with a classy 20-yard finish.
+
+Hernandez was wasteful when one-on-one soon after, and Hull was punished in the ninth minute as Cesc Fabregas picked out Costa and the Spain striker cut in from the left before picking his spot inside the far post in measured style.
+
+Hull retained a threat going forward, though, and the home side stunned Chelsea by scoring twice in a little more than a minute to draw level.
+
+Elmohamady gave Steve Bruce's men hope when he arrived at the back post to convert Andy Robertson's teasing cross after the left-back beat Ivanovic far too easily 26 minutes in. Hull fans had barely finished celebrating when Courtois inexplicably lost control of the ball to gift the grateful Hernandez a tap-in.
+
+Perhaps with harsh words from Mourinho ringing in the players' ears, Chelsea made a bright start to the second half, with Fabregas shooting just wide following a slick move.
+
+Courtois redeemed himself by denying Elmohamady as well as powerful strikes from Jake Livermore and Gaston Ramirez following up as Chelsea continued to look vulnerable at the back.
+
+Costa, who moved level on 19 goals with Harry Kane in the race for the Premier League golden boot, was withdrawn clutching his hamstring 15 minutes from time but his replacement Remy won it almost immediately.
+
+Willian crossed for the former QPR man, whose left-footed effort should have been dealt with by McGregor but the Hull keeper allowed the ball to creep past him, keeping Bruce's side firmly in the battle at the bottom and tightening Chelsea's grip on top spot.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="99~108" text="Loic Remy" playerID="1" />
+<Player id="P2" spans="218~227" text="Loic Remy" playerID="1" />
+<Player id="P3" spans="235~251" text="Thibaut Courtois" playerID="2" />
+<Player id="P4" spans="491~502" text="Eden Hazard" playerID="3" />
+<Player id="P5" spans="507~518" text="Diego Costa" playerID="4" />
+<Player id="P6" spans="621~637" text="Ahmed Elmohamady" playerID="5" />
+<Player id="P7" spans="685~693" text="Courtois" playerID="2" />
+<Player id="P8" spans="724~742" text="Branislav Ivanovic" playerID="6" />
+<Player id="P9" spans="765~779" text="Abel Hernandez" playerID="7" />
+<Player id="P10" spans="850~858" text="Courtois" playerID="2" />
+<Player id="P11" spans="944~948" text="Remy" playerID="1" />
+<Player id="P12" spans="1004~1009" text="Costa" playerID="4" />
+<Player id="P13" spans="1045~1059" text="Allan McGregor" playerID="8" />
+<Player id="P14" spans="1381~1387" text="Hazard" playerID="3" />
+<Player id="P15" spans="1510~1515" text="Costa" playerID="4" />
+<Player id="P16" spans="1638~1647" text="Hernandez" playerID="7" />
+<Player id="P17" spans="1734~1747" text="Cesc Fabregas" playerID="9" />
+<Player id="P18" spans="1759~1764" text="Costa" playerID="4" />
+<Player id="P19" spans="2016~2026" text="Elmohamady" playerID="5" />
+<Player id="P21" spans="2099~2113" text="Andy Robertson" playerID="10" />
+<Player id="P22" spans="2155~2163" text="Ivanovic" playerID="6" />
+<Player id="P23" spans="2241~2249" text="Courtois" playerID="2" />
+<Player id="P24" spans="2309~2318" text="Hernandez" playerID="7" />
+<Player id="P25" spans="2452~2460" text="Fabregas" playerID="9" />
+<Player id="P26" spans="2505~2513" text="Courtois" playerID="2" />
+<Player id="P27" spans="2542~2552" text="Elmohamady" playerID="5" />
+<Player id="P28" spans="2586~2600" text="Jake Livermore" playerID="11" />
+<Player id="P29" spans="2605~2619" text="Gaston Ramirez" playerID="12" />
+<Player id="P30" spans="2687~2692" text="Costa" playerID="4" />
+<Player id="P31" spans="2727~2737" text="Harry Kane" playerID="13" />
+<Player id="P32" spans="2865~2869" text="Remy" playerID="1" />
+<Player id="P33" spans="2898~2905" text="Willian" playerID="14" />
+<Player id="P34" spans="2994~3002" text="McGregor" playerID="8" />
+<Coref id="C5" spans="1435~1437" text="he" playerID="3" />
+<Coref id="C7" spans="1823~1826" text="his" playerID="4" />
+<Coref id="C8" spans="2060~2062" text="he" playerID="5" />
+<Coref id="C11" spans="1769~1786" text="the Spain striker" playerID="4" />
+<Coref id="C12" spans="2136~2149" text="the left-back" playerID="10" />
+<Fact id="F0" spans="109~115" text="scored" time="last match" factID="1" type="goal" />
+<Fact id="F1" spans="470~485" text="classy finishes" time="last match" factID="2" type="goal" />
+<Fact id="F2" spans="470~485" text="classy finishes" time="last match" type="goal" factID="3" />
+<Fact id="F3" spans="638~656" text="pulled a goal back" time="last match" type="shot" factID="4" />
+<Fact id="F5" spans="743~752" text="back pass" time="last match" type="pass" factID="5" />
+<Fact id="F6" spans="783~805" text="slot in his first goal" time="last match" type="goal" factID="6" />
+<Fact id="F7" spans="822~844" text="A stunning triple save" time="last match" factID="7" type="save" />
+<Fact id="F8" spans="949~966" text="had the final say" time="last match" type="goal" factID="1" />
+<Fact id="F9" spans="994~1003" text="replacing" time="last match" type="substitute out" factID="8" />
+<Fact id="F10" spans="994~1003" text="replacing" time="last match" type="substitute in" factID="8" />
+<Fact id="F12" spans="1388~1410" text="scored a stunning goal" type="goal" time="last season" factID="9" />
+<Fact id="F13" spans="1438~1494" text="took less than two minutes to hit another sublime effort" time="last match" type="goal" factID="10" />
+<Fact id="F14" spans="1748~1758" text="picked out" time="last match" type="pass" factID="11" />
+<Fact id="F15" spans="1787~1807" text="cut in from the left" time="last match" type="movement" factID="12" />
+<Fact id="F16" spans="1827~1851" text="spot inside the far post" time="last match" type="goal" factID="13" />
+<Fact id="F17" spans="2063~2098" text="arrived at the back post to convert" time="last match" type="goal" factID="14" />
+<Fact id="F18" spans="2116~2129" text="teasing cross" time="last match" type="pass" factID="15" />
+<Fact id="F19" spans="2319~2327" text="a tap-in" time="last match" type="goal" factID="16" />
+<Fact id="F20" spans="2461~2502" text="shooting just wide following a slick move" time="last match" type="shot" factID="17" />
+<Fact id="F21" spans="2564~2580" text="powerful strikes" time="last match" type="shot" factID="18" />
+<Fact id="F22" spans="2564~2580" text="powerful strikes" time="last match" type="shot" factID="19" />
+<Fact id="F23" spans="2693~2721" text=" who moved level on 19 goals" type="goal" time="current season" factID="20" />
+<Fact id="F24" spans="2853~2864" text="replacement" time="last match" type="substitute in" factID="21" />
+<Fact id="F25" spans="2906~2913" text="crossed" time="last match" type="pass" factID="22" />
+<Opinion id="O0" spans="228~260" text="spared Thibaut Courtois' blushes" time="last match" reported="false" type="general attribute" polarity="+" hypothetical="counterfactive" />
+<Opinion id="O1" spans="694~716" text="tried to be too clever" time="last match" reported="false" polarity="-" hypothetical="counterfactive" type="soccer skill" />
+<Opinion id="O2" spans="1061~1130" text="as the striker's tame shot squirmed through his legs and into the net" time="last match" reported="false" hypothetical="counterfactive" polarity="-" type="soccer skill" />
+<Opinion id="O4" spans="1518~1525" text="lay-off" time="last match" reported="false" polarity="-" hypothetical="counterfactive" type="general attribute" />
+<Opinion id="O5" spans="1652~1660" text="wasteful" time="last match" reported="false" polarity="-" type="soccer skill" hypothetical="counterfactive" />
+<Opinion id="O7" spans="2250~2287" text="inexplicably lost control of the ball" time="last match" reported="false" type="soccer skill" polarity="-" hypothetical="counterfactive" />
+<Opinion id="O8" spans="2514~2530" text="redeemed himself" time="last match" reported="false" type="soccer skill" polarity="+" hypothetical="counterfactive" />
+<Opinion id="O9" spans="2963~2993" text="should have been dealt with by" time="last match" reported="false" type="soccer skill" polarity="-" hypothetical="prediction" />
+<TargetLink id="T0" targetID="P0" targetText="Loic Remy" fact_or_opinionID="F0" fact_or_opinionText="scored" />
+<TargetLink id="T1" fact_or_opinionID="O0" fact_or_opinionText="spared Thibaut Courtois' blushes" targetID="P2" targetText="Loic Remy" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="classy finishes" targetID="P5" targetText="Diego Costa" />
+<TargetLink id="T3" fact_or_opinionID="F1" fact_or_opinionText="classy finishes" targetID="P4" targetText="Eden Hazard" />
+<TargetLink id="T4" fact_or_opinionID="O1" fact_or_opinionText="tried to be too clever" targetID="P7" targetText="Courtois" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="back pass" targetID="P8" targetText="Branislav Ivanovic" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="slot in his first goal" targetID="P9" targetText="Abel Hernandez" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="A stunning triple save" targetID="P10" targetText="Courtois" />
+<TargetLink id="T8" fact_or_opinionID="F8" fact_or_opinionText="had the final say" targetID="P11" targetText="Remy" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="replacing" targetID="P12" targetText="Costa" />
+<TargetLink id="T10" fact_or_opinionID="F10" fact_or_opinionText="replacing" targetID="P11" targetText="Remy" />
+<TargetLink id="T11" fact_or_opinionID="O2" fact_or_opinionText="as the striker's tame shot squirmed through his legs and into the net" targetID="P13" targetText="Allan McGregor" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="scored a stunning goal" targetID="P14" targetText="Hazard" />
+<TargetLink id="T13" fact_or_opinionID="F13" fact_or_opinionText="took less than two minutes to hit another sublime effort" targetID="C5" targetText="he" />
+<TargetLink id="T14" fact_or_opinionID="O4" fact_or_opinionText="lay-off" targetID="P15" targetText="Costa" />
+<TargetLink id="T15" fact_or_opinionID="O5" fact_or_opinionText="wasteful" targetID="P16" targetText="Hernandez" />
+<TargetLink id="T16" fact_or_opinionID="F16" fact_or_opinionText="spot inside the far post" targetID="C7" targetText="his" />
+<TargetLink id="T17" fact_or_opinionID="F15" fact_or_opinionText="cut in from the left" targetID="C11" targetText="the Spain striker" />
+<TargetLink id="T18" fact_or_opinionID="F17" fact_or_opinionText="arrived at the back post to convert" targetID="C8" targetText="he" />
+<TargetLink id="T19" fact_or_opinionID="F18" fact_or_opinionText="teasing cross" targetID="P21" targetText="Andy Robertson" />
+<TargetLink id="T20" fact_or_opinionID="F19" fact_or_opinionText="a tap-in" targetID="P24" targetText="Hernandez" />
+<TargetLink id="T21" fact_or_opinionID="O7" fact_or_opinionText="inexplicably lost control of the ball" targetID="P23" targetText="Courtois" />
+<TargetLink id="T22" fact_or_opinionID="F20" fact_or_opinionText="shooting just wide following a slick move" targetID="P25" targetText="Fabregas" />
+<TargetLink id="T23" fact_or_opinionID="O8" fact_or_opinionText="redeemed himself" targetID="P26" targetText="Courtois" />
+<TargetLink id="T24" fact_or_opinionID="F22" fact_or_opinionText="powerful strikes" targetID="P29" targetText="Gaston Ramirez" />
+<TargetLink id="T25" fact_or_opinionID="F21" fact_or_opinionText="powerful strikes" targetID="P28" targetText="Jake Livermore" />
+<TargetLink id="T26" fact_or_opinionID="F23" fact_or_opinionText=" who moved level on 19 goals" targetID="P30" targetText="Costa" />
+<TargetLink id="T27" fact_or_opinionID="F24" fact_or_opinionText="replacement" targetID="P32" targetText="Remy" />
+<TargetLink id="T28" fact_or_opinionID="F25" fact_or_opinionText="crossed" targetID="P33" targetText="Willian" />
+<TargetLink id="T29" fact_or_opinionID="O9" fact_or_opinionText="should have been dealt with by" targetID="P34" targetText="McGregor" />
+</TAGS>
+</SoccEval1.2>

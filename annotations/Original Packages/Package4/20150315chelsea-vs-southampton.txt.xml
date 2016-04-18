@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-southampton/1704059
+
+Mar 15, 2015 11:37:09 AM
+
+Early goals from Diego Costa and Dusan Tadic ensured a 1-1 draw between Chelsea and Southampton at Stamford Bridge on Sunday.
+
+Southampton withstood a second-half barrage from Premier League leader Chelsea to take a point from Stamford Bridge thanks to a 1-1 draw on Sunday.
+
+Diego Costa's fifth goal in his last six league games gave Chelsea - seeking to capitalize on Manchester City's surprise 1-0 defeat to Burnley - an early lead, although that lasted just eight minutes thanks to Dusan Tadic's penalty.
+
+Ronald Koeman's side threatened to add a second against a home side appearing somewhat fatigued following Wednesday's UEFA Champions League exit to Paris Saint-Germain.
+
+However, while Jose Mourinho's men were far from their fluent best, they always looked the more likely to grab a winner after the break, with Costa striking a post before Fraser Forster denied Willian, Eden Hazard and substitute Loic Remy.
+
+Chelsea was ultimately unable to break through, but now leads nearest rival City by six points at the top of the table and still holds a game in hand.
+
+Southampton is likely to be heartened by a point as the club maintains its bid for a European place, while Mourinho will hope his side can rediscover its killer touch as it bids to make his prediction of Premier League glory a reality.
+
+Willian was one of two Chelsea changes and the Brazilian posed early problems for Southampton down the right, but it was frontman Costa who opened the scoring 11 minutes in.
+
+Branislav Ivanovic delivered a deep cross from the right following Hazard's layoff, and an unmarked Costa had the simplest of tasks to head home and register his 19th goal of the season.
+
+Southampton would have been level soon after were it not for a smart save from Thibaut Courtois that denied Sadio Mane.
+
+However, after Mane had been brought down in the box by Nemanja Matic, who received a yellow card for his mistimed challenge, Courtois was beaten by Tadic from 12 yards despite getting a foot to the ball.
+
+The equalizer buoyed Koeman's side and the pace of Tadic, Mane and the recalled Shane Long caused John Terry's back line plenty of problems.
+
+Matic was perhaps fortunate not to see a second yellow for another foul on Mane after the break.
+
+The fit-again Toby Alderweireld, making a first start since January due to a recent hamstring problem, saw the resulting free kick saved by Courtois before Mourinho opted to replace Matic with Ramires.
+
+Costa was back in the thick of it before the hour mark as he saw penalty appeals waved away following a tangle with Jose Fonte before diverting Willian's wayward strike onto Forster's post.
+
+A jinking run from Tadic failed to bring about a second for Southampton and Forster then proved the hero as he denied Willian, Hazard and Oscar in the latter stages.
+
+Remy was the next to be frustrated by Forster before Terry fired wide in a dramatic finale that saw the Stamford Bridge faithful ultimately left frustrated.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="108~119" text="Diego Costa" playerID="null" />
+<Player id="P1" spans="124~135" text="Dusan Tadic" playerID="null" />
+<Player id="P2" spans="367~378" text="Diego Costa" playerID="null" />
+<Player id="P3" spans="577~588" text="Dusan Tadic" playerID="null" />
+<Player id="P4" spans="913~918" text="Costa" playerID="null" />
+<Player id="P5" spans="942~956" text="Fraser Forster" playerID="null" />
+<Player id="P6" spans="964~971" text="Willian" playerID="null" />
+<Player id="P7" spans="973~984" text="Eden Hazard" playerID="null" />
+<Player id="P8" spans="1000~1009" text="Loic Remy" playerID="null" />
+<Player id="P9" spans="1401~1408" text="Willian" playerID="null" />
+<Player id="P10" spans="1531~1536" text="Costa" playerID="null" />
+<Player id="P11" spans="1576~1594" text="Branislav Ivanovic" playerID="null" />
+<Player id="P12" spans="1643~1649" text="Hazard" playerID="null" />
+<Player id="P13" spans="1676~1681" text="Costa" playerID="null" />
+<Player id="P14" spans="1843~1859" text="Thibaut Courtois" playerID="null" />
+<Player id="P15" spans="1872~1882" text="Sadio Mane" playerID="null" />
+<Player id="P16" spans="1900~1904" text="Mane" playerID="null" />
+<Player id="P17" spans="1941~1954" text="Nemanja Matic" playerID="null" />
+<Player id="P18" spans="2011~2019" text="Courtois" playerID="null" />
+<Player id="P19" spans="2034~2039" text="Tadic" playerID="null" />
+<Player id="P20" spans="2142~2147" text="Tadic" playerID="null" />
+<Player id="P21" spans="2149~2153" text="Mane" playerID="null" />
+<Player id="P22" spans="2171~2181" text="Shane Long" playerID="null" />
+<Player id="P23" spans="2177~2181" text="Long" playerID="null" />
+<Player id="P24" spans="2189~2199" text="John Terry" playerID="null" />
+<Player id="P25" spans="2233~2238" text="Matic" playerID="null" />
+<Player id="P26" spans="2308~2312" text="Mane" playerID="null" />
+<Player id="P27" spans="2345~2362" text="Toby Alderweireld" playerID="null" />
+<Player id="P28" spans="2471~2479" text="Courtois" playerID="null" />
+<Player id="P29" spans="2513~2518" text="Matic" playerID="null" />
+<Player id="P30" spans="2524~2531" text="Ramires" playerID="null" />
+<Player id="P31" spans="2534~2539" text="Costa" playerID="null" />
+<Player id="P32" spans="2650~2660" text="Jose Fonte" playerID="null" />
+<Player id="P33" spans="2678~2685" text="Willian" playerID="null" />
+<Player id="P34" spans="2708~2715" text="Forster" playerID="null" />
+<Player id="P35" spans="2744~2749" text="Tadic" playerID="null" />
+<Player id="P36" spans="2801~2808" text="Forster" playerID="null" />
+<Player id="P37" spans="2843~2850" text="Willian" playerID="null" />
+<Player id="P38" spans="2852~2858" text="Hazard" playerID="null" />
+<Player id="P39" spans="2863~2868" text="Oscar" playerID="null" />
+<Player id="P40" spans="2892~2896" text="Remy" playerID="null" />
+<Player id="P41" spans="2930~2937" text="Forster" playerID="null" />
+<Player id="P42" spans="2945~2950" text="Terry" playerID="null" />
+<Coref id="C0" spans="395~398" text="his" playerID="null" />
+<Coref id="C1" spans="1290~1293" text="his" playerID="null" />
+<Coref id="C2" spans="1350~1353" text="his" playerID="null" />
+<Coref id="C3" spans="1734~1737" text="his" playerID="null" />
+<Coref id="C4" spans="1987~1990" text="his" playerID="null" />
+<Coref id="C5" spans="2592~2594" text="he" playerID="null" />
+<Coref id="C6" spans="2833~2835" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.2>

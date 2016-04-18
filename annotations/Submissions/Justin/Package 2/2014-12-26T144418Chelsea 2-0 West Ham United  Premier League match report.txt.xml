@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/dec/26/chelsea-west-ham-united-premier-league-match-report
+
+Chelsea 2-0 West Ham United | Premier League match report
+
+
+José Mourinho spoke of his players “crying so much in the dressing room” in the aftermath here though that familiar mischievous glint in his eye swiftly warded off assumptions of crisis, calamity or even revolt. The dissatisfaction expressed post-match had been at the prospect of a double training session at Cobham on Saturday. Chelsea have so little to complain about at present, with their progress at the top of the division utterly serene.
+ 
+This was a fifth successive win in all competitions since they suffered their only defeat of the campaign, at Newcastle in early December, with the manner in which they strolled beyond a resurgent West Ham United a measure of the authority propelling their title pursuit. A derby against a side who began in the Champions League places should have been awkward but ended up more of a breeze. Mourinho reconsidered his schedule and duly rewarded his players by bringing forward the warm-down session to be undertaken at Stamford Bridge. His players can rest up, still three points clear at the top, before their trip to Southampton on Sunday.
+ 
+There was no call for tears. This all seemed rather routine, the latest victory to sustain a pristine home record achieved courtesy of Nemanja Matic’s power in the centre, with attack-minded team-mates buzzing off his presence. John Terry and Diego Costa scored the goals which set Chelsea apart but only the excellence of West Ham’s goalkeeper, Adrián, prevented a rout. His saves from Oscar and Matic late-on were outstanding when gloss might have been applied to the scoreline. “But the results are good, the performances are quality, the players are doing well,” said Mourinho. “My team are playing well. As a coach I feel good with the people surrounding me, which is something I had been missing for a while. Now I have again a group that I love.”
+ 
+If that was damning of his latter days at Real Madrid, then it is easy to see why he is relishing life back at Chelsea. There was so much slippery movement in this display, Eden Hazard, Willian and Oscar for ever tearing into their markers and exploiting space while West Ham, uncharacteristically ponderous from the outset, were left dizzied by it all.
+ 
+James Collins and Carl Jenkinson will struggle to banish memories of Hazard. Without the reassurance of Alex Song at the base of the midfield from the start, the Cameroonian initially among the substitutes, West Ham were vulnerable. Sam Allardyce bemoaned a lack of spark, the ball shipped sideways too often. “They got too sucked into a negative style passing it sideways and backwards instead of forwards into the right areas,” said the manager. “And as good as Chelsea were, as talented as they were, the goals we conceded were so avoidable.” It was sloppiness in possession which proved properly damaging. All that alleged “19th-century football” last January had earned West Ham a draw here. An attempt at a more expansive brand yielded nothing.
+ 
+There was an irony that Chelsea’s lavish approach did not yield them a lead. The opener was more brutal in its construction, Cesc Fàbregas’s corner flicked goalwards by Costa and the striker having lured Collins towards him, an unmarked Terry converted his 36th Premier League goal with ease. Yet the reward had long been coming, with other opportunities spurned, Oscar in particular guilty from point-blank range early, and the visitors consistently picked apart. Matic was untouchable in midfield, an interceptor liberating Fàbregas’s creativity at his side. The visitors might have been spurred into a riposte by a sense of injustice that Branislav Ivanovic was not penalised for going to ground too easily in first-half stoppage time, but by the time Allardyce reacted to fling on Song and Diafra Sakho just before the hour, a salvage mission was unlikely.
+ 
+Cheikhou Kouyaté duly lost the ball in midfield, Hazard slipped Costa free for the Brazil-born forward to tease space from Collins and Jenkinson before drilling a left-foot shot across Adrián and into the far corner for a 13th league goal of term. That West Ham rallied late-on, Morgan Amalfitano drifting a header wide and then clipping a post after wriggling clear of Gary Cahill and Terry, seemed more of an afterthought. This had not been a display worthy of their recent form and Chelsea had eased off, confident victory was theirs, with the manager’s willingness to scrap his post-match plans an indication of faith in his playing staff.
+ 
+Players gathered on the pitch for their warm-down, the unused substitutes enjoying a quick game as groundstaff hovered to attend to the turf. Southampton, who have leapfrogged West Ham to return to fourth place, will pose their own threat but, for now, Mourinho’s team appear untouchable.
+ 
+Man of the match Nemanja Matic (Chelsea)
+ 
+Chelsea 4-2-3-1 Courtois; Ivanovic, Cahill, Terry, Azpilicueta; Fàbregas, Matic; Willian (Ramires, 86), Oscar (Mikel, 83), Hazard; Diego Costa (Drogba, 83).
+ 
+Subs not used Cech, Filipe Luís, Zouma, Schürrle.
+ 
+West Ham United 4-3-3 Adrián; Jenkinson, Reid, Collins, Cresswell; Kouyaté, Noble (Song, 59), Nolan; Downing (Amalfitano, 74), Carroll (Sakho, 59), Valencia.
+ 
+Subs not used Jaaskelainen, Jarvis, O’Brien, Cole.
+ 
+Booked Collins, Cresswell, Reid.
+ 
+Attendance 41,598. Referee M Oliver.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="1388~1401" text="Nemanja Matic" playerID="1" />
+<Player id="P1" spans="1481~1491" text="John Terry" playerID="2" />
+<Player id="P2" spans="1496~1507" text="Diego Costa" playerID="3" />
+<Player id="P3" spans="1599~1605" text="Adrián" playerID="4" />
+<Player id="P4" spans="1640~1645" text="Oscar" playerID="5" />
+<Player id="P5" spans="1650~1655" text="Matic" playerID="6" />
+<Player id="P6" spans="2182~2193" text="Eden Hazard" playerID="7" />
+<Player id="P7" spans="2195~2202" text="Willian" playerID="8" />
+<Player id="P8" spans="2207~2212" text="Oscar" playerID="9" />
+<Player id="P9" spans="2365~2378" text="James Collins" playerID="10" />
+<Player id="P10" spans="2383~2397" text="Carl Jenkinson" playerID="11" />
+<Player id="P11" spans="2434~2440" text="Hazard" playerID="7" />
+<Player id="P12" spans="2469~2478" text="Alex Song" playerID="12" />
+<Player id="P13" spans="3243~3256" text="Cesc Fàbregas" playerID="13" />
+<Player id="P14" spans="3287~3292" text="Costa" playerID="3" />
+<Player id="P15" spans="3322~3329" text="Collins" playerID="10" />
+<Player id="P16" spans="3355~3360" text="Terry" playerID="2" />
+<Player id="P17" spans="3482~3487" text="Oscar" playerID="9" />
+<Player id="P18" spans="3583~3588" text="Matic" playerID="6" />
+<Player id="P19" spans="3644~3652" text="Fàbregas" playerID="13" />
+<Player id="P20" spans="3760~3778" text="Branislav Ivanovic" playerID="14" />
+<Player id="P21" spans="3903~3907" text="Song" playerID="12" />
+<Player id="P22" spans="3912~3924" text="Diafra Sakho" playerID="15" />
+<Player id="P23" spans="3919~3924" text="Sakho" playerID="15" />
+<Player id="P24" spans="3981~3997" text="Cheikhou Kouyaté" playerID="16" />
+<Player id="P25" spans="4030~4036" text="Hazard" playerID="7" />
+<Player id="P26" spans="4045~4050" text="Costa" playerID="3" />
+<Player id="P27" spans="4104~4111" text="Collins" playerID="10" />
+<Player id="P28" spans="4116~4125" text="Jenkinson" playerID="11" />
+<Player id="P29" spans="4166~4172" text="Adrián" playerID="4" />
+<Player id="P31" spans="4260~4277" text="Morgan Amalfitano" playerID="17" />
+<Player id="P32" spans="4351~4362" text="Gary Cahill" playerID="18" />
+<Player id="P33" spans="4367~4372" text="Terry" playerID="2" />
+<Player id="P34" spans="4935~4948" text="Nemanja Matic" playerID="1" />
+<Player id="P35" spans="4977~4985" text="Courtois" playerID="19" />
+<Player id="P36" spans="4987~4995" text="Ivanovic" playerID="14" />
+<Player id="P37" spans="4997~5003" text="Cahill" playerID="18" />
+<Player id="P38" spans="5005~5010" text="Terry" playerID="2" />
+<Player id="P39" spans="5012~5023" text="Azpilicueta" playerID="20" />
+<Player id="P40" spans="5025~5033" text="Fàbregas" playerID="13" />
+<Player id="P41" spans="5035~5040" text="Matic" playerID="1" />
+<Player id="P42" spans="5042~5049" text="Willian" playerID="8" />
+<Player id="P43" spans="5051~5058" text="Ramires" playerID="21" />
+<Player id="P44" spans="5065~5070" text="Oscar" playerID="9" />
+<Player id="P45" spans="5072~5077" text="Mikel" playerID="22" />
+<Player id="P46" spans="5084~5090" text="Hazard" playerID="7" />
+<Player id="P47" spans="5092~5103" text="Diego Costa" playerID="3" />
+<Player id="P48" spans="5105~5111" text="Drogba" playerID="23" />
+<Player id="P49" spans="5134~5138" text="Cech" playerID="24" />
+<Player id="P50" spans="5140~5151" text="Filipe Luís" playerID="25" />
+<Player id="P51" spans="5153~5158" text="Zouma" playerID="26" />
+<Player id="P52" spans="5160~5168" text="Schürrle" playerID="27" />
+<Player id="P53" spans="5194~5200" text="Adrián" playerID="4" />
+<Player id="P54" spans="5202~5211" text="Jenkinson" playerID="11" />
+<Player id="P55" spans="5213~5217" text="Reid" playerID="28" />
+<Player id="P56" spans="5219~5226" text="Collins" playerID="10" />
+<Player id="P57" spans="5228~5237" text="Cresswell" playerID="29" />
+<Player id="P58" spans="5239~5246" text="Kouyaté" playerID="16" />
+<Player id="P59" spans="5248~5253" text="Noble" playerID="30" />
+<Player id="P60" spans="5255~5259" text="Song" playerID="12" />
+<Player id="P61" spans="5266~5271" text="Nolan" playerID="31" />
+<Player id="P62" spans="5273~5280" text="Downing" playerID="32" />
+<Player id="P63" spans="5282~5292" text="Amalfitano" playerID="17" />
+<Player id="P64" spans="5299~5306" text="Carroll" playerID="33" />
+<Player id="P65" spans="5308~5313" text="Sakho" playerID="15" />
+<Player id="P66" spans="5320~5328" text="Valencia" playerID="34" />
+<Player id="P67" spans="5360~5366" text="Jarvis" playerID="35" />
+<Player id="P68" spans="5377~5381" text="Cole" playerID="36" />
+<Player id="P69" spans="5392~5399" text="Collins" playerID="10" />
+<Player id="P70" spans="5401~5410" text="Cresswell" playerID="29" />
+<Player id="P71" spans="5412~5416" text="Reid" playerID="28" />
+<Player id="P72" spans="5368~5375" text="O’Brien" playerID="37" />
+<Player id="P73" spans="5346~5358" text="Jaaskelainen" playerID="38" />
+<Coref id="C5" spans="1467~1470" text="his" playerID="1" />
+<Coref id="C6" spans="1625~1628" text="His" playerID="4" />
+<Coref id="C9" spans="3371~3374" text="his" playerID="2" />
+<Coref id="C10" spans="3669~3672" text="his" playerID="13" />
+<Coref id="C13" spans="1576~1597" text="West Ham’s goalkeeper" playerID="4" />
+<Coref id="C14" spans="2523~2538" text="the Cameroonian" playerID="12" />
+<Coref id="C0" spans="3297~3308" text="the striker" playerID="3" />
+<Coref id="C1" spans="3338~3341" text="him" playerID="3" />
+<Coref id="C2" spans="4060~4083" text="the Brazil-born forward" playerID="3" />
+<Fact id="F0" spans="1410~1423" text="in the centre" type="positioning" time="last match" factID="1" />
+<Fact id="F1" spans="1508~1524" text="scored the goals" time="last match" factID="2" type="goal" />
+<Fact id="F2" spans="1508~1524" text="scored the goals" time="last match" factID="3" type="goal" />
+<Fact id="F3" spans="1607~1623" text="prevented a rout" type="save" time="last match" factID="4" />
+<Fact id="F4" spans="1629~1634" text="saves" factID="5" type="save" time="last match" />
+<Fact id="F5" spans="5385~5391" text="Booked" type="foul" factID="6" time="last match" />
+<Fact id="F6" spans="5385~5391" text="Booked" time="last match" type="foul" factID="7" />
+<Fact id="F7" spans="5385~5391" text="Booked" time="last match" type="foul" factID="8" />
+<Fact id="F8" spans="2482~2506" text="the base of the midfield" type="positioning" time="last match" factID="9" />
+<Fact id="F9" spans="3259~3265" text="corner" time="last match" type="shot" factID="10" />
+<Fact id="F10" spans="3243~3283" text="Cesc Fàbregas’s corner flicked goalwards" type="goal" time="last match" factID="1" />
+<Fact id="F12" spans="3361~3399" text="converted his 36th Premier League goal" type="goal" time="last match" factID="2" />
+<Fact id="F13" spans="3361~3399" text="converted his 36th Premier League goal" type="goal" time="current season" factID="2" />
+<Fact id="F14" spans="3605~3616" text="in midfield" factID="13" time="last match" type="positioning" />
+<Fact id="F15" spans="4037~4055" text="slipped Costa free" time="last match" factID="14" type="assist" />
+<Fact id="F16" spans="4133~4158" text="drilling a left-foot shot" time="last match" type="shot" factID="15" />
+<Fact id="F17" spans="4201~4219" text="a 13th league goal" type="goal" time="last match" factID="1" />
+<Fact id="F18" spans="4201~4219" text="a 13th league goal" time="current season" type="goal" factID="1" />
+<Opinion id="O0" spans="1562~1572" text="excellence" type="general attribute" reported="false" time="last match" polarity="+" />
+<Opinion id="O1" spans="2222~2269" text="tearing into their markers and exploiting space" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O2" spans="2397~2440" text=" will struggle to banish memories of Hazard" reported="false" type="other opinion" polarity="-" time="last match" />
+<Opinion id="O3" spans="3502~3537" text="guilty from point-blank range early" time="last match" reported="false" polarity="-" type="impact on team" />
+<Opinion id="O4" spans="3592~3616" text=" untouchable in midfield" reported="false" type="general attribute" time="last match" polarity="+" />
+<Opinion id="O5" spans="3733~3855" text=" a sense of injustice that Branislav Ivanovic was not penalised for going to ground too easily in first-half stoppage time" polarity="-" type="other opinion" reported="false" time="last match" />
+<Opinion id="O6" spans="3946~3977" text=" a salvage mission was unlikely" reported="false" hypothetical="prediction" time="last match" polarity="-" type="accomplishment" />
+<Opinion id="O7" spans="3998~4028" text="duly lost the ball in midfield" polarity="-" type="accomplishment" reported="false" time="last match" />
+<TargetLink id="T0" fact_or_opinionID="O0" fact_or_opinionText="excellence" targetID="C13" targetText="West Ham’s goalkeeper" />
+<TargetLink id="T1" fact_or_opinionID="F0" fact_or_opinionText="in the centre" targetID="P0" targetText="Nemanja Matic" />
+<TargetLink id="T2" fact_or_opinionID="F1" fact_or_opinionText="scored the goals" targetID="P2" targetText="Diego Costa" />
+<TargetLink id="T3" fact_or_opinionID="F2" fact_or_opinionText="scored the goals" targetID="P1" targetText="John Terry" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="saves" targetID="C6" targetText="His" />
+<TargetLink id="T5" fact_or_opinionID="F3" fact_or_opinionText="prevented a rout" targetID="P3" targetText="Adrián" />
+<TargetLink id="T6" fact_or_opinionID="F5" fact_or_opinionText="Booked" targetID="P69" targetText="Collins" />
+<TargetLink id="T7" fact_or_opinionID="F6" fact_or_opinionText="Booked" targetID="P70" targetText="Cresswell" />
+<TargetLink id="T8" fact_or_opinionID="F7" fact_or_opinionText="Booked" targetID="P71" targetText="Reid" />
+<TargetLink id="T9" fact_or_opinionID="O1" fact_or_opinionText="tearing into their markers and exploiting space" targetID="P6" targetText="Eden Hazard" />
+<TargetLink id="T10" fact_or_opinionID="O1" fact_or_opinionText="tearing into their markers and exploiting space" targetID="P7" targetText="Willian" />
+<TargetLink id="T11" fact_or_opinionID="O1" fact_or_opinionText="tearing into their markers and exploiting space" targetID="P8" targetText="Oscar" />
+<TargetLink id="T12" fact_or_opinionID="O2" fact_or_opinionText=" will struggle to banish memories of Hazard" targetID="P9" targetText="James Collins" />
+<TargetLink id="T13" fact_or_opinionID="O2" fact_or_opinionText=" will struggle to banish memories of Hazard" targetID="P10" targetText="Carl Jenkinson" />
+<TargetLink id="T14" fact_or_opinionID="F8" fact_or_opinionText="the base of the midfield" targetID="P12" targetText="Alex Song" />
+<TargetLink id="T15" fact_or_opinionID="F9" fact_or_opinionText="corner" targetID="P13" targetText="Cesc Fàbregas" />
+<TargetLink id="T16" fact_or_opinionID="F10" fact_or_opinionText="Cesc Fàbregas’s corner flicked goalwards" targetID="P14" targetText="Costa" />
+<TargetLink id="T17" fact_or_opinionID="F12" fact_or_opinionText="converted his 36th Premier League goal" targetID="P16" targetText="Terry" />
+<TargetLink id="T18" fact_or_opinionID="F12" fact_or_opinionText="converted his 36th Premier League goal" targetID="P16" targetText="Terry" />
+<TargetLink id="T19" fact_or_opinionID="O3" fact_or_opinionText="guilty from point-blank range early" targetID="P17" targetText="Oscar" />
+<TargetLink id="T20" fact_or_opinionID="F14" fact_or_opinionText="in midfield" targetID="P18" targetText="Matic" />
+<TargetLink id="T21" fact_or_opinionID="O4" fact_or_opinionText=" untouchable in midfield" targetID="P18" targetText="Matic" />
+<TargetLink id="T22" fact_or_opinionID="O5" fact_or_opinionText=" a sense of injustice that Branislav Ivanovic was not penalised for going to ground too easily in first-half stoppage time" targetID="P20" targetText="Branislav Ivanovic" />
+<TargetLink id="T23" fact_or_opinionID="O6" fact_or_opinionText=" a salvage mission was unlikely" targetID="P21" targetText="Song" />
+<TargetLink id="T24" fact_or_opinionID="O6" fact_or_opinionText=" a salvage mission was unlikely" targetID="P22" targetText="Diafra Sakho" />
+<TargetLink id="T25" fact_or_opinionID="O7" fact_or_opinionText="duly lost the ball in midfield" targetID="P24" targetText="Cheikhou Kouyaté" />
+<TargetLink id="T26" fact_or_opinionID="F15" fact_or_opinionText="slipped Costa free" targetID="P25" targetText="Hazard" />
+<TargetLink id="T27" fact_or_opinionID="F16" fact_or_opinionText="drilling a left-foot shot" targetID="C2" targetText="the Brazil-born forward" />
+<TargetLink id="T28" fact_or_opinionID="F17" fact_or_opinionText="a 13th league goal" targetID="C2" targetText="the Brazil-born forward" />
+<TargetLink id="T29" fact_or_opinionID="F18" fact_or_opinionText="a 13th league goal" targetID="C2" targetText="the Brazil-born forward" />
+</TAGS>
+</SoccEval1.2>

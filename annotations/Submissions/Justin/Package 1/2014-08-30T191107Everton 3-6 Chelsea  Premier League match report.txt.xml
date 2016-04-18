@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/aug/30/everton-chelsea-premier-league-match-report
+
+Everton 3-6 Chelsea | Premier League match report
+
+
+It was a scoreline that felt like a throwback to the era when football was watched in black and white and by the end of a wild, eccentric game Chelsea had emerged with an immaculate record to the new season and maybe, at the back of his mind, José Mourinho remembered the days when he used to say results like this belonged to hockey rather than football.
+ 
+That period in the second half when the two sides shared five goals in 10 minutes certainly did not feel like the orthodox Mourinho experience. It incorporated a goal from Samuel Eto’o against his former club and, in brief passages, the gathering sense that Chelsea were straying dangerously close to being caught by persistent opponents. Instead, it ended up as a rout, with Diego Costa at the heart of it and ironic cries of “boring, boring Chelsea” from the away end.
+ 
+Boring? Costa will probably think he should have scored a hat-trick, bearing in mind he had also run clear of Everton’s defence just before that blitz of second-half goals. Everton, too, had plenty of chances to add more goals of their own. Mourinho could probably be forgiven for thinking his team should have made it a more routine victory considering the two-goal head start Costa and Branislav Ivanovic had given them inside the opening three minutes. Yet Everton, even in defeat, deserve a measure of acclaim for the way they tried everything to repair the damage. It was just a pity for Roberto Martínez that his team’s defending was so abysmal.
+ 
+Chelsea began like a team in a hurry. They attacked with a vibrancy that was too much for their opponents and they always made sure they had the final say when Everton kept coming back at them. Amid the blizzard of goals, it should not be forgotten either that Everton, already 2-0 down and looking in need of smelling salts, could have been down to 10 men inside the opening 10 minutes. Tim Howard, running from his goalline to cut out a long pass for Eden Hazard, was a good yard outside his area when he handled the ball, in keeping with a day when there was seldom anything but panic in the home side’s defence.
+ 
+The last time they conceded six at Goodison came against Arsenal in August 2009. Cesc Fábregas was playing for the opposition that day, too. He was excellent here but then so were Nemanja Matic and Ramires alongside him in midfield. Costa had a running argument with Séamus Coleman and then Howard and took out his anger with his goals. His place had been in doubt because of a hamstring issue but his right-footed finish, after 35 seconds, was an early way of letting everyone know he was functioning perfectly well. He lasted the full match and his second goal, to complete the scoring, was another reminder that Chelsea now have a striker suitable for a club of their ambitions. Fernando Torres, we can safely say, was not missed.
+ 
+Everton were entitled to be aggrieved about Ivanovic’s goal because he had been in a marginally offside position when he controlled Ramires’s pass and fired in his shot. The offside flag did then go up, correctly, when Romelu Lukaku headed a corner against the crossbar and Sylvain Distin squeezed the rebound over the line. That was in the 17th minute and perhaps the moment when Everton did realise they could trouble their opponents.
+ 
+They showed commendable spirit for the rest of the first half and their energy, particularly on the right, was rewarded just before the break when Kevin Mirallas headed in Coleman’s cross. Martínez later described Everton’s attacking as “phenomenal”. Yet he was at a loss to understand what had gone wrong in their defence. “We probably had 1,100 Premier League appearances in that back five,” he said.
+ 
+Mourinho was also unhappy, albeit to a lesser extent, pointing out that he had spent an entire training session on Wednesday working for 90 minutes solid on his team’s defence and, in hindsight, he “should have stayed at home with my wife”. Yet there was one crucial difference: Chelsea made mistakes for Everton’s goals; Everton made them all afternoon.
+ 
+Chelsea’s third goal came from a Hazard cross that Coleman deflected into his own net and that was the moment Costa apparently said something to taunt the Everton defender, bringing an incensed Howard out of his goalmouth to confront him. Costa had already been booked after ignoring the referee Jon Moss’s instructions to stop tangling with Coleman at a free-kick. Howard was shown a yellow card and for the rest of the match Costa seemed intent on prolonging the argument with Everton’s goalkeeper. Mourinho, one imagines, appreciates the devil in his new signing, even if it does hint at trouble ahead.
+ 
+Aiden McGeady set up Steven Naismith to poke in Everton’s second goal a minute after that flashpoint and, once again, the home crowd dared to think the comeback might be on. Chelsea wasted little time disappointing them, Matic restoring the two-goal advantage with a left-foot drive from 20 yards. It was starting to feel difficult to keep up when Eto’o headed in Leighton Baines’s free-kick to make it 4-3 but Matic played in Ramires to fire in their fourth goal and then a poor backheel from Muhamed Besic left the home defence vulnerable again. Mikel showed him how to do it, leaving Costa running clear before taking the ball around Howard to complete the scoring.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="879~890" text="Diego Costa" playerID="2" />
+<Player id="P1" spans="984~989" text="Costa" playerID="2" />
+<Player id="P2" spans="1354~1359" text="Costa" playerID="2" />
+<Player id="P3" spans="1364~1382" text="Branislav Ivanovic" playerID="4" />
+<Player id="P5" spans="2018~2028" text="Tim Howard" playerID="3" />
+<Player id="P6" spans="2083~2094" text="Eden Hazard" playerID="8" />
+<Player id="P7" spans="2428~2441" text="Nemanja Matic" playerID="9" />
+<Player id="P8" spans="2446~2453" text="Ramires" playerID="7" />
+<Player id="P9" spans="2481~2486" text="Costa" playerID="2" />
+<Player id="P11" spans="2539~2545" text="Howard" playerID="3" />
+<Player id="P13" spans="2930~2945" text="Fernando Torres" playerID="10" />
+<Player id="P14" spans="3028~3036" text="Ivanovic" playerID="4" />
+<Player id="P15" spans="3116~3123" text="Ramires" playerID="7" />
+<Player id="P16" spans="3203~3216" text="Romelu Lukaku" playerID="11" />
+<Player id="P17" spans="3258~3272" text="Sylvain Distin" playerID="12" />
+<Player id="P18" spans="3570~3584" text="Kevin Mirallas" playerID="13" />
+<Player id="P19" spans="3595~3602" text="Coleman" playerID="6" />
+<Player id="P21" spans="4218~4224" text="Hazard" playerID="8" />
+<Player id="P22" spans="4236~4243" text="Coleman" playerID="6" />
+<Player id="P23" spans="4295~4300" text="Costa" playerID="2" />
+<Player id="P24" spans="4379~4385" text="Howard" playerID="3" />
+<Player id="P25" spans="4424~4429" text="Costa" playerID="2" />
+<Player id="P26" spans="4527~4534" text="Coleman" playerID="6" />
+<Player id="P27" spans="4551~4557" text="Howard" playerID="3" />
+<Player id="P28" spans="4612~4617" text="Costa" playerID="2" />
+<Player id="P29" spans="4793~4806" text="Aiden McGeady" playerID="14" />
+<Player id="P30" spans="4814~4829" text="Steven Naismith" playerID="15" />
+<Player id="P31" spans="5014~5019" text="Matic" playerID="9" />
+<Player id="P32" spans="5157~5172" text="Leighton Baines" playerID="16" />
+<Player id="P33" spans="5204~5209" text="Matic" playerID="9" />
+<Player id="P34" spans="5220~5227" text="Ramires" playerID="7" />
+<Player id="P35" spans="5287~5300" text="Muhamed Besic" playerID="17" />
+<Player id="P36" spans="5341~5346" text="Mikel" playerID="18" />
+<Player id="P37" spans="5380~5385" text="Costa" playerID="2" />
+<Player id="P38" spans="5430~5436" text="Howard" playerID="3" />
+<Player id="P39" spans="675~687" text="Samuel Eto’o" playerID="1" />
+<Player id="P40" spans="2328~2342" text=" Cesc Fábregas" playerID="5" />
+<Player id="P41" spans="2515~2529" text="Séamus Coleman" playerID="6" />
+<Player id="P42" spans="5141~5146" text="Eto’o" playerID="1" />
+<Coref id="C2" spans="696~699" text="his" playerID="1" />
+<Coref id="C3" spans="1010~1012" text="he" playerID="2" />
+<Coref id="C4" spans="1061~1063" text="he" playerID="2" />
+<Coref id="C7" spans="2043~2046" text="his" playerID="3" />
+<Coref id="C8" spans="2120~2123" text="his" playerID="3" />
+<Coref id="C9" spans="2134~2136" text="he" playerID="3" />
+<Coref id="C10" spans="2389~2391" text="He" playerID="5" />
+<Coref id="C11" spans="2559~2562" text="his" playerID="2" />
+<Coref id="C12" spans="2574~2577" text="his" playerID="2" />
+<Coref id="C13" spans="2585~2588" text="His" playerID="2" />
+<Coref id="C14" spans="2646~2649" text="his" playerID="2" />
+<Coref id="C15" spans="2731~2733" text="he" playerID="2" />
+<Coref id="C16" spans="2766~2768" text="He" playerID="2" />
+<Coref id="C17" spans="2795~2798" text="his" playerID="2" />
+<Coref id="C18" spans="3052~3054" text="he" playerID="4" />
+<Coref id="C19" spans="3102~3104" text="he" playerID="4" />
+<Coref id="C20" spans="3144~3147" text="his" playerID="4" />
+<Coref id="C26" spans="4259~4262" text="his" playerID="6" />
+<Coref id="C27" spans="4393~4396" text="his" playerID="3" />
+<Coref id="C30" spans="4663~4684" text=" Everton’s goalkeeper" playerID="3" />
+<Fact id="F0" spans="663~669" text="a goal" time="last match" type="goal" factID="1" />
+<Fact id="F1" spans="1334~1342" text="two-goal" factID="2" type="goal" time="last match" />
+<Fact id="F2" spans="2030~2055" text="running from his goalline" type="movement" time="last match" factID="3" />
+<Fact id="F3" spans="2066~2078" text=" a long pass" type="pass" time="last match" factID="4" />
+<Fact id="F4" spans="2468~2479" text="in midfield" time="last match" type="positioning" factID="5" />
+<Fact id="F5" spans="2578~2583" text="goals" time="last match" factID="6" type="goal" />
+<Fact id="F6" spans="2650~2669" text="right-footed finish" type="goal" factID="7" time="last match" />
+<Fact id="F7" spans="2799~2810" text="second goal" type="goal" time="last match" factID="8" />
+<Fact id="F8" spans="3039~3043" text="goal" factID="9" time="last match" type="goal" />
+<Fact id="F9" spans="3069~3096" text="marginally offside position" type="positioning" factID="10" time="last match" />
+<Fact id="F11" spans="3126~3130" text="pass" factID="11" type="pass" time="last match" />
+<Fact id="F12" spans="3135~3152" text="fired in his shot" time="last match" factID="12" type="shot" />
+<Fact id="F13" spans="3585~3610" text="headed in Coleman’s cross" type="movement" factID="13" time="last match" />
+<Fact id="F14" spans="3605~3610" text="cross" time="last match" type="pass" factID="14" />
+<Fact id="F15" spans="4195~4205" text="third goal" type="goal" time="last match" factID="15" />
+<Fact id="F16" spans="4225~4230" text="cross" factID="16" time="last match" type="pass" />
+<Fact id="F17" spans="4442~4453" text="been booked" type="foul" factID="17" time="last match" />
+<Fact id="F18" spans="4557~4581" text=" was shown a yellow card" time="last match" factID="18" type="foul" />
+<Fact id="F19" spans="4806~4829" text=" set up Steven Naismith" factID="19" time="last match" type="assist" />
+<Fact id="F20" spans="4850~4862" text=" second goal" time="last match" factID="20" type="goal" />
+<Fact id="F21" spans="5060~5075" text="left-foot drive" type="goal" time="last match" factID="21" />
+<Fact id="F22" spans="5146~5184" text=" headed in Leighton Baines’s free-kick" factID="22" type="movement" time="last match" />
+<Fact id="F23" spans="5196~5199" text="4-3" type="goal" time="last match" factID="23" />
+<Fact id="F24" spans="5209~5227" text=" played in Ramires" factID="24" type="assist" time="last match" />
+<Fact id="F25" spans="5230~5256" text=" fire in their fourth goal" time="last match" factID="25" type="goal" />
+<Fact id="F26" spans="5440~5460" text="complete the scoring" type="goal" factID="26" time="last match" />
+<Fact id="F27" spans="5407~5436" text="taking the ball around Howard" type="movement" factID="27" time="last match" />
+<Opinion id="O0" spans="2396~2405" text="excellent" reported="false" polarity="+" time="last match" type="general attribute" />
+<Opinion id="O1" spans="2738~2764" text="functioning perfectly well" type="general attribute" time="last match" reported="false" polarity="+" />
+<Opinion id="O2" spans="2966~2980" text="was not missed" polarity="+" type="impact on team" time="current season" reported="false" />
+<Opinion id="O3" spans="5266~5339" text="a poor backheel from Muhamed Besic left the home defence vulnerable again" time="last match" type="impact on team" polarity="-" reported="false" />
+<TargetLink id="T0" fact-opinionID="F1" fact-opinionText="two-goal" targetID="P2" targetText="Costa" />
+<TargetLink id="T1" fact-opinionID="F1" fact-opinionText="two-goal" targetID="P3" targetText="Branislav Ivanovic" />
+<TargetLink id="T3" fact-opinionID="F3" fact-opinionText=" a long pass" targetID="P5" targetText="Tim Howard" />
+<TargetLink id="T4" fact-opinionID="F2" fact-opinionText="running from his goalline" targetID="P5" targetText="Tim Howard" />
+<TargetLink id="T5" fact-opinionID="O0" fact-opinionText="excellent" targetID="C10" targetText="He" />
+<TargetLink id="T6" fact-opinionID="O0" fact-opinionText="excellent" targetID="P7" targetText="Nemanja Matic" />
+<TargetLink id="T7" fact-opinionID="O0" fact-opinionText="excellent" targetID="P8" targetText="Ramires" />
+<TargetLink id="T8" fact-opinionID="F4" fact-opinionText="in midfield" targetID="P8" targetText="Ramires" />
+<TargetLink id="T9" fact-opinionID="F4" fact-opinionText="in midfield" targetID="P7" targetText="Nemanja Matic" />
+<TargetLink id="T10" fact-opinionID="F4" fact-opinionText="in midfield" targetID="C10" targetText="He" />
+<TargetLink id="T11" fact-opinionID="F5" fact-opinionText="goals" targetID="P9" targetText="Costa" />
+<TargetLink id="T12" fact-opinionID="F6" fact-opinionText="right-footed finish" targetID="C14" targetText="his" />
+<TargetLink id="T13" fact-opinionID="O1" fact-opinionText="functioning perfectly well" targetID="C15" targetText="he" />
+<TargetLink id="T14" fact-opinionID="O2" fact-opinionText="was not missed" targetID="P13" targetText="Fernando Torres" />
+<TargetLink id="T15" fact-opinionID="F8" fact-opinionText="goal" targetID="P14" targetText="Ivanovic" />
+<TargetLink id="T16" fact-opinionID="F9" fact-opinionText="marginally offside position" targetID="C18" targetText="he" />
+<TargetLink id="T17" fact-opinionID="F11" fact-opinionText="pass" targetID="P15" targetText="Ramires" />
+<TargetLink id="T18" fact-opinionID="F12" fact-opinionText="fired in his shot" targetID="C19" targetText="he" />
+<TargetLink id="T19" fact-opinionID="F13" fact-opinionText="headed in Coleman’s cross" targetID="P18" targetText="Kevin Mirallas" />
+<TargetLink id="T21" fact-opinionID="F16" fact-opinionText="cross" targetID="P21" targetText="Hazard" />
+<TargetLink id="T22" fact-opinionID="F15" fact-opinionText="third goal" targetID="P21" targetText="Hazard" />
+<TargetLink id="T23" fact-opinionID="F17" fact-opinionText="been booked" targetID="P25" targetText="Costa" />
+<TargetLink id="T24" fact-opinionID="F18" fact-opinionText=" was shown a yellow card" targetID="P27" targetText="Howard" />
+<TargetLink id="T25" fact-opinionID="F19" fact-opinionText=" set up Steven Naismith" targetID="P29" targetText="Aiden McGeady" />
+<TargetLink id="T27" fact-opinionID="F21" fact-opinionText="left-foot drive" targetID="P31" targetText="Matic" />
+<TargetLink id="T28" fact-opinionID="F22" fact-opinionText=" headed in Leighton Baines’s free-kick" targetID="P42" targetText="Eto’o" />
+<TargetLink id="T29" fact-opinionID="F23" fact-opinionText="4-3" targetID="P32" targetText="Leighton Baines" />
+<TargetLink id="T30" fact-opinionID="F20" fact-opinionText=" second goal" targetID="P30" targetText="Steven Naismith" />
+<TargetLink id="T31" fact-opinionID="F24" fact-opinionText=" played in Ramires" targetID="P33" targetText="Matic" />
+<TargetLink id="T32" fact-opinionID="F25" fact-opinionText=" fire in their fourth goal" targetID="P33" targetText="Matic" />
+<TargetLink id="T33" fact-opinionID="F25" fact-opinionText=" fire in their fourth goal" targetID="P34" targetText="Ramires" />
+<TargetLink id="T34" fact-opinionID="O3" fact-opinionText="a poor backheel from Muhamed Besic left the home defence vulnerable again" targetID="P35" targetText="Muhamed Besic" />
+<TargetLink id="T35" fact-opinionID="F26" fact-opinionText="complete the scoring" targetID="P36" targetText="Mikel" />
+<TargetLink id="T36" fact-opinionID="F27" fact-opinionText="taking the ball around Howard" targetID="P36" targetText="Mikel" />
+<TargetLink id="T37" fact-opinionID="F14" fact-opinionText="cross" targetID="P19" targetText="Coleman" />
+<TargetLink id="T2" fact-opinionID="F7" fact-opinionText="second goal" targetID="C16" targetText="He" />
+</TAGS>
+</SoccEval1.2>

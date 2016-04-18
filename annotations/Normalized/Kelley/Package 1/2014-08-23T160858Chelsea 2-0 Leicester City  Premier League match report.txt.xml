@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/aug/23/chelsea-leicester-premier-league-match-report
+
+Chelsea 2-0 Leicester City | Premier League match report
+
+
+If Chelsea made slightly heavy weather of victory in their first home Premier League fixture of the season, then there was plenty for José Mourinho to take heart from in a 2-0 defeat of Leicester City pegged out around second-half goals from Diego Costa and Eden Hazard, and a performance that became more convincing as Leicester’s energy levels dropped in the afternoon sun.
+ 
+The visitors had looked the more settled team in the first half here, tribute to their own energetic and diligent midfield and also to a general sluggishness in Chelsea’s passing and movement. Afterwards, Mourinho blamed the weather, suggesting that his team of Brazilians and Spaniards had been made “lazy” by the sheer unrelenting heat of an autumnal day in west London. In the event, the end result may have had more to do with Mourinho’s own “emotional” response in the dressing room at half-time. “I told them the way we were playing was not good enough to win the game,” Mourinho said. “In the second half we were much more aggressive. It was good, it was fast, and we made it difficult for them.”
+ 
+It is naturally tempting to make light of successive victories against newly promoted teams, but for Chelsea there are still grounds to sniff out signs of progress here. Defeat by Sunderland at home effectively chloroformed last season’s title challenge, and points were also dropped against West Brom, Aston Villa, Crystal Palace and Norwich. Beating the teams you expect to beat isn’t everything in the Premier League. But it’s a pretty good place to start, and it is in this kind of fixture that the added cutting edge of Costa might just make the most obvious difference.
+ 
+Here, the Brazilian-Spanish west Londoner had a fine match, working tirelessly, Atlético-style, and poaching a vital opening goal. Mourinho, who also confirmed that Fernando Torres would not be leaving in the transfer window, said Costa’s integration at Chelsea had been “no big deal”. “He’s a happy guy, not speaking good English but always communicating. His integration in the team is good, his style of play also adapted to our needs.”
+ 
+Not that Chelsea had it all their own way, as Leicester again showed themselves resilient travellers. Mourinho’s pre-match utterances are generally best skimmed for the odd word not specifically dedicated to inflammatory falsehoods, but Chelsea’s manager was correct to offer some wary respect for the Football League’s champion club and here, lining up in a tightly knit 4-4-2, Leicester were sharp in the tackle early on, and pacy on the break throughout.
+ 
+At times in the first half, the most visible attacker on the pitch was Leicester’s Algerian World Cup winger Riyad Mahrez, who had the first really venomous attempt on goal, after 22 minutes, making space 30 yards out and firing in a low shot that Thibaut Courtois parried away. Moments later, Cesc Fábregas had his best moment of the half, finding André Schürrle on the right and then sprinting between the lines to tee up Oscar for a shot that was deflected over the bar. And that was pretty much that for Chelsea in a first half most notable for the astute positional play of Dean Hammond and Andy King, Leicester’s third and fourth-choice central midfielders.
+ 
+There was instant improvement from Chelsea at the start of the second half, with Branislav Ivanovic in particular pushed much farther upfield. First, though, Leicester had their own moment to turn this game. David Nugent might like to look away here. With 53 minutes gone (and moments after Oscar had hit the post at the other end), a pass from Hammond put Nugent in on goal, only for Courtois to make a fine low save with his legs. Moments later, it was Nugent v Courtois II, a better chance drawing a better save as Mahrez bypassed the entire Chelsea midfield with a single pass on the break, Nugent hared in on goal and Chelsea’s goalkeeper sprinted out to hurl himself at his feet and deflect a hesitant shot wide.
+ 
+At the other end, Ivanovic continued to rampage down Chelsea’s right, and it was his burst that made the opening goal after 63 minutes. Taking Oscar’s through-pass, Ivanovic cut inside with all the twirling incision of a thunder-thighed Charlie Cooke, leaving both Liam Moore and Jeff Schlupp on their backsides. His pass inside found Costa, who, despite a bobbly touch, was able to prod past Kasper Schmeichel and low into the net.
+ 
+Chelsea continued to press and the second goal duly arrived, on 77 minutes. Hazard cut in from the left, wandered across the penalty area waiting for a challenge and then, almost with a shrug, swept a shot across the goal and into the far corner. As with the first goal, Leicester’s defensive efforts had dipped just for a second; together, those moments were enough to cost them the match.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P21" spans="3902~3908" text="Mahrez" playerID="113" />
+<Player id="P20" spans="3848~3856" text="Courtois" playerID="106" />
+<Player id="P23" spans="4123~4131" text="Ivanovic" playerID="111" />
+<Player id="P22" spans="3979~3985" text="Nugent" playerID="112" />
+<Player id="P25" spans="4270~4278" text="Ivanovic" playerID="111" />
+<Player id="P24" spans="4248~4253" text="Oscar" playerID="108" />
+<Player id="P27" spans="4390~4397" text="Schlupp" playerID="214" />
+<Player id="P26" spans="4370~4380" text="Liam Moore" playerID="115" />
+<Player id="P29" spans="4498~4515" text="Kasper Schmeichel" playerID="117" />
+<Player id="P28" spans="4440~4445" text="Costa" playerID="101" />
+<Player id="P30" spans="4616~4622" text="Hazard" playerID="118" />
+<Player id="P31" spans="3011~3025" text=" Cesc Fábregas" playerID="107" />
+<Player id="P0" spans="396~407" text="Diego Costa" playerID="101" />
+<Player id="P1" spans="412~423" text="Eden Hazard" playerID="118" />
+<Player id="P2" spans="1763~1768" text="Costa" playerID="101" />
+<Player id="P4" spans="1981~1996" text="Fernando Torres" playerID="104" />
+<Player id="P5" spans="2047~2052" text="Costa" playerID="101" />
+<Player id="P6" spans="2827~2839" text="Riyad Mahrez" playerID="105" />
+<Player id="P7" spans="2966~2982" text="Thibaut Courtois" playerID="106" />
+<Player id="P8" spans="3067~3081" text="André Schürrle" playerID="107" />
+<Player id="P9" spans="3142~3147" text="Oscar" playerID="108" />
+<Player id="P10" spans="3297~3309" text="Dean Hammond" playerID="109" />
+<Player id="P11" spans="3314~3323" text="Andy King" playerID="110" />
+<Player id="P14" spans="3592~3604" text="David Nugent" playerID="112" />
+<Player id="P13" spans="3465~3483" text="Branislav Ivanovic" playerID="111" />
+<Player id="P16" spans="3729~3736" text="Hammond" playerID="109" />
+<Player id="P15" spans="3675~3680" text="Oscar" playerID="108" />
+<Player id="P18" spans="3769~3777" text="Courtois" playerID="106" />
+<Player id="P17" spans="3741~3747" text="Nugent" playerID="112" />
+<Player id="P19" spans="3839~3845" text="Nugent" playerID="112" />
+<Coref id="C10" spans="4006~4027" text=" Chelsea’s goalkeeper" playerID="106" />
+<Coref id="C4" spans="3030~3033" text="his" playerID="107" />
+<Coref id="C7" spans="4186~4189" text="his" playerID="111" />
+<Coref id="C8" spans="4418~4421" text="His" playerID="111" />
+<Coref id="C9" spans="1822~1857" text="the Brazilian-Spanish west Londoner" playerID="101" />
+<Fact id="F21" spans="4132~4173" text="continued to rampage down Chelsea’s right" time="last match" type="movement" factID="4" />
+<Fact id="F20" spans="4028~4101" text="sprinted out to hurl himself at his feet and deflect a hesitant shot wide" time="last match" type="save" factID="3" />
+<Fact id="F23" spans="4256~4268" text="through-pass" time="last match" type="pass" factID="7" />
+<Fact id="F22" spans="4190~4239" text="burst that made the opening goal after 63 minutes" time="last match" type="movement" factID="4" />
+<Fact id="F25" spans="4422~4445" text="pass inside found Costa" time="last match" type="pass" factID="8" />
+<Fact id="F24" spans="4279~4355" text="cut inside with all the twirling incision of a thunder-thighed Charlie Cooke" time="last match" type="movement" factID="4" />
+<Fact id="F27" spans="4623~4643" text="cut in from the left" time="last match" type="movement" factID="9" />
+<Fact id="F26" spans="4476~4536" text="was able to prod past Kasper Schmeichel and low into the net" time="last match" type="goal" factID="5" />
+<Fact id="F28" spans="4645~4701" text="wandered across the penalty area waiting for a challenge" time="last match" type="positioning" factID="10" />
+<Fact id="F30" spans="4733~4785" text="swept a shot across the goal and into the far corner" time="last match" type="goal" factID="6" />
+<Fact id="F0" spans="385~390" text="goals" type="goal" time="last match" factID="5" />
+<Fact id="F1" spans="385~390" text="goals" time="last match" type="goal" factID="6" />
+<Fact id="F2" spans="1916~1945" text="poaching a vital opening goal" time="last match" type="goal" factID="5" />
+<Fact id="F3" spans="2859~2890" text="really venomous attempt on goal" time="last match" type="shot" factID="11" />
+<Fact id="F5" spans="2982~2995" text=" parried away" time="last match" type="save" factID="12" />
+<Fact id="F6" spans="3059~3094" text="finding André Schürrle on the right" time="last match" type="movement" factID="13" />
+<Fact id="F7" spans="3099~3147" text="then sprinting between the lines to tee up Oscar" time="last match" type="movement" factID="14" />
+<Fact id="F8" spans="3148~3190" text="for a shot that was deflected over the bar" time="last match" type="shot" factID="1" />
+<Fact id="F9" spans="2910~2935" text="making space 30 yards out" time="last match" type="positioning" factID="15" />
+<Fact id="F10" spans="2940~2960" text="firing in a low shot" time="last match" type="shot" factID="16" />
+<Fact id="F12" spans="3681~3714" text="had hit the post at the other end" time="last match" type="shot" factID="1" />
+<Fact id="F11" spans="3498~3525" text="pushed much farther upfield" time="last match" type="positioning" factID="17" />
+<Fact id="F14" spans="3748~3758" text="in on goal" time="last match" type="shot" factID="18" />
+<Fact id="F13" spans="3717~3723" text="a pass" time="last match" type="pass" factID="19" />
+<Fact id="F16" spans="3861~3876" text="a better chance" time="last match" type="shot" factID="2" />
+<Fact id="F15" spans="3778~3815" text="to make a fine low save with his legs" time="last match" type="save" factID="20" />
+<Fact id="F18" spans="3909~3977" text="bypassed the entire Chelsea midfield with a single pass on the break" time="last match" type="pass" factID="21" />
+<Fact id="F17" spans="3877~3898" text="drawing a better save" time="last match" type="save" factID="3" />
+<Fact id="F19" spans="3986~4002" text="hared in on goal" time="last match" type="shot" factID="2" />
+<Opinion id="O0" spans="1741~1759" text="added cutting edge" polarity="+" type="general attribute" time="last match" reported="false" />
+<Opinion id="O1" spans="1858~1874" text="had a fine match" time="last match" reported="false" type="accomplishment" polarity="+" />
+<Opinion id="O2" spans="1875~1894" text=" working tirelessly" time="last match" reported="false" type="accomplishment" polarity="+" />
+<Opinion id="O3" spans="1895~1910" text=" Atlético-style" time="last match" reported="false" type="accomplishment" polarity="+" />
+<Opinion id="O4" spans="2749~2784" text=" most visible attacker on the pitch" time="last match" reported="false" type="impact on team" polarity="+" />
+<Opinion id="O6" spans="3271~3293" text="astute positional play" reported="false" type="soccer skill" polarity="+" time="last match" />
+<Opinion id="O7" spans="3271~3293" text="astute positional play" time="last match" reported="false" type="soccer skill" polarity="+" />
+<TargetLink id="T21" fact_or_opinionID="F14" fact_or_opinionText="in on goal" targetID="P17" targetText="Nugent" />
+<TargetLink id="T20" fact_or_opinionID="F15" fact_or_opinionText="to make a fine low save with his legs" targetID="P18" targetText="Courtois" />
+<TargetLink id="T23" fact_or_opinionID="F12" fact_or_opinionText="had hit the post at the other end" targetID="P15" targetText="Oscar" />
+<TargetLink id="T22" fact_or_opinionID="F13" fact_or_opinionText="a pass" targetID="P16" targetText="Hammond" />
+<TargetLink id="T25" fact_or_opinionID="F16" fact_or_opinionText="a better chance" targetID="P19" targetText="Nugent" />
+<TargetLink id="T24" targetID="P13" targetText="Branislav Ivanovic" fact_or_opinionID="F11" fact_or_opinionText="pushed much farther upfield" />
+<TargetLink id="T27" fact_or_opinionID="F19" fact_or_opinionText="hared in on goal" targetID="P22" targetText="Nugent" />
+<TargetLink id="T26" fact_or_opinionID="F20" fact_or_opinionText="sprinted out to hurl himself at his feet and deflect a hesitant shot wide" targetID="C10" targetText=" Chelsea’s goalkeeper" />
+<TargetLink id="T29" fact_or_opinionID="F21" fact_or_opinionText="continued to rampage down Chelsea’s right" targetID="P23" targetText="Ivanovic" />
+<TargetLink id="T28" fact_or_opinionID="F22" fact_or_opinionText="burst that made the opening goal after 63 minutes" targetID="P23" targetText="Ivanovic" />
+<TargetLink id="T0" targetID="P0" targetText="Diego Costa" fact_or_opinionID="F0" fact_or_opinionText="goals" />
+<TargetLink id="T1" targetID="P1" targetText="Eden Hazard" fact_or_opinionID="F1" fact_or_opinionText="goals" />
+<TargetLink id="T2" fact_or_opinionID="O0" fact_or_opinionText="added cutting edge" targetID="P2" targetText="Costa" />
+<TargetLink id="T3" fact_or_opinionID="O1" fact_or_opinionText="had a fine match" targetID="C9" targetText="the Brazilian-Spanish west Londoner" />
+<TargetLink id="T4" fact_or_opinionID="O2" fact_or_opinionText=" working tirelessly" targetID="C9" targetText="the Brazilian-Spanish west Londoner" />
+<TargetLink id="T5" fact_or_opinionID="O3" fact_or_opinionText=" Atlético-style" targetID="C9" targetText="the Brazilian-Spanish west Londoner" />
+<TargetLink id="T6" fact_or_opinionID="F2" fact_or_opinionText="poaching a vital opening goal" targetID="C9" targetText="the Brazilian-Spanish west Londoner" />
+<TargetLink id="T7" fact_or_opinionID="F3" fact_or_opinionText="really venomous attempt on goal" targetID="P6" targetText="Riyad Mahrez" />
+<TargetLink id="T8" fact_or_opinionID="O4" fact_or_opinionText=" most visible attacker on the pitch" targetID="P6" targetText="Riyad Mahrez" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="making space 30 yards out" targetID="P6" targetText="Riyad Mahrez" />
+<TargetLink id="T30" fact_or_opinionID="F26" fact_or_opinionText="was able to prod past Kasper Schmeichel and low into the net" targetID="P28" targetText="Costa" />
+<TargetLink id="T32" fact_or_opinionID="F24" fact_or_opinionText="cut inside with all the twirling incision of a thunder-thighed Charlie Cooke" targetID="P25" targetText="Ivanovic" />
+<TargetLink id="T31" fact_or_opinionID="F25" fact_or_opinionText="pass inside found Costa" targetID="C8" targetText="His" />
+<TargetLink id="T12" fact_or_opinionID="F5" fact_or_opinionText=" parried away" targetID="P7" targetText="Thibaut Courtois" />
+<TargetLink id="T11" fact_or_opinionID="F6" fact_or_opinionText="finding André Schürrle on the right" targetID="P31" targetText=" Cesc Fábregas" />
+<TargetLink id="T33" fact_or_opinionID="F23" fact_or_opinionText="through-pass" targetID="P24" targetText="Oscar" />
+<TargetLink id="T14" fact_or_opinionID="F7" fact_or_opinionText="then sprinting between the lines to tee up Oscar" targetID="P31" targetText=" Cesc Fábregas" />
+<TargetLink id="T36" fact_or_opinionID="F28" fact_or_opinionText="wandered across the penalty area waiting for a challenge" targetID="P30" targetText="Hazard" />
+<TargetLink id="T13" fact_or_opinionID="F10" fact_or_opinionText="firing in a low shot" targetID="P6" targetText="Riyad Mahrez" />
+<TargetLink id="T35" fact_or_opinionID="F30" fact_or_opinionText="swept a shot across the goal and into the far corner" targetID="P30" targetText="Hazard" />
+<TargetLink id="T16" fact_or_opinionID="O7" fact_or_opinionText="astute positional play" targetID="P11" targetText="Andy King" />
+<TargetLink id="T15" fact_or_opinionID="F8" fact_or_opinionText="for a shot that was deflected over the bar" targetID="P9" targetText="Oscar" />
+<TargetLink id="T37" fact_or_opinionID="F27" fact_or_opinionText="cut in from the left" targetID="P30" targetText="Hazard" />
+<TargetLink id="T18" fact_or_opinionID="F18" fact_or_opinionText="bypassed the entire Chelsea midfield with a single pass on the break" targetID="P21" targetText="Mahrez" />
+<TargetLink id="T17" fact_or_opinionID="O6" fact_or_opinionText="astute positional play" targetID="P10" targetText="Dean Hammond" />
+<TargetLink id="T19" fact_or_opinionID="F17" fact_or_opinionText="drawing a better save" targetID="P20" targetText="Courtois" />
+</TAGS>
+</SoccEval1.2>

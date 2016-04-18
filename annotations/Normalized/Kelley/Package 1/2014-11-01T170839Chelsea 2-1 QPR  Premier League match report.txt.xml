@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/nov/01/chelsea-qpr-premier-league-match-report
+
+Chelsea 2-1 QPR | Premier League match report
+
+
+Chelsea continue to set the pace at the top of the Premier League but their stride does not look unbreakable. José Mourinho knows that, which is why he spent much of this west London derby seething on the sidelines, his team requiring a late penalty to overcome a lowly but tenacious Queen Park Rangers side.
+ 
+“My team did not play well, or well enough,” huffed Mourinho. “It was not what I was expecting. We had periods of good football, but not consistently. I was expecting more. There is no doubt we deserve the points but one thing is to deserve and another is to deserve and play very well, which we didn’t.”
+ 
+Chelsea were mostly dominant but at times sloppy. They seemed capable of blowing away visitors who had suffered heavy defeats in all of their away trips this season, yet they also betrayed a fragility that meant they wound up grateful to cling on to all three points. Their spluttering irritated their manager. “It was periods, 10 to 15 minutes here, 10 to 15 minutes there,” said Mourinho. “We were playing against a very well organised defensive team where everyone knew the job they had to do. It was fantastic work by Harry and they gave us a tough match. But with our quality I would expect us to be stronger.”
+ 
+Mourinho had deployed his most powerful available line-up, with the fit-again Diego Costa returning to the side after almost a month out, as Chelsea made no concession to the forthcoming trip to Maribor in the Champions League nor next weekend’s showdown with Liverpool. Mourinho evidently wants his team to continue stretching their lead in the Premier League, especially after last weekend’s last-minute stumble at Old Trafford. At first it seemed that QPR would be submissive opponents, as the visitors surrendered possession straight from kick-off, inviting two minutes of pressure during which Chelsea threatened with three successive corners.
+ 
+It soon transpired, however, that Rangers were in obstinate mood and, with Sandro excelling at the base of a five-man central midfield, Chelsea toiled to create chances despite near-constant possession. Sporadic counterattacks by the visitors even evoked memories of Rangers’ last visit here, in January 2013, when they pilfered a 1-0 victory.
+ 
+Costa looked short of sharpness but did produce a foxy drag-back and pass in the 10th minute to dink the ball to Oscar, who dabbed a soft shot wide from 12 yards. A minute later, the ever-dangerous full-back Branislav Ivanovic made the stealthy run of a natural predator to collect a through-ball from Willian, but then spared his quarry by shooting into the side netting from close range.
+ 
+Generally, however, QPR were doing a fair job at keeping their hosts at bay and, in the 15th minute, they served warning of their own menace when Charlie Austin headed just over the bar following a cross from Junior Hoilett.
+ 
+Eden Hazard was seeing plenty of the ball and producing some sumptuous touches but not penetrating. It took a mistake by Eduardo Vargas in the 25th minute to create another opening for the home team, with Cesc Fàbregas pouncing on the Chilean’s loose pass before forcing a save from Rob Green from 25 yards. Seven minutes later, the goalkeeper was left bewildered by Oscar, who ran in from the right wing to receive a pass from Fàbregas and flip the ball into the far corner of the net with the outside of his foot. It was an exquisite finish. As the crowd cooed over the Brazilian’s skill, Mourinho bore an expression that seemed to say “about time.”
+ 
+QPR emerged from half-time with more attacking intent. They pressed Chelsea back in the early minutes of the second period, causing Mourinho to fume further. Surrendering the initiative at Manchester City and United was bad enough; the prospect of doing it at home to QPR seemed intolerable for the Portuguese.
+ 
+Willian might have soothed his manager by setting up a killer second goal in the 54th minute but instead over-hit an intended pass to Hazard, who lunged but could not connect with the ball seven yards from goal.
+ 
+Harry Redknapp introduced Bobby Zamora on the hour to give Charlie Austin company up front. Two minutes later Austin equalised. It was a wonderful finish, too, as Leroy Fer fired a bouncing shot at goal from 20 yards and the striker, standing eight yards out, applied a backflick that wrongfooted Thibaut Courtois. In the end Chelsea needed help to secure the win – and, not for the first time this season, Redknapp’s men came to their opponent’s aid, Vargas giving away a penalty with a witless shunt on Hazard in the 75th minute. Redknapp complained that it was just a “shoulder charge”, but the challenge was reckless. And from the spot Hazard was ruthless. But Mourinho knows that stronger teams are unlikely to show such vulnerability.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P21" spans="4622~4628" text="Vargas" playerID="109" />
+<Player id="P20" spans="4467~4483" text="Thibaut Courtois" playerID="116" />
+<Player id="P23" spans="4810~4816" text="Hazard" playerID="108" />
+<Player id="P22" spans="4675~4681" text="Hazard" playerID="108" />
+<Player id="P24" spans="3272~3281" text="Rob Green" playerID="111" />
+<Player id="P0" spans="1451~1462" text="Diego Costa" playerID="101" />
+<Player id="P1" spans="2099~2105" text="Sandro" playerID="102" />
+<Player id="P2" spans="2370~2375" text="Costa" playerID="101" />
+<Player id="P3" spans="2483~2488" text="Oscar" playerID="103" />
+<Player id="P4" spans="2578~2596" text="Branislav Ivanovic" playerID="104" />
+<Player id="P5" spans="2672~2679" text="Willian" playerID="105" />
+<Player id="P6" spans="2908~2922" text="Charlie Austin" playerID="106" />
+<Player id="P7" spans="2971~2985" text="Junior Hoilett" playerID="107" />
+<Player id="P8" spans="2989~3000" text="Eden Hazard" playerID="108" />
+<Player id="P9" spans="3110~3124" text="Eduardo Vargas" playerID="109" />
+<Player id="P10" spans="3194~3207" text="Cesc Fàbregas" playerID="110" />
+<Player id="P12" spans="3356~3361" text="Oscar" playerID="103" />
+<Player id="P14" spans="3956~3963" text="Willian" playerID="105" />
+<Player id="P13" spans="3417~3425" text="Fàbregas" playerID="110" />
+<Player id="P16" spans="4196~4208" text="Bobby Zamora" playerID="113" />
+<Player id="P15" spans="4090~4096" text="Hazard" playerID="108" />
+<Player id="P18" spans="4280~4286" text="Austin" playerID="106" />
+<Player id="P17" spans="4229~4243" text="Charlie Austin" playerID="106" />
+<Player id="P19" spans="4333~4342" text="Leroy Fer" playerID="115" />
+<Coref id="C4" spans="2697~2700" text="his" playerID="104" />
+<Coref id="C5" spans="3495~3498" text="his" playerID="110" />
+<Coref id="C6" spans="3983~3986" text="his" playerID="105" />
+<Coref id="C7" spans="3220~3233" text="the Chilean’s" playerID="110" />
+<Coref id="C8" spans="3318~3332" text="the goalkeeper" playerID="111" />
+<Coref id="C9" spans="4391~4402" text="the striker" playerID="106" />
+<Fact id="F0" spans="2406~2488" text="did produce a foxy drag-back and pass in the 10th minute to dink the ball to Oscar" time="last match" type="pass" factID="3" />
+<Fact id="F1" spans="2490~2531" text="who dabbed a soft shot wide from 12 yards" time="last match" type="goal" factID="1" />
+<Fact id="F2" spans="2597~2679" text="made the stealthy run of a natural predator to collect a through-ball from Willian" time="last match" type="movement" factID="4" />
+<Fact id="F3" spans="2681~2758" text="but then spared his quarry by shooting into the side netting from close range" time="last match" type="shot" factID="5" />
+<Fact id="F4" spans="2923~2947" text="headed just over the bar" time="last match" type="shot" factID="6" />
+<Fact id="F5" spans="2948~2970" text="following a cross from" time="last match" type="pass" factID="7" />
+<Fact id="F6" spans="3208~3295" text="pouncing on the Chilean’s loose pass before forcing a save from Rob Green from 25 yards" time="last match" type="shot" factID="8" />
+<Fact id="F7" spans="3234~3244" text="loose pass" time="last match" type="pass" factID="9" />
+<Fact id="F8" spans="3259~3271" text=" a save from" time="last match" type="save" factID="10" />
+<Fact id="F9" spans="3363~3411" text="who ran in from the right wing to receive a pass" time="last match" type="positioning" factID="11" />
+<Fact id="F10" spans="3426~3503" text="and flip the ball into the far corner of the net with the outside of his foot" time="last match" type="goal" factID="2" />
+<Fact id="F12" spans="4185~4195" text="introduced" time="last match" type="substitute in" factID="12" />
+<Fact id="F11" spans="4049~4096" text="but instead over-hit an intended pass to Hazard" time="last match" type="pass" factID="13" />
+<Fact id="F14" spans="4343~4386" text="fired a bouncing shot at goal from 20 yards" time="last match" type="shot" factID="14" />
+<Fact id="F13" spans="4287~4296" text="equalised" time="last match" type="shot" factID="15" />
+<Fact id="F16" spans="4629~4700" text="giving away a penalty with a witless shunt on Hazard in the 75th minute" time="last match" type="foul" factID="16" />
+<Fact id="F15" spans="4430~4483" text="applied a backflick that wrongfooted Thibaut Courtois" time="last match" type="movement" factID="17" />
+<Opinion id="O0" spans="2106~2158" text="excelling at the base of a five-man central midfield" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O1" spans="2376~2401" text="looked short of sharpness" time="last match" reported="false" type="general attribute" polarity="-" />
+<Opinion id="O2" spans="2549~2577" text="the ever-dangerous full-back" time="last match" reported="false" type="soccer skill" polarity="+" />
+<Opinion id="O3" spans="3035~3067" text="producing some sumptuous touches" time="last match" reported="false" type="soccer skill" polarity="+" />
+<Opinion id="O4" spans="3333~3352" text="was left bewildered" time="last match" reported="false" type="general attribute" polarity="-" />
+<Opinion id="O5" spans="3963~4048" text=" might have soothed his manager by setting up a killer second goal in the 54th minute" time="last match" reported="false" type="accomplishment" polarity="-" hypothetical="counterfactive" />
+<Opinion id="O6" spans="4817~4829" text="was ruthless" time="last match" reported="false" type="general attribute" polarity="+" />
+<TargetLink id="T4" fact_or_opinionID="O2" fact_or_opinionText="the ever-dangerous full-back" targetID="P4" targetText="Branislav Ivanovic" />
+<TargetLink id="T5" fact_or_opinionID="F2" fact_or_opinionText="made the stealthy run of a natural predator to collect a through-ball from Willian" targetID="P4" targetText="Branislav Ivanovic" />
+<TargetLink id="T6" fact_or_opinionID="F3" fact_or_opinionText="but then spared his quarry by shooting into the side netting from close range" targetID="P4" targetText="Branislav Ivanovic" />
+<TargetLink id="T7" fact_or_opinionID="F4" fact_or_opinionText="headed just over the bar" targetID="P6" targetText="Charlie Austin" />
+<TargetLink id="T8" fact_or_opinionID="F5" fact_or_opinionText="following a cross from" targetID="P7" targetText="Junior Hoilett" />
+<TargetLink id="T9" fact_or_opinionID="O3" fact_or_opinionText="producing some sumptuous touches" targetID="P8" targetText="Eden Hazard" />
+<TargetLink id="T10" fact_or_opinionID="F6" fact_or_opinionText="pouncing on the Chilean’s loose pass before forcing a save from Rob Green from 25 yards" targetID="P10" targetText="Cesc Fàbregas" />
+<TargetLink id="T21" fact_or_opinionID="F15" fact_or_opinionText="applied a backflick that wrongfooted Thibaut Courtois" targetID="C9" targetText="the striker" />
+<TargetLink id="T20" fact_or_opinionID="F14" fact_or_opinionText="fired a bouncing shot at goal from 20 yards" targetID="P19" targetText="Leroy Fer" />
+<TargetLink id="T12" fact_or_opinionID="F8" fact_or_opinionText=" a save from" targetID="P24" targetText="Rob Green" />
+<TargetLink id="T11" fact_or_opinionID="F7" fact_or_opinionText="loose pass" targetID="C7" targetText="the Chilean’s" />
+<TargetLink id="T22" fact_or_opinionID="F16" fact_or_opinionText="giving away a penalty with a witless shunt on Hazard in the 75th minute" targetID="P21" targetText="Vargas" />
+<TargetLink id="T14" fact_or_opinionID="F9" fact_or_opinionText="who ran in from the right wing to receive a pass" targetID="P12" targetText="Oscar" />
+<TargetLink id="T13" fact_or_opinionID="O4" fact_or_opinionText="was left bewildered" targetID="C8" targetText="the goalkeeper" />
+<TargetLink id="T16" fact_or_opinionID="O5" fact_or_opinionText=" might have soothed his manager by setting up a killer second goal in the 54th minute" targetID="P14" targetText="Willian" />
+<TargetLink id="T15" fact_or_opinionID="F10" fact_or_opinionText="and flip the ball into the far corner of the net with the outside of his foot" targetID="P12" targetText="Oscar" />
+<TargetLink id="T18" fact_or_opinionID="P16" fact_or_opinionText="Bobby Zamora" targetID="F12" targetText="introduced" />
+<TargetLink id="T17" fact_or_opinionID="F11" fact_or_opinionText="but instead over-hit an intended pass to Hazard" targetID="P14" targetText="Willian" />
+<TargetLink id="T0" fact_or_opinionID="O0" fact_or_opinionText="excelling at the base of a five-man central midfield" targetID="P1" targetText="Sandro" />
+<TargetLink id="T1" fact_or_opinionID="O1" fact_or_opinionText="looked short of sharpness" targetID="P2" targetText="Costa" />
+<TargetLink id="T19" fact_or_opinionID="F13" fact_or_opinionText="equalised" targetID="P18" targetText="Austin" />
+<TargetLink id="T2" fact_or_opinionID="F0" fact_or_opinionText="did produce a foxy drag-back and pass in the 10th minute to dink the ball to Oscar" targetID="P2" targetText="Costa" />
+<TargetLink id="T3" fact_or_opinionID="F1" fact_or_opinionText="who dabbed a soft shot wide from 12 yards" targetID="P3" targetText="Oscar" />
+<TargetLink id="T23" fact_or_opinionID="O6" fact_or_opinionText="was ruthless" targetID="P23" targetText="Hazard" />
+</TAGS>
+</SoccEval1.2>

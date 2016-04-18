@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-manchester-city/1703937
+
+Jan 31, 2015 2:21:00 PM
+
+Manuel Pellegrini had the Spaniard to thank for pulling his side back into it after cancelling out Loic Remy's opener as Frank Lampard made an emotional return to Stamford Bridge
+
+Chelsea preserved its place at the top of the table after a 1-1 draw with Manchester City.
+
+The Blues were without Diego Costa, who received a three-match ban for a stamp on Emre Can during the League Cup semifinal second leg this week.
+The man to benefit from Costa's absence, Loic Remy, took center stage at Stamford Bridge on Saturday.
+
+He gave the hosts a 41st-minute lead, before a rare mistake from Chelsea goalkeeper Thibaut Courtois allowed David Silva to equalize in the final minute of the first half.
+
+Although Manuel Pellegrini's team controlled much of the second period, its winless league run extended to three matches.
+
+City overhauled deficits in late runs to the Premier League crown in 2012 and 2014, and a similar effort may now be required, as Mourinho’s men remain five points clear with 15 games remaining.
+
+Aside from Costa's absence, Ramires came into the Chelsea midfield as Cesc Fabregas missed out with a hamstring injury, while Bacary Sagna was a surprise inclusion at right back ahead of Pablo Zabaleta for Manchester City.
+
+The visitors started sharply, as Courtois beat away a stinging shot from Jesus Navas inside the first 20 seconds and Fernandinho had a low, angled drive deflected wide.
+
+James Milner was alert to disposes Chelsea right back Branislav Ivanovic in the 24th minute and play the ball into Sergio Aguero, but Kurt Zouma forced City's top scorer to shoot from an acute angle and Courtois saved comfortably.
+
+Courtois' opposite number, Joe Hart, made his first save of the match from an Oscar effort after an error by Vincent Kompany let Remy escape down the left flank.
+
+John Terry then joined fellow captain Kompany in having an error go unpunished - Aguero pulling a shot wastefully wide after the former England man had missed his kick from a 32nd-minute punt downfield.
+
+That was a chance the Argentina striker would regret 10 minutes later, as Eden Hazard brilliantly steered Ivanovic's flighted pass back across goal for Remy to convert.
+
+City's response was immediate, as Courtois fumbled a searching Navas cross, Aguero smashed the loose ball back towards goal and Silva prodded home.
+
+Frank Lampard enjoyed warm applause on his return to Stamford Bridge while warming up with the City substitutes, as his colleagues on the field enjoyed an encouraging start the second half.
+
+Silva and Navas combined on the right flank for Fernandinho to plant a header into the turf - Courtois turning the bouncing ball over.
+
+Milner then looped a headed attempt onto the roof of the net, the impressive Navas again supplying the ammunition, and City's control increased as Chelsea's midweek League Cup exertions began to tell.
+
+Lampard finally made a 76th-minute introduction as City attempted a late assault.
+
+However, with Mourinho increasingly animated on the touchline, his side displayed steely resilience in keeping with its manager’s siege mentality, as the Blues closed out what could prove a vital point in the title race.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="193~202" text="Loic Remy" playerID="101" />
+<Player id="P1" spans="215~228" text="Frank Lampard" playerID="102" />
+<Player id="P2" spans="389~400" text="Diego Costa" playerID="103" />
+<Player id="P3" spans="448~456" text="Emre Can" playerID="104" />
+<Player id="P4" spans="535~540" text="Costa" playerID="103" />
+<Player id="P5" spans="552~561" text="Loic Remy" playerID="101" />
+<Player id="P6" spans="698~714" text="Thibaut Courtois" playerID="105" />
+<Player id="P7" spans="723~734" text="David Silva" playerID="106" />
+<Player id="P8" spans="729~734" text="Silva" playerID="106" />
+<Player id="P9" spans="1116~1121" text="Costa" playerID="103" />
+<Player id="P10" spans="1133~1140" text="Ramires" playerID="107" />
+<Player id="P11" spans="1175~1188" text="Cesc Fabregas" playerID="108" />
+<Player id="P12" spans="1231~1243" text="Bacary Sagna" playerID="109" />
+<Player id="P13" spans="1292~1306" text="Pablo Zabaleta" playerID="110" />
+<Player id="P14" spans="1362~1370" text="Courtois" playerID="105" />
+<Player id="P15" spans="1402~1413" text="Jesus Navas" playerID="111" />
+<Player id="P16" spans="1446~1457" text="Fernandinho" playerID="112" />
+<Player id="P18" spans="1499~1511" text="James Milner" playerID="113" />
+<Player id="P19" spans="1553~1571" text="Branislav Ivanovic" playerID="114" />
+<Player id="P20" spans="1614~1627" text="Sergio Aguero" playerID="115" />
+<Player id="P21" spans="1633~1643" text="Kurt Zouma" playerID="116" />
+<Player id="P22" spans="1702~1710" text="Courtois" playerID="105" />
+<Player id="P23" spans="1731~1739" text="Courtois" playerID="105" />
+<Player id="P24" spans="1758~1766" text="Joe Hart" playerID="117" />
+<Player id="P25" spans="1809~1814" text="Oscar" playerID="118" />
+<Player id="P26" spans="1840~1855" text="Vincent Kompany" playerID="119" />
+<Player id="P27" spans="1860~1864" text="Remy" playerID="101" />
+<Player id="P28" spans="1894~1904" text="John Terry" playerID="120" />
+<Player id="P29" spans="1932~1939" text="Kompany" playerID="119" />
+<Player id="P30" spans="1975~1981" text="Aguero" playerID="115" />
+<Player id="P31" spans="2172~2183" text="Eden Hazard" playerID="121" />
+<Player id="P32" spans="2204~2212" text="Ivanovic" playerID="114" />
+<Player id="P33" spans="2250~2254" text="Remy" playerID="101" />
+<Player id="P34" spans="2302~2310" text="Courtois" playerID="105" />
+<Player id="P35" spans="2331~2336" text="Navas" playerID="111" />
+<Player id="P36" spans="2344~2350" text="Aguero" playerID="115" />
+<Player id="P37" spans="2396~2401" text="Silva" playerID="106" />
+<Player id="P38" spans="2417~2430" text="Frank Lampard" playerID="102" />
+<Player id="P39" spans="2608~2613" text="Silva" playerID="106" />
+<Player id="P40" spans="2618~2623" text="Navas" playerID="111" />
+<Player id="P41" spans="2656~2667" text="Fernandinho" playerID="112" />
+<Player id="P42" spans="2702~2710" text="Courtois" playerID="105" />
+<Player id="P43" spans="2744~2750" text="Milner" playerID="113" />
+<Player id="P44" spans="2821~2826" text="Navas" playerID="111" />
+<Player id="P45" spans="2946~2953" text="Lampard" playerID="102" />
+<Coref id="C1" spans="614~616" text="He" playerID="P0" />
+<Coref id="C2" spans="1773~1776" text="his" playerID="P24" />
+<Coref id="C3" spans="2053~2056" text="his" playerID="P28" />
+<Coref id="C4" spans="2456~2459" text="his" playerID="P1" />
+<Coref id="C5" spans="2533~2536" text="his" playerID="P1" />
+<Coref id="C7" spans="116~128" text="the Spaniard" playerID="P7" />
+<Coref id="C8" spans="511~518" text="The man" playerID="P0" />
+<Coref id="C9" spans="1651~1668" text="City's top scorer" playerID="P20" />
+<Coref id="C10" spans="2019~2041" text="the former England man" playerID="P28" />
+<Coref id="C11" spans="2116~2137" text="the Argentina striker" playerID="P20" />
+<Fact id="F0" spans="193~211" text="Loic Remy's opener" type="goal" time="last match" factID="1" />
+<Fact id="F1" spans="178~211" text="cancelling out Loic Remy's opener" time="last match" type="goal" factID="2" />
+<Fact id="F3" spans="437~456" text="a stamp on Emre Can" type="foul" time="current season" factID="3" />
+<Fact id="F4" spans="617~650" text="gave the hosts a 41st-minute lead" factID="4" time="last match" type="goal" />
+<Fact id="F5" spans="738~746" text="equalize" factID="5" type="goal" time="last match" />
+<Fact id="F6" spans="1189~1223" text="missed out with a hamstring injury" time="current season" type="injury" factID="6" />
+<Fact id="F7" spans="1371~1396" text="beat away a stinging shot" type="save" factID="7" time="last match" />
+<Fact id="F8" spans="1381~1396" text="a stinging shot" factID="8" type="shot" time="last match" />
+<Fact id="F9" spans="1525~1533" text="disposes" factID="9" type="movement" time="last match" />
+<Fact id="F10" spans="1595~1627" text="play the ball into Sergio Aguero" time="last match" type="pass" factID="10" />
+<Fact id="F11" spans="1672~1697" text="shoot from an acute angle" type="shot" time="last match" factID="11" />
+<Fact id="F12" spans="1711~1728" text="saved comfortably" factID="12" time="last match" type="save" />
+<Fact id="F13" spans="1768~1800" text="made his first save of the match" type="save" factID="13" time="last match" />
+<Fact id="F14" spans="1815~1821" text="effort" type="shot" time="last match" factID="14" />
+<Fact id="F15" spans="1865~1891" text="escape down the left flank" time="last match" type="movement" factID="15" />
+<Fact id="F16" spans="1982~2012" text="pulling a shot wastefully wide" type="shot" time="last match" factID="16" />
+<Fact id="F18" spans="2184~2240" text="brilliantly steered Ivanovic's flighted pass back across" type="assist" time="last match" factID="17" />
+<Fact id="F19" spans="2215~2228" text="flighted pass" type="pass" time="last match" factID="18" />
+<Fact id="F20" spans="2241~2245" text="goal" type="goal" factID="19" time="last match" />
+<Fact id="F21" spans="2311~2342" text="fumbled a searching Navas cross" factID="20" time="last match" type="pass" />
+<Fact id="F22" spans="2351~2378" text="smashed the loose ball back" time="last match" type="assist" factID="21" />
+<Fact id="F23" spans="2402~2414" text="prodded home" time="last match" type="goal" factID="22" />
+<Fact id="F24" spans="2671~2699" text="plant a header into the turf" time="last match" factID="23" type="shot" />
+<Fact id="F25" spans="2711~2741" text="turning the bouncing ball over" type="save" time="last match" factID="24" />
+<Fact id="F26" spans="2624~2651" text="combined on the right flank" time="last match" type="positioning" factID="25" />
+<Fact id="F27" spans="2756~2804" text="looped a headed attempt onto the roof of the net" type="shot" factID="26" time="last match" />
+<Fact id="F28" spans="2833~2857" text="supplying the ammunition" factID="27" type="pass" time="last match" />
+<Fact id="F29" spans="2962~2993" text="made a 76th-minute introduction" time="last match" type="substitute in" factID="28" />
+<Opinion id="O0" spans="1943~1972" text="having an error go unpunished" time="last match" reported="false" type="impact on team" polarity="-" hypothetical="counterfactive" />
+<Opinion id="O1" spans="2431~2452" text="enjoyed warm applause" time="last match" reported="false" polarity="+" type="soccer skill" hypothetical="counterfactive" />
+<Opinion id="O2" spans="2806~2820" text="the impressive" time="last match" reported="false" polarity="+" hypothetical="counterfactive" type="general attribute" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="Loic Remy's opener" targetID="P0" targetText="Loic Remy" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="cancelling out Loic Remy's opener" targetID="P7" targetText="David Silva" />
+<TargetLink id="T2" fact_or_opinionID="F3" fact_or_opinionText="a stamp on Emre Can" targetID="P2" targetText="Diego Costa" />
+<TargetLink id="T3" fact_or_opinionID="F4" fact_or_opinionText="gave the hosts a 41st-minute lead" targetID="P0" targetText="Loic Remy" />
+<TargetLink id="T4" fact_or_opinionID="F5" fact_or_opinionText="equalize" targetID="P7" targetText="David Silva" />
+<TargetLink id="T5" fact_or_opinionID="F6" fact_or_opinionText="missed out with a hamstring injury" targetID="P11" targetText="Cesc Fabregas" />
+<TargetLink id="T6" fact_or_opinionID="F7" fact_or_opinionText="beat away a stinging shot" targetID="P6" targetText="Thibaut Courtois" />
+<TargetLink id="T7" fact_or_opinionID="F8" fact_or_opinionText="a stinging shot" targetID="P15" targetText="Jesus Navas" />
+<TargetLink id="T8" fact_or_opinionID="F9" fact_or_opinionText="disposes" targetID="P18" targetText="James Milner" />
+<TargetLink id="T9" fact_or_opinionID="F10" fact_or_opinionText="play the ball into Sergio Aguero" targetID="P18" targetText="James Milner" />
+<TargetLink id="T10" fact_or_opinionID="F11" fact_or_opinionText="shoot from an acute angle" targetID="P20" targetText="Sergio Aguero" />
+<TargetLink id="T11" fact_or_opinionID="F12" fact_or_opinionText="saved comfortably" targetID="P6" targetText="Thibaut Courtois" />
+<TargetLink id="T12" fact_or_opinionID="F13" fact_or_opinionText="made his first save of the match" targetID="P24" targetText="Joe Hart" />
+<TargetLink id="T13" fact_or_opinionID="F14" fact_or_opinionText="effort" targetID="P25" targetText="Oscar" />
+<TargetLink id="T14" fact_or_opinionID="F15" fact_or_opinionText="escape down the left flank" targetID="P0" targetText="Loic Remy" />
+<TargetLink id="T15" fact_or_opinionID="F16" fact_or_opinionText="pulling a shot wastefully wide" targetID="P20" targetText="Sergio Aguero" />
+<TargetLink id="T16" fact_or_opinionID="F18" fact_or_opinionText="brilliantly steered Ivanovic's flighted pass back across" targetID="P31" targetText="Eden Hazard" />
+<TargetLink id="T17" fact_or_opinionID="F19" fact_or_opinionText="flighted pass" targetID="P19" targetText="Branislav Ivanovic" />
+<TargetLink id="T18" fact_or_opinionID="F20" fact_or_opinionText="goal" targetID="P0" targetText="Loic Remy" />
+<TargetLink id="T19" fact_or_opinionID="F21" fact_or_opinionText="fumbled a searching Navas cross" targetID="P6" targetText="Thibaut Courtois" />
+<TargetLink id="T20" fact_or_opinionID="F22" fact_or_opinionText="smashed the loose ball back" targetID="P20" targetText="Sergio Aguero" />
+<TargetLink id="T21" fact_or_opinionID="F23" fact_or_opinionText="prodded home" targetID="P7" targetText="David Silva" />
+<TargetLink id="T22" fact_or_opinionID="F24" fact_or_opinionText="plant a header into the turf" targetID="P16" targetText="Fernandinho" />
+<TargetLink id="T23" fact_or_opinionID="F25" fact_or_opinionText="turning the bouncing ball over" targetID="P6" targetText="Thibaut Courtois" />
+<TargetLink id="T24" fact_or_opinionID="F26" fact_or_opinionText="combined on the right flank" targetID="P7" targetText="David Silva" />
+<TargetLink id="T25" fact_or_opinionID="F27" fact_or_opinionText="looped a headed attempt onto the roof of the net" targetID="P18" targetText="James Milner" />
+<TargetLink id="T26" fact_or_opinionID="F28" fact_or_opinionText="supplying the ammunition" targetID="P15" targetText="Jesus Navas" />
+<TargetLink id="T27" fact_or_opinionID="F29" fact_or_opinionText="made a 76th-minute introduction" targetID="P1" targetText="Frank Lampard" />
+<TargetLink id="T28" fact_or_opinionID="F26" fact_or_opinionText="combined on the right flank" targetID="P15" targetText="Jesus Navas" />
+<TargetLink id="T29" fact_or_opinionID="O0" fact_or_opinionText="having an error go unpunished" targetID="P29" targetText="Kompany" />
+<TargetLink id="T30" fact_or_opinionID="O1" fact_or_opinionText="enjoyed warm applause" targetID="P38" targetText="Frank Lampard" />
+<TargetLink id="T31" fact_or_opinionID="O2" fact_or_opinionText="the impressive" targetID="P44" targetText="Navas" />
+</TAGS>
+</SoccEval1.2>

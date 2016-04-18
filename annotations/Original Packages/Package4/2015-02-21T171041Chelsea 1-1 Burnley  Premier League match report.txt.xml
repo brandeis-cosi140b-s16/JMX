@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.1>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/feb/21/chelsea-burnley-premier-league-match-report
+
+Chelsea 1-1 Burnley | Premier League match report
+
+
+Perhaps Chelsea should have expected a deviation from their script. After all, the week had begun with the club revealing they had chosen this match to mark their second annual equality day but that announcement was soon drowned out by howls of disgust after a handful of their fans exposed themselves as racist oafs on the Paris Métro before Tuesday’s Champions League game with Paris Saint-Germain. An uneventful return to action on the pitch would have been welcome but instead Chelsea were denied two points by Burnley in a game that ended in ugly recriminations.
+ 
+It would be a stretch to say that Chelsea’s title charge came off the rails here but it did stall, at least. José Mourinho’s side lost not only points but also a key player, with Nemanja Matic being sent off in the second half for reacting violently to a dangerous challenge by Ashley Barnes. Chelsea were leading at that point thanks to Branislav Ivanovic’s goal in the first half but Burnley equalised against the 10 men when Ben Mee headed in from a corner nine minutes from time.
+ 
+Both sides sought a decisive goal in a frenetic finish but ultimately the league leaders and the side fighting relegation shared the points and Mourinho wound up making dark allusions to the influence of officials.
+  
+ Related: José Mourinho blames referee for Nemanja Matic’s dismissal 
+   
+Chelsea had wanted to send out positive messages – first to society, as, in the match programme and on giant screens at Stamford Bridge, various senior figures, including John Terry, condemned the idiocy of the fans on the Métro, and a group of supporters in the Shed End held aloft a home-made banner declaring “Black or white, we’re all Blue”; and second to Manchester City, who would have kicked off their evening match against Newcastle United 10 points adrift if Chelsea registered the expected victory.
+ 
+Events on the pitch began promisingly for the hosts. The Burnley goalkeeper, Tom Heaton, was forced into a one-handed save in the fifth minute when Juan Cuadrado sent a header towards goal from 15 yards after meeting a cross from Filipe Luís. But all season Burnley have been on a mission to subvert the established order and Sean Dyche’s gallant band of rebels soon showed their teeth in the sixth minute when Barnes’s fine volley was well saved by Thibault Courtois.
+ 
+For all their laudable attributes, Burnley do not have a player of Eden Hazard’s ingenuity. Few teams do. In the 14th minute the dazzling Belgian showcased his rare skills by skedaddling past three defenders in the penalty area before pulling the ball back for Ivanovic to tuck into the net from close range. That was a repetition of one Parisian event Chelsea did not mind seeing again, with this goal taking the defender’s tally for the season to six.
+  
+ Related: Back on home turf, Chelsea fans condemn club’s Paris racism shame 
+   
+Burnley continued to pose problems but were kept mostly at arm’s length by Chelsea. Courtois made another stop from a long-range effort from Barnes. Barnes was then involved in a challenge with Ivanovic that Mourinho suggested should have resulted in a dismissal for the visitor but the referee saw nothing wrong.
+ 
+Diego Costa, as in Paris, was struggling to rediscover the form he showed before his three-game suspension but in the 32nd minute he did well to find Cuadrado, who set up Ivanovic for another shot, this time from 20 yards. The Serb’s drive was blocked by Michael Kightly’s flailing arm and Chelsea demanded a penalty, but Martin Atkinson seemingly deemed it accidental.
+ 
+Chelsea appealed in the 43rd minute when Costa collapsed in the box following contact from Jason Shackell. Mourinho, who claims his striker gets a raw deal from officials, threw his arms to the skies in supposed disbelief when the referee waved play on, but the decision seemed fair – Shackell’s hands did touch Costa but it was hardly the sort of shove that would, for example, prevent a commuter from boarding a train.
+ 
+Chelsea improved at the start of the second half, though Burnley were the first to threaten a goal. In the 50th minute Barnes brought Courtois’s best save so far with a deflected drive from 18 yards, the keeper diverting it over with one hand.
+ 
+Chelsea immediately went close at the other end as Ivanovic sent a header towards goal from a corner. Burnley scrambled the ball away despite Matic’s attempt to help it over the line. Hazard then sent Costa scampering towards the box but the striker’s shot weakly at Heaton.
+  
+ Related: José Mourinho spot-on with response to Chelsea fans’ Paris incident | Paul Wilson 
+   
+Ivanovic was ubiquitous. In the 58th minute he clipped an inviting cross from the right towards Costa, but the forward failed to apply a decisive touch from close range.
+ 
+Chelsea seemed to be tightening their grip but Matic lost his head. The midfielder was angered by Barnes’s dangerous follow-through in a tackle and showed his fury by charging at the player and pushing him to the ground. The referee issued a red card and Matic briefly had to be held back by team-mates before accepting the decision and jogging down the tunnel.
+ 
+Mourinho sought to shore up midfield and was intending to introduce Gary Cahill for Costa in the 81st minute as Burnley lined up a corner following a fine save by Courtois from another Barnes shot, but he could not make the change in time and had to watch aghast as Mee rose above Ramires and headed Trippier’s delivery into the net. Both managers made attacking changes in search of a winner and Burnley came closest to snatching it, Ings firing over after a swift counter-ttack in stoppage time.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="894~907" text="Nemanja Matic" playerID="null" />
+<Player id="P1" spans="993~1006" text="Ashley Barnes" playerID="null" />
+<Player id="P2" spans="1053~1071" text="Branislav Ivanovic" playerID="null" />
+<Player id="P3" spans="1143~1150" text="Ben Mee" playerID="null" />
+<Player id="P4" spans="1462~1475" text="Nemanja Matic" playerID="null" />
+<Player id="P5" spans="1664~1674" text="John Terry" playerID="null" />
+<Player id="P6" spans="2081~2091" text="Tom Heaton" playerID="null" />
+<Player id="P7" spans="2152~2165" text="Juan Cuadrado" playerID="null" />
+<Player id="P8" spans="2234~2245" text="Filipe Luís" playerID="null" />
+<Player id="P9" spans="2415~2421" text="Barnes" playerID="null" />
+<Player id="P10" spans="2463~2471" text="Courtois" playerID="null" />
+<Player id="P11" spans="2542~2553" text="Eden Hazard" playerID="null" />
+<Player id="P12" spans="2736~2744" text="Ivanovic" playerID="null" />
+<Player id="P13" spans="3097~3105" text="Courtois" playerID="null" />
+<Player id="P14" spans="3154~3160" text="Barnes" playerID="null" />
+<Player id="P15" spans="3162~3168" text="Barnes" playerID="null" />
+<Player id="P16" spans="3207~3215" text="Ivanovic" playerID="null" />
+<Player id="P17" spans="3329~3340" text="Diego Costa" playerID="null" />
+<Player id="P18" spans="3479~3487" text="Cuadrado" playerID="null" />
+<Player id="P19" spans="3500~3508" text="Ivanovic" playerID="null" />
+<Player id="P20" spans="3584~3599" text="Michael Kightly" playerID="null" />
+<Player id="P21" spans="3742~3747" text="Costa" playerID="null" />
+<Player id="P22" spans="3792~3806" text="Jason Shackell" playerID="null" />
+<Player id="P23" spans="3986~3994" text="Shackell" playerID="null" />
+<Player id="P24" spans="4013~4018" text="Costa" playerID="null" />
+<Player id="P25" spans="4243~4249" text="Barnes" playerID="null" />
+<Player id="P26" spans="4258~4266" text="Courtois" playerID="null" />
+<Player id="P27" spans="4421~4429" text="Ivanovic" playerID="null" />
+<Player id="P28" spans="4512~4517" text="Matic" playerID="null" />
+<Player id="P29" spans="4554~4560" text="Hazard" playerID="null" />
+<Player id="P30" spans="4571~4576" text="Costa" playerID="null" />
+<Player id="P31" spans="4637~4643" text="Heaton" playerID="null" />
+<Player id="P32" spans="4733~4739" text="Wilson" playerID="null" />
+<Player id="P33" spans="4745~4753" text="Ivanovic" playerID="null" />
+<Player id="P34" spans="4841~4846" text="Costa" playerID="null" />
+<Player id="P35" spans="4964~4969" text="Matic" playerID="null" />
+<Player id="P36" spans="5015~5021" text="Barnes" playerID="null" />
+<Player id="P37" spans="5172~5177" text="Matic" playerID="null" />
+<Player id="P38" spans="5349~5360" text="Gary Cahill" playerID="null" />
+<Player id="P39" spans="5365~5370" text="Costa" playerID="null" />
+<Player id="P40" spans="5444~5452" text="Courtois" playerID="null" />
+<Player id="P41" spans="5466~5472" text="Barnes" playerID="null" />
+<Player id="P42" spans="5547~5550" text="Mee" playerID="null" />
+<Player id="P43" spans="5562~5569" text="Ramires" playerID="null" />
+<Player id="P44" spans="5581~5589" text="Trippier" playerID="null" />
+<Player id="P45" spans="5716~5720" text="Ings" playerID="null" />
+<Coref id="C0" spans="2631~2634" text="his" playerID="null" />
+<Coref id="C1" spans="3393~3395" text="he" playerID="null" />
+<Coref id="C2" spans="3410~3413" text="his" playerID="null" />
+<Coref id="C3" spans="3459~3461" text="he" playerID="null" />
+<Coref id="C4" spans="3829~3832" text="his" playerID="null" />
+<Coref id="C5" spans="3879~3882" text="his" playerID="null" />
+<Coref id="C6" spans="4789~4791" text="he" playerID="null" />
+<Coref id="C7" spans="4975~4978" text="his" playerID="null" />
+<Coref id="C8" spans="5072~5075" text="his" playerID="null" />
+<Coref id="C9" spans="5483~5485" text="he" playerID="null" />
+</TAGS>
+</SoccEval1.1>

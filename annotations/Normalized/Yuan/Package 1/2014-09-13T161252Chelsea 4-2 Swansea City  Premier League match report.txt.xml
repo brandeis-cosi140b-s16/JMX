@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/sep/13/chelsea-swansea-city-premier-league-match-report
+
+Chelsea 4-2 Swansea City | Premier League match report
+
+
+The days of big-money Chelsea strikers arriving cursed appear to be over. Where forwards from Chris Sutton to Fernando Torres via Andriy Shevchenko had once toiled, weighed down by oppressive transfer fees and associated expectations, Diego Costa’s staggering introduction to life in the Premier League is merely maintained. This hat-trick ensured his side’s perfect record was extended at the expense of that of Swansea’s, despite the forward having been hampered by a hamstring strain in the build-up to this game. Already it feels as if his limps, like those of Gordon Greenidge, are far more likely to leave opponents wincing.
+ 
+This was a devastating display, a demonstration of strength and predatory finishing to confirm this team has upgraded significantly from last term’s inconsistent front-line. There was a powerful header forced through bodies in a packed penalty area, a side-footed finish swept beyond Lukasz Fabianski after a fine rat-a-tat build-up exchange between team-mates, and a smartly accepted third from Ramires’s scuffed shot.
+ 
+Costa retreated 18 minutes from time having now scored seven times in four league appearances, from 14 shots, for his new club. Torres took 43 games to register that many. The only other player to have scored in his first four games for Chelsea was Jack Meredith back in 1928, and he managed only two more thereafter. Costa’s stay should prove more productive.
+ 
+Just as encouraging is his almost telepathic relationship with Cesc Fàbregas, who grew into this game once team-mates had flocked to his aid in the middle, with the arrival from Barcelona adding another two assists – he now has six this season – to his own productive start to life in these parts. The way he combined with the excellent Eden Hazard 11 minutes after the interval, waiting for Ashley Williams to commit before pulling back for Costa to finish, was a reminder of true quality.
+ 
+Roman Abramovich, up in his executive box, spent most of the second half on his feet cooing at his players’ flowing moves. He even had a debut goal from the substitute Loïc Rémy, to celebrate before the end as this occasion, initially so awkward, degenerated into a thrashing.
+ 
+José Mourinho will have rejoiced in his side’s new-found bite in front of goal, their counterattacks brutally executed at times, though he will have taken as much heart from his players’ ability to recover from a sloppy, becalmed opening. This ended as much a show of character against slick, confident opponents as a demonstration of strength.
+ 
+Swansea had initially outnumbered their hosts in midfield, from where Ki Sung-yueng dictated much of the first half, and had deservedly led through a John Terry own goal converted from Neil Taylor’s skimmed centre. Garry Monk described his team’s play in that period as “some of the best we’ve ever played against this quality of team”. That was no exaggeration, so assured was their approach and incisive their forays forward.
+ 
+Bafétimbi Gomis and Wayne Routledge might have doubled their lead, the winger curling agonisingly wide with Thibaut Courtois beaten. But having been spared further damage, the hosts eventually adapted, recovered and were rewarded. The trio of forwards stationed behind Costa tracked back to stifle Ki’s distribution at source and the aggressive running of Gylfi Sigurdsson and Jonjo Shelvey was smothered.
+ 
+Fàbregas, initially out-muscled and overpowered, duly imposed his own qualities on the contest. It was his corner Costa converted beyond Fabianski, Jordi Amat having been preoccupied attempting to unnerve Branislav Ivanovic in the six-yard box.
+ 
+That equaliser was timely, coming just before the interval, with Ramires’s introduction for the ineffective André Schürrle ensuring the hosts ripped the momentum back for good. They pressed with renewed vigour and Costa’s plunder took over, the hosts’ strength holding sway. The forward’s finishing was assured, Rémy’s immediate impact having replaced the scorer of the hat-trick adding to the locals’ sense of glee. Didier Drogba, nursing an ankle injury, was not missed.
+ 
+“We made changes and were too strong for them in the end,” said Mourinho. “We changed everything at half-time and, with the intensity we showed in that second half, they could not compete. We could give to the stadium what the crowd were waiting for: a win secured in a beautiful way.”
+ 
+Shelvey still exploited some defensive vulnerability late on to claw back a consolation – Swansea did not deserve to feel scorched – but Chelsea, just as they had at Everton in their previous fixture, are confident they can out-gun all-comers. “You saw the power and quality Chelsea have in that second half,” Monk said. “I think they’ll be champions.”
+ 
+Manchester City, five points adrift of the early leaders, will test that theory at the Etihad on 21 September though, for now, Costa and Co are irrepressible.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P1" spans="265~280" text="Fernando Torres" playerID="102" />
+<Player id="P2" spans="390~401" text="Diego Costa" playerID="104" />
+<Player id="P3" spans="1072~1088" text="Lukasz Fabianski" playerID="105" />
+<Player id="P4" spans="1184~1191" text="Ramires" playerID="106" />
+<Player id="P5" spans="1210~1215" text="Costa" playerID="104" />
+<Player id="P6" spans="1338~1344" text="Torres" playerID="102" />
+<Player id="P7" spans="1528~1533" text="Costa" playerID="104" />
+<Player id="P8" spans="1636~1649" text="Cesc Fàbregas" playerID="108" />
+<Player id="P9" spans="1910~1921" text="Eden Hazard" playerID="109" />
+<Player id="P10" spans="1965~1980" text="Ashley Williams" playerID="110" />
+<Player id="P11" spans="1972~1980" text="Williams" playerID="110" />
+<Player id="P12" spans="2015~2020" text="Costa" playerID="104" />
+<Player id="P13" spans="2234~2243" text="Loïc Rémy" playerID="111" />
+<Player id="P15" spans="2842~2852" text="John Terry" playerID="113" />
+<Player id="P16" spans="2877~2888" text="Neil Taylor" playerID="114" />
+<Player id="P17" spans="2882~2888" text="Taylor" playerID="114" />
+<Player id="P19" spans="3142~3157" text="Wayne Routledge" playerID="116" />
+<Player id="P20" spans="3230~3246" text="Thibaut Courtois" playerID="117" />
+<Player id="P21" spans="3391~3396" text="Costa" playerID="104" />
+<Player id="P22" spans="3420~3422" text="Ki" playerID="112" />
+<Player id="P23" spans="3478~3494" text="Gylfi Sigurdsson" playerID="118" />
+<Player id="P24" spans="3499~3512" text="Jonjo Shelvey" playerID="119" />
+<Player id="P25" spans="3530~3538" text="Fàbregas" playerID="108" />
+<Player id="P26" spans="3644~3649" text="Costa" playerID="104" />
+<Player id="P27" spans="3667~3676" text="Fabianski" playerID="105" />
+<Player id="P28" spans="3678~3688" text="Jordi Amat" playerID="120" />
+<Player id="P29" spans="3735~3753" text="Branislav Ivanovic" playerID="121" />
+<Player id="P30" spans="3842~3849" text="Ramires" playerID="106" />
+<Player id="P31" spans="3885~3899" text="André Schürrle" playerID="122" />
+<Player id="P32" spans="3991~3996" text="Costa" playerID="104" />
+<Player id="P33" spans="4089~4093" text="Rémy" playerID="111" />
+<Player id="P34" spans="4194~4207" text="Didier Drogba" playerID="113" />
+<Player id="P35" spans="4540~4547" text="Shelvey" playerID="119" />
+<Player id="P36" spans="5022~5027" text="Costa" playerID="104" />
+<Player id="P37" spans="2762~2775" text="Ki Sung-yueng" playerID="112" />
+<Player id="P39" spans="3122~3137" text="Bafétimbi Gomis" playerID="115" />
+<Coref id="C0" spans="503~506" text="his" playerID="104" />
+<Coref id="C1" spans="695~698" text="his" playerID="104" />
+<Coref id="C2" spans="1324~1327" text="his" playerID="104" />
+<Coref id="C5" spans="1596~1599" text="his" playerID="104" />
+<Coref id="C6" spans="1706~1709" text="his" playerID="104" />
+<Coref id="C7" spans="1790~1792" text="he" playerID="108" />
+<Coref id="C8" spans="1822~1825" text="his" playerID="108" />
+<Coref id="C9" spans="1879~1881" text="he" playerID="108" />
+<Coref id="C18" spans="3592~3595" text="his" playerID="108" />
+<Coref id="C19" spans="3633~3636" text="his" playerID="108" />
+<Coref id="C17" spans="3294~3303" text="the hosts" playerID="115" />
+<Coref id="C21" spans="3294~3303" text="the hosts" playerID="116" />
+<Coref id="C22" spans="3353~3361" text="The trio" playerID="115" />
+<Coref id="C23" spans="3353~3361" text="The trio" playerID="116" />
+<Coref id="C24" spans="3353~3361" text="The trio" playerID="117" />
+<Coref id="C25" spans="4052~4063" text="The forward" playerID="104" />
+<Coref id="C26" spans="4129~4156" text="the scorer of the hat-trick" playerID="104" />
+<Fact id="F0" spans="485~494" text="hat-trick" type="goal" time="last match" factID="1" />
+<Fact id="F1" spans="1194~1206" text="scuffed shot" type="shot" time="last match" factID="2" />
+<Fact id="F2" spans="1695~1727" text="flocked to his aid in the middle" factID="3" type="assist" time="last match" />
+<Fact id="F3" spans="1761~1787" text="adding another two assists" type="assist" factID="3" time="last match" />
+<Fact id="F4" spans="1796~1816" text=" has six this season" factID="4" time="current season" type="assist" />
+<Fact id="F5" spans="2024~2030" text="finish" type="goal" time="last match" factID="5" />
+<Fact id="F6" spans="1998~2010" text="pulling back" factID="6" time="last match" type="movement" />
+<Fact id="F7" spans="2203~2213" text="debut goal" type="goal" factID="7" time="last match" />
+<Fact id="F8" spans="2857~2861" text="goal" factID="8" time="last match" type="goal" />
+<Fact id="F10" spans="3374~3396" text="stationed behind Costa" factID="9" time="last match" type="positioning" />
+<Fact id="F11" spans="3456~3474" text="aggressive running" type="movement" factID="10" time="last match" />
+<Fact id="F12" spans="3425~3437" text="distribution" type="positioning" factID="11" time="last match" />
+<Fact id="F13" spans="3637~3643" text="corner" time="last match" type="shot" factID="12" />
+<Fact id="F14" spans="3650~3659" text="converted" time="last match" type="assist" factID="13" />
+<Fact id="F15" spans="3754~3773" text="in the six-yard box" factID="14" type="positioning" time="last match" />
+<Fact id="F16" spans="4066~4075" text="finishing" factID="15" type="goal" time="last match" />
+<Fact id="F17" spans="4209~4232" text="nursing an ankle injury" time="last match" factID="16" type="injury" />
+<Fact id="F18" spans="4113~4156" text="having replaced the scorer of the hat-trick" type="substitute in" time="last match" factID="17" />
+<Opinion id="O0" spans="319~388" text=" weighed down by oppressive transfer fees and associated expectations" reported="false" type="other opinion" time="current season" polarity="-" />
+<Opinion id="O1" spans="403~478" text=" staggering introduction to life in the Premier League is merely maintained" type="other opinion" polarity="-" reported="false" time="current season" />
+<Opinion id="O2" spans="694~784" text=" his limps, like those of Gordon Greenidge, are far more likely to leave opponents wincing" reported="false" type="soccer skill" polarity="+" time="last match" />
+<Opinion id="O3" spans="1247~1336" text="having now scored seven times in four league appearances, from 14 shots, for his new club" time="present" reported="false" type="accomplishment" polarity="+" />
+<Opinion id="O4" spans="1345~1380" text="took 43 games to register that many" reported="false" time="present" polarity="-" type="accomplishment" />
+<Opinion id="O5" spans="1528~1569" text="Costa’s stay should prove more productive" polarity="+" type="general attribute" reported="false" time="present" />
+<Opinion id="O6" spans="1830~1869" text="productive start to life in these parts" reported="false" polarity="+" type="growth/decline" time="present" />
+<Opinion id="O7" spans="1899~1909" text=" excellent" time="present" polarity="+" type="general attribute" reported="false" />
+<Opinion id="O8" spans="2035~2062" text=" a reminder of true quality" time="last match" type="general attribute" reported="false" polarity="+" />
+<Opinion id="O9" spans="3157~3253" text=" might have doubled their lead, the winger curling agonisingly wide with Thibaut Courtois beaten" time="last match" reported="false" type="other opinion" polarity="+" hypothetical="counterfactive" />
+<Opinion id="O10" spans="3259~3292" text="having been spared further damage" reported="false" type="other opinion" time="last match" polarity="+" />
+<Opinion id="O11" spans="3304~3351" text="eventually adapted, recovered and were rewarded" time="last match" reported="false" polarity="+" type="growth/decline" />
+<Opinion id="O13" spans="3540~3577" text="initially out-muscled and overpowered" polarity="-" type="general attribute" reported="false" time="last match" />
+<Opinion id="O14" spans="3579~3624" text="duly imposed his own qualities on the contest" type="general attribute" reported="false" time="last match" polarity="+" />
+<Opinion id="O15" spans="3873~3884" text="ineffective" time="last match" reported="false" polarity="-" type="general attribute" />
+<Opinion id="O16" spans="3991~4016" text="Costa’s plunder took over" reported="false" polarity="+" type="accomplishment" time="last match" />
+<Opinion id="O17" spans="4234~4248" text="was not missed" polarity="-" reported="false" type="impact on team" time="last match" />
+<Opinion id="O18" spans="4157~4192" text="adding to the locals’ sense of glee" type="other opinion" polarity="+" time="last match" reported="false" />
+<Opinion id="O19" spans="5039~5052" text="irrepressible" reported="false" time="last match" polarity="+" type="general attribute" />
+<TargetLink id="T1" fact_or_opinionID="F0" fact_or_opinionText="hat-trick" targetID="C0" targetText="his" />
+<TargetLink id="T3" fact_or_opinionID="F1" fact_or_opinionText="scuffed shot" targetID="P4" targetText="Ramires" />
+<TargetLink id="T4" fact_or_opinionID="O3" fact_or_opinionText="having now scored seven times in four league appearances, from 14 shots, for his new club" targetID="P5" targetText="Costa" />
+<TargetLink id="T5" fact_or_opinionID="O4" fact_or_opinionText="took 43 games to register that many" targetID="P6" targetText="Torres" />
+<TargetLink id="T6" fact_or_opinionID="O5" fact_or_opinionText="Costa’s stay should prove more productive" targetID="P7" targetText="Costa" />
+<TargetLink id="T7" fact_or_opinionID="F2" fact_or_opinionText="flocked to his aid in the middle" targetID="P8" targetText="Cesc Fàbregas" />
+<TargetLink id="T8" fact_or_opinionID="F3" fact_or_opinionText="adding another two assists" targetID="P8" targetText="Cesc Fàbregas" />
+<TargetLink id="T9" fact_or_opinionID="F4" fact_or_opinionText=" has six this season" targetID="C7" targetText="he" />
+<TargetLink id="T10" fact_or_opinionID="O6" fact_or_opinionText="productive start to life in these parts" targetID="C7" targetText="he" />
+<TargetLink id="T11" fact_or_opinionID="O7" fact_or_opinionText=" excellent" targetID="P9" targetText="Eden Hazard" />
+<TargetLink id="T12" fact_or_opinionID="F5" fact_or_opinionText="finish" targetID="P12" targetText="Costa" />
+<TargetLink id="T13" fact_or_opinionID="F6" fact_or_opinionText="pulling back" targetID="C9" targetText="he" />
+<TargetLink id="T14" fact_or_opinionID="O8" fact_or_opinionText=" a reminder of true quality" targetID="C9" targetText="he" />
+<TargetLink id="T15" fact_or_opinionID="F7" fact_or_opinionText="debut goal" targetID="P13" targetText="Loïc Rémy" />
+<TargetLink id="T16" fact_or_opinionID="F8" fact_or_opinionText="goal" targetID="P15" targetText="John Terry" />
+<TargetLink id="T17" fact_or_opinionID="O9" fact_or_opinionText=" might have doubled their lead, the winger curling agonisingly wide with Thibaut Courtois beaten" targetID="P19" targetText="Wayne Routledge" />
+<TargetLink id="T18" fact_or_opinionID="O9" fact_or_opinionText=" might have doubled their lead, the winger curling agonisingly wide with Thibaut Courtois beaten" targetID="P39" targetText="Bafétimbi Gomis" />
+<TargetLink id="T19" fact_or_opinionID="O10" fact_or_opinionText="having been spared further damage" targetID="C17" targetText="the hosts" />
+<TargetLink id="T20" fact_or_opinionID="O11" fact_or_opinionText="eventually adapted, recovered and were rewarded" targetID="C17" targetText="the hosts" />
+<TargetLink id="T21" fact_or_opinionID="F10" fact_or_opinionText="stationed behind Costa" targetID="C22" targetText="The trio" />
+<TargetLink id="T22" fact_or_opinionID="F11" fact_or_opinionText="aggressive running" targetID="P23" targetText="Gylfi Sigurdsson" />
+<TargetLink id="T23" fact_or_opinionID="F11" fact_or_opinionText="aggressive running" targetID="P24" targetText="Jonjo Shelvey" />
+<TargetLink id="T24" fact_or_opinionID="F12" fact_or_opinionText="distribution" targetID="P22" targetText="Ki" />
+<TargetLink id="T25" fact_or_opinionID="O13" fact_or_opinionText="initially out-muscled and overpowered" targetID="P25" targetText="Fàbregas" />
+<TargetLink id="T26" fact_or_opinionID="O14" fact_or_opinionText="duly imposed his own qualities on the contest" targetID="P25" targetText="Fàbregas" />
+<TargetLink id="T27" fact_or_opinionID="F13" fact_or_opinionText="corner" targetID="P26" targetText="Costa" />
+<TargetLink id="T28" fact_or_opinionID="F14" fact_or_opinionText="converted" targetID="P26" targetText="Costa" />
+<TargetLink id="T29" fact_or_opinionID="F15" fact_or_opinionText="in the six-yard box" targetID="P29" targetText="Branislav Ivanovic" />
+<TargetLink id="T30" fact_or_opinionID="O15" fact_or_opinionText="ineffective" targetID="P31" targetText="André Schürrle" />
+<TargetLink id="T31" fact_or_opinionID="O16" fact_or_opinionText="Costa’s plunder took over" targetID="P32" targetText="Costa" />
+<TargetLink id="T32" fact_or_opinionID="F16" fact_or_opinionText="finishing" targetID="C25" targetText="The forward" />
+<TargetLink id="T33" fact_or_opinionID="F17" fact_or_opinionText="nursing an ankle injury" targetID="P34" targetText="Didier Drogba" />
+<TargetLink id="T34" fact_or_opinionID="O17" fact_or_opinionText="was not missed" targetID="P34" targetText="Didier Drogba" />
+<TargetLink id="T35" fact_or_opinionID="O18" fact_or_opinionText="adding to the locals’ sense of glee" targetID="P33" targetText="Rémy" />
+<TargetLink id="T36" fact_or_opinionID="F18" fact_or_opinionText="having replaced the scorer of the hat-trick" targetID="P33" targetText="Rémy" />
+<TargetLink id="T39" fact_or_opinionID="O19" fact_or_opinionText="irrepressible" targetID="P36" targetText="Costa" />
+</TAGS>
+</SoccEval1.2>

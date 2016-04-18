@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/swansea-city-vs-chelsea/1703929
+
+Jan 17, 2015 11:50:00 AM
+
+The attackers score two goals apiece in the first half, while Andre Schurrle added to the margin of victory late.
+
+Diego Costa and Oscar both scored twice as Chelsea romped to a 5-0 Premier League victory over Swansea City on Saturday.
+A scintillating first-half display from Jose Mourinho's men saw them run riot at the Liberty Stadium, with four of the visitors' five goals coming before the break.
+
+Swansea was the architect of its own downfall at times, though, with Oscar profiting from a poor pass to open the scoring from 20 yards within the opening minute, and Costa opening his account with a composed finish. The striker added his second following a mistake from Federico Fernandez in the 34th minute, before he turned provider as Oscar made it four two minutes later.
+
+Chelsea coasted to victory in the second half, with Andre Schurrle rounding off the scoring from close range late.
+
+Victory sees Chelsea move five points clear at the top of the table — second-place Manchester City face Arsenal on Sunday — while Swansea remains in ninth after its heaviest defeat of the season.
+
+With Leon Britton sidelined by a groin injury, Swansea was forced to play Gylfi Sigurdsson in a deeper midfield role, and it cost the club almost instantly. The Iceland international played a loose pass inside his own half that ricocheted off Tom Carroll to Oscar — the Brazilian punishing the mistake with a low drive from the edge of the penalty area.
+
+Sigurdsson immediately came close to atoning for his error with a long-range effort that clipped the post on its way wide, but Swansea should have been further behind when Willian blazed over after 12 minutes.
+
+Mourinho's side was in total control and, after Eden Hazard saw a low shot saved, the Blues doubled their lead as Costa applied the finishing touch to a flowing move. Oscar, Willian and Cesc Fabregas exchanged passes on the edge of the penalty area before the latter played in his Spain teammate, and he emphatically fired beyond goalkeeper Lukasz Fabianski.
+
+Another two goals arrived before the break as Chelsea punished some more slack Swansea defending, the first coming when Costa pounced on Fernandez's weak back pass and the second — Chelsea's fourth — going in two minutes later.
+
+Willian powered through the Swansea midfield before finding Costa, whose cutback found Oscar — and the playmaker fired high into Fabianski's goal.
+
+There was still time for Willian to hit the crossbar before the break, but it mattered little to Chelsea, which threatened again early in the second half with Fabregas wasting a close-range effort.
+
+After such a disastrous first half, things began to improve for Swansea as its pass-and-move football returned, but Chelsea's defense comfortably kept the home side at bay.
+
+Patient play was the name of the game for the visitors and, after another period of possession, the ball fell to Hazard in the 71st minute, the Belgian unleashing a powerful shot that Fabianski was able to push away.
+
+Substitute Schurrle added gloss to Chelsea's win with the fifth goal in the 79th minute, the Germany international ghosting into the penalty area to convert Branislav Ivanovic's low cross and seal an emphatic win.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="154~168" text="Andre Schurrle" playerID="2" />
+<Player id="P1" spans="207~218" text="Diego Costa" playerID="1" />
+<Player id="P2" spans="223~228" text="Oscar" playerID="12" />
+<Player id="P3" spans="563~568" text="Oscar" playerID="12" />
+<Player id="P4" spans="661~666" text="Costa" playerID="1" />
+<Player id="P5" spans="765~783" text="Federico Fernandez" playerID="9" />
+<Player id="P6" spans="833~838" text="Oscar" playerID="12" />
+<Player id="P7" spans="924~938" text="Andre Schurrle" playerID="2" />
+<Player id="P8" spans="1190~1202" text="Leon Britton" playerID="11" />
+<Player id="P9" spans="1259~1275" text="Gylfi Sigurdsson" playerID="10" />
+<Player id="P10" spans="1428~1439" text="Tom Carroll" playerID="4" />
+<Player id="P11" spans="1432~1439" text="Carroll" playerID="4" />
+<Player id="P12" spans="1443~1448" text="Oscar" playerID="12" />
+<Player id="P13" spans="1540~1550" text="Sigurdsson" playerID="10" />
+<Player id="P14" spans="1712~1719" text="Willian" playerID="13" />
+<Player id="P15" spans="1799~1810" text="Eden Hazard" playerID="7" />
+<Player id="P16" spans="1865~1870" text="Costa" playerID="1" />
+<Player id="P17" spans="1918~1923" text="Oscar" playerID="12" />
+<Player id="P18" spans="1925~1932" text="Willian" playerID="13" />
+<Player id="P19" spans="1937~1950" text="Cesc Fabregas" playerID="5" />
+<Player id="P20" spans="2092~2108" text="Lukasz Fabianski" playerID="8" />
+<Player id="P21" spans="2231~2236" text="Costa" playerID="1" />
+<Player id="P22" spans="2248~2257" text="Fernandez" playerID="9" />
+<Player id="P23" spans="2340~2347" text="Willian" playerID="13" />
+<Player id="P24" spans="2400~2405" text="Costa" playerID="1" />
+<Player id="P25" spans="2427~2432" text="Oscar" playerID="12" />
+<Player id="P26" spans="2469~2478" text="Fabianski" playerID="8" />
+<Player id="P27" spans="2513~2520" text="Willian" playerID="13" />
+<Player id="P28" spans="2647~2655" text="Fabregas" playerID="5" />
+<Player id="P29" spans="2974~2980" text="Hazard" playerID="7" />
+<Player id="P30" spans="3045~3054" text="Fabianski" playerID="8" />
+<Player id="P31" spans="3090~3098" text="Schurrle" playerID="2" />
+<Player id="P32" spans="3236~3254" text="Branislav Ivanovic" playerID="3" />
+<Coref id="C0" spans="675~678" text="his" playerID="1" />
+<Coref id="C1" spans="729~732" text="his" playerID="1" />
+<Coref id="C2" spans="811~813" text="he" playerID="1" />
+<Coref id="C3" spans="1395~1398" text="his" playerID="10" />
+<Coref id="C4" spans="1589~1592" text="his" playerID="10" />
+<Coref id="C5" spans="2028~2031" text="his" playerID="5" />
+<Coref id="C6" spans="2052~2054" text="he" playerID="12" />
+<Coref id="C7" spans="711~722" text="The striker" playerID="1" />
+<Coref id="C8" spans="1342~1367" text="The Iceland international" playerID="10" />
+<Coref id="C9" spans="1451~1464" text="the Brazilian" playerID="12" />
+<Coref id="C10" spans="2007~2017" text="the latter" playerID="5" />
+<Coref id="C11" spans="2028~2046" text="his Spain teammate" playerID="12" />
+<Coref id="C12" spans="2439~2452" text="the playmaker" playerID="12" />
+<Coref id="C13" spans="3001~3012" text="the Belgian" playerID="7" />
+<Coref id="C14" spans="3168~3193" text="the Germany international" playerID="2" />
+<Fact id="F0" spans="234~240" text="scored" time="last match" type="goal" factID="1" />
+<Fact id="F1" spans="234~240" text="scored" time="last match" type="goal" factID="2" />
+<Fact id="F2" spans="234~240" text="scored" time="last match" type="goal" factID="3" />
+<Fact id="F3" spans="234~240" text="scored" time="last match" type="goal" factID="4" />
+<Fact id="F4" spans="596~655" text="to open the scoring from 20 yards within the opening minute" type="goal" factID="3" time="last match" />
+<Fact id="F5" spans="667~709" text="opening his account with a composed finish" time="last match" factID="1" type="goal" />
+<Fact id="F6" spans="723~739" text="added his second" time="last match" type="goal" factID="2" />
+<Fact id="F7" spans="814~829" text="turned provider" time="last match" type="assist" factID="6" />
+<Fact id="F8" spans="839~851" text="made it four" time="last match" type="goal" factID="4" />
+<Fact id="F9" spans="939~985" text="rounding off the scoring from close range late" time="last match" type="goal" factID="5" />
+<Fact id="F10" spans="1465~1537" text="punishing the mistake with a low drive from the edge of the penalty area" time="last match" type="shot" factID="7" />
+<Fact id="F11" spans="1603~1661" text=" a long-range effort that clipped the post on its way wide" time="last match" type="shot" factID="8" />
+<Fact id="F12" spans="1811~1831" text="saw a low shot saved" time="last match" type="shot" factID="9" />
+<Fact id="F13" spans="1871~1916" text="applied the finishing touch to a flowing move" time="last match" type="goal" factID="1" />
+<Fact id="F14" spans="1951~1967" text="exchanged passes" time="last match" type="pass" factID="10" />
+<Fact id="F15" spans="1951~1967" text="exchanged passes" time="last match" type="pass" factID="11" />
+<Fact id="F16" spans="1951~1967" text="exchanged passes" time="last match" type="pass" factID="12" />
+<Fact id="F17" spans="2055~2091" text="emphatically fired beyond goalkeeper" time="last match" type="goal" factID="3" />
+<Fact id="F18" spans="2018~2027" text="played in" time="last match" type="assist" factID="13" />
+<Fact id="F19" spans="2209~2225" text="the first coming" time="last match" type="goal" factID="2" />
+<Fact id="F20" spans="2348~2384" text="powered through the Swansea midfield" time="last match" type="movement" factID="14" />
+<Fact id="F21" spans="2385~2399" text="before finding" time="last match" type="pass" factID="15" />
+<Fact id="F22" spans="2407~2426" text="whose cutback found" time="last match" type="pass" factID="16" />
+<Fact id="F23" spans="2453~2485" text="fired high into Fabianski's goal" time="last match" type="goal" factID="4" />
+<Fact id="F24" spans="2521~2540" text="to hit the crossbar" time="last match" type="shot" factID="17" />
+<Fact id="F25" spans="2656~2684" text="wasting a close-range effort" time="last match" type="shot" factID="18" />
+<Fact id="F26" spans="3013~3039" text="unleashing a powerful shot" time="last match" type="shot" factID="19" />
+<Fact id="F27" spans="3055~3076" text="was able to push away" time="last match" type="save" factID="20" />
+<Fact id="F28" spans="3079~3089" text="Substitute" time="last match" type="substitute in" factID="21" />
+<Fact id="F29" spans="3133~3147" text="the fifth goal" time="last match" type="goal" factID="5" />
+<Fact id="F30" spans="3194~3224" text="ghosting into the penalty area" time="last match" type="movement" factID="22" />
+<Fact id="F31" spans="3257~3266" text="low cross" time="last match" type="pass" factID="23" />
+<Opinion id="O0" spans="740~764" text="following a mistake from" time="last match" reported="false" type="general attribute" polarity="-" />
+<Opinion id="O1" spans="1368~1448" text="played a loose pass inside his own half that ricocheted off Tom Carroll to Oscar" time="last match" reported="false" type="other opinion" polarity="-" />
+<Opinion id="O2" spans="1551~1598" text="immediately came close to atoning for his error" time="last match" reported="false" polarity="+" type="other opinion" />
+<Opinion id="O3" spans="2260~2274" text="weak back pass" time="last match" reported="false" type="general attribute" polarity="-" />
+<TargetLink id="T0" fact-opinionID="F0" fact-opinionText="scored" targetID="P1" targetText="Diego Costa" />
+<TargetLink id="T1" fact-opinionID="F1" fact-opinionText="scored" targetID="P1" targetText="Diego Costa" />
+<TargetLink id="T2" fact-opinionID="F2" fact-opinionText="scored" targetID="P2" targetText="Oscar" />
+<TargetLink id="T3" fact-opinionID="F3" fact-opinionText="scored" targetID="P2" targetText="Oscar" />
+<TargetLink id="T4" fact-opinionID="F4" fact-opinionText="to open the scoring from 20 yards within the opening minute" targetID="P3" targetText="Oscar" />
+<TargetLink id="T5" fact-opinionID="O0" fact-opinionText="following a mistake from" targetID="P5" targetText="Federico Fernandez" />
+<TargetLink id="T6" fact-opinionID="F7" fact-opinionText="turned provider" targetID="C2" targetText="he" />
+<TargetLink id="T7" fact-opinionID="F8" fact-opinionText="made it four" targetID="P6" targetText="Oscar" />
+<TargetLink id="T8" fact-opinionID="F9" fact-opinionText="rounding off the scoring from close range late" targetID="P7" targetText="Andre Schurrle" />
+<TargetLink id="T9" fact-opinionID="O1" fact-opinionText="played a loose pass inside his own half that ricocheted off Tom Carroll to Oscar" targetID="C8" targetText="The Iceland international" />
+<TargetLink id="T10" fact-opinionID="F10" fact-opinionText="punishing the mistake with a low drive from the edge of the penalty area" targetID="C9" targetText="the Brazilian" />
+<TargetLink id="T11" fact-opinionID="O2" fact-opinionText="immediately came close to atoning for his error" targetID="P13" targetText="Sigurdsson" />
+<TargetLink id="T12" fact-opinionID="F11" fact-opinionText=" a long-range effort that clipped the post on its way wide" targetID="P13" targetText="Sigurdsson" />
+<TargetLink id="T13" fact-opinionID="F12" fact-opinionText="saw a low shot saved" targetID="P15" targetText="Eden Hazard" />
+<TargetLink id="T14" fact-opinionID="F13" fact-opinionText="applied the finishing touch to a flowing move" targetID="P16" targetText="Costa" />
+<TargetLink id="T15" fact-opinionID="F14" fact-opinionText="exchanged passes" targetID="P17" targetText="Oscar" />
+<TargetLink id="T16" fact-opinionID="F15" fact-opinionText="exchanged passes" targetID="P18" targetText="Willian" />
+<TargetLink id="T17" fact-opinionID="F16" fact-opinionText="exchanged passes" targetID="P19" targetText="Cesc Fabregas" />
+<TargetLink id="T18" fact-opinionID="F18" fact-opinionText="played in" targetID="C10" targetText="the latter" />
+<TargetLink id="T19" fact-opinionID="F17" fact-opinionText="emphatically fired beyond goalkeeper" targetID="C6" targetText="he" />
+<TargetLink id="T20" fact-opinionID="F19" fact-opinionText="the first coming" targetID="P21" targetText="Costa" />
+<TargetLink id="T21" fact-opinionID="O3" fact-opinionText="weak back pass" targetID="P22" targetText="Fernandez" />
+<TargetLink id="T22" fact-opinionID="F20" fact-opinionText="powered through the Swansea midfield" targetID="P23" targetText="Willian" />
+<TargetLink id="T23" fact-opinionID="F21" fact-opinionText="before finding" targetID="P23" targetText="Willian" />
+<TargetLink id="T24" fact-opinionID="F22" fact-opinionText="whose cutback found" targetID="P24" targetText="Costa" />
+<TargetLink id="T25" fact-opinionID="F23" fact-opinionText="fired high into Fabianski's goal" targetID="C12" targetText="the playmaker" />
+<TargetLink id="T26" fact-opinionID="F24" fact-opinionText="to hit the crossbar" targetID="P27" targetText="Willian" />
+<TargetLink id="T27" fact-opinionID="F25" fact-opinionText="wasting a close-range effort" targetID="P28" targetText="Fabregas" />
+<TargetLink id="T28" fact-opinionID="F26" fact-opinionText="unleashing a powerful shot" targetID="C13" targetText="the Belgian" />
+<TargetLink id="T29" fact-opinionID="F27" fact-opinionText="was able to push away" targetID="P30" targetText="Fabianski" />
+<TargetLink id="T30" fact-opinionID="F28" fact-opinionText="Substitute" targetID="P31" targetText="Schurrle" />
+<TargetLink id="T31" fact-opinionID="F29" fact-opinionText="the fifth goal" targetID="P31" targetText="Schurrle" />
+<TargetLink id="T32" fact-opinionID="F30" fact-opinionText="ghosting into the penalty area" targetID="C14" targetText="the Germany international" />
+<TargetLink id="T33" fact-opinionID="F31" fact-opinionText="low cross" targetID="P32" targetText="Branislav Ivanovic" />
+</TAGS>
+</SoccEval1.2>
