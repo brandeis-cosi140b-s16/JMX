@@ -107,7 +107,8 @@ def normalize_playerids(base_annotation, annotation, offset):
         tag['playerid'] = str(int(tag['playerid']) + offset)
 
 def fix_xml(annotation_text):
-    """Fixes syntax errors that resulted from early versions of the DTD.
+    """Fixes syntax errors that resulted from early versions of the DTD, in
+    addition to replacing non-ASCII quotation marks.
 
     Args:
         annotation_text: the XML annotation as a string.
@@ -116,6 +117,15 @@ def fix_xml(annotation_text):
     """
     text = re.sub('fact-opinion', 'fact_or_opinion', annotation_text)
     text = re.sub('fact or opinion', 'fact_or_opinion', text)
+    text = re.sub(r'growth/decline', 'growth-decline', text)
+    if re.search('\u201c|\u201d|\u2018|\u2019', text):
+        text_part, tag_part = text.split('<TAGS>')
+        tag_part = re.sub('\u201c|\u201d', '&quot;', tag_part)
+        tag_part = re.sub('\u2018|\u2019', '&apos;', tag_part)
+        text = '<TAGS>'.join([text_part, tag_part])
+        text
+    text = re.sub('\u201c|\u201d', '"', text)
+    text = re.sub('\u2018|\u2019', "'", text)
     return text
 
 def apply_changes(parsed_xml, annotation_text):

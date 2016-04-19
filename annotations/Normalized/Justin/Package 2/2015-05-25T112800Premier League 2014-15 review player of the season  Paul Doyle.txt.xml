@@ -10,15 +10,15 @@ Welcome to theguardian.com review of the 2014-15 Premier League season. Now that
  
 We have nominated some contenders but this is just to get the discussion going: we would like your suggestions so that we can compile the best into final polls that you can vote on. The polls will be published at midday on Tuesday 26 May, so please tell us what you think. Thanks
  Eden Hazard  
-Chelsea may not have been the most swashbuckling of champions but this nifty mischief-maker was always a joy to watch. This was by far Hazard’s most consistent season since his arrival at Stamford Bridge in 2012 as he successfully shouldered much of the creative burden for his team, embroidering their play with snazzy dribbles, ingenious passes and some decisive finishes.
+Chelsea may not have been the most swashbuckling of champions but this nifty mischief-maker was always a joy to watch. This was by far Hazard's most consistent season since his arrival at Stamford Bridge in 2012 as he successfully shouldered much of the creative burden for his team, embroidering their play with snazzy dribbles, ingenious passes and some decisive finishes.
  John Terry 
 The centre-back turned 34 during the campaign but delivered performances that ridiculed the suggestion – so common a couple of years ago – that he was past it. He led, masterfully, the title-winning defence for every minute of every match, helping to integrate young Kurt Zouma to the side when Gary Cahill endured an iffy spell. Terry also chipped in with enough goals to make him the highest scoring defender of the Premier League era.
  Harry Kane 
-At the beginning of the season Tottenham Hotspur were not sure Harry Kane was good enough for them, now their challenge is to hang on to the young striker. Kane’s first full campaign in the Premier League was such a success that Tottenham fans were almost able to forget about Roberto Soldado and Emmanuel Adebayor. The youngster dazzled with his dynamism and deadliness, regularly discombobulating seasoned top-flight defenders.
+At the beginning of the season Tottenham Hotspur were not sure Harry Kane was good enough for them, now their challenge is to hang on to the young striker. Kane's first full campaign in the Premier League was such a success that Tottenham fans were almost able to forget about Roberto Soldado and Emmanuel Adebayor. The youngster dazzled with his dynamism and deadliness, regularly discombobulating seasoned top-flight defenders.
  David de Gea  
 For the first half of the season, in particular, the Spaniard was a Winston Wolfe figure at Manchester United, tidying up messes by the goofs around him. United would surely not have been in contention for a Champions League place if not for the agility of their goalkeeper, who earned victories from matches United could otherwise have lost, such as at home to Everton, when his blocks included a save from a Leighton Baines penalty, at home to Liverpool, when even the three goals they scored might not have been enough to secure a point if their goalkeeper had not excelled, and away at Southampton and Crystal Palace. And many others.
  Yannick Bolasie 
-Yes, he should have scored more goals, but no, there is no other player in the Premier League with the same ability to astonish as Bolasie. His trickery, which Alan Pardew helped to unlock after the departure of the limited and limiting Neil Warnock, was the chief highlight of Crystal Palace’s climb up the table and a regular source of exasperation for defenders, who never knew what Bolasie was going to do next. Blessed with formidable speed and strength to go with his rare skill, the 25-year-old was always worth watching.
+Yes, he should have scored more goals, but no, there is no other player in the Premier League with the same ability to astonish as Bolasie. His trickery, which Alan Pardew helped to unlock after the departure of the limited and limiting Neil Warnock, was the chief highlight of Crystal Palace's climb up the table and a regular source of exasperation for defenders, who never knew what Bolasie was going to do next. Blessed with formidable speed and strength to go with his rare skill, the 25-year-old was always worth watching.
  • Check out the other categories:  
 Pundit of the season
  
@@ -97,7 +97,7 @@ Referee of the season
 <Opinion id="O16" spans="2269~2331" text="earned victories from matches United could otherwise have lost" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="counterfactive" />
 <Opinion id="O17" spans="2694~2785" text="there is no other player in the Premier League with the same ability to astonish as Bolasie" reported="false" type="accomplishment" polarity="+" time="last season" hypothetical="prediction" />
 <Opinion id="O18" spans="2791~2799" text="trickery" reported="false" type="general attribute" polarity="+" time="last season" hypothetical="counterfactive" />
-<Opinion id="O19" spans="2906~3011" text="chief highlight of Crystal Palace’s climb up the table and a regular source of exasperation for defenders" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="counterfactive" />
+<Opinion id="O19" spans="2906~3011" text="chief highlight of Crystal Palace&apos;s climb up the table and a regular source of exasperation for defenders" reported="false" type="impact on team" polarity="+" time="last season" hypothetical="counterfactive" />
 <Opinion id="O20" spans="3076~3105" text="formidable speed and strength" reported="false" type="general attribute" polarity="+" time="last season" hypothetical="counterfactive" />
 <Opinion id="O21" spans="3121~3131" text="rare skill" reported="false" type="general attribute" time="last season" hypothetical="counterfactive" polarity="+" />
 <Opinion id="O22" spans="3133~3174" text="the 25-year-old was always worth watching" reported="false" type="other opinion" polarity="+" time="last season" hypothetical="prediction" />
@@ -122,7 +122,7 @@ Referee of the season
 <TargetLink id="T18" fact_or_opinionID="O16" fact_or_opinionText="earned victories from matches United could otherwise have lost" targetID="P12" targetText="David de Gea" />
 <TargetLink id="T19" fact_or_opinionID="O17" fact_or_opinionText="there is no other player in the Premier League with the same ability to astonish as Bolasie" targetID="P14" targetText="Yannick Bolasie" />
 <TargetLink id="T20" fact_or_opinionID="O18" fact_or_opinionText="trickery" targetID="P14" targetText="Yannick Bolasie" />
-<TargetLink id="T21" fact_or_opinionID="O19" fact_or_opinionText="chief highlight of Crystal Palace’s climb up the table and a regular source of exasperation for defenders" targetID="P14" targetText="Yannick Bolasie" />
+<TargetLink id="T21" fact_or_opinionID="O19" fact_or_opinionText="chief highlight of Crystal Palace&apos;s climb up the table and a regular source of exasperation for defenders" targetID="P14" targetText="Yannick Bolasie" />
 <TargetLink id="T22" fact_or_opinionID="O20" fact_or_opinionText="formidable speed and strength" targetID="P14" targetText="Yannick Bolasie" />
 <TargetLink id="T23" fact_or_opinionID="O21" fact_or_opinionText="rare skill" targetID="P14" targetText="Yannick Bolasie" />
 <TargetLink id="T24" fact_or_opinionID="O22" fact_or_opinionText="the 25-year-old was always worth watching" targetID="P14" targetText="Yannick Bolasie" />
