@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-everton/1703989
+
+Feb 11, 2015 4:36:00 PM
+
+Jose Mourinho's side looked set to see its advantage at the top of the Premier League shrink, but the midfielder's late goal sealed all three points in dramatic fashion.
+
+A late strike from Willian ensured Chelsea beat Everton 1-0 at Stamford Bridge on Wednesday to remain seven points clear at the top of the Premier League.
+
+Tim Howard looked set to deny the leaders victory on his return from injury, but the Everton goalkeeper was unable to keep out a deflected strike from Brazil midfielder Willian just a minute from time in a dramatic finale.
+
+Eden Hazard, Willian and Nemanja Matic were all thwarted by the former Manchester United man and Branislav Ivanovic had a late goal disallowed for offside, before Willian secured an 11th win from 12 top-flight home games.
+
+Romelu Lukaku was denied by a fine save from the recalled Petr Cech and also went close in the first half for the visitor, which had Gareth Barry sent off for a second bookable offense just before Willian struck.
+
+Manchester City's 4-1 victory at Stoke City ensured Chelsea's advantage at the summit remains seven points, while Everton has won just one of its last nine Premier League games.
+
+Juan Cuadrado made his first Chelsea start, while Cech, Kurt Zouma and Loic Remy also came into the side. Oscar was not risked because of an injury, but fit-again midfielder Cesc Fabregas was named among the substitutes
+
+Howard started at the expense of Joel Robles, while Aaron Lennon was handed a first Everton start and Ross Barkley was recalled.
+
+Matic almost made an early impact with a goal when he beat two Everton players before firing a left-footed strike over the crossbar.
+
+Fellow midfielder Willian went even closer with a dipping shot from just outside the penalty area, before Lukaku almost struck at the other end against his former club when he raced into the box. His low effort was kept out by the feet of Cech after only seven minutes.
+
+Cuadrado looked a threat and the big-money deadline-day recruit dragged a shot wide of the far post and then Howard saved a Remy header in a frantic start.
+
+The lively Hazard went agonizingly close to getting on the end of Cesar Azpilicueta's fine cross as Everton struggled to contain the leaders, but Chelsea was unable to find the back of the net before the break.
+
+Everton manager Roberto Martinez replaced Muhamed Besic, who was shown an early yellow card, with James McCarthy at halftime and Chelsea was soon back on the front foot after the break.
+
+Hazard was a constant menace to the Everton defense, and the Belgium winger fired the ball across the face of the goal, but Bryan Oviedo was well positioned to avert the danger.
+
+The outstanding Hazard then surged into the area, after producing some fine close control, before forcing a save from Howard. The Everton goalkeeper also had to be at his best to save Matic's well executed free-kick.
+
+The busy Howard again demonstrated why Martinez was so eager to recall him when he produced a diving stop to keep out a measured Willian effort, before Cech showed his class at the other end to thwart an unmarked Lukaku.
+
+Belgium striker Lukaku looked certain to convert Oviedo's ball in from the left, but Cech stood up to keep out his finish from only six yards out.
+
+Jose Mourinho replaced Cuadrado and Remy with Fabregas and Didier Drogba 20 minutes from time, and Chelsea had a late goal disallowed when Matic's shot was deflected in off Ivanovic, who was offside.
+
+Barry was then dismissed for a challenge on Willian which sparked a mass confrontation, and there was more drama to come, as Howard fisted away a cross into Willian's path and he rifled home with the aid of a defletion to stun Everton.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="276~283" text="Willian" playerID="101" />
+<Player id="P1" spans="413~423" text="Tim Howard" playerID="102" />
+<Player id="P2" spans="582~589" text="Willian" playerID="101" />
+<Player id="P3" spans="637~648" text="Eden Hazard" playerID="103" />
+<Player id="P4" spans="650~657" text="Willian" playerID="101" />
+<Player id="P5" spans="662~675" text="Nemanja Matic" playerID="104" />
+<Player id="P6" spans="734~752" text="Branislav Ivanovic" playerID="105" />
+<Player id="P7" spans="800~807" text="Willian" playerID="101" />
+<Player id="P8" spans="860~873" text="Romelu Lukaku" playerID="106" />
+<Player id="P9" spans="918~927" text="Petr Cech" playerID="107" />
+<Player id="P10" spans="993~1005" text="Gareth Barry" playerID="108" />
+<Player id="P11" spans="1057~1064" text="Willian" playerID="101" />
+<Player id="P12" spans="1253~1266" text="Juan Cuadrado" playerID="109" />
+<Player id="P13" spans="1303~1307" text="Cech" playerID="107" />
+<Player id="P14" spans="1309~1319" text="Kurt Zouma" playerID="110" />
+<Player id="P15" spans="1324~1333" text="Loic Remy" playerID="111" />
+<Player id="P16" spans="1359~1364" text="Oscar" playerID="112" />
+<Player id="P17" spans="1427~1440" text="Cesc Fabregas" playerID="113" />
+<Player id="P18" spans="1474~1480" text="Howard" playerID="102" />
+<Player id="P19" spans="1507~1518" text="Joel Robles" playerID="114" />
+<Player id="P20" spans="1526~1538" text="Aaron Lennon" playerID="115" />
+<Player id="P21" spans="1576~1588" text="Ross Barkley" playerID="116" />
+<Player id="P22" spans="1604~1609" text="Matic" playerID="104" />
+<Player id="P23" spans="1756~1763" text="Willian" playerID="101" />
+<Player id="P24" spans="1844~1850" text="Lukaku" playerID="106" />
+<Player id="P25" spans="1977~1981" text="Cech" playerID="107" />
+<Player id="P26" spans="2009~2017" text="Cuadrado" playerID="109" />
+<Player id="P27" spans="2118~2124" text="Howard" playerID="102" />
+<Player id="P28" spans="2133~2137" text="Remy" playerID="111" />
+<Player id="P29" spans="2177~2183" text="Hazard" playerID="103" />
+<Player id="P30" spans="2232~2249" text="Cesar Azpilicueta" playerID="117" />
+<Player id="P32" spans="2420~2433" text="Muhamed Besic" playerID="118" />
+<Player id="P34" spans="2476~2490" text="James McCarthy" playerID="119" />
+<Player id="P36" spans="2565~2571" text="Hazard" playerID="103" />
+<Player id="P37" spans="2689~2701" text="Bryan Oviedo" playerID="120" />
+<Player id="P38" spans="2760~2766" text="Hazard" playerID="103" />
+<Player id="P39" spans="2862~2868" text="Howard" playerID="102" />
+<Player id="P40" spans="2928~2933" text="Matic" playerID="104" />
+<Player id="P41" spans="2971~2977" text="Howard" playerID="102" />
+<Player id="P43" spans="3091~3098" text="Willian" playerID="101" />
+<Player id="P44" spans="3114~3118" text="Cech" playerID="107" />
+<Player id="P45" spans="3175~3181" text="Lukaku" playerID="106" />
+<Player id="P46" spans="3200~3206" text="Lukaku" playerID="106" />
+<Player id="P47" spans="3233~3239" text="Oviedo" playerID="120" />
+<Player id="P48" spans="3269~3273" text="Cech" playerID="107" />
+<Player id="P49" spans="3355~3363" text="Cuadrado" playerID="109" />
+<Player id="P50" spans="3368~3372" text="Remy" playerID="111" />
+<Player id="P51" spans="3378~3386" text="Fabregas" playerID="113" />
+<Player id="P52" spans="3391~3404" text="Didier Drogba" playerID="120" />
+<Player id="P53" spans="3471~3476" text="Matic" playerID="104" />
+<Player id="P54" spans="3505~3513" text="Ivanovic" playerID="105" />
+<Player id="P55" spans="3533~3538" text="Barry" playerID="108" />
+<Player id="P56" spans="3577~3584" text="Willian" playerID="101" />
+<Player id="P57" spans="3658~3664" text="Howard" playerID="102" />
+<Player id="P58" spans="3690~3697" text="Willian" playerID="101" />
+<Coref id="C0" spans="466~469" text="his" playerID="102" />
+<Coref id="C1" spans="1272~1275" text="his" playerID="109" />
+<Coref id="C2" spans="1655~1657" text="he" playerID="104" />
+<Coref id="C3" spans="1890~1893" text="his" playerID="106" />
+<Coref id="C4" spans="1911~1913" text="he" playerID="106" />
+<Coref id="C5" spans="1934~1937" text="His" playerID="106" />
+<Coref id="C6" spans="2911~2914" text="his" playerID="102" />
+<Coref id="C7" spans="3042~3044" text="he" playerID="102" />
+<Coref id="C8" spans="3126~3129" text="his" playerID="107" />
+<Coref id="C9" spans="3295~3298" text="his" playerID="106" />
+<Coref id="C10" spans="3709~3711" text="he" playerID="101" />
+<Coref id="C11" spans="494~516" text="the Everton goalkeeper" playerID="102" />
+<Coref id="C12" spans="697~729" text="the former Manchester United man" playerID="102" />
+<Coref id="C13" spans="2038~2072" text="the big-money deadline-day recruit" playerID="109" />
+<Coref id="C14" spans="2622~2640" text="the Belgium winger" playerID="103" />
+<Coref id="C15" spans="2870~2892" text="The Everton goalkeeper" playerID="102" />
+<Coref id="C16" spans="3033~3036" text="him" playerID="102" />
+<Fact id="F0" spans="257~270" text="A late strike" type="goal" factID="1" time="last match" />
+<Fact id="F1" spans="564~581" text="Brazil midfielder" time="last match" type="positioning" factID="2" />
+<Fact id="F2" spans="540~558" text="a deflected strike" time="last match" type="shot" factID="3" />
+<Fact id="F3" spans="753~791" text="had a late goal disallowed for offside" time="last match" type="shot" factID="4" />
+<Fact id="F4" spans="808~827" text="secured an 11th win" time="last match" factID="1" type="goal" />
+<Fact id="F5" spans="888~899" text="a fine save" time="last match" type="save" factID="5" />
+<Fact id="F6" spans="1065~1071" text="struck" time="last match" type="shot" factID="6" />
+<Fact id="F7" spans="1267~1295" text="made his first Chelsea start" time="last match" type="goal" factID="7" />
+<Fact id="F8" spans="1380~1400" text="because of an injury" time="last match" type="injury" factID="8" />
+<Fact id="F9" spans="1539~1571" text="was handed a first Everton start" time="last match" type="goal" factID="9" />
+<Fact id="F10" spans="1589~1601" text="was recalled" time="last match" type="substitute out" factID="10" />
+<Fact id="F11" spans="1610~1649" text="almost made an early impact with a goal" time="last match" type="shot" factID="11" />
+<Fact id="F12" spans="1658~1682" text="beat two Everton players" time="last match" type="foul" factID="12" />
+<Fact id="F13" spans="1690~1735" text="firing a left-footed strike over the crossbar" time="last match" type="shot" factID="11" />
+<Fact id="F14" spans="1745~1755" text="midfielder" time="last match" type="positioning" factID="13" />
+<Fact id="F15" spans="1786~1800" text="a dipping shot" time="last match" type="shot" factID="14" />
+<Fact id="F16" spans="1850~1881" text=" almost struck at the other end" time="last match" type="shot" factID="15" />
+<Fact id="F17" spans="1934~1964" text="His low effort was kept out by" time="last match" type="save" factID="16" />
+<Fact id="F18" spans="2073~2087" text="dragged a shot" time="last match" type="shot" factID="17" />
+<Fact id="F19" spans="2125~2130" text="saved" time="last match" type="save" factID="18" />
+<Fact id="F20" spans="2138~2144" text="header" time="last match" type="shot" factID="19" />
+<Fact id="F21" spans="2252~2262" text="fine cross" time="last match" type="pass" factID="20" />
+<Fact id="F22" spans="2411~2419" text="replaced" time="last match" type="substitute out" factID="21" />
+<Fact id="F23" spans="2439~2469" text="was shown an early yellow card" time="last match" type="foul" factID="22" />
+<Fact id="F24" spans="2411~2475" text="replaced Muhamed Besic, who was shown an early yellow card, with" time="last match" factID="23" type="substitute in" />
+<Fact id="F25" spans="2641~2683" text="fired the ball across the face of the goal" time="last match" type="shot" factID="24" />
+<Fact id="F26" spans="2701~2741" text=" was well positioned to avert the danger" time="last match" type="save" factID="25" />
+<Fact id="F27" spans="2771~2792" text=" surged into the area" time="last match" type="movement" factID="26" />
+<Fact id="F28" spans="2850~2861" text="a save from" time="last match" type="save" factID="27" />
+<Fact id="F29" spans="2936~2959" text="well executed free-kick" time="last match" type="shot" factID="28" />
+<Fact id="F30" spans="2898~2959" text="had to be at his best to save Matic&apos;s well executed free-kick" time="last match" type="save" factID="29" />
+<Fact id="F31" spans="3045~3105" text="produced a diving stop to keep out a measured Willian effort" time="last match" type="save" factID="30" />
+<Fact id="F32" spans="3099~3105" text="effort" time="last match" type="shot" factID="31" />
+<Fact id="F33" spans="3274~3329" text="stood up to keep out his finish from only six yards out" time="last match" type="save" factID="32" />
+<Fact id="F34" spans="3346~3354" text="replaced" time="last match" type="substitute out" factID="33" />
+<Fact id="F35" spans="3346~3377" text="replaced Cuadrado and Remy with" time="last match" type="substitute in" factID="34" />
+<Fact id="F36" spans="3479~3483" text="shot" time="last match" type="shot" factID="35" />
+<Fact id="F37" spans="3665~3684" text="fisted away a cross" time="last match" type="save" factID="36" />
+<Fact id="F38" spans="3711~3767" text=" rifled home with the aid of a defletion to stun Everton" time="last match" type="goal" factID="1" />
+<Opinion id="O0" spans="284~316" text="ensured Chelsea beat Everton 1-0" time="last match" reported="false" polarity="+" type="accomplishment" />
+<Opinion id="O1" spans="516~558" text=" was unable to keep out a deflected strike" time="last match" reported="false" type="accomplishment" polarity="-" />
+<Opinion id="O2" spans="676~729" text="were all thwarted by the former Manchester United man" time="last match" reported="false" polarity="-" type="other opinion" />
+<Opinion id="O3" spans="1406~1426" text="fit-again midfielder" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O4" spans="2018~2033" text="looked a threat" time="last match" reported="false" polarity="+" type="general attribute" />
+<Opinion id="O5" spans="2170~2176" text="lively" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O6" spans="2572~2616" text="was a constant menace to the Everton defense" time="last match" reported="false" polarity="+" type="accomplishment" />
+<Opinion id="O7" spans="2748~2759" text="outstanding" time="last match" reported="false" polarity="+" type="general attribute" />
+<Opinion id="O8" spans="2800~2833" text="producing some fine close control" time="last match" reported="false" polarity="+" type="soccer skill" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="A late strike" targetID="P0" targetText="Willian" />
+<TargetLink id="T1" fact_or_opinionID="O0" fact_or_opinionText="ensured Chelsea beat Everton 1-0" targetID="P0" targetText="Willian" />
+<TargetLink id="T2" fact_or_opinionID="F1" fact_or_opinionText="Brazil midfielder" targetID="P2" targetText="Willian" />
+<TargetLink id="T3" fact_or_opinionID="O1" fact_or_opinionText=" was unable to keep out a deflected strike" targetID="C11" targetText="the Everton goalkeeper" />
+<TargetLink id="T4" fact_or_opinionID="F2" fact_or_opinionText="a deflected strike" targetID="F1" targetText="Brazil midfielder" />
+<TargetLink id="T5" fact_or_opinionID="O2" fact_or_opinionText="were all thwarted by the former Manchester United man" targetID="P3" targetText="Eden Hazard" />
+<TargetLink id="T6" fact_or_opinionID="O2" fact_or_opinionText="were all thwarted by the former Manchester United man" targetID="P4" targetText="Willian" />
+<TargetLink id="T7" fact_or_opinionID="O2" fact_or_opinionText="were all thwarted by the former Manchester United man" targetID="P5" targetText="Nemanja Matic" />
+<TargetLink id="T8" fact_or_opinionID="F3" fact_or_opinionText="had a late goal disallowed for offside" targetID="P6" targetText="Branislav Ivanovic" />
+<TargetLink id="T9" fact_or_opinionID="F4" fact_or_opinionText="secured an 11th win" targetID="P7" targetText="Willian" />
+<TargetLink id="T10" fact_or_opinionID="F5" fact_or_opinionText="a fine save" targetID="P9" targetText="Petr Cech" />
+<TargetLink id="T11" fact_or_opinionID="F6" fact_or_opinionText="struck" targetID="P11" targetText="Willian" />
+<TargetLink id="T12" fact_or_opinionID="F7" fact_or_opinionText="made his first Chelsea start" targetID="P12" targetText="Juan Cuadrado" />
+<TargetLink id="T13" fact_or_opinionID="F8" fact_or_opinionText="because of an injury" targetID="P16" targetText="Oscar" />
+<TargetLink id="T14" fact_or_opinionID="O3" fact_or_opinionText="fit-again midfielder" targetID="P17" targetText="Cesc Fabregas" />
+<TargetLink id="T15" fact_or_opinionID="F9" fact_or_opinionText="was handed a first Everton start" targetID="P20" targetText="Aaron Lennon" />
+<TargetLink id="T16" fact_or_opinionID="F10" fact_or_opinionText="was recalled" targetID="P21" targetText="Ross Barkley" />
+<TargetLink id="T17" fact_or_opinionID="F11" fact_or_opinionText="almost made an early impact with a goal" targetID="P22" targetText="Matic" />
+<TargetLink id="T18" fact_or_opinionID="F13" fact_or_opinionText="firing a left-footed strike over the crossbar" targetID="C2" targetText="he" />
+<TargetLink id="T19" fact_or_opinionID="F12" fact_or_opinionText="beat two Everton players" targetID="C2" targetText="he" />
+<TargetLink id="T20" fact_or_opinionID="F14" fact_or_opinionText="midfielder" targetID="P23" targetText="Willian" />
+<TargetLink id="T21" fact_or_opinionID="F15" fact_or_opinionText="a dipping shot" targetID="P23" targetText="Willian" />
+<TargetLink id="T22" fact_or_opinionID="F16" fact_or_opinionText=" almost struck at the other end" targetID="P24" targetText="Lukaku" />
+<TargetLink id="T23" fact_or_opinionID="F17" fact_or_opinionText="His low effort was kept out by" targetID="P25" targetText="Cech" />
+<TargetLink id="T24" fact_or_opinionID="O4" fact_or_opinionText="looked a threat" targetID="P26" targetText="Cuadrado" />
+<TargetLink id="T25" fact_or_opinionID="F18" fact_or_opinionText="dragged a shot" targetID="C13" targetText="the big-money deadline-day recruit" />
+<TargetLink id="T26" fact_or_opinionID="F19" fact_or_opinionText="saved" targetID="P27" targetText="Howard" />
+<TargetLink id="T27" fact_or_opinionID="F20" fact_or_opinionText="header" targetID="P28" targetText="Remy" />
+<TargetLink id="T28" fact_or_opinionID="F21" fact_or_opinionText="fine cross" targetID="P30" targetText="Cesar Azpilicueta" />
+<TargetLink id="T29" fact_or_opinionID="O5" fact_or_opinionText="lively" targetID="P29" targetText="Hazard" />
+<TargetLink id="T30" fact_or_opinionID="F22" fact_or_opinionText="replaced" targetID="P32" targetText="Muhamed Besic" />
+<TargetLink id="T31" fact_or_opinionID="F23" fact_or_opinionText="was shown an early yellow card" targetID="P32" targetText="Muhamed Besic" />
+<TargetLink id="T33" fact_or_opinionID="F24" fact_or_opinionText="replaced Muhamed Besic, who was shown an early yellow card, with" targetID="P34" targetText="James McCarthy" />
+<TargetLink id="T34" fact_or_opinionID="O6" fact_or_opinionText="was a constant menace to the Everton defense" targetID="P36" targetText="Hazard" />
+<TargetLink id="T35" fact_or_opinionID="F26" fact_or_opinionText=" was well positioned to avert the danger" targetID="P37" targetText="Bryan Oviedo" />
+<TargetLink id="T36" fact_or_opinionID="O7" fact_or_opinionText="outstanding" targetID="P38" targetText="Hazard" />
+<TargetLink id="T37" fact_or_opinionID="F27" fact_or_opinionText=" surged into the area" targetID="P38" targetText="Hazard" />
+<TargetLink id="T38" fact_or_opinionID="O8" fact_or_opinionText="producing some fine close control" targetID="P38" targetText="Hazard" />
+<TargetLink id="T39" fact_or_opinionID="F28" fact_or_opinionText="a save from" targetID="P39" targetText="Howard" />
+<TargetLink id="T40" fact_or_opinionID="F29" fact_or_opinionText="well executed free-kick" targetID="P40" targetText="Matic" />
+<TargetLink id="T41" fact_or_opinionID="F30" fact_or_opinionText="had to be at his best to save Matic&apos;s well executed free-kick" targetID="C15" targetText="The Everton goalkeeper" />
+<TargetLink id="T42" fact_or_opinionID="F31" fact_or_opinionText="produced a diving stop to keep out a measured Willian effort" targetID="C7" targetText="he" />
+<TargetLink id="T43" fact_or_opinionID="F32" fact_or_opinionText="effort" targetID="P43" targetText="Willian" />
+<TargetLink id="T44" fact_or_opinionID="F33" fact_or_opinionText="stood up to keep out his finish from only six yards out" targetID="P48" targetText="Cech" />
+<TargetLink id="T45" fact_or_opinionID="F34" fact_or_opinionText="replaced" targetID="P49" targetText="Cuadrado" />
+<TargetLink id="T46" fact_or_opinionID="F34" fact_or_opinionText="replaced" targetID="P50" targetText="Remy" />
+<TargetLink id="T47" fact_or_opinionID="F35" fact_or_opinionText="replaced Cuadrado and Remy with" targetID="P51" targetText="Fabregas" />
+<TargetLink id="T48" fact_or_opinionID="F35" fact_or_opinionText="replaced Cuadrado and Remy with" targetID="P52" targetText="Didier Drogba" />
+<TargetLink id="T49" fact_or_opinionID="F36" fact_or_opinionText="shot" targetID="P53" targetText="Matic" />
+<TargetLink id="T50" fact_or_opinionID="F37" fact_or_opinionText="fisted away a cross" targetID="P57" targetText="Howard" />
+<TargetLink id="T51" fact_or_opinionID="F38" fact_or_opinionText=" rifled home with the aid of a defletion to stun Everton" targetID="C10" targetText="he" />
+</TAGS>
+</SoccEval1.2>

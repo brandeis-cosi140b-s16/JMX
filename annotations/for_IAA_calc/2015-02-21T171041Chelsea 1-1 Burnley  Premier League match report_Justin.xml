@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/feb/21/chelsea-burnley-premier-league-match-report
+
+Chelsea 1-1 Burnley | Premier League match report
+
+
+Perhaps Chelsea should have expected a deviation from their script. After all, the week had begun with the club revealing they had chosen this match to mark their second annual equality day but that announcement was soon drowned out by howls of disgust after a handful of their fans exposed themselves as racist oafs on the Paris Métro before Tuesday's Champions League game with Paris Saint-Germain. An uneventful return to action on the pitch would have been welcome but instead Chelsea were denied two points by Burnley in a game that ended in ugly recriminations.
+ 
+It would be a stretch to say that Chelsea's title charge came off the rails here but it did stall, at least. José Mourinho's side lost not only points but also a key player, with Nemanja Matic being sent off in the second half for reacting violently to a dangerous challenge by Ashley Barnes. Chelsea were leading at that point thanks to Branislav Ivanovic's goal in the first half but Burnley equalised against the 10 men when Ben Mee headed in from a corner nine minutes from time.
+ 
+Both sides sought a decisive goal in a frenetic finish but ultimately the league leaders and the side fighting relegation shared the points and Mourinho wound up making dark allusions to the influence of officials.
+  
+ Related: José Mourinho blames referee for Nemanja Matic's dismissal 
+   
+Chelsea had wanted to send out positive messages – first to society, as, in the match programme and on giant screens at Stamford Bridge, various senior figures, including John Terry, condemned the idiocy of the fans on the Métro, and a group of supporters in the Shed End held aloft a home-made banner declaring "Black or white, we're all Blue"; and second to Manchester City, who would have kicked off their evening match against Newcastle United 10 points adrift if Chelsea registered the expected victory.
+ 
+Events on the pitch began promisingly for the hosts. The Burnley goalkeeper, Tom Heaton, was forced into a one-handed save in the fifth minute when Juan Cuadrado sent a header towards goal from 15 yards after meeting a cross from Filipe Luís. But all season Burnley have been on a mission to subvert the established order and Sean Dyche's gallant band of rebels soon showed their teeth in the sixth minute when Barnes's fine volley was well saved by Thibault Courtois.
+ 
+For all their laudable attributes, Burnley do not have a player of Eden Hazard's ingenuity. Few teams do. In the 14th minute the dazzling Belgian showcased his rare skills by skedaddling past three defenders in the penalty area before pulling the ball back for Ivanovic to tuck into the net from close range. That was a repetition of one Parisian event Chelsea did not mind seeing again, with this goal taking the defender's tally for the season to six.
+  
+ Related: Back on home turf, Chelsea fans condemn club's Paris racism shame 
+   
+Burnley continued to pose problems but were kept mostly at arm's length by Chelsea. Courtois made another stop from a long-range effort from Barnes. Barnes was then involved in a challenge with Ivanovic that Mourinho suggested should have resulted in a dismissal for the visitor but the referee saw nothing wrong.
+ 
+Diego Costa, as in Paris, was struggling to rediscover the form he showed before his three-game suspension but in the 32nd minute he did well to find Cuadrado, who set up Ivanovic for another shot, this time from 20 yards. The Serb's drive was blocked by Michael Kightly's flailing arm and Chelsea demanded a penalty, but Martin Atkinson seemingly deemed it accidental.
+ 
+Chelsea appealed in the 43rd minute when Costa collapsed in the box following contact from Jason Shackell. Mourinho, who claims his striker gets a raw deal from officials, threw his arms to the skies in supposed disbelief when the referee waved play on, but the decision seemed fair – Shackell's hands did touch Costa but it was hardly the sort of shove that would, for example, prevent a commuter from boarding a train.
+ 
+Chelsea improved at the start of the second half, though Burnley were the first to threaten a goal. In the 50th minute Barnes brought Courtois's best save so far with a deflected drive from 18 yards, the keeper diverting it over with one hand.
+ 
+Chelsea immediately went close at the other end as Ivanovic sent a header towards goal from a corner. Burnley scrambled the ball away despite Matic's attempt to help it over the line. Hazard then sent Costa scampering towards the box but the striker's shot weakly at Heaton.
+  
+ Related: José Mourinho spot-on with response to Chelsea fans' Paris incident | Paul Wilson 
+   
+Ivanovic was ubiquitous. In the 58th minute he clipped an inviting cross from the right towards Costa, but the forward failed to apply a decisive touch from close range.
+ 
+Chelsea seemed to be tightening their grip but Matic lost his head. The midfielder was angered by Barnes's dangerous follow-through in a tackle and showed his fury by charging at the player and pushing him to the ground. The referee issued a red card and Matic briefly had to be held back by team-mates before accepting the decision and jogging down the tunnel.
+ 
+Mourinho sought to shore up midfield and was intending to introduce Gary Cahill for Costa in the 81st minute as Burnley lined up a corner following a fine save by Courtois from another Barnes shot, but he could not make the change in time and had to watch aghast as Mee rose above Ramires and headed Trippier's delivery into the net. Both managers made attacking changes in search of a winner and Burnley came closest to snatching it, Ings firing over after a swift counter-ttack in stoppage time.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="894~907" text="Nemanja Matic" playerID="101" />
+<Player id="P1" spans="993~1006" text="Ashley Barnes" playerID="102" />
+<Player id="P2" spans="1053~1071" text="Branislav Ivanovic" playerID="103" />
+<Player id="P3" spans="1143~1150" text="Ben Mee" playerID="104" />
+<Player id="P4" spans="1462~1475" text="Nemanja Matic" playerID="101" />
+<Player id="P5" spans="1664~1674" text="John Terry" playerID="104" />
+<Player id="P6" spans="2081~2091" text="Tom Heaton" playerID="105" />
+<Player id="P7" spans="2152~2165" text="Juan Cuadrado" playerID="106" />
+<Player id="P8" spans="2234~2245" text="Filipe Luís" playerID="107" />
+<Player id="P9" spans="2415~2421" text="Barnes" playerID="102" />
+<Player id="P10" spans="2454~2471" text="Thibault Courtois" playerID="108" />
+<Player id="P11" spans="2542~2553" text="Eden Hazard" playerID="109" />
+<Player id="P12" spans="2736~2744" text="Ivanovic" playerID="103" />
+<Player id="P13" spans="3097~3105" text="Courtois" playerID="108" />
+<Player id="P14" spans="3154~3160" text="Barnes" playerID="102" />
+<Player id="P15" spans="3162~3168" text="Barnes" playerID="102" />
+<Player id="P16" spans="3207~3215" text="Ivanovic" playerID="103" />
+<Player id="P17" spans="3329~3340" text="Diego Costa" playerID="109" />
+<Player id="P18" spans="3479~3487" text="Cuadrado" playerID="106" />
+<Player id="P19" spans="3500~3508" text="Ivanovic" playerID="103" />
+<Player id="P20" spans="3584~3599" text="Michael Kightly" playerID="110" />
+<Player id="P21" spans="3742~3747" text="Costa" playerID="109" />
+<Player id="P22" spans="3792~3806" text="Jason Shackell" playerID="111" />
+<Player id="P23" spans="3986~3994" text="Shackell" playerID="111" />
+<Player id="P24" spans="4013~4018" text="Costa" playerID="109" />
+<Player id="P25" spans="4243~4249" text="Barnes" playerID="102" />
+<Player id="P26" spans="4258~4266" text="Courtois" playerID="108" />
+<Player id="P27" spans="4421~4429" text="Ivanovic" playerID="103" />
+<Player id="P28" spans="4512~4517" text="Matic" playerID="101" />
+<Player id="P29" spans="4554~4560" text="Hazard" playerID="109" />
+<Player id="P30" spans="4571~4576" text="Costa" playerID="109" />
+<Player id="P31" spans="4637~4643" text="Heaton" playerID="105" />
+<Player id="P33" spans="4745~4753" text="Ivanovic" playerID="103" />
+<Player id="P34" spans="4841~4846" text="Costa" playerID="109" />
+<Player id="P35" spans="4964~4969" text="Matic" playerID="101" />
+<Player id="P36" spans="5015~5021" text="Barnes" playerID="102" />
+<Player id="P37" spans="5172~5177" text="Matic" playerID="101" />
+<Player id="P38" spans="5349~5360" text="Gary Cahill" playerID="112" />
+<Player id="P39" spans="5365~5370" text="Costa" playerID="109" />
+<Player id="P40" spans="5444~5452" text="Courtois" playerID="108" />
+<Player id="P41" spans="5466~5472" text="Barnes" playerID="102" />
+<Player id="P42" spans="5547~5550" text="Mee" playerID="104" />
+<Player id="P43" spans="5562~5569" text="Ramires" playerID="113" />
+<Player id="P44" spans="5581~5589" text="Trippier" playerID="114" />
+<Player id="P45" spans="5716~5720" text="Ings" playerID="115" />
+<Coref id="C3" spans="3459~3461" text="he" playerID="109" />
+<Coref id="C6" spans="4789~4791" text="he" playerID="103" />
+<Coref id="C10" spans="4608~4619" text="the striker" playerID="109" />
+<Coref id="C11" spans="4852~4863" text="the forward" playerID="109" />
+<Fact id="F0" spans="908~941" text="being sent off in the second half" time="last match" type="substitute out" factID="1" />
+<Fact id="F1" spans="968~989" text="a dangerous challenge" time="last match" type="foul" factID="2" />
+<Fact id="F2" spans="1074~1096" text="goal in the first half" time="last match" type="goal" factID="3" />
+<Fact id="F3" spans="1151~1174" text="headed in from a corner" time="last match" type="goal" factID="4" />
+<Fact id="F4" spans="2093~2126" text="was forced into a one-handed save" time="last match" type="save" factID="5" />
+<Fact id="F5" spans="2166~2179" text="sent a header" time="last match" type="pass" factID="6" />
+<Fact id="F6" spans="2221~2228" text="a cross" time="last match" type="pass" factID="7" />
+<Fact id="F7" spans="2424~2435" text="fine volley" time="last match" type="shot" factID="8" />
+<Fact id="F9" spans="2748~2765" text="tuck into the net" time="last match" type="goal" factID="9" />
+<Fact id="F10" spans="3106~3123" text="made another stop" time="last match" type="save" factID="10" />
+<Fact id="F11" spans="3129~3148" text="a long-range effort" time="last match" type="pass" factID="11" />
+<Fact id="F12" spans="3178~3201" text="involved in a challenge" time="last match" type="foul" factID="12" />
+<Fact id="F13" spans="3462~3478" text="did well to find" time="last match" type="pass" factID="13" />
+<Fact id="F14" spans="3489~3499" text="who set up" time="last match" type="assist" factID="14" />
+<Fact id="F15" spans="3509~3525" text="for another shot" time="last match" type="shot" factID="15" />
+<Fact id="F16" spans="3601~3614" text=" flailing arm" time="last match" type="foul" factID="16" />
+<Fact id="F17" spans="3748~3768" text="collapsed in the box" time="last match" type="injury" factID="17" />
+<Fact id="F18" spans="4269~4278" text="best save" time="last match" type="save" factID="18" />
+<Fact id="F19" spans="4430~4443" text="sent a header" time="last match" type="goal" factID="19" />
+<Fact id="F20" spans="4520~4552" text="attempt to help it over the line" time="last match" type="shot" factID="20" />
+<Fact id="F21" spans="4566~4570" text="sent" time="last match" type="pass" factID="21" />
+<Fact id="F23" spans="4792~4840" text="clipped an inviting cross from the right towards" time="last match" type="pass" factID="22" />
+<Fact id="F25" spans="4970~4983" text="lost his head" time="last match" type="injury" factID="23" />
+<Fact id="F26" spans="5024~5060" text="dangerous follow-through in a tackle" time="last match" type="tackle" factID="24" />
+<Fact id="F27" spans="5339~5348" text="introduce" time="last match" type="substitute in" factID="25" />
+<Fact id="F28" spans="5429~5440" text="a fine save" time="last match" type="save" factID="26" />
+<Fact id="F29" spans="5473~5477" text="shot" time="last match" type="shot" factID="27" />
+<Fact id="F30" spans="5721~5732" text="firing over" time="last match" type="goal" factID="28" />
+<Fact id="F31" spans="5551~5561" text="rose above" time="last match" type="movement" factID="29" />
+<Fact id="F32" spans="5574~5580" text="headed" time="last match" factID="30" type="goal" />
+<Fact id="F33" spans="5592~5600" text="delivery" time="last match" type="pass" factID="31" />
+<Opinion id="O0" spans="2556~2565" text="ingenuity" time="last match" reported="false" polarity="+" type="soccer skill" hypothetical="counterfactive" />
+<Opinion id="O1" spans="3355~3383" text="was struggling to rediscover" time="last match" reported="false" polarity="-" type="soccer skill" hypothetical="counterfactive" />
+<Opinion id="O2" spans="4622~4633" text="shot weakly" time="last match" reported="false" polarity="-" type="soccer skill" hypothetical="counterfactive" />
+<Opinion id="O3" spans="4758~4768" text="ubiquitous" time="last match" reported="false" polarity="+" type="general attribute" hypothetical="counterfactive" />
+<Opinion id="O4" spans="4864~4896" text="failed to apply a decisive touch" time="last match" reported="false" polarity="-" type="soccer skill" hypothetical="counterfactive" />
+<TargetLink id="T0" targetID="P0" targetText="Nemanja Matic" fact_or_opinionID="F0" fact_or_opinionText="being sent off in the second half" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="a dangerous challenge" targetID="P1" targetText="Ashley Barnes" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="goal in the first half" targetID="P2" targetText="Branislav Ivanovic" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="headed in from a corner" targetID="P3" targetText="Ben Mee" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="was forced into a one-handed save" targetID="P6" targetText="Tom Heaton" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="sent a header" targetID="P7" targetText="Juan Cuadrado" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="a cross" targetID="P8" targetText="Filipe Luís" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="fine volley" targetID="P9" targetText="Barnes" />
+<TargetLink id="T8" fact_or_opinionID="O0" fact_or_opinionText="ingenuity" targetID="P11" targetText="Eden Hazard" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="tuck into the net" targetID="P12" targetText="Ivanovic" />
+<TargetLink id="T10" fact_or_opinionID="F10" fact_or_opinionText="made another stop" targetID="P13" targetText="Courtois" />
+<TargetLink id="T11" fact_or_opinionID="F11" fact_or_opinionText="a long-range effort" targetID="P14" targetText="Barnes" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="involved in a challenge" targetID="P16" targetText="Ivanovic" />
+<TargetLink id="T13" fact_or_opinionID="O1" fact_or_opinionText="was struggling to rediscover" targetID="P17" targetText="Diego Costa" />
+<TargetLink id="T14" fact_or_opinionID="F13" fact_or_opinionText="did well to find" targetID="C3" targetText="he" />
+<TargetLink id="T15" fact_or_opinionID="F14" fact_or_opinionText="who set up" targetID="P18" targetText="Cuadrado" />
+<TargetLink id="T16" fact_or_opinionID="F15" fact_or_opinionText="for another shot" targetID="P19" targetText="Ivanovic" />
+<TargetLink id="T17" fact_or_opinionID="F16" fact_or_opinionText=" flailing arm" targetID="P20" targetText="Michael Kightly" />
+<TargetLink id="T18" fact_or_opinionID="F17" fact_or_opinionText="collapsed in the box" targetID="P21" targetText="Costa" />
+<TargetLink id="T19" fact_or_opinionID="F18" fact_or_opinionText="best save" targetID="P26" targetText="Courtois" />
+<TargetLink id="T20" fact_or_opinionID="F19" fact_or_opinionText="sent a header" targetID="P27" targetText="Ivanovic" />
+<TargetLink id="T21" fact_or_opinionID="F20" fact_or_opinionText="attempt to help it over the line" targetID="P28" targetText="Matic" />
+<TargetLink id="T22" fact_or_opinionID="F21" fact_or_opinionText="sent" targetID="P29" targetText="Hazard" />
+<TargetLink id="T23" fact_or_opinionID="O2" fact_or_opinionText="shot weakly" targetID="C10" targetText="the striker" />
+<TargetLink id="T24" fact_or_opinionID="O3" fact_or_opinionText="ubiquitous" targetID="P33" targetText="Ivanovic" />
+<TargetLink id="T25" fact_or_opinionID="F23" fact_or_opinionText="clipped an inviting cross from the right towards" targetID="C6" targetText="he" />
+<TargetLink id="T26" fact_or_opinionID="O4" fact_or_opinionText="failed to apply a decisive touch" targetID="C11" targetText="the forward" />
+<TargetLink id="T27" fact_or_opinionID="F26" fact_or_opinionText="dangerous follow-through in a tackle" targetID="P36" targetText="Barnes" />
+<TargetLink id="T28" fact_or_opinionID="F29" fact_or_opinionText="shot" targetID="P41" targetText="Barnes" />
+<TargetLink id="T29" fact_or_opinionID="F27" fact_or_opinionText="introduce" targetID="P38" targetText="Gary Cahill" />
+<TargetLink id="T30" fact_or_opinionID="F28" fact_or_opinionText="a fine save" targetID="P40" targetText="Courtois" />
+<TargetLink id="T31" fact_or_opinionID="F30" fact_or_opinionText="firing over" targetID="P45" targetText="Ings" />
+<TargetLink id="T32" fact_or_opinionID="F32" fact_or_opinionText="headed" targetID="P42" targetText="Mee" />
+<TargetLink id="T33" fact_or_opinionID="F33" fact_or_opinionText="delivery" targetID="P44" targetText="Trippier" />
+</TAGS>
+</SoccEval1.2>

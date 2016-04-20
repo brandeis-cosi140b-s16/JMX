@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2014/nov/08/liverpool-chelsea-premier-league-match-report
+
+Liverpool 1-2 Chelsea | Premier League match report
+
+
+This time there was no need for José Mourinho to worry unduly about Chelsea's opponents. There was no strategic time-wasting and none of the ultra-defensive tactics that led to Brendan Rodgers accusing him of "parking two buses" in front of goal when the sides met last season. Liverpool, to put it bluntly, do not inspire that kind of trepidation any more and Chelsea could dismantle them without any complaints about their methods.
+ 
+They did it with the look of champions-in-waiting whereas it was difficult at times to remember that Rodgers had actually rested seven of these players when Liverpool lost to Real Madrid in midweek. Mario Balotelli's half-hearted efforts are becoming the norm at Anfield but it was rare to see Steven Gerrard play with such diminished qualities. Chelsea's fans relentlessly reminded Gerrard of his infamous mistake from this fixture last season and there was another dose of schadenfreude in the form of a horse by the name of Gerrard's Slip running in the 12.40 at Doncaster. Nothing, however, could have hurt the Liverpool captain more than his own performance and the way his team were overwhelmed.
+ 
+It left Liverpool 15 points off their opponents at the top of the league and, for the first time, there was open dissent from the crowd towards Rodgers, angrily objecting to his decision to take off Philippe Coutinho and Emre Can for Fabio Borini and Joe Allen shortly after Diego Costa had scored Chelsea's second goal. Can had opened the scoring with a deflected shot in the ninth minute but he and Coutinho, in fairness to Rodgers, had faded badly. The bigger mystery was how Balotelli lasted so long. When he was substituted later on, the away end serenaded him with "Fernando Torres, he's better than you" – and it's not as if Chelsea's fans ever properly rated Torres.
+ 
+Chelsea did have to withstand some late pressure and Liverpool have legitimate grievances about that moment, after 87 minutes, when Gary Cahill blocked a Gerrard shot with his hand. The referee, Anthony Taylor, was guilty of missing a clear penalty but Rodgers was stretching the truth when he tried to argue a draw would have been an accurate assessment of how the contest went. The truth is that Chelsea were the more rounded side for at least three-quarters of the game. They played with control and know-how, with Nemanja Matic outstanding in midfield and Cesc Fàbregas only marginally subdued by Jordan Henderson's man-marking. Fàbregas, Mourinho revealed afterwards, had played despite a hamstring injury and may now miss a couple of matches. The same applies to Ramires, with a groin problem. "They were really in trouble but they put themselves there for the team," Mourinho said. It typified the spirit of his side.
+ 
+Chelsea had to show all their competitive courage, too, bearing in mind the way the game started, with Can's 25-yard shot taking a deflection off Cahill to wrong-foot Thibaut Courtois for the early breakthrough. Unfortunately for Liverpool, their vulnerability from set pieces will always encourage opponents and once again it was a significant factor in everything unravelling. The equaliser came five minutes later from a corner, swung over by Fàbregas and initially headed on by Costa. John Terry had the first attempt at goal and Simon Mignolet's reflex save fell to Cahill via a slight touch off Matic. This time the goalline technology showed Cahill's shot had squeezed past Liverpool's goalkeeper. What an indictment for the home side that, in a matter of seconds, four Chelsea players had touched the ball in the six-yard area without a defender getting near.
+ 
+For the rest of the first half it was startling to see so many unforced errors from Liverpool's players and so much panic in the face of Chelsea pressure. Chelsea out-passed and outplayed them and, even though there were no more goals, it was rare to see a Liverpool side look so hassled on their own pitch. Gerrard could be seen misplacing passes, kicking the ball against Henderson at one point, but it was his lack of mobility that was shocking and the frequency with which opponents turned past him.
+ 
+Balotelli was ineffectual and frustratingly lazy whereas Rodgers surely made a mistake selecting Dejan Lovren when Kolo Touré had excelled in the Bernabéu. Lovren did little to alter the view his £20m acquisition has been dismal business on Liverpool's part. He was signed to bring some leadership to the Liverpool defence but there was absolutely none and his day could probably be summed up by the moment Oscar treated him to a nutmeg. Eden Hazard later did the same on Henderson.
+ 
+Hazard had the beating of Glen Johnson while Branislav Ivanovic, a right-back, apparently, had long spells operating as an extra forward and Costa, this battering-ram of a striker, did everything he could to unsettle Liverpool's defence. Costa gives the impression sometimes that he cannot see a belt without punching below it. He seemed determined to embroil Martin Skrtel in a running feud and, by half-time, they were having to be held apart.
+ 
+More importantly, the Spain international is a lethal finisher. Midway through the second half, César Azpilicueta ran down the left, kept the ball in play and turned brilliantly inside Coutinho. Mignolet turned his effort away but the loose ball flicked off Alberto Moreno into Costa's path. His finish was drilled in and when the game finished in a moment of tragicomedy – Mignolet kicking a simple backpass behind his goal – Liverpool were left to reflect how far they fallen since the last occasion Chelsea were in town.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P0" spans="784~799" text="Mario Balotelli" playerID="101" />
+<Player id="P1" spans="879~893" text="Steven Gerrard" playerID="102" />
+<Player id="P2" spans="968~975" text="Gerrard" playerID="102" />
+<Player id="P3" spans="1112~1119" text="Gerrard" playerID="102" />
+<Player id="P4" spans="1488~1505" text="Philippe Coutinho" playerID="103" />
+<Player id="P5" spans="1510~1518" text="Emre Can" playerID="104" />
+<Player id="P6" spans="1523~1535" text="Fabio Borini" playerID="105" />
+<Player id="P7" spans="1540~1549" text="Joe Allen" playerID="106" />
+<Player id="P8" spans="1564~1575" text="Diego Costa" playerID="107" />
+<Player id="P9" spans="1610~1613" text="Can" playerID="104" />
+<Player id="P10" spans="1690~1698" text="Coutinho" playerID="103" />
+<Player id="P11" spans="1768~1777" text="Balotelli" playerID="108" />
+<Player id="P13" spans="1861~1876" text="Fernando Torres" playerID="109" />
+<Player id="P15" spans="2098~2109" text="Gary Cahill" playerID="110" />
+<Player id="P16" spans="2120~2127" text="Gerrard" playerID="102" />
+<Player id="P18" spans="2484~2497" text="Nemanja Matic" playerID="111" />
+<Player id="P19" spans="2526~2539" text="Cesc Fàbregas" playerID="112" />
+<Player id="P20" spans="2567~2583" text="Jordan Henderson" playerID="113" />
+<Player id="P21" spans="2599~2607" text="Fàbregas" playerID="112" />
+<Player id="P22" spans="2735~2742" text="Ramires" playerID="114" />
+<Player id="P23" spans="2996~2999" text="Can" playerID="104" />
+<Player id="P24" spans="3039~3045" text="Cahill" playerID="110" />
+<Player id="P25" spans="3060~3076" text="Thibaut Courtois" playerID="115" />
+<Player id="P26" spans="3339~3347" text="Fàbregas" playerID="112" />
+<Player id="P27" spans="3375~3380" text="Costa" playerID="107" />
+<Player id="P28" spans="3382~3392" text="John Terry" playerID="116" />
+<Player id="P29" spans="3427~3441" text="Simon Mignolet" playerID="117" />
+<Player id="P30" spans="3464~3470" text="Cahill" playerID="110" />
+<Player id="P31" spans="3494~3499" text="Matic" playerID="111" />
+<Player id="P32" spans="3542~3548" text="Cahill" playerID="110" />
+<Player id="P33" spans="4071~4078" text="Gerrard" playerID="102" />
+<Player id="P34" spans="4137~4146" text="Henderson" playerID="113" />
+<Player id="P35" spans="4269~4278" text="Balotelli" playerID="101" />
+<Player id="P36" spans="4366~4378" text="Dejan Lovren" playerID="118" />
+<Player id="P37" spans="4384~4394" text="Kolo Touré" playerID="119" />
+<Player id="P38" spans="4425~4431" text="Lovren" playerID="118" />
+<Player id="P39" spans="4676~4681" text="Oscar" playerID="120" />
+<Player id="P40" spans="4707~4718" text="Eden Hazard" playerID="121" />
+<Player id="P41" spans="4741~4750" text="Henderson" playerID="113" />
+<Player id="P42" spans="4754~4760" text="Hazard" playerID="121" />
+<Player id="P43" spans="4780~4792" text="Glen Johnson" playerID="122" />
+<Player id="P45" spans="4799~4817" text="Branislav Ivanovic" playerID="123" />
+<Player id="P46" spans="4895~4900" text="Costa" playerID="107" />
+<Player id="P47" spans="4992~4997" text="Costa" playerID="107" />
+<Player id="P48" spans="5114~5127" text="Martin Skrtel" playerID="124" />
+<Player id="P49" spans="5298~5315" text="César Azpilicueta" playerID="125" />
+<Player id="P50" spans="5387~5395" text="Coutinho" playerID="103" />
+<Player id="P51" spans="5397~5405" text="Mignolet" playerID="117" />
+<Player id="P52" spans="5460~5474" text="Alberto Moreno" playerID="126" />
+<Player id="P53" spans="5480~5485" text="Costa" playerID="107" />
+<Player id="P54" spans="5576~5584" text="Mignolet" playerID="117" />
+<Coref id="C0" spans="979~982" text="his" playerID="102" />
+<Coref id="C4" spans="1683~1685" text="he" playerID="104" />
+<Coref id="C5" spans="1799~1801" text="he" playerID="108" />
+<Coref id="C6" spans="1878~1880" text="he" playerID="108" />
+<Coref id="C10" spans="4172~4175" text="his" playerID="102" />
+<Coref id="C12" spans="4528~4530" text="He" playerID="118" />
+<Coref id="C15" spans="5034~5036" text="he" playerID="107" />
+<Coref id="C16" spans="5082~5084" text="He" playerID="107" />
+<Coref id="C18" spans="5494~5497" text="His" playerID="107" />
+<Coref id="C20" spans="4690~4693" text="him" playerID="118" />
+<Fact id="F1" spans="1580~1608" text="scored Chelsea&apos;s second goal" time="last match" type="goal" factID="1" />
+<Fact id="F2" spans="1479~1487" text="take off" time="last match" type="substitute out" factID="2" />
+<Fact id="F3" spans="1519~1522" text="for" time="last match" type="substitute in" factID="3" />
+<Fact id="F4" spans="1644~1658" text="deflected shot" time="last match" factID="4" type="shot" />
+<Fact id="F6" spans="2128~2132" text="shot" time="last match" type="shot" factID="5" />
+<Fact id="F7" spans="2110~2146" text="blocked a Gerrard shot with his hand" time="last match" type="save" factID="6" />
+<Fact id="F8" spans="2658~2676" text="a hamstring injury" time="last match" type="injury" factID="7" />
+<Fact id="F9" spans="2749~2764" text="a groin problem" time="last match" type="injury" factID="8" />
+<Fact id="F10" spans="3002~3014" text="25-yard shot" time="last match" factID="4" type="shot" />
+<Fact id="F11" spans="3022~3038" text="a deflection off" time="last match" type="shot" factID="4" />
+<Fact id="F12" spans="3325~3335" text="swung over" time="last match" type="pass" factID="9" />
+<Fact id="F13" spans="3362~3371" text="headed on" time="last match" factID="10" type="shot" />
+<Fact id="F14" spans="3397~3422" text="the first attempt at goal" time="last match" type="shot" factID="11" />
+<Fact id="F15" spans="3444~3455" text="reflex save" time="last match" type="save" factID="12" />
+<Fact id="F16" spans="3551~3555" text="shot" time="last match" type="goal" factID="13" />
+<Fact id="F17" spans="3475~3493" text="a slight touch off" time="last match" type="pass" factID="14" />
+<Fact id="F19" spans="4112~4146" text="kicking the ball against Henderson" time="last match" type="pass" factID="15" />
+<Fact id="F21" spans="4356~4365" text="selecting" time="last match" type="substitute in" factID="16" />
+<Fact id="F25" spans="5106~5145" text="embroil Martin Skrtel in a running feud" time="last match" type="foul" factID="17" />
+<Fact id="F26" spans="5316~5333" text="ran down the left" time="last match" type="movement" factID="18" />
+<Fact id="F27" spans="5361~5386" text="turned brilliantly inside" time="last match" type="pass" factID="19" />
+<Fact id="F28" spans="5406~5428" text="turned his effort away" time="last match" type="pass" factID="20" />
+<Fact id="F29" spans="5498~5519" text="finish was drilled in" time="last match" type="goal" factID="21" />
+<Fact id="F30" spans="5585~5610" text="kicking a simple backpass" time="last match" type="assist" factID="22" />
+<Opinion id="O0" spans="802~822" text="half-hearted efforts" time="last match" reported="false" polarity="-" type="general attribute" hypothetical="counterfactive" />
+<Opinion id="O1" spans="894~929" text="play with such diminished qualities" time="last match" reported="false" polarity="-" hypothetical="counterfactive" type="general attribute" />
+<Opinion id="O2" spans="983~999" text="infamous mistake" time="last match" reported="false" type="soccer skill" hypothetical="counterfactive" polarity="-" />
+<Opinion id="O3" spans="1122~1134" text="Slip running" time="last match" reported="false" polarity="-" type="soccer skill" hypothetical="counterfactive" />
+<Opinion id="O4" spans="1724~1739" text="had faded badly" time="last match" reported="false" type="general attribute" polarity="-" hypothetical="counterfactive" />
+<Opinion id="O6" spans="1778~1792" text="lasted so long" time="last match" reported="false" type="impact on team" polarity="+" hypothetical="counterfactive" />
+<Opinion id="O7" spans="2498~2509" text="outstanding" time="last match" reported="false" polarity="+" type="soccer skill" hypothetical="counterfactive" />
+<Opinion id="O8" spans="2540~2597" text="only marginally subdued by Jordan Henderson&apos;s man-marking" time="last match" reported="false" polarity="+" type="soccer skill" hypothetical="counterfactive" />
+<Opinion id="O9" spans="4093~4110" text="misplacing passes" time="last match" reported="false" polarity="-" hypothetical="counterfactive" type="soccer skill" />
+<Opinion id="O10" spans="4176~4192" text="lack of mobility" time="last match" reported="false" polarity="-" hypothetical="counterfactive" type="soccer skill" />
+<Opinion id="O11" spans="4283~4317" text="ineffectual and frustratingly lazy" time="last match" reported="false" polarity="-" type="general attribute" hypothetical="counterfactive" />
+<Opinion id="O12" spans="4395~4423" text="had excelled in the Bernabéu" time="last match" reported="false" polarity="+" type="general attribute" hypothetical="counterfactive" />
+<Opinion id="O13" spans="4461~4506" text="his £20m acquisition has been dismal business" time="last match" reported="false" type="other opinion" polarity="-" hypothetical="counterfactive" />
+<Opinion id="O14" spans="4606~4621" text="absolutely none" time="last match" reported="false" type="general attribute" polarity="-" hypothetical="counterfactive" />
+<Opinion id="O15" spans="4697~4705" text="a nutmeg" time="last match" reported="false" polarity="-" type="general attribute" hypothetical="counterfactive" />
+<Opinion id="O16" spans="4761~4792" text="had the beating of Glen Johnson" time="last match" reported="false" type="other opinion" polarity="+" hypothetical="counterfactive" />
+<Opinion id="O17" spans="4849~4890" text="long spells operating as an extra forward" time="last match" reported="false" polarity="+" type="soccer skill" hypothetical="counterfactive" />
+<Opinion id="O18" spans="4962~4990" text="unsettle Liverpool&apos;s defence" time="last match" reported="false" polarity="+" type="impact on team" hypothetical="counterfactive" />
+<Opinion id="O19" spans="5037~5080" text="cannot see a belt without punching below it" time="last match" reported="false" type="general attribute" polarity="-" hypothetical="prediction" />
+<TargetLink id="T0" fact_or_opinionID="O2" fact_or_opinionText="infamous mistake" targetID="C0" targetText="his" />
+<TargetLink id="T1" fact_or_opinionID="O1" fact_or_opinionText="play with such diminished qualities" targetID="P1" targetText="Steven Gerrard" />
+<TargetLink id="T2" fact_or_opinionID="O2" fact_or_opinionText="infamous mistake" targetID="C0" targetText="his" />
+<TargetLink id="T3" fact_or_opinionID="O3" fact_or_opinionText="Slip running" targetID="P3" targetText="Gerrard" />
+<TargetLink id="T4" fact_or_opinionID="F1" fact_or_opinionText="scored Chelsea&apos;s second goal" targetID="P8" targetText="Diego Costa" />
+<TargetLink id="T5" fact_or_opinionID="F2" fact_or_opinionText="take off" targetID="P4" targetText="Philippe Coutinho" />
+<TargetLink id="T6" fact_or_opinionID="F2" fact_or_opinionText="take off" targetID="P5" targetText="Emre Can" />
+<TargetLink id="T7" fact_or_opinionID="F3" fact_or_opinionText="for" targetID="P7" targetText="Joe Allen" />
+<TargetLink id="T8" fact_or_opinionID="F3" fact_or_opinionText="for" targetID="P6" targetText="Fabio Borini" />
+<TargetLink id="T9" fact_or_opinionID="F4" fact_or_opinionText="deflected shot" targetID="P9" targetText="Can" />
+<TargetLink id="T10" fact_or_opinionID="O4" fact_or_opinionText="had faded badly" targetID="P10" targetText="Coutinho" />
+<TargetLink id="T11" fact_or_opinionID="O4" fact_or_opinionText="had faded badly" targetID="C4" targetText="he" />
+<TargetLink id="T12" fact_or_opinionID="O6" fact_or_opinionText="lasted so long" targetID="P11" targetText="Balotelli" />
+<TargetLink id="T13" fact_or_opinionID="F6" fact_or_opinionText="shot" targetID="P16" targetText="Gerrard" />
+<TargetLink id="T14" fact_or_opinionID="F7" fact_or_opinionText="blocked a Gerrard shot with his hand" targetID="P15" targetText="Gary Cahill" />
+<TargetLink id="T15" fact_or_opinionID="O7" fact_or_opinionText="outstanding" targetID="P18" targetText="Nemanja Matic" />
+<TargetLink id="T16" fact_or_opinionID="O8" fact_or_opinionText="only marginally subdued by Jordan Henderson&apos;s man-marking" targetID="P19" targetText="Cesc Fàbregas" />
+<TargetLink id="T17" fact_or_opinionID="F8" fact_or_opinionText="a hamstring injury" targetID="P21" targetText="Fàbregas" />
+<TargetLink id="T18" fact_or_opinionID="F9" fact_or_opinionText="a groin problem" targetID="P22" targetText="Ramires" />
+<TargetLink id="T19" fact_or_opinionID="F10" fact_or_opinionText="25-yard shot" targetID="P23" targetText="Can" />
+<TargetLink id="T20" fact_or_opinionID="F11" fact_or_opinionText="a deflection off" targetID="P24" targetText="Cahill" />
+<TargetLink id="T21" fact_or_opinionID="F12" fact_or_opinionText="swung over" targetID="P26" targetText="Fàbregas" />
+<TargetLink id="T22" fact_or_opinionID="F13" fact_or_opinionText="headed on" targetID="P27" targetText="Costa" />
+<TargetLink id="T23" fact_or_opinionID="F14" fact_or_opinionText="the first attempt at goal" targetID="P28" targetText="John Terry" />
+<TargetLink id="T24" fact_or_opinionID="F15" fact_or_opinionText="reflex save" targetID="P29" targetText="Simon Mignolet" />
+<TargetLink id="T25" fact_or_opinionID="F16" fact_or_opinionText="shot" targetID="P32" targetText="Cahill" />
+<TargetLink id="T26" fact_or_opinionID="F17" fact_or_opinionText="a slight touch off" targetID="P31" targetText="Matic" />
+<TargetLink id="T27" fact_or_opinionID="O9" fact_or_opinionText="misplacing passes" targetID="P33" targetText="Gerrard" />
+<TargetLink id="T28" fact_or_opinionID="F19" fact_or_opinionText="kicking the ball against Henderson" targetID="P33" targetText="Gerrard" />
+<TargetLink id="T29" fact_or_opinionID="O10" fact_or_opinionText="lack of mobility" targetID="C10" targetText="his" />
+<TargetLink id="T30" fact_or_opinionID="O11" fact_or_opinionText="ineffectual and frustratingly lazy" targetID="P35" targetText="Balotelli" />
+<TargetLink id="T31" fact_or_opinionID="F21" fact_or_opinionText="selecting" targetID="P36" targetText="Dejan Lovren" />
+<TargetLink id="T32" fact_or_opinionID="O12" fact_or_opinionText="had excelled in the Bernabéu" targetID="P37" targetText="Kolo Touré" />
+<TargetLink id="T33" targetID="P38" targetText="Lovren" fact_or_opinionID="O13" fact_or_opinionText="his £20m acquisition has been dismal business" />
+<TargetLink id="T34" fact_or_opinionID="O15" fact_or_opinionText="a nutmeg" targetID="C20" targetText="him" />
+<TargetLink id="T35" fact_or_opinionID="O16" fact_or_opinionText="had the beating of Glen Johnson" targetID="P42" targetText="Hazard" />
+<TargetLink id="T36" fact_or_opinionID="O17" fact_or_opinionText="long spells operating as an extra forward" targetID="P45" targetText="Branislav Ivanovic" />
+<TargetLink id="T37" fact_or_opinionID="O18" fact_or_opinionText="unsettle Liverpool&apos;s defence" targetID="P46" targetText="Costa" />
+<TargetLink id="T38" fact_or_opinionID="O19" fact_or_opinionText="cannot see a belt without punching below it" targetID="C15" targetText="he" />
+<TargetLink id="T39" fact_or_opinionID="F25" fact_or_opinionText="embroil Martin Skrtel in a running feud" targetID="C16" targetText="He" />
+<TargetLink id="T40" fact_or_opinionID="F26" fact_or_opinionText="ran down the left" targetID="P49" targetText="César Azpilicueta" />
+<TargetLink id="T41" fact_or_opinionID="F27" fact_or_opinionText="turned brilliantly inside" targetID="P49" targetText="César Azpilicueta" />
+<TargetLink id="T42" fact_or_opinionID="F28" fact_or_opinionText="turned his effort away" targetID="P51" targetText="Mignolet" />
+<TargetLink id="T43" fact_or_opinionID="F29" fact_or_opinionText="finish was drilled in" targetID="C18" targetText="His" />
+<TargetLink id="T44" fact_or_opinionID="F30" fact_or_opinionText="kicking a simple backpass" targetID="P54" targetText="Mignolet" />
+</TAGS>
+</SoccEval1.2>

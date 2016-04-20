@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/stoke-city-vs-chelsea/1703829
+
+Dec 22, 2014 4:55:00 PM
+
+The Blues went ahead inside two minutes thanks to their skipper before the Spanish playmaker wrapped up the three points late to keep second-placed Manchester City at bay.
+
+Cesc Fabregas starred as Chelsea re-established a three-point lead at the top of the Premier League with a 2-0 win against Stoke City at the Britannia Stadium on Monday night.
+
+Manchester City's victory against Crystal Palace on Saturday had seen the defending champion pull level at the summit, but success against the Potters ensures Chelsea heads into the hectic festive period out front in the title race. 
+
+John Terry's headed opener from a Fabregas corner with less than two minutes played gave Chelsea something to defend, and Stoke rarely looked like finding a way through the visitor's determined defensive line.
+
+Chelsea, for its part, often looked dangerous on the break after going ahead but was unable to build on its breakthrough until Fabregas's scuffed shot 12 minutes from time. 
+
+While the result moves Chelsea three points clear at the top - with seven of the last 10 sides which have been top on Christmas Day going on to win the title - Stoke is 13th following a first defeat in three matches.
+
+Goalkeeper Thibaut Courtois returned from injury as Jose Mourinho made five changes to the Chelsea side that beat Derby County in the League Cup quarter-finals on Tuesday, but it was two of the players who retained their starting berths from the trip to Pride Park who combined to open the scoring inside two minutes.
+
+Terry shrugged off Geoff Cameron in the box to get his head to a Fabregas corner and deal the host an early blow – the Spaniard providing a 12th assist of the season.
+
+Stoke – boosted by the return of Bojan Krkic as one of two changes – struggled to make any inroads in the opening stages and was thankful when Diego Costa failed to connect properly with a Branislav Ivanovic cutback five minutes after the opener.
+
+The ball almost ended up in the Chelsea net off Terry after 21 minutes – Steven N'Zonzi's 20-yard strike well saved by Courtois following a heavy deflection off the defender.
+
+Referee Neil Swarbrick inadvertently then thwarted a promising Chelsea counterattack when he got in the way on the halfway line two minutes later, drawing the understandable ire of Mourinho, before Costa fired just wide following an error by Ryan Shawcross.
+
+Phil Bardsley – already booked for a lunging challenge on Eden Hazard earlier in the half - might have counted himself lucky to still be involved at the break after avoiding a second yellow card for an apparent tug on the shirt of Costa.
+
+Asmir Begovic did well to get down to his right to keep out a Willian strike early in the second period before clinging onto a soft Fabregas strike after Hazard had managed to force the ball into the six-yard box.
+
+Stoke enjoyed a greater share of possession after the interval, but struggled to carve out any clear-cut opportunities as the match threatened to fall flat.
+
+Charlie Adam's introduction after 68 minutes appeared to give Stoke something of a lift and the midfielder sent an effort narrowly wide of the left-hand upright shortly after entering the action.
+
+However, Fabregas had the final say, diverting the ball into the back of the net after being played in by Hazard, who limped off late on after a tackle from Jonathan Walters, although there was an element of fortune about his finish.
+
+Bojan sent an effort whistling past the left-hand post deep into stoppage time, but there was no danger of Stoke challenging Chelsea's lead at that late stage.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="262~275" text="Cesc Fabregas" playerID="101" />
+<Player id="P1" spans="674~684" text="John Terry" playerID="102" />
+<Player id="P2" spans="708~716" text="Fabregas" playerID="101" />
+<Player id="P3" spans="1012~1020" text="Fabregas" playerID="101" />
+<Player id="P4" spans="1289~1305" text="Thibaut Courtois" playerID="103" />
+<Player id="P5" spans="1597~1602" text="Terry" playerID="102" />
+<Player id="P6" spans="1616~1629" text="Geoff Cameron" playerID="104" />
+<Player id="P7" spans="1662~1670" text="Fabregas" playerID="101" />
+<Player id="P8" spans="1798~1809" text="Bojan Krkic" playerID="105" />
+<Player id="P9" spans="1908~1919" text="Diego Costa" playerID="106" />
+<Player id="P10" spans="1954~1972" text="Branislav Ivanovic" playerID="107" />
+<Player id="P11" spans="2061~2066" text="Terry" playerID="102" />
+<Player id="P12" spans="2086~2100" text="Steven N'Zonzi" playerID="108" />
+<Player id="P13" spans="2132~2140" text="Courtois" playerID="103" />
+<Player id="P14" spans="2387~2392" text="Costa" playerID="106" />
+<Player id="P15" spans="2431~2445" text="Ryan Shawcross" playerID="109" />
+<Player id="P16" spans="2448~2461" text="Phil Bardsley" playerID="110" />
+<Player id="P17" spans="2506~2517" text="Eden Hazard" playerID="111" />
+<Player id="P18" spans="2679~2684" text="Costa" playerID="106" />
+<Player id="P19" spans="2687~2700" text="Asmir Begovic" playerID="112" />
+<Player id="P20" spans="2749~2756" text="Willian" playerID="113" />
+<Player id="P21" spans="2819~2827" text="Fabregas" playerID="101" />
+<Player id="P22" spans="2841~2847" text="Hazard" playerID="111" />
+<Player id="P23" spans="3060~3072" text="Charlie Adam" playerID="114" />
+<Player id="P24" spans="3266~3274" text="Fabregas" playerID="101" />
+<Player id="P25" spans="3363~3369" text="Hazard" playerID="111" />
+<Player id="P26" spans="3414~3430" text="Jonathan Walters" playerID="115" />
+<Player id="P27" spans="3492~3497" text="Bojan" playerID="105" />
+<Coref id="C0" spans="1648~1651" text="his" playerID="102" />
+<Coref id="C2" spans="2725~2728" text="his" playerID="112" />
+<Coref id="C3" spans="3479~3482" text="his" playerID="101" />
+<Coref id="C4" spans="1712~1724" text="the Spaniard" playerID="101" />
+<Fact id="F0" spans="687~700" text="headed opener" time="last match" type="goal" factID="1" />
+<Fact id="F1" spans="717~723" text="corner" time="last match" type="assist" factID="2" />
+<Fact id="F2" spans="1023~1035" text="scuffed shot" time="last match" type="goal" factID="3" />
+<Fact id="F3" spans="1320~1326" text="injury" time="current season" type="injury" factID="4" />
+<Fact id="F4" spans="1603~1615" text="shrugged off" time="last match" type="movement" factID="5" />
+<Fact id="F5" spans="1630~1640" text="in the box" time="last match" type="positioning" factID="6" />
+<Fact id="F6" spans="1644~1656" text="get his head" time="last match" type="goal" factID="7" />
+<Fact id="F7" spans="1660~1677" text="a Fabregas corner" time="last match" type="assist" factID="8" />
+<Fact id="F9" spans="2103~2117" text="20-yard strike" time="last match" type="shot" factID="9" />
+<Fact id="F10" spans="2118~2128" text="well saved" time="last match" type="save" factID="10" />
+<Fact id="F11" spans="2393~2408" text="fired just wide" time="last match" type="shot" factID="11" />
+<Fact id="F12" spans="2647~2684" text="an apparent tug on the shirt of Costa" time="last match" type="foul" factID="12" />
+<Fact id="F13" spans="2738~2763" text="keep out a Willian strike" time="last match" type="save" factID="13" />
+<Fact id="F14" spans="2757~2763" text="strike" time="last match" type="shot" factID="14" />
+<Fact id="F15" spans="2812~2834" text="a soft Fabregas strike" time="last match" type="shot" factID="15" />
+<Fact id="F16" spans="2798~2834" text="clinging onto a soft Fabregas strike" time="last match" type="save" factID="16" />
+<Fact id="F17" spans="2863~2899" text="force the ball into the six-yard box" time="last match" type="pass" factID="17" />
+<Fact id="F18" spans="3075~3087" text="introduction" time="last match" type="substitute in" factID="18" />
+<Fact id="F19" spans="3294~3337" text="diverting the ball into the back of the net" time="last match" type="goal" factID="19" />
+<Fact id="F20" spans="3402~3408" text="tackle" time="last match" type="tackle" factID="20" />
+<Fact id="F21" spans="3528~3541" text="the left-hand" time="last match" type="positioning" factID="21" />
+<Opinion id="O0" spans="276~283" text="starred" time="last match" reported="false" type="impact on team" polarity="+" hypothetical="counterfactive" />
+<Opinion id="O2" spans="1712~1762" text="the Spaniard providing a 12th assist of the season" reported="false" type="accomplishment" hypothetical="counterfactive" polarity="+" time="current season" />
+<Opinion id="O3" spans="1920~1951" text="failed to connect properly with" time="last match" reported="false" type="soccer skill" polarity="-" hypothetical="counterfactive" />
+<Opinion id="O4" spans="1773~1809" text="boosted by the return of Bojan Krkic" reported="false" type="impact on team" polarity="+" hypothetical="counterfactive" time="current season" />
+<Opinion id="O5" spans="2118~2128" text="well saved" time="last match" reported="false" type="soccer skill" polarity="+" hypothetical="counterfactive" />
+<Opinion id="O6" spans="2419~2427" text="an error" time="last match" reported="false" type="soccer skill" polarity="-" hypothetical="counterfactive" />
+<Opinion id="O7" spans="2701~2709" text="did well" time="last match" reported="false" type="general attribute" polarity="+" hypothetical="counterfactive" />
+<Opinion id="O8" spans="3117~3147" text="give Stoke something of a lift" time="last match" reported="false" type="impact on team" polarity="+" hypothetical="counterfactive" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="headed opener" targetID="P1" targetText="John Terry" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="corner" targetID="P0" targetText="Cesc Fabregas" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="scuffed shot" targetID="P0" targetText="Cesc Fabregas" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="injury" targetID="P4" targetText="Thibaut Courtois" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="shrugged off" targetID="P1" targetText="John Terry" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="in the box" targetID="P1" targetText="John Terry" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="get his head" targetID="P1" targetText="John Terry" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="a Fabregas corner" targetID="P0" targetText="Cesc Fabregas" />
+<TargetLink id="T8" fact_or_opinionID="F9" fact_or_opinionText="20-yard strike" targetID="P12" targetText="Steven N'Zonzi" />
+<TargetLink id="T9" fact_or_opinionID="F10" fact_or_opinionText="well saved" targetID="P4" targetText="Thibaut Courtois" />
+<TargetLink id="T10" fact_or_opinionID="F11" fact_or_opinionText="fired just wide" targetID="P9" targetText="Diego Costa" />
+<TargetLink id="T11" fact_or_opinionID="F12" fact_or_opinionText="an apparent tug on the shirt of Costa" targetID="P16" targetText="Phil Bardsley" />
+<TargetLink id="T12" fact_or_opinionID="F13" fact_or_opinionText="keep out a Willian strike" targetID="P19" targetText="Asmir Begovic" />
+<TargetLink id="T13" fact_or_opinionID="F14" fact_or_opinionText="strike" targetID="P20" targetText="Willian" />
+<TargetLink id="T14" fact_or_opinionID="F15" fact_or_opinionText="a soft Fabregas strike" targetID="P0" targetText="Cesc Fabregas" />
+<TargetLink id="T15" fact_or_opinionID="F16" fact_or_opinionText="clinging onto a soft Fabregas strike" targetID="P19" targetText="Asmir Begovic" />
+<TargetLink id="T16" targetID="P17" targetText="Eden Hazard" fact_or_opinionID="F17" fact_or_opinionText="force the ball into the six-yard box" />
+<TargetLink id="T17" fact_or_opinionID="F18" fact_or_opinionText="introduction" targetID="P23" targetText="Charlie Adam" />
+<TargetLink id="T18" fact_or_opinionID="F19" fact_or_opinionText="diverting the ball into the back of the net" targetID="P0" targetText="Cesc Fabregas" />
+<TargetLink id="T19" fact_or_opinionID="F20" fact_or_opinionText="tackle" targetID="P26" targetText="Jonathan Walters" />
+<TargetLink id="T20" fact_or_opinionID="F21" fact_or_opinionText="the left-hand" targetID="P8" targetText="Bojan Krkic" />
+<TargetLink id="T21" fact_or_opinionID="O0" fact_or_opinionText="starred" targetID="P0" targetText="Cesc Fabregas" />
+<TargetLink id="T22" fact_or_opinionID="O2" fact_or_opinionText="the Spaniard providing a 12th assist of the season" targetID="P0" targetText="Cesc Fabregas" />
+<TargetLink id="T23" fact_or_opinionID="O3" fact_or_opinionText="failed to connect properly with" targetID="P9" targetText="Diego Costa" />
+<TargetLink id="T24" fact_or_opinionID="O4" fact_or_opinionText="boosted by the return of Bojan Krkic" targetID="P8" targetText="Bojan Krkic" />
+<TargetLink id="T25" fact_or_opinionID="O5" fact_or_opinionText="well saved" targetID="P4" targetText="Thibaut Courtois" />
+<TargetLink id="T26" fact_or_opinionID="O6" fact_or_opinionText="an error" targetID="P15" targetText="Ryan Shawcross" />
+<TargetLink id="T27" fact_or_opinionID="O7" fact_or_opinionText="did well" targetID="P19" targetText="Asmir Begovic" />
+<TargetLink id="T28" fact_or_opinionID="O8" fact_or_opinionText="give Stoke something of a lift" targetID="P23" targetText="Charlie Adam" />
+</TAGS>
+</SoccEval1.2>

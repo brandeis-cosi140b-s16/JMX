@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-hull-city/1703799
+
+Dec 13, 2014 11:58:07 AM
+
+The Blues bounced back from their first defeat of the Premier League season with a comfortable victory over 10-man Hull.
+
+Chelsea returned to winning ways in the Premier League with a comfortable 2-0 victory over 10-man Hull City at Stamford Bridge on Saturday.
+
+Jose Mourinho's side suffered its first defeat of the season at Newcastle United last weekend, but looked back to its best early on as Eden Hazard headed it into a seventh-minute lead.
+
+The hosts' early promise fizzled out, however, with chances few and far between for both sides for much of the encounter.
+
+But Tom Huddlestone was given his marching orders on the hour mark for catching Filipe Luis with his studs, and Chelsea soon pounced to double its advantage – Diego Costa diverting the ball beyond goalkeeper Allan McGregor eight minutes later.
+
+The victory sees Chelsea maintain its three-point advantage over second-place Manchester City, while Hull — now without a win in nine — remains in the bottom three.
+
+Chelsea reverted to a more familiar starting XI after making a number of changes for its UEFA Champions League win over Sporting Lisbon on Wednesday, and it was two of those returning stars who unlocked the visitors' defense with ease in the seventh minute.
+
+Oscar was given time on the left wing to pick out the advancing Hazard with a precision cross, and the unchallenged Belgian rose well to power home a header. The goal was Hazard's 65th in league football, but only his second header.
+
+Hull — without the underperforming Hatem Ben Arfa amid reports the Frenchman's loan from Newcastle is on the verge of being terminated — was dealt a further blow when Michael Dawson was forced off through injury three minutes after Hazard's goal.
+
+Steve Bruce's men were struggling to keep possession, and Petr Cech — making his first Premier League start of the season in place of the injured Thibaut Courtois — was a spectator for long spells, with Sone Aluko blasting over Hull's first opening after 20 minutes.
+
+David Meyler resorted to using a hand as he looked to connect with a 25th-minute corner, earning a yellow card from referee Chris Foy.
+
+Hull did eventually settle, limiting the hosts' attacking opportunities, but offered little going forward as Chelsea comfortably sat on its one-goal advantage.
+
+Jake Livermore sent a low drive trickling wide of the left-hand upright as Hull looked to make a positive start to the second period, but the task got considerably tougher on the hour mark when Huddlestone was dismissed for a clumsy challenge on left back Filipe Luis.
+
+James Chester's handball in the penalty area soon after went unpunished, before Chelsea made the most of its man advantage.
+
+Hazard found Costa with a well-worked through ball, and the Spain international prodded past McGregor to put the match to bed.
+
+Hull rarely looked like hauling itself back into the match in the closing 20 minutes, and the focus will now switch to ensuring its winless run does not hit double figures at home against Swansea City next weekend.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="487~498" text="Eden Hazard" playerID="101" />
+<Player id="P1" spans="665~680" text="Tom Huddlestone" playerID="102" />
+<Player id="P2" spans="741~752" text="Filipe Luis" playerID="103" />
+<Player id="P3" spans="820~831" text="Diego Costa" playerID="104" />
+<Player id="P4" spans="869~883" text="Allan McGregor" playerID="105" />
+<Player id="P5" spans="1331~1336" text="Oscar" playerID="106" />
+<Player id="P6" spans="1395~1401" text="Hazard" playerID="101" />
+<Player id="P7" spans="1502~1508" text="Hazard" playerID="101" />
+<Player id="P8" spans="1600~1614" text="Hatem Ben Arfa" playerID="107" />
+<Player id="P9" spans="1732~1746" text="Michael Dawson" playerID="108" />
+<Player id="P10" spans="1740~1746" text="Dawson" playerID="108" />
+<Player id="P11" spans="1797~1803" text="Hazard" playerID="101" />
+<Player id="P13" spans="1871~1880" text="Petr Cech" playerID="109" />
+<Player id="P14" spans="1959~1975" text="Thibaut Courtois" playerID="110" />
+<Player id="P15" spans="2016~2026" text="Sone Aluko" playerID="111" />
+<Player id="P16" spans="2081~2093" text="David Meyler" playerID="112" />
+<Player id="P17" spans="2378~2392" text="Jake Livermore" playerID="113" />
+<Player id="P18" spans="2572~2583" text="Huddlestone" playerID="102" />
+<Player id="P19" spans="2634~2645" text="Filipe Luis" playerID="103" />
+<Player id="P20" spans="2648~2661" text="James Chester" playerID="114" />
+<Player id="P21" spans="2773~2779" text="Hazard" playerID="101" />
+<Player id="P22" spans="2786~2791" text="Costa" playerID="104" />
+<Player id="P23" spans="2866~2874" text="McGregor" playerID="105" />
+<Coref id="C0" spans="691~694" text="his" playerID="102" />
+<Coref id="C1" spans="758~761" text="his" playerID="103" />
+<Coref id="C2" spans="1545~1548" text="his" playerID="101" />
+<Coref id="C3" spans="1890~1893" text="his" playerID="109" />
+<Coref id="C4" spans="2122~2124" text="he" playerID="112" />
+<Coref id="C5" spans="1430~1454" text="the unchallenged Belgian" playerID="101" />
+<Fact id="F0" spans="680~710" text=" was given his marching orders" time="last match" factID="1" type="substitute in" />
+<Fact id="F1" spans="1352~1368" text="on the left wing" time="last match" type="positioning" factID="2" />
+<Fact id="F2" spans="1407~1424" text="a precision cross" time="last match" type="pass" factID="3" />
+<Fact id="F3" spans="1489~1497" text="The goal" time="last match" type="goal" factID="4" />
+<Fact id="F4" spans="1511~1534" text="65th in league football" factID="4" time="current season" type="goal" />
+<Fact id="F5" spans="1746~1761" text=" was forced off" time="last match" type="substitute out" factID="5" />
+<Fact id="F6" spans="1770~1776" text="injury" time="last match" type="injury" factID="6" />
+<Fact id="F7" spans="1806~1810" text="goal" time="last match" type="goal" factID="4" />
+<Fact id="F8" spans="1883~1975" text="making his first Premier League start of the season in place of the injured Thibaut Courtois" time="last match" type="substitute in" factID="7" />
+<Fact id="F9" spans="1951~1958" text="injured" time="last match" type="injury" factID="8" />
+<Fact id="F10" spans="2170~2191" text="earning a yellow card" time="last match" type="foul" factID="9" />
+<Fact id="F11" spans="2094~2118" text="resorted to using a hand" time="last match" type="foul" factID="9" />
+<Fact id="F12" spans="2393~2449" text="sent a low drive trickling wide of the left-hand upright" time="last match" type="shot" factID="10" />
+<Fact id="F13" spans="2584~2620" text="was dismissed for a clumsy challenge" type="substitute out" factID="11" time="last match" />
+<Fact id="F14" spans="499~535" text="headed it into a seventh-minute lead" time="last match" type="goal" factID="12" />
+<Fact id="F15" spans="1549~1562" text="second header" time="last match" factID="4" type="goal" />
+<Opinion id="O0" spans="499~535" text="headed it into a seventh-minute lead" time="last match" reported="false" type="impact on team" polarity="+" />
+<Opinion id="O1" spans="773~817" text="Chelsea soon pounced to double its advantage" time="last match" reported="false" type="impact on team" polarity="+" />
+<Opinion id="O2" spans="1455~1487" text="rose well to power home a header" time="last match" reported="false" type="impact on team" polarity="+" />
+<Opinion id="O3" spans="1584~1599" text="underperforming" reported="false" type="general attribute" polarity="-" time="current season" />
+<Opinion id="O4" spans="1982~2009" text="a spectator for long spells" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O6" spans="2780~2823" text="found Costa with a well-worked through ball" time="last match" reported="false" type="soccer skill" polarity="+" />
+<TargetLink id="T1" fact_or_opinionID="F0" fact_or_opinionText=" was given his marching orders" targetID="P1" targetText="Tom Huddlestone" />
+<TargetLink id="T2" fact_or_opinionID="O1" fact_or_opinionText="Chelsea soon pounced to double its advantage" targetID="P1" targetText="Tom Huddlestone" />
+<TargetLink id="T3" fact_or_opinionID="F1" fact_or_opinionText="on the left wing" targetID="P5" targetText="Oscar" />
+<TargetLink id="T4" fact_or_opinionID="F2" fact_or_opinionText="a precision cross" targetID="P5" targetText="Oscar" />
+<TargetLink id="T5" fact_or_opinionID="O2" fact_or_opinionText="rose well to power home a header" targetID="C5" targetText="the unchallenged Belgian" />
+<TargetLink id="T6" fact_or_opinionID="F3" fact_or_opinionText="The goal" targetID="P7" targetText="Hazard" />
+<TargetLink id="T7" fact_or_opinionID="F4" fact_or_opinionText="65th in league football" targetID="P7" targetText="Hazard" />
+<TargetLink id="T8" fact_or_opinionID="O3" fact_or_opinionText="underperforming" targetID="P8" targetText="Hatem Ben Arfa" />
+<TargetLink id="T9" fact_or_opinionID="F5" fact_or_opinionText=" was forced off" targetID="P10" targetText="Dawson" />
+<TargetLink id="T10" fact_or_opinionID="F6" fact_or_opinionText="injury" targetID="P10" targetText="Dawson" />
+<TargetLink id="T11" fact_or_opinionID="F7" fact_or_opinionText="goal" targetID="P11" targetText="Hazard" />
+<TargetLink id="T12" fact_or_opinionID="F8" fact_or_opinionText="making his first Premier League start of the season in place of the injured Thibaut Courtois" targetID="P13" targetText="Petr Cech" />
+<TargetLink id="T13" fact_or_opinionID="F9" fact_or_opinionText="injured" targetID="P14" targetText="Thibaut Courtois" />
+<TargetLink id="T14" fact_or_opinionID="O4" fact_or_opinionText="a spectator for long spells" targetID="P13" targetText="Petr Cech" />
+<TargetLink id="T15" fact_or_opinionID="F11" fact_or_opinionText="resorted to using a hand" targetID="P16" targetText="David Meyler" />
+<TargetLink id="T16" fact_or_opinionID="F10" fact_or_opinionText="earning a yellow card" targetID="P16" targetText="David Meyler" />
+<TargetLink id="T17" fact_or_opinionID="F12" fact_or_opinionText="sent a low drive trickling wide of the left-hand upright" targetID="P17" targetText="Jake Livermore" />
+<TargetLink id="T18" fact_or_opinionID="F13" fact_or_opinionText="was dismissed for a clumsy challenge" targetID="P18" targetText="Huddlestone" />
+<TargetLink id="T19" fact_or_opinionID="O6" fact_or_opinionText="found Costa with a well-worked through ball" targetID="P21" targetText="Hazard" />
+<TargetLink id="T21" fact_or_opinionID="F15" fact_or_opinionText="second header" targetID="C2" targetText="his" />
+<TargetLink id="T22" fact_or_opinionID="F14" fact_or_opinionText="headed it into a seventh-minute lead" targetID="P0" targetText="Eden Hazard" />
+</TAGS>
+</SoccEval1.2>
