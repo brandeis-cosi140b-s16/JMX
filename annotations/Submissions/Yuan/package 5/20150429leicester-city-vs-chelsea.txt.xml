@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/leicester-city-vs-chelsea/1704019
+
+Apr 29, 2015 5:03:15 PM
+
+Didier Drogba, John Terry and Ramires scored as Chelsea beat Leicester City 3-1 to put one hand on the Premier League title.
+
+Chelsea can win the Premier League title Sunday after John Terry and Ramires struck late to give the Blues a 3-1 come-from-behind victory at Leicester City.
+
+Jose Mourinho's side extended its lead over both Manchester City and Arsenal to 13 points with a gutsy win at the King Power Stadium on Wednesday that showcased its character.
+
+And now Chelsea, unbeaten in 14 league games, can secure English football's greatest prize for the first time since 2010 with victory against Crystal Palace at Stamford Bridge on Sunday.
+
+Leicester, which had won four matches in a row to move out of the relegation zone it had occupied since November, lost Andy King and Robert Huth in the first 25 minutes to injuries, but still took the lead on the stroke of half time through Marc Albrighton.
+
+The hosts were the better side in the first half, but Chelsea responded like a champion does, with Didier Drogba leveling proceedings in the 48th minute.
+
+Chelsea captain Terry then struck with 11 minutes remaining before a Ramires stunner capped a superb away win.
+
+Leicester, which remains one point above the bottom three, faces Newcastle United in a crucial relegation clash Saturday.
+
+Chelsea took no risk with goalkeeper Thibaut Courtois - battling a minor hip problem - and replaced him with Petr Cech, while Oscar dropped to the bench after his nasty collision with Arsenal's David Ospina on Sunday.
+
+Leicester, which gave forward Jamie Vardy another pain-killing injection to allow him to play, made a bright start, pressing and harrying Chelsea, which rued Cesc Fabregas' decision to square across the face of goal instead of shoot in the 17th minute.
+
+The departures of King, on his 300th Leicester appearance, and Huth, robbed the home side of momentum, but, in a first half bereft of chances, it almost took the lead through an unlikely source, as Paul Konchesky's near-post volley was superbly pushed onto the post by Cech.
+
+Chelsea survived the ensuing goalmouth scramble, but did not last until the break, as a fast counter in the third minute of stoppage time saw substitute Matty James play in Vardy down the left.
+
+Vardy got to the byline and cut back, with Cesar Azpilicueta's slip allowing Albrighton to steal in and, first time, fire into the bottom-left corner to delight the home crowd.
+
+Chelsea came out firing after the break, though, and was quickly on level terms through Drogba, after a dink from Eden Hazard - the newly crowned PFA Player of the Year - set Branislav Ivanovic free.
+
+And the defender stormed towards the byline before steering a pass to Drogba, who made no mistake from nine yards with a typically predatory finish.
+
+The Ivorian spooned a great chance over less than two minutes later, while Fabregas should have done better when Willian's cross from the right had Leicester scrambling, but the ex-Arsenal man saw the ball bounce off his knee and go wide.
+
+The chances kept coming for Chelsea, as Drogba flashed an effort just wide from a difficult angle, while Willian curled over as the visitors pressed for a second goal.
+
+And it came in the 79th minute as, after Gary Cahill's header from Fabregas' corner was saved by Kasper Schmeichel, Terry reacted quickest to flick in from close range.
+
+Leicester was given no chance to mount a late rally, either, as Ramires rocketed a first-time effort into the top-left corner from just outside the penalty area four minutes later, sealing Chelsea's terrific triumph.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="93~106" text="Didier Drogba" playerID="1" />
+<Player id="P1" spans="108~118" text="John Terry" playerID="2" />
+<Player id="P2" spans="123~130" text="Ramires" playerID="3" />
+<Player id="P3" spans="273~283" text="John Terry" playerID="2" />
+<Player id="P4" spans="288~295" text="Ramires" playerID="3" />
+<Player id="P6" spans="861~870" text="Andy King" playerID="4" />
+<Player id="P8" spans="875~886" text="Robert Huth" playerID="5" />
+<Player id="P9" spans="983~998" text="Marc Albrighton" playerID="6" />
+<Player id="P10" spans="1100~1113" text="Didier Drogba" playerID="7" />
+<Player id="P11" spans="1172~1177" text="Terry" playerID="2" />
+<Player id="P12" spans="1225~1232" text="Ramires" playerID="3" />
+<Player id="P13" spans="1428~1444" text="Thibaut Courtois" playerID="8" />
+<Player id="P14" spans="1500~1509" text="Petr Cech" playerID="9" />
+<Player id="P15" spans="1517~1522" text="Oscar" playerID="10" />
+<Player id="P16" spans="1585~1597" text="David Ospina" playerID="11" />
+<Player id="P17" spans="1640~1651" text="Jamie Vardy" playerID="12" />
+<Player id="P18" spans="1768~1781" text="Cesc Fabregas" playerID="13" />
+<Player id="P19" spans="1882~1886" text="King" playerID="4" />
+<Player id="P20" spans="1927~1931" text="Huth" playerID="5" />
+<Player id="P21" spans="2062~2076" text="Paul Konchesky" playerID="14" />
+<Player id="P22" spans="2133~2137" text="Cech" playerID="9" />
+<Player id="P23" spans="2293~2304" text="Matty James" playerID="15" />
+<Player id="P25" spans="2313~2318" text="Vardy" playerID="12" />
+<Player id="P26" spans="2335~2340" text="Vardy" playerID="12" />
+<Player id="P27" spans="2378~2395" text="Cesar Azpilicueta" playerID="16" />
+<Player id="P28" spans="2412~2422" text="Albrighton" playerID="6" />
+<Player id="P29" spans="2601~2607" text="Drogba" playerID="7" />
+<Player id="P30" spans="2627~2638" text="Eden Hazard" playerID="17" />
+<Player id="P31" spans="2688~2706" text="Branislav Ivanovic" playerID="18" />
+<Player id="P32" spans="2784~2790" text="Drogba" playerID="7" />
+<Player id="P33" spans="2939~2947" text="Fabregas" playerID="13" />
+<Player id="P34" spans="2977~2984" text="Willian" playerID="19" />
+<Player id="P35" spans="3144~3150" text="Drogba" playerID="7" />
+<Player id="P36" spans="3209~3216" text="Willian" playerID="19" />
+<Player id="P37" spans="3314~3325" text="Gary Cahill" playerID="20" />
+<Player id="P38" spans="3340~3348" text="Fabregas" playerID="13" />
+<Player id="P39" spans="3370~3387" text="Kasper Schmeichel" playerID="21" />
+<Player id="P40" spans="3389~3394" text="Terry" playerID="2" />
+<Player id="P41" spans="3507~3514" text="Ramires" playerID="3" />
+<Coref id="C0" spans="1550~1553" text="his" playerID="8" />
+<Coref id="C1" spans="1891~1894" text="his" playerID="4" />
+<Coref id="C2" spans="3081~3084" text="his" playerID="19" />
+<Coref id="C3" spans="1491~1494" text="him" playerID="8" />
+<Coref id="C4" spans="2718~2730" text="the defender" playerID="7" />
+<Fact id="F0" spans="131~137" text="scored" factID="1" type="goal" time="last match" />
+<Fact id="F1" spans="131~137" text="scored" factID="2" type="goal" time="last match" />
+<Fact id="F2" spans="131~137" text="scored" type="goal" time="last match" factID="3" />
+<Fact id="F3" spans="296~307" text="struck late" time="last match" type="goal" factID="2" />
+<Fact id="F4" spans="296~307" text="struck late" time="last match" factID="3" type="goal" />
+<Fact id="F5" spans="914~922" text="injuries" type="injury" factID="4" time="last match" />
+<Fact id="F6" spans="914~922" text="injuries" type="injury" factID="5" time="last match" />
+<Fact id="F7" spans="951~974" text="the stroke of half time" factID="6" type="goal" time="last match" />
+<Fact id="F8" spans="1114~1134" text="leveling proceedings" time="last match" type="goal" factID="1" />
+<Fact id="F9" spans="1183~1189" text="struck" type="goal" factID="2" time="last match" />
+<Fact id="F10" spans="1233~1240" text="stunner" time="last match" type="goal" factID="3" />
+<Fact id="F11" spans="1447~1475" text="battling a minor hip problem" type="injury" time="current season" factID="7" />
+<Fact id="F12" spans="1482~1490" text="replaced" time="last match" factID="8" type="substitute out" />
+<Fact id="F13" spans="1482~1490" text="replaced" time="last match" factID="8" type="substitute in" />
+<Fact id="F14" spans="1554~1569" text="nasty collision" time="last match" factID="9" type="foul" />
+<Fact id="F15" spans="1795~1825" text="square across the face of goal" time="last match" factID="10" type="pass" />
+<Fact id="F16" spans="1864~1878" text="The departures" time="last match" type="substitute out" factID="11" />
+<Fact id="F17" spans="2079~2095" text="near-post volley" factID="12" time="last match" type="shot" />
+<Fact id="F18" spans="2109~2129" text="pushed onto the post" time="last match" factID="13" type="shot" />
+<Fact id="F19" spans="2282~2292" text="substitute" factID="14" type="substitute in" time="last match" />
+<Fact id="F20" spans="2398~2402" text="slip" time="last match" type="pass" factID="15" />
+<Fact id="F21" spans="2426~2434" text="steal in" factID="16" time="last match" type="tackle" />
+<Fact id="F22" spans="2578~2600" text="on level terms through" type="goal" factID="17" time="last match" />
+<Fact id="F23" spans="2615~2621" text="a dink" factID="18" type="pass" time="last match" />
+<Fact id="F25" spans="2731~2757" text="stormed towards the byline" factID="19" time="last match" type="movement" />
+<Fact id="F26" spans="2765~2780" text="steering a pass" type="pass" factID="20" time="last match" />
+<Fact id="F27" spans="2987~2992" text="cross" time="last match" type="pass" factID="21" />
+<Fact id="F28" spans="3151~3168" text="flashed an effort" time="last match" type="shot" factID="22" />
+<Fact id="F29" spans="3217~3228" text="curled over" time="last match" type="pass" factID="23" />
+<Fact id="F30" spans="3328~3334" text="header" time="last match" factID="24" type="shot" />
+<Fact id="F31" spans="3350~3356" text="corner" time="last match" type="pass" factID="25" />
+<Fact id="F32" spans="3361~3366" text="saved" time="last match" type="save" factID="26" />
+<Fact id="F33" spans="3395~3423" text="reacted quickest to flick in" time="last match" type="goal" factID="2" />
+<Fact id="F34" spans="3515~3523" text="rocketed" time="last match" type="goal" factID="3" />
+<Opinion id="O0" spans="1705~1724" text="made a bright start" type="soccer skill" polarity="+" time="last match" reported="false" hypothetical="counterfactive" />
+<Opinion id="O2" spans="2341~2371" text="got to the byline and cut back" hypothetical="counterfactive" reported="false" polarity="+" type="general attribute" time="last match" />
+<Opinion id="O3" spans="2641~2681" text="the newly crowned PFA Player of the Year" reported="false" polarity="+" time="last season" hypothetical="counterfactive" type="accomplishment" />
+<Opinion id="O1" spans="2948~2971" text="should have done better" time="last match" reported="false" polarity="-" type="accomplishment" hypothetical="counterfactive" />
+<TargetLink id="T0" fact_or_opinionID="F2" fact_or_opinionText="scored" targetID="P2" targetText="Ramires" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="scored" targetID="P1" targetText="John Terry" />
+<TargetLink id="T2" fact_or_opinionID="F0" fact_or_opinionText="scored" targetID="P0" targetText="Didier Drogba" />
+<TargetLink id="T3" fact_or_opinionID="F4" fact_or_opinionText="struck late" targetID="P3" targetText="John Terry" />
+<TargetLink id="T4" fact_or_opinionID="F3" fact_or_opinionText="struck late" targetID="P4" targetText="Ramires" />
+<TargetLink id="T5" fact_or_opinionID="F6" fact_or_opinionText="injuries" targetID="P8" targetText="Robert Huth" />
+<TargetLink id="T6" fact_or_opinionID="F5" fact_or_opinionText="injuries" targetID="P6" targetText="Andy King" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="the stroke of half time" targetID="P9" targetText="Marc Albrighton" />
+<TargetLink id="T8" fact_or_opinionID="F8" fact_or_opinionText="leveling proceedings" targetID="P10" targetText="Didier Drogba" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="struck" targetID="P11" targetText="Terry" />
+<TargetLink id="T10" fact_or_opinionID="F10" fact_or_opinionText="stunner" targetID="P12" targetText="Ramires" />
+<TargetLink id="T11" fact_or_opinionID="F11" fact_or_opinionText="battling a minor hip problem" targetID="P13" targetText="Thibaut Courtois" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="replaced" targetID="C3" targetText="him" />
+<TargetLink id="T13" fact_or_opinionID="F13" fact_or_opinionText="replaced" targetID="P14" targetText="Petr Cech" />
+<TargetLink id="T14" fact_or_opinionID="F14" fact_or_opinionText="nasty collision" targetID="C0" targetText="his" />
+<TargetLink id="T15" fact_or_opinionID="O0" fact_or_opinionText="made a bright start" targetID="P17" targetText="Jamie Vardy" />
+<TargetLink id="T16" fact_or_opinionID="F15" fact_or_opinionText="square across the face of goal" targetID="P18" targetText="Cesc Fabregas" />
+<TargetLink id="T17" fact_or_opinionID="F16" fact_or_opinionText="The departures" targetID="P19" targetText="King" />
+<TargetLink id="T18" fact_or_opinionID="F17" fact_or_opinionText="near-post volley" targetID="P21" targetText="Paul Konchesky" />
+<TargetLink id="T19" fact_or_opinionID="F18" fact_or_opinionText="pushed onto the post" targetID="P22" targetText="Cech" />
+<TargetLink id="T20" fact_or_opinionID="F19" fact_or_opinionText="substitute" targetID="P23" targetText="Matty James" />
+<TargetLink id="T21" fact_or_opinionID="O2" fact_or_opinionText="got to the byline and cut back" targetID="P26" targetText="Vardy" />
+<TargetLink id="T22" fact_or_opinionID="F20" fact_or_opinionText="slip" targetID="P27" targetText="Cesar Azpilicueta" />
+<TargetLink id="T23" fact_or_opinionID="F21" fact_or_opinionText="steal in" targetID="P28" targetText="Albrighton" />
+<TargetLink id="T24" fact_or_opinionID="O3" fact_or_opinionText="the newly crowned PFA Player of the Year" targetID="P30" targetText="Eden Hazard" />
+<TargetLink id="T25" fact_or_opinionID="F22" fact_or_opinionText="on level terms through" targetID="P29" targetText="Drogba" />
+<TargetLink id="T26" fact_or_opinionID="F23" fact_or_opinionText="a dink" targetID="P30" targetText="Eden Hazard" />
+<TargetLink id="T27" fact_or_opinionID="F25" fact_or_opinionText="stormed towards the byline" targetID="C4" targetText="the defender" />
+<TargetLink id="T28" fact_or_opinionID="F26" fact_or_opinionText="steering a pass" targetID="C4" targetText="the defender" />
+<TargetLink id="T29" fact_or_opinionID="O1" fact_or_opinionText="should have done better" targetID="P33" targetText="Fabregas" />
+<TargetLink id="T30" fact_or_opinionID="F27" fact_or_opinionText="cross" targetID="P34" targetText="Willian" />
+<TargetLink id="T31" fact_or_opinionID="F28" fact_or_opinionText="flashed an effort" targetID="P35" targetText="Drogba" />
+<TargetLink id="T32" fact_or_opinionID="F29" fact_or_opinionText="curled over" targetID="P36" targetText="Willian" />
+<TargetLink id="T33" fact_or_opinionID="F30" fact_or_opinionText="header" targetID="P37" targetText="Gary Cahill" />
+<TargetLink id="T34" fact_or_opinionID="F31" fact_or_opinionText="corner" targetID="P38" targetText="Fabregas" />
+<TargetLink id="T35" fact_or_opinionID="F32" fact_or_opinionText="saved" targetID="P39" targetText="Kasper Schmeichel" />
+<TargetLink id="T36" fact_or_opinionID="F33" fact_or_opinionText="reacted quickest to flick in" targetID="P40" targetText="Terry" />
+<TargetLink id="T37" fact_or_opinionID="F34" fact_or_opinionText="rocketed" targetID="P41" targetText="Ramires" />
+</TAGS>
+</SoccEval1.2>
