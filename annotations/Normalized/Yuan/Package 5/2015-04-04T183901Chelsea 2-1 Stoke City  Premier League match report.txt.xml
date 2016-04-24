@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/apr/04/chelsea-stoke-city-premier-league-match-report
+
+Chelsea 2-1 Stoke City | Premier League match report
+
+
+If Chelsea's pursuit of a first Premier League title in five years had already sported an air of inevitability, then this latest success has merely served to reinforce that sense. Even the ping of their top scorer's hamstring or an equaliser conceded from well inside their opponents' half cannot stop José Mourinho's side for long these days, Charlie Adam's jaw-dropping goal from around 65 yards rendered a mere footnote when it deserved to be a headline.
+ 
+The leaders boast a seven-point advantage at the top and, even if that gap is trimmed to six by Manchester City on Monday night, they will still benefit from a game in hand on the trio of clubs closest to them in a distant chasing pack. Chelsea are ticking off the games, grinding out wins despite key players starting to wilt at the workload they have taken on this term. Five more victories and a draw will see them home even if medical checks over the week ahead will determine how much of a part Diego Costa plays in those fixtures.
+  
+ Related: Chelsea lose Diego Costa for key games with hamstring trouble 
+   
+A player initially rested here ended up lasting only 12 minutes having been introduced at the break with this arena still digesting Adam's ridiculous equaliser. Mourinho confirmed the forward faces at least two weeks on the sidelines though, in reality, that initial diagnosis may prove optimistic. His absence will be felt, particularly given there are collisions with Manchester United and Arsenal to come after next Sunday's west London derby at Loftus Road, even if his stand-in, Loïc Rémy, has now scored the winner in successive games.
+ 
+The Frenchman's decisive goal here was a gift from the otherwise excellent Asmir Begovic, the goalkeeper rolling the ball towards Steven Nzonzi only for Willian to intercept. Eden Hazard, at his inspirational best throughout, dribbled into the area and squared for the striker to score into an empty net, with the relief around this arena palpable. Forget mind-boggling attempts from distance: this team will be more than happy to stroll over the finish line with a series of opposition aberrations and tap-ins.
+ 
+Stoke's own reward here had been spectacular, a goal to eclipse that of David Beckham in 1996 in terms of its audacious quality even if it lacked the player's superstar-in-the-making looks. The visitors had been defending just before the interval when Stephen Ireland intercepted and fed Adam, the Scot meandering to the edge of the centre-circle inside his own half before pummelling a shot so optimistic it initially felt like a clearance into touch to grant his team-mates a breather. Yet the shot arced wickedly, a panicked Thibaut Courtois only able to paw at it with his left hand as he back-tracked and the ball veered into the net.
+ 
+Mark Hughes described the midfielder's 50th career goal as "outrageous". Mourinho, while piqued by a foul on Hazard in the build-up, elaborated. "I didn't enjoy it, but it was a goal every top player in the world would love to score," he said. "From Diego Maradona to Lionel Messi, all these brilliant players … some of them did it, but not all of them. He can. It's a fantastic goal, but we made a mistake. It's a clear foul on Hazard, but we cannot stop waiting for the referee to give it. We have to react, press the ball, close the space. The goalkeeper also has to anticipate what can happen behind him, but it's a goal for his history, probably the best goal for the season in the Premier League. It's a pity it doesn't give him any points."
+  
+ Related: Brendan Rodgers blasts Raheem Sterling's agents after Arsenal defeat 
+   
+In the end the only real ramifications were felt by Costa, who had been flung on as a direct result and in pursuit of parity. Chelsea had laboured at times without him in that first period, Begovic denying them reward from an urgent opening and Stoke rugged and organised until self-destructing with half-time in sight. Hazard's backheel and Willian's slide-rule pass liberated Cesc Fàbregas, with Philipp Wollscheid sliding in as the Spaniard dragged the ball back with his instep. The penalty was not disputed and was dispatched with ease by Hazard.
+ 
+The Belgian was inspirational, a constant menace demanding the ball and tearing at his markers. He should have supplied Juan Cuadrado with a third before the end only for the Colombian, offered a rare cameo, to strike Begovic with a point-blank shot and then with the rebound when it appeared easier to score. Mourinho had slumped across the advertising hoarding in frustration at those misses, his nerves frayed further when Nzonzi struck a post, though it mattered not.
+ 
+"A victory is a victory," he added. "I sent [Aitor] Karanka an SMS yesterday after Middlesbrough won 1-0 and told him 1-0 in April is like 10-0 in November. Our countdown is only about us. At lunchtime, we needed six victories and one draw. At dinnertime, five victories and one draw."
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P21" spans="4437~4450" text="Juan Cuadrado" playerID="112" />
+<Player id="P20" spans="4307~4313" text="Hazard" playerID="106" />
+<Player id="P22" spans="4535~4542" text="Begovic" playerID="104" />
+<Player id="P0" spans="495~507" text="Charlie Adam" playerID="101" />
+<Player id="P1" spans="1111~1122" text="Diego Costa" playerID="102" />
+<Player id="P2" spans="1174~1185" text="Diego Costa" playerID="102" />
+<Player id="P3" spans="1360~1364" text="Adam" playerID="101" />
+<Player id="P4" spans="1712~1721" text="Loïc Rémy" playerID="103" />
+<Player id="P5" spans="1847~1860" text="Asmir Begovic" playerID="104" />
+<Player id="P6" spans="1925~1932" text="Willian" playerID="105" />
+<Player id="P7" spans="1947~1958" text="Eden Hazard" playerID="106" />
+<Player id="P8" spans="2538~2553" text="Stephen Ireland" playerID="107" />
+<Player id="P9" spans="2574~2578" text="Adam" playerID="101" />
+<Player id="P10" spans="2814~2830" text="Thibaut Courtois" playerID="108" />
+<Player id="P12" spans="3357~3363" text="Hazard" playerID="106" />
+<Player id="P11" spans="3037~3043" text="Hazard" playerID="106" />
+<Player id="P14" spans="3815~3820" text="Costa" playerID="102" />
+<Player id="P13" spans="3712~3727" text="Raheem Sterling" playerID="109" />
+<Player id="P16" spans="4083~4089" text="Hazard" playerID="106" />
+<Player id="P15" spans="3953~3960" text="Begovic" playerID="104" />
+<Player id="P18" spans="4141~4154" text="Cesc Fàbregas" playerID="110" />
+<Player id="P17" spans="4105~4112" text="Willian" playerID="105" />
+<Player id="P19" spans="4161~4179" text="Philipp Wollscheid" playerID="111" />
+<Player id="P23" spans="1902~1915" text="Steven Nzonzi" playerID="313" />
+<Coref id="C2" spans="1963~1966" text="his" playerID="106" />
+<Coref id="C3" spans="2640~2643" text="his" playerID="101" />
+<Coref id="C4" spans="2747~2750" text="his" playerID="101" />
+<Coref id="C5" spans="2859~2862" text="his" playerID="108" />
+<Coref id="C6" spans="2876~2878" text="he" playerID="108" />
+<Coref id="C9" spans="3557~3560" text="his" playerID="104" />
+<Coref id="C11" spans="4400~4403" text="his" playerID="106" />
+<Coref id="C10" spans="4234~4237" text="his" playerID="110" />
+<Coref id="C12" spans="4413~4415" text="He" playerID="106" />
+<Coref id="C15" spans="1698~1710" text="his stand-in" playerID="103" />
+<Coref id="C16" spans="1772~1785" text="The Frenchman" playerID="103" />
+<Coref id="C17" spans="1862~1876" text="the goalkeeper" playerID="104" />
+<Coref id="C18" spans="2037~2048" text="the striker" playerID="103" />
+<Coref id="C19" spans="2580~2588" text="the Scot" playerID="101" />
+<Coref id="C20" spans="2950~2964" text="the midfielder" playerID="101" />
+<Coref id="C21" spans="3471~3485" text="The goalkeeper" playerID="104" />
+<Coref id="C22" spans="3532~3535" text="him" playerID="104" />
+<Coref id="C23" spans="3659~3662" text="him" playerID="104" />
+<Coref id="C24" spans="4193~4206" text=" the Spaniard" playerID="110" />
+<Coref id="C25" spans="4317~4328" text="The Belgian" playerID="106" />
+<Fact id="F0" spans="510~527" text="jaw-dropping goal" type="goal" factID="1" time="last match" />
+<Fact id="F1" spans="1367~1387" text="ridiculous equaliser" type="goal" factID="1" time="last match" />
+<Fact id="F2" spans="1723~1768" text="has now scored the winner in successive games" type="goal" factID="2" time="last match" />
+<Fact id="F4" spans="1788~1801" text="decisive goal" time="last match" type="goal" factID="2" />
+<Fact id="F5" spans="1998~2020" text="dribbled into the area" time="last match" type="movement" factID="3" />
+<Fact id="F6" spans="2025~2057" text="squared for the striker to score" time="last match" type="assist" factID="4" />
+<Fact id="F7" spans="2049~2057" text="to score" time="last match" type="goal" factID="2" />
+<Fact id="F8" spans="2588~2632" text=" meandering to the edge of the centre-circle" time="last match" type="movement" factID="5" />
+<Fact id="F9" spans="2660~2677" text="pummelling a shot" time="last match" type="shot" factID="6" />
+<Fact id="F10" spans="2967~2983" text="50th career goal" time="last match" type="goal" factID="1" />
+<Fact id="F11" spans="4092~4100" text="backheel" time="last match" type="pass" factID="7" />
+<Fact id="F12" spans="4115~4130" text="slide-rule pass" time="last match" type="pass" factID="8" />
+<Fact id="F13" spans="4180~4190" text="sliding in" time="last match" type="tackle" factID="9" />
+<Fact id="F14" spans="4548~4566" text="a point-blank shot" time="last match" type="shot" factID="10" />
+<Opinion id="O0" spans="1827~1846" text="otherwise excellent" time="last match" reported="false" type="general attribute" polarity="-" />
+<Opinion id="O1" spans="2805~2813" text="panicked" time="last match" reported="false" type="general attribute" polarity="-" />
+<Opinion id="O2" spans="2831~2924" text="only able to paw at it with his left hand as he back-tracked and the ball veered into the net" time="last match" reported="false" type="accomplishment" polarity="-" />
+<Opinion id="O3" spans="4333~4346" text="inspirational" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O4" spans="4348~4365" text="a constant menace" time="last match" reported="false" polarity="+" type="general attribute" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="jaw-dropping goal" targetID="P0" targetText="Charlie Adam" />
+<TargetLink id="T1" fact_or_opinionID="F2" fact_or_opinionText="has now scored the winner in successive games" targetID="P4" targetText="Loïc Rémy" />
+<TargetLink id="T2" fact_or_opinionID="F4" fact_or_opinionText="decisive goal" targetID="C16" targetText="The Frenchman" />
+<TargetLink id="T3" fact_or_opinionID="O0" fact_or_opinionText="otherwise excellent" targetID="P5" targetText="Asmir Begovic" />
+<TargetLink id="T4" fact_or_opinionID="F5" fact_or_opinionText="dribbled into the area" targetID="P7" targetText="Eden Hazard" />
+<TargetLink id="T5" fact_or_opinionID="F6" fact_or_opinionText="squared for the striker to score" targetID="P7" targetText="Eden Hazard" />
+<TargetLink id="T6" fact_or_opinionID="F7" fact_or_opinionText="to score" targetID="C18" targetText="the striker" />
+<TargetLink id="T7" fact_or_opinionID="C19" fact_or_opinionText="the Scot" targetID="F8" targetText=" meandering to the edge of the centre-circle" />
+<TargetLink id="T8" fact_or_opinionID="F9" fact_or_opinionText="pummelling a shot" targetID="C19" targetText="the Scot" />
+<TargetLink id="T9" fact_or_opinionID="O1" fact_or_opinionText="panicked" targetID="P10" targetText="Thibaut Courtois" />
+<TargetLink id="T10" fact_or_opinionID="O2" fact_or_opinionText="only able to paw at it with his left hand as he back-tracked and the ball veered into the net" targetID="P10" targetText="Thibaut Courtois" />
+<TargetLink id="T11" fact_or_opinionID="F10" fact_or_opinionText="50th career goal" targetID="C20" targetText="the midfielder" />
+<TargetLink id="T12" fact_or_opinionID="F11" fact_or_opinionText="backheel" targetID="P16" targetText="Hazard" />
+<TargetLink id="T13" fact_or_opinionID="F12" fact_or_opinionText="slide-rule pass" targetID="P17" targetText="Willian" />
+<TargetLink id="T14" fact_or_opinionID="F13" fact_or_opinionText="sliding in" targetID="P19" targetText="Philipp Wollscheid" />
+<TargetLink id="T15" fact_or_opinionID="O3" fact_or_opinionText="inspirational" targetID="C25" targetText="The Belgian" />
+<TargetLink id="T16" fact_or_opinionID="O4" fact_or_opinionText="a constant menace" targetID="C25" targetText="The Belgian" />
+<TargetLink id="T17" fact_or_opinionID="F14" fact_or_opinionText="a point-blank shot" targetID="C12" targetText="He" />
+</TAGS>
+</SoccEval1.2>

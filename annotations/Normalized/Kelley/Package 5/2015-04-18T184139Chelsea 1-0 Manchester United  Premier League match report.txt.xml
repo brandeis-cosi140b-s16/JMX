@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/apr/18/chelsea-manchester-united-premier-league-match-report
+
+Chelsea 1-0 Manchester United | Premier League match report
+
+
+There really can be no doubt now that when the ribbons are attached to the Premier League trophy the light blue of Manchester City will be replaced by a darker shade of the same colour. José Mourinho's team are ticking off the challenges and their lead is now 10 points. With half a dozen games to go, the residents of Fulham can expect a letter advising them of plans for an open-top bus parade.
+ 
+For long spells it was a conservative and restrained performance, but there is an expertise ingrained in this Chelsea team about the art of winning through structure, stubbornness and get-the-job-done know-how and, when the opposition makes an error, being absolutely clinical. It also helps they have a left-sided attacker, Eden Hazard, who could feasibly finish the season with a clean sweep of the player-of-the-year awards.
+ 
+Hazard's contribution has been immense and it was his goal, late in the first half, that gave Chelsea the opportunity to show their qualities of endurance. The ovation when he was substituted told its own story and it was not long afterwards that Mourinho was out of his dugout demanding more noise. His team could settle everything by winning their next two matches, against Arsenal and Leicester, and Mourinho was clearly just going through the motions when he insisted it was wrong to assume the title was heading to Stamford Bridge.
+ 
+Tactically, he said, the game had been "exactly what we wanted" and his eulogy did stray dangerously close to sounding like a victory speech. "I'm the one that knows how fantastic it was. JT was amazing. Azpilicueta was the best player on the pitch. Matic worked like an animal. Zouma put Fellaini outside the game. The No11 [Didier Drogba] was another animal, fighting against two kids with the age to be his sons. And Hazard was what we know. Eden had that magic."
+ 
+Mourinho seemed pretty pleased with himself too bearing in mind the tactical straightjacket that meant all of United's better performers recently – not just Fellaini but also Ashley Young, Juan Mata and Ander Herrera – were subdued. Radamel Falcao did strike the post in the second half but the player of old would have converted that chance and Louis van Gaal took everyone by surprise when he described it as United's best performance of the season. The exaggeration was complete when he said Chelsea had not even managed a single chance in the first half. Hazard's goal came in the 38th minute.
+ 
+Mourinho's first trick came before kick-off when huge jets of water started to cascade and the playing surface was drenched to the point the ball could actually be seen splashing in certain areas. The idea, plainly, was to slow down the game, though United did start brightly and moved the ball quickly during the early exchanges. Not long before Hazard stuck his shot between David de Gea's legs, the possession statistics had flashed up that Chelsea had seen only 30% of the ball. Hazard's goal arrived just at the point Stamford Bridge was starting to feel a little anxious.
+ 
+Van Gaal could be seen remonstrating with the fourth official, Craig Pawson, after the goal because he was convinced there had been a foul by John Terry in the buildup. It was rare to see the Dutchman in that finger-pointing pose but his anger would be more accurately directed at his players. Chris Smalling's pass out of defence was the first problem, in keeping with a recurring theme when the centre-half is on the ball. Falcao had Terry closing in from behind and as soon as Chelsea's captain came away with the ball the away team were vulnerable. Oscar's backheel was measured perfectly to leave Hazard scampering into the penalty area and the Belgian drew De Gea out of his goal before slotting in his shot.
+ 
+Chelsea had looked short of ideas until that point, attacking only sporadically despite the presence of the promising but raw Paddy McNair in United's defence and a new round of injury issues affecting Van Gaal's thinking. Luke Shaw's surging runs from left-back were a prominent feature.
+ 
+Antonio Valencia had the same ambitions on the opposite side and, early on, Wayne Rooney really ought to have done better with one of Shaw's cutbacks, managing only to hit the stanchion behind the goal. The chance fell to Rooney's left foot and, for all his qualities, England's captain rarely excels when the ball is on that side.
+ 
+Chelsea stuck rigidly to their tactics once they had taken the lead, determined not to lose their shape and restricting themselves to counter-attacks. Drogba got away at one point and when his shot flicked off Smalling it looped over De Gea to drop at the far post. Hazard tried an improvisational hook-shot but could only turn a bouncing ball against the post. That apart, De Gea was seldom threatened.
+ 
+The old Falcao might have buried the chance that came to him later on, after spinning away from Zouma, but Ander Herrera deserved his yellow card after flicking out his foot to try to manufacture a penalty from Gary Cahill's challenge. The final whistle came soon afterwards and Chelsea celebrated like champions in waiting, however much their manager insisted he was taking nothing for granted.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P21" spans="3735~3740" text="Oscar" playerID="114" />
+<Player id="P20" spans="3618~3623" text="Terry" playerID="113" />
+<Player id="P22" spans="3784~3790" text="Hazard" playerID="101" />
+<Player id="P25" spans="4122~4131" text="Luke Shaw" playerID="116" />
+<Player id="P27" spans="4198~4206" text="Valencia" playerID="117" />
+<Player id="P26" spans="4190~4206" text="Antonio Valencia" playerID="117" />
+<Player id="P29" spans="4324~4328" text="Shaw" playerID="116" />
+<Player id="P28" spans="4266~4278" text="Wayne Rooney" playerID="118" />
+<Player id="P30" spans="4412~4418" text="Rooney" playerID="118" />
+<Player id="P32" spans="4734~4742" text="Smalling" playerID="114" />
+<Player id="P31" spans="4675~4681" text="Drogba" playerID="106" />
+<Player id="P34" spans="4790~4796" text="Hazard" playerID="101" />
+<Player id="P36" spans="4938~4944" text="Falcao" playerID="113" />
+<Player id="P38" spans="5037~5050" text="Ander Herrera" playerID="110" />
+<Player id="P37" spans="5026~5031" text="Zouma" playerID="104" />
+<Player id="P39" spans="5141~5152" text="Gary Cahill" playerID="116" />
+<Player id="P0" spans="889~900" text="Eden Hazard" playerID="101" />
+<Player id="P1" spans="994~1000" text="Hazard" playerID="101" />
+<Player id="P2" spans="1737~1748" text="Azpilicueta" playerID="102" />
+<Player id="P3" spans="1783~1788" text="Matic" playerID="103" />
+<Player id="P4" spans="1812~1817" text="Zouma" playerID="104" />
+<Player id="P5" spans="1822~1830" text="Fellaini" playerID="105" />
+<Player id="P6" spans="1859~1872" text="Didier Drogba" playerID="106" />
+<Player id="P7" spans="1953~1959" text="Hazard" playerID="101" />
+<Player id="P8" spans="2159~2167" text="Fellaini" playerID="105" />
+<Player id="P9" spans="2177~2189" text="Ashley Young" playerID="108" />
+<Player id="P10" spans="2191~2200" text="Juan Mata" playerID="105" />
+<Player id="P11" spans="2205~2218" text="Ander Herrera" playerID="110" />
+<Player id="P14" spans="2949~2955" text="Hazard" playerID="101" />
+<Player id="P13" spans="2561~2567" text="Hazard" playerID="101" />
+<Player id="P16" spans="3085~3091" text="Hazard" playerID="101" />
+<Player id="P15" spans="2979~2991" text="David de Gea" playerID="112" />
+<Player id="P18" spans="3476~3490" text="Chris Smalling" playerID="114" />
+<Player id="P17" spans="3324~3334" text="John Terry" playerID="113" />
+<Player id="P19" spans="3607~3613" text="Falcao" playerID="113" />
+<Player id="P40" spans="2235~2249" text="Radamel Falcao" playerID="113" />
+<Player id="P42" spans="3845~3851" text="De Gea" playerID="112" />
+<Player id="P43" spans="4025~4037" text="Paddy McNair" playerID="115" />
+<Player id="P45" spans="4758~4764" text="De Gea" playerID="112" />
+<Player id="P46" spans="4898~4904" text="De Gea" playerID="112" />
+<Coref id="C10" spans="2962~2965" text="his" playerID="101" />
+<Coref id="C15" spans="3887~3890" text="his" playerID="101" />
+<Coref id="C14" spans="3859~3862" text="his" playerID="112" />
+<Coref id="C17" spans="4713~4716" text="his" playerID="106" />
+<Coref id="C16" spans="4444~4447" text="his" playerID="118" />
+<Coref id="C19" spans="5095~5098" text="his" playerID="110" />
+<Coref id="C18" spans="5060~5063" text="his" playerID="110" />
+<Coref id="C0" spans="1044~1047" text="his" playerID="101" />
+<Coref id="C1" spans="1167~1169" text="he" playerID="101" />
+<Coref id="C7" spans="1939~1942" text="his" playerID="106" />
+<Coref id="C21" spans="1978~1982" text="Eden" playerID="101" />
+<Coref id="C22" spans="2293~2310" text="the player of old" playerID="113" />
+<Coref id="C23" spans="3662~3679" text="Chelsea&apos;s captain" playerID="114" />
+<Coref id="C24" spans="3828~3839" text="the Belgian" playerID="101" />
+<Coref id="C25" spans="4459~4476" text="England&apos;s captain" playerID="118" />
+<Fact id="F0" spans="1048~1052" text="goal" time="last match" type="goal" factID="1" />
+<Fact id="F1" spans="1170~1185" text="was substituted" time="last match" type="substitute out" factID="2" />
+<Fact id="F2" spans="2250~2269" text="did strike the post" time="last match" factID="3" type="shot" />
+<Fact id="F3" spans="2570~2574" text="goal" time="last match" type="goal" factID="1" />
+<Fact id="F4" spans="2956~2998" text="stuck his shot between David de Gea&apos;s legs" time="last match" type="goal" factID="1" />
+<Fact id="F5" spans="3094~3098" text="goal" time="last match" type="goal" factID="1" />
+<Fact id="F6" spans="3493~3497" text="pass" time="last match" type="pass" factID="4" />
+<Fact id="F7" spans="3624~3646" text="closing in from behind" time="last match" type="positioning" factID="5" />
+<Fact id="F8" spans="3624~3646" text="closing in from behind" time="last match" type="positioning" factID="6" />
+<Fact id="F9" spans="3680~3703" text="came away with the ball" time="last match" type="movement" factID="7" />
+<Fact id="F10" spans="3743~3751" text="backheel" time="last match" type="pass" factID="8" />
+<Fact id="F11" spans="3791~3823" text="scampering into the penalty area" time="last match" type="positioning" factID="9" />
+<Fact id="F12" spans="3875~3895" text="slotting in his shot" time="last match" type="goal" factID="1" />
+<Fact id="F14" spans="4134~4161" text="surging runs from left-back" time="last match" type="movement" factID="10" />
+<Fact id="F15" spans="4331~4339" text="cutbacks" time="last match" type="pass" factID="11" />
+<Fact id="F16" spans="4341~4391" text="managing only to hit the stanchion behind the goal" time="last match" factID="12" type="shot" />
+<Fact id="F17" spans="4682~4703" text="got away at one point" time="last match" type="movement" factID="13" />
+<Fact id="F18" spans="4717~4721" text="shot" time="last match" type="shot" factID="14" />
+<Fact id="F19" spans="4797~4831" text="tried an improvisational hook-shot" time="last match" type="shot" factID="15" />
+<Fact id="F20" spans="5051~5075" text="deserved his yellow card" time="last match" type="foul" factID="16" />
+<Fact id="F21" spans="5001~5031" text="after spinning away from Zouma" time="last match" type="movement" factID="17" />
+<Opinion id="O0" spans="842~887" text="It also helps they have a left-sided attacker" reported="false" type="impact on team" polarity="+" time="current season" />
+<Opinion id="O1" spans="1003~1032" text="contribution has been immense" reported="false" type="impact on team" polarity="+" time="current season" />
+<Opinion id="O2" spans="1749~1781" text="was the best player on the pitch" time="last match" reported="true" type="general attribute" polarity="+" />
+<Opinion id="O3" spans="1789~1810" text="worked like an animal" time="last match" type="general attribute" polarity="+" reported="true" />
+<Opinion id="O4" spans="1874~1892" text="was another animal" time="last match" type="general attribute" polarity="+" reported="true" />
+<Opinion id="O5" spans="1983~1997" text="had that magic" time="last match" type="general attribute" polarity="+" reported="true" />
+<Opinion id="O6" spans="1818~1847" text="put Fellaini outside the game" time="last match" type="general attribute" polarity="+" reported="true" />
+<Opinion id="O7" spans="2221~2233" text="were subdued" time="last match" reported="false" type="growth-decline" polarity="-" />
+<Opinion id="O8" spans="2221~2233" text="were subdued" time="last match" reported="false" type="growth-decline" polarity="-" />
+<Opinion id="O9" spans="2221~2233" text="were subdued" time="last match" reported="false" type="growth-decline" polarity="-" />
+<Opinion id="O10" spans="2221~2233" text="were subdued" time="last match" reported="false" type="growth-decline" polarity="-" />
+<Opinion id="O11" spans="2311~2343" text="would have converted that chance" time="last match" reported="false" hypothetical="counterfactive" polarity="-" type="growth-decline" />
+<Opinion id="O12" spans="4007~4024" text="promising but raw" time="last match" reported="false" type="other opinion" polarity="+" />
+<Opinion id="O13" spans="4279~4311" text="really ought to have done better" time="last match" reported="false" type="general attribute" polarity="-" hypothetical="counterfactive" />
+<Opinion id="O14" spans="4436~4457" text="for all his qualities" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O15" spans="4477~4520" text="rarely excels when the ball is on that side" reported="false" type="general attribute" polarity="-" time="current season" />
+<TargetLink id="T0" fact_or_opinionID="O0" fact_or_opinionText="It also helps they have a left-sided attacker" targetID="P0" targetText="Eden Hazard" />
+<TargetLink id="T1" fact_or_opinionID="O1" fact_or_opinionText="contribution has been immense" targetID="P1" targetText="Hazard" />
+<TargetLink id="T2" fact_or_opinionID="F0" fact_or_opinionText="goal" targetID="C0" targetText="his" />
+<TargetLink id="T3" fact_or_opinionID="F1" fact_or_opinionText="was substituted" targetID="C1" targetText="he" />
+<TargetLink id="T4" fact_or_opinionID="O2" fact_or_opinionText="was the best player on the pitch" targetID="P2" targetText="Azpilicueta" />
+<TargetLink id="T5" fact_or_opinionID="O3" fact_or_opinionText="worked like an animal" targetID="P3" targetText="Matic" />
+<TargetLink id="T6" fact_or_opinionID="O4" fact_or_opinionText="was another animal" targetID="P6" targetText="Didier Drogba" />
+<TargetLink id="T7" fact_or_opinionID="O5" fact_or_opinionText="had that magic" targetID="C21" targetText="Eden" />
+<TargetLink id="T8" fact_or_opinionID="O6" fact_or_opinionText="put Fellaini outside the game" targetID="P4" targetText="Zouma" />
+<TargetLink id="T9" fact_or_opinionID="O10" fact_or_opinionText="were subdued" targetID="P8" targetText="Fellaini" />
+<TargetLink id="T10" fact_or_opinionID="O9" fact_or_opinionText="were subdued" targetID="P9" targetText="Ashley Young" />
+<TargetLink id="T11" fact_or_opinionID="O8" fact_or_opinionText="were subdued" targetID="P10" targetText="Juan Mata" />
+<TargetLink id="T12" fact_or_opinionID="O10" fact_or_opinionText="were subdued" targetID="P11" targetText="Ander Herrera" />
+<TargetLink id="T13" fact_or_opinionID="F2" fact_or_opinionText="did strike the post" targetID="P40" targetText="Radamel Falcao" />
+<TargetLink id="T14" fact_or_opinionID="O11" fact_or_opinionText="would have converted that chance" targetID="C22" targetText="the player of old" />
+<TargetLink id="T15" fact_or_opinionID="F3" fact_or_opinionText="goal" targetID="P13" targetText="Hazard" />
+<TargetLink id="T16" fact_or_opinionID="F4" fact_or_opinionText="stuck his shot between David de Gea&apos;s legs" targetID="P14" targetText="Hazard" />
+<TargetLink id="T17" fact_or_opinionID="F5" fact_or_opinionText="goal" targetID="P16" targetText="Hazard" />
+<TargetLink id="T18" fact_or_opinionID="F6" fact_or_opinionText="pass" targetID="P18" targetText="Chris Smalling" />
+<TargetLink id="T19" fact_or_opinionID="F7" fact_or_opinionText="closing in from behind" targetID="P19" targetText="Falcao" />
+<TargetLink id="T20" fact_or_opinionID="F8" fact_or_opinionText="closing in from behind" targetID="P20" targetText="Terry" />
+<TargetLink id="T21" fact_or_opinionID="F9" fact_or_opinionText="came away with the ball" targetID="C23" targetText="Chelsea&apos;s captain" />
+<TargetLink id="T22" fact_or_opinionID="F10" fact_or_opinionText="backheel" targetID="P21" targetText="Oscar" />
+<TargetLink id="T23" fact_or_opinionID="F11" fact_or_opinionText="scampering into the penalty area" targetID="P22" targetText="Hazard" />
+<TargetLink id="T24" fact_or_opinionID="F12" fact_or_opinionText="slotting in his shot" targetID="C24" targetText="the Belgian" />
+<TargetLink id="T25" fact_or_opinionID="O12" fact_or_opinionText="promising but raw" targetID="P43" targetText="Paddy McNair" />
+<TargetLink id="T26" fact_or_opinionID="F14" fact_or_opinionText="surging runs from left-back" targetID="P25" targetText="Luke Shaw" />
+<TargetLink id="T27" fact_or_opinionID="O13" fact_or_opinionText="really ought to have done better" targetID="P28" targetText="Wayne Rooney" />
+<TargetLink id="T28" fact_or_opinionID="F15" fact_or_opinionText="cutbacks" targetID="P29" targetText="Shaw" />
+<TargetLink id="T29" fact_or_opinionID="F16" fact_or_opinionText="managing only to hit the stanchion behind the goal" targetID="P28" targetText="Wayne Rooney" />
+<TargetLink id="T30" fact_or_opinionID="O14" fact_or_opinionText="for all his qualities" targetID="P30" targetText="Rooney" />
+<TargetLink id="T31" fact_or_opinionID="O15" fact_or_opinionText="rarely excels when the ball is on that side" targetID="C25" targetText="England&apos;s captain" />
+<TargetLink id="T32" fact_or_opinionID="F17" fact_or_opinionText="got away at one point" targetID="P31" targetText="Drogba" />
+<TargetLink id="T33" fact_or_opinionID="F18" fact_or_opinionText="shot" targetID="C17" targetText="his" />
+<TargetLink id="T34" fact_or_opinionID="F19" fact_or_opinionText="tried an improvisational hook-shot" targetID="P34" targetText="Hazard" />
+<TargetLink id="T35" fact_or_opinionID="F20" fact_or_opinionText="deserved his yellow card" targetID="P38" targetText="Ander Herrera" />
+<TargetLink id="T36" fact_or_opinionID="F21" fact_or_opinionText="after spinning away from Zouma" targetID="P36" targetText="Falcao" />
+</TAGS>
+</SoccEval1.2>

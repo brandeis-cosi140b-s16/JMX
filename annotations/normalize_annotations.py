@@ -186,7 +186,7 @@ def main(packages, submissions_dir='Submissions', new_dir='Normalized'):
             new_anno3.write(apply_changes(anno3_soup, anno3_text))
 
 if __name__ == '__main__':
-    packages = ['Package 1', 'Package 2', 'Package 3', 'Package 4']
+    packages = ['Package 1', 'Package 2', 'Package 3', 'Package 4', 'Package 5']
     submissions_dir = 'Submissions'
     normalized_dir = 'Normalized'
     main(packages, submissions_dir, normalized_dir)

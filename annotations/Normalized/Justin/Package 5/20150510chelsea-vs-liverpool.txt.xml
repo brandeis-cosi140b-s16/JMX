@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/chelsea-vs-liverpool/1704199
+
+May 10, 2015 12:51:00 PM
+
+The Liverpool captain cancelled out John Terry's fifth-minute opener to secure a share of the spoils for his team but saw the Reds' faint Champions League hopes extinguished.
+
+Liverpool claimed a creditable 1-1 draw with Chelsea at Stamford Bridge, although the result effectively quashes the club's hopes of qualifying for next season's Champions League.
+
+Brendan Rodgers' side came into Sunday's clash with the Premier League champion seven points behind fourth-placed Manchester United, which was a 2-1 winner at Crystal Palace 24 hours earlier.
+
+Although Liverpool became only the fourth side to take anything away from Stamford Bridge in the league in 2014-15, the club's inferior goal difference means it would require a sizable and improbable swing to overtake United in the final two matches of the season.
+
+It was Chelsea captain John Terry who put his side ahead in the fifth minute with a powerful header from a corner, before his opposite number Steven Gerrard - who was described as "a champion" by Jose Mourinho this week and was given a warm reception by the crowd when he was substituted late on - nodded in an equalizer at the end of the first half.
+
+Against a Chelsea side that showed five changes from the team that sealed the title against Palace last week, including a first Premier League start for Ruben Loftus-Cheek, Liverpool had the better of the second half and saw Philippe Coutinho spurn a golden opening to go ahead.
+
+However, Rodgers' men could not find the winner that would have kept their slim Champions League dreams alive, as Chelsea maintained its unbeaten home league record this season.
+
+Cesc Fabregas was heavily involved in the early action, the Spaniard perhaps fortunate to only receive a yellow card for a dangerous challenge on Raheem Sterling in the opening minute.
+
+The midfielder had a much more positive impact four minutes later, however, swinging in a right-wing corner that Terry met with a firm downward header into the net.
+
+Liverpool responded well to that setback as former Chelsea defender Glen Johnson fired into the side-netting from a tight angle before Coutinho was denied by Thibaut Courtois.
+
+Simon Mignolet parried Fabregas' effort as Chelsea went in search of a second, although the side was dealt a blow shortly after the half-hour mark when Kurt Zouma was forced off through injury and was replaced by Gary Cahill.
+
+With one minute of the half remaining, Liverpool levelled as Gerrard was left all alone at the back post to nod in Jordan Henderson's free kick from the left by line.
+
+The visiting side carried that momentum into the start of the second period and ought to have gone in front when Sterling picked out Coutinho, who fired wide from 12 yards.
+
+With 55 minutes gone, Mignolet produced a fine one-handed save to tip Willian's fizzing drive behind, although the touch was so slight it was missed by referee Andre Marriner and a goal kick was given.
+
+The open nature of the encounter continued, Adam Lallana denied by a block from Cahill before Fabregas worked space for himself inside the box only to shoot weakly at Mignolet.
+
+With a minute remaining, Coutinho's effort took a wicked deflection off Cahill and almost crept beyond Courtois, but the goalkeeper was able to gather as Chelsea extended its unbeaten run against Liverpool in all competitions to eight matches.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="125~135" text="John Terry" playerID="101" />
+<Player id="P1" spans="928~938" text="John Terry" playerID="101" />
+<Player id="P2" spans="1047~1061" text="Steven Gerrard" playerID="102" />
+<Player id="P3" spans="1410~1428" text="Ruben Loftus-Cheek" playerID="103" />
+<Player id="P4" spans="1482~1499" text="Philippe Coutinho" playerID="104" />
+<Player id="P5" spans="1716~1729" text="Cesc Fabregas" playerID="105" />
+<Player id="P6" spans="1862~1877" text="Raheem Sterling" playerID="106" />
+<Player id="P7" spans="2015~2020" text="Terry" playerID="101" />
+<Player id="P8" spans="2136~2148" text="Glen Johnson" playerID="107" />
+<Player id="P10" spans="2203~2211" text="Coutinho" playerID="104" />
+<Player id="P11" spans="2226~2242" text="Thibaut Courtois" playerID="108" />
+<Player id="P12" spans="2245~2259" text="Simon Mignolet" playerID="109" />
+<Player id="P13" spans="2268~2276" text="Fabregas" playerID="105" />
+<Player id="P14" spans="2397~2407" text="Kurt Zouma" playerID="110" />
+<Player id="P15" spans="2458~2469" text="Gary Cahill" playerID="111" />
+<Player id="P16" spans="2533~2540" text="Gerrard" playerID="102" />
+<Player id="P17" spans="2587~2603" text="Jordan Henderson" playerID="112" />
+<Player id="P18" spans="2753~2761" text="Sterling" playerID="106" />
+<Player id="P19" spans="2773~2781" text="Coutinho" playerID="104" />
+<Player id="P20" spans="2836~2844" text="Mignolet" playerID="109" />
+<Player id="P21" spans="2884~2891" text="Willian" playerID="113" />
+<Player id="P22" spans="3061~3073" text="Adam Lallana" playerID="114" />
+<Player id="P23" spans="3097~3103" text="Cahill" playerID="111" />
+<Player id="P24" spans="3111~3119" text="Fabregas" playerID="105" />
+<Player id="P25" spans="3184~3192" text="Mignolet" playerID="109" />
+<Player id="P26" spans="3220~3228" text="Coutinho" playerID="104" />
+<Player id="P27" spans="3267~3273" text="Cahill" playerID="111" />
+<Player id="P28" spans="3298~3306" text="Courtois" playerID="108" />
+<Coref id="C2" spans="1027~1030" text="his" playerID="101" />
+<Coref id="C3" spans="1174~1176" text="he" playerID="102" />
+<Coref id="C4" spans="1772~1784" text="the Spaniard" playerID="105" />
+<Coref id="C5" spans="1902~1916" text="The midfielder" playerID="105" />
+<Fact id="F0" spans="138~157" text="fifth-minute opener" time="last match" factID="1" type="shot" />
+<Fact id="F1" spans="987~1004" text="a powerful header" time="last match" type="shot" factID="1" />
+<Fact id="F2" spans="1500~1522" text="spurn a golden opening" time="last match" type="shot" factID="2" />
+<Fact id="F3" spans="1837~1858" text="a dangerous challenge" time="last match" type="foul" factID="3" />
+<Fact id="F4" spans="2021~2065" text="met with a firm downward header into the net" time="last match" type="goal" factID="4" />
+<Fact id="F5" spans="1978~2009" text="swinging in a right-wing corner" time="last match" type="pass" factID="5" />
+<Fact id="F6" spans="2149~2176" text="fired into the side-netting" time="last match" type="goal" factID="6" />
+<Fact id="F7" spans="2216~2222" text="denied" time="last match" type="save" factID="7" />
+<Fact id="F9" spans="2260~2267" text="parried" time="last match" type="save" factID="8" />
+<Fact id="F10" spans="2431~2437" text="injury" time="last match" type="injury" factID="9" />
+<Fact id="F11" spans="2446~2454" text="replaced" time="last match" type="substitute in" factID="10" />
+<Fact id="F12" spans="2580~2583" text="nod" time="last match" type="goal" factID="11" />
+<Fact id="F13" spans="2606~2615" text="free kick" time="last match" type="pass" factID="12" />
+<Fact id="F14" spans="2787~2811" text="fired wide from 12 yards" time="last match" type="shot" factID="13" />
+<Fact id="F15" spans="2762~2772" text="picked out" time="last match" type="pass" factID="14" />
+<Fact id="F16" spans="2845~2876" text="produced a fine one-handed save" time="last match" factID="15" type="foul" />
+<Fact id="F17" spans="2894~2914" text="fizzing drive behind" time="last match" factID="16" type="movement" />
+<Fact id="F18" spans="3084~3091" text="a block" time="last match" factID="17" type="save" />
+<Fact id="F19" spans="3231~3262" text="effort took a wicked deflection" time="last match" factID="18" type="shot" />
+<Opinion id="O0" spans="1068~1097" text="was described as "a champion"" type="other opinion" polarity="+" time="present" reported="true" hypothetical="counterfactive" />
+<Opinion id="O1" spans="3168~3180" text="shoot weakly" time="last match" reported="false" type="soccer skill" polarity="-" hypothetical="counterfactive" />
+<TargetLink id="T0" targetID="P0" targetText="John Terry" fact_or_opinionID="F0" fact_or_opinionText="fifth-minute opener" />
+<TargetLink id="T1" fact_or_opinionID="O0" fact_or_opinionText="was described as "a champion"" targetID="P2" targetText="Steven Gerrard" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="spurn a golden opening" targetID="P4" targetText="Philippe Coutinho" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="a dangerous challenge" targetID="P6" targetText="Raheem Sterling" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="met with a firm downward header into the net" targetID="P7" targetText="Terry" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="swinging in a right-wing corner" targetID="C5" targetText="The midfielder" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="fired into the side-netting" targetID="P8" targetText="Glen Johnson" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="denied" targetID="P11" targetText="Thibaut Courtois" />
+<TargetLink id="T8" fact_or_opinionID="F9" fact_or_opinionText="parried" targetID="P12" targetText="Simon Mignolet" />
+<TargetLink id="T9" fact_or_opinionID="F10" fact_or_opinionText="injury" targetID="P14" targetText="Kurt Zouma" />
+<TargetLink id="T10" fact_or_opinionID="F11" fact_or_opinionText="replaced" targetID="P15" targetText="Gary Cahill" />
+<TargetLink id="T11" fact_or_opinionID="F13" fact_or_opinionText="free kick" targetID="P17" targetText="Jordan Henderson" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="nod" targetID="P16" targetText="Gerrard" />
+<TargetLink id="T13" fact_or_opinionID="F14" fact_or_opinionText="fired wide from 12 yards" targetID="P19" targetText="Coutinho" />
+<TargetLink id="T14" fact_or_opinionID="F15" fact_or_opinionText="picked out" targetID="P18" targetText="Sterling" />
+<TargetLink id="T15" fact_or_opinionID="F16" fact_or_opinionText="produced a fine one-handed save" targetID="P20" targetText="Mignolet" />
+<TargetLink id="T16" fact_or_opinionID="F17" fact_or_opinionText="fizzing drive behind" targetID="P21" targetText="Willian" />
+<TargetLink id="T17" fact_or_opinionID="F18" fact_or_opinionText="a block" targetID="P23" targetText="Cahill" />
+<TargetLink id="T18" fact_or_opinionID="O1" fact_or_opinionText="shoot weakly" targetID="P24" targetText="Fabregas" />
+<TargetLink id="T19" fact_or_opinionID="F19" fact_or_opinionText="effort took a wicked deflection" targetID="P26" targetText="Coutinho" />
+</TAGS>
+</SoccEval1.2>
