@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[http://www.theguardian.com/football/2015/feb/07/aston-villa-chelsea-premier-league-match-report
+
+Aston Villa 1-2 Chelsea | Premier League match report
+
+
+It ended with Chelsea moving seven points clear at the top of the Premier League and maybe even the semblance of a smile from the man who came back to English football insisting he wanted to be known as the Happy One. José Mourinho's scowl has felt like a permanent attachment in recent times but this felt like a significant moment in the Premier League title race and it was not straightforward seeing off an Aston Villa side that had at least paid attention to the photograph of an empty goal splashed across the front of the Birmingham Mail. "Memo to Villa," it read. "This is what a goal looks like."
+ 
+Paul Lambert's side certainly needed the reminder, bearing in mind the moment when Jores Okore headed in Carles Gil's cross to make it 1-1, three minutes into the second half, brought up the 11-hour mark since their last top-division goal 43 days earlier. So, hallelujah, Villa have finally managed to equal the number of league goals Bournemouth have scored in Birmingham this season.
+ 
+Unfortunately for Villa, there have still been only two occasions all season when they have scored twice in a league game and Chelsea had enough time and self-belief to restore their winning position through Branislav Ivanovic's decisive strike.
+  
+ Related: Everton 0-0 Liverpool | Premier League match report 
+   
+Ivanovic is establishing himself as the ultimate odd job man – a full-back, centre-half, attacker, motivator and goalscorer all wrapped into one – and this was his fifth goal in his past six starts against Villa. There was still a third of the match to play but Villa had resorted to type and Christian Benteke's introduction, having been dropped from Lambert's starting XI, had little impact.
+ 
+Mourinho brought on Juan Cuadrado, the £23m acquisition from Fiorentina, during those moments and Manchester City's inability to beat Hull City at their own ground ultimately made it a hugely satisfying win for the leaders. True, they might have made easier work of it bearing in mind Eden Hazard opened the scoring with a superbly worked team goal after only eight minutes. They did, however, show title-winning qualities in their response to Villa's first league goal in 2015 and, on the balance of play, they were clearly the better side.
+ 
+Mourinho tried to argue that seven points amounted to "nothing" in a league where "nothing surprises me". They missed Diego Costa at times and it was a difficult day for Didier Drogba, a month short of his 37th birthday and struggling to remind us of the player of old, barring those moments when he was flinging himself to the ground in pretend agony.
+ 
+Yet Mourinho was twirling his hand in the air after the final whistle and his celebrations indicated he knew what an important victory this might be.
+  
+ Related: Tottenham Hotspur 2-1 Arsenal | Premier League match report 
+   
+Early on, it had looked like it would be a much more routine win when Drogba played the ball forward and Oscar, running through the inside-right channel, eluded Okore then played it inside for Willian. Hazard had anticipated the next pass, darting in front of Alan Hutton, and Willian delivered it with just the right amount of weight for his team-mate to turn a first-time shot past Brad Guzan.
+ 
+The frustration inside Villa Park manifested itself in some voluble dissent aimed towards Tom Cleverley. Lambert could be seen taking exception to something that Rui Faria, Mourinho's assistant, had said in the opposite dugout and was suspicious to learn that the Chelsea manager had described Villa's squad as "one of the best" in the country, with a "very good bench and lots of solutions". There is history here and Lambert, with two wins in 20 league games since signing his new contract, did not appreciate the flattery. "That's his opinion," he said. "Maybe he is trying to put pressure on me."
+ 
+If nothing else, Mourinho was guilty of serious exaggeration, especially given the way Willian, Oscar and Hazard endangered the home defence. Villa's scoring drought had gone on so long there were supporters holding up posters with arrows to show the way to goal. Gil, a £3.2m signing from Valencia, looks like he might be a bargain and it was a beautiful little drop of the shoulder to fool Oscar before his cross picked out Okore at the back post.
+ 
+Unfortunately for Villa, Lambert's players could not follow the crowd's instructions again. Chelsea found some new impetus and when César Azpilicueta's perseverance created the chance for Ivanovic he let fly with a left-foot shot that was still rising as it flew into the net.
+
+
+]]></TEXT>
+<TAGS>
+<Player id="P1" spans="844~855" text="Jores Okore" playerID="101" />
+<Player id="P2" spans="866~876" text="Carles Gil" playerID="102" />
+<Player id="P3" spans="1357~1375" text="Branislav Ivanovic" playerID="103" />
+<Player id="P4" spans="1465~1473" text="Ivanovic" playerID="103" />
+<Player id="P5" spans="1758~1775" text="Christian Benteke" playerID="104" />
+<Player id="P6" spans="1881~1894" text="Juan Cuadrado" playerID="105" />
+<Player id="P7" spans="2146~2157" text="Eden Hazard" playerID="106" />
+<Player id="P8" spans="2523~2534" text="Diego Costa" playerID="107" />
+<Player id="P9" spans="2575~2588" text="Didier Drogba" playerID="108" />
+<Player id="P10" spans="3058~3064" text="Drogba" playerID="108" />
+<Player id="P11" spans="3093~3098" text="Oscar" playerID="109" />
+<Player id="P12" spans="3149~3154" text="Okore" playerID="101" />
+<Player id="P13" spans="3181~3188" text="Willian" playerID="110" />
+<Player id="P14" spans="3190~3196" text="Hazard" playerID="106" />
+<Player id="P15" spans="3265~3272" text="Willian" playerID="110" />
+<Player id="P16" spans="3248~3259" text="Alan Hutton" playerID="111" />
+<Player id="P17" spans="3372~3382" text="Brad Guzan" playerID="112" />
+<Player id="P18" spans="3476~3489" text="Tom Cleverley" playerID="113" />
+<Player id="P19" spans="4076~4083" text="Willian" playerID="110" />
+<Player id="P20" spans="4085~4090" text="Oscar" playerID="109" />
+<Player id="P21" spans="4095~4101" text="Hazard" playerID="106" />
+<Player id="P22" spans="4253~4256" text="Gil" playerID="102" />
+<Player id="P23" spans="4381~4386" text="Oscar" playerID="109" />
+<Player id="P24" spans="4415~4420" text="Okore" playerID="101" />
+<Player id="P25" spans="4573~4590" text="César Azpilicueta" playerID="114" />
+<Player id="P26" spans="4629~4637" text="Ivanovic" playerID="103" />
+<Coref id="C0" spans="1625~1628" text="his" playerID="103" />
+<Coref id="C1" spans="1643~1646" text="his" playerID="103" />
+<Coref id="C2" spans="2607~2610" text="his" playerID="108" />
+<Coref id="C3" spans="2702~2704" text="he" playerID="108" />
+<Coref id="C4" spans="3327~3330" text="his" playerID="110" />
+<Coref id="C5" spans="3331~3340" text="team-mate" playerID="106" />
+<Coref id="C6" spans="4300~4302" text="he" playerID="102" />
+<Coref id="C7" spans="4394~4397" text="his" playerID="102" />
+<Coref id="C8" spans="4638~4640" text="he" playerID="103" />
+<Fact id="F0" spans="856~899" text="headed in Carles Gil&apos;s cross to make it 1-1" type="goal" time="last match" factID="1" />
+<Fact id="F1" spans="879~884" text="cross" type="assist" time="last match" factID="2" />
+<Fact id="F3" spans="1378~1393" text="decisive strike" time="last match" type="goal" factID="3" />
+<Fact id="F4" spans="1629~1639" text="fifth goal" time="last match" type="goal" factID="3" />
+<Fact id="F5" spans="1870~1880" text="brought on" time="last match" type="substitute in" factID="5" />
+<Fact id="F6" spans="2158~2176" text="opened the scoring" type="goal" time="last match" factID="6" />
+<Fact id="F7" spans="3065~3088" text="played the ball forward" time="last match" type="movement" factID="7" />
+<Fact id="F8" spans="3100~3140" text="running through the inside-right channel" time="last match" type="movement" factID="6" />
+<Fact id="F9" spans="3160~3176" text="played it inside" time="last match" factID="10" type="pass" />
+<Fact id="F10" spans="3228~3247" text="darting in front of" time="last match" type="positioning" factID="11" />
+<Fact id="F11" spans="3213~3226" text="the next pass" time="last match" factID="8" type="pass" />
+<Fact id="F12" spans="3273~3322" text="delivered it with just the right amount of weight" time="last match" type="assist" factID="12" />
+<Fact id="F13" spans="3341~3366" text="to turn a first-time shot" time="last match" type="goal" factID="6" />
+<Fact id="F14" spans="4398~4403" text="cross" time="last match" type="pass" factID="9" />
+<Fact id="F15" spans="4641~4716" text="let fly with a left-foot shot that was still rising as it flew into the net" time="last match" type="goal" factID="3" />
+<Fact id="F16" spans="1778~1790" text="introduction" time="last match" type="substitute in" factID="4" />
+<Opinion id="O0" spans="1501~1525" text="the ultimate odd job man" polarity="+" reported="false" time="last match" type="soccer skill" />
+<Opinion id="O1" spans="1528~1609" text="a full-back, centre-half, attacker, motivator and goalscorer all wrapped into one" time="last match" reported="false" polarity="+" type="soccer skill" />
+<Opinion id="O2" spans="1778~1857" text="introduction, having been dropped from Lambert&apos;s starting XI, had little impact" reported="false" polarity="-" type="impact on team" time="last match" />
+<Opinion id="O3" spans="2548~2570" text="it was a difficult day" type="accomplishment" polarity="-" time="last match" reported="false" />
+<Opinion id="O4" spans="2629~2673" text="struggling to remind us of the player of old" time="last match" reported="false" type="growth-decline" polarity="-" />
+<Opinion id="O5" spans="4102~4129" text="endangered the home defence" time="last match" reported="false" type="impact on team" polarity="+" />
+<Opinion id="O6" spans="4326~4386" text="it was a beautiful little drop of the shoulder to fool Oscar" time="last match" reported="false" polarity="+" type="soccer skill" />
+<Opinion id="O7" spans="4593~4605" text="perseverance" reported="false" polarity="+" time="last match" type="general attribute" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="headed in Carles Gil&apos;s cross to make it 1-1" targetID="P1" targetText="Jores Okore" />
+<TargetLink id="T1" fact_or_opinionID="F3" fact_or_opinionText="decisive strike" targetID="P3" targetText="Branislav Ivanovic" />
+<TargetLink id="T2" fact_or_opinionID="O0" fact_or_opinionText="the ultimate odd job man" targetID="P4" targetText="Ivanovic" />
+<TargetLink id="T3" fact_or_opinionID="O1" fact_or_opinionText="a full-back, centre-half, attacker, motivator and goalscorer all wrapped into one" targetID="P4" targetText="Ivanovic" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="fifth goal" targetID="C0" targetText="his" />
+<TargetLink id="T5" fact_or_opinionID="O2" fact_or_opinionText="introduction, having been dropped from Lambert&apos;s starting XI, had little impact" targetID="P5" targetText="Christian Benteke" />
+<TargetLink id="T6" fact_or_opinionID="F5" fact_or_opinionText="brought on" targetID="P6" targetText="Juan Cuadrado" />
+<TargetLink id="T7" fact_or_opinionID="F6" fact_or_opinionText="opened the scoring" targetID="P7" targetText="Eden Hazard" />
+<TargetLink id="T8" fact_or_opinionID="O3" fact_or_opinionText="it was a difficult day" targetID="P9" targetText="Didier Drogba" />
+<TargetLink id="T9" fact_or_opinionID="O4" fact_or_opinionText="struggling to remind us of the player of old" targetID="P9" targetText="Didier Drogba" />
+<TargetLink id="T10" fact_or_opinionID="F7" fact_or_opinionText="played the ball forward" targetID="P10" targetText="Drogba" />
+<TargetLink id="T11" fact_or_opinionID="F8" fact_or_opinionText="running through the inside-right channel" targetID="P11" targetText="Oscar" />
+<TargetLink id="T12" fact_or_opinionID="F9" fact_or_opinionText="played it inside" targetID="P12" targetText="Okore" />
+<TargetLink id="T13" fact_or_opinionID="F11" fact_or_opinionText="the next pass" targetID="P16" targetText="Alan Hutton" />
+<TargetLink id="T14" fact_or_opinionID="F10" fact_or_opinionText="darting in front of" targetID="P14" targetText="Hazard" />
+<TargetLink id="T15" targetID="P15" targetText="Willian" fact_or_opinionID="F12" fact_or_opinionText="delivered it with just the right amount of weight" />
+<TargetLink id="T16" fact_or_opinionID="O5" fact_or_opinionText="endangered the home defence" targetID="P20" targetText="Oscar" />
+<TargetLink id="T17" fact_or_opinionID="O5" fact_or_opinionText="endangered the home defence" targetID="P21" targetText="Hazard" />
+<TargetLink id="T18" fact_or_opinionID="O5" fact_or_opinionText="endangered the home defence" targetID="P19" targetText="Willian" />
+<TargetLink id="T19" fact_or_opinionID="O6" fact_or_opinionText="it was a beautiful little drop of the shoulder to fool Oscar" targetID="C6" targetText="he" />
+<TargetLink id="T20" fact_or_opinionID="F14" fact_or_opinionText="cross" targetID="C7" targetText="his" />
+<TargetLink id="T21" fact_or_opinionID="O7" fact_or_opinionText="perseverance" targetID="P25" targetText="César Azpilicueta" />
+<TargetLink id="T22" fact_or_opinionID="F15" fact_or_opinionText="let fly with a left-foot shot that was still rising as it flew into the net" targetID="C8" targetText="he" />
+<TargetLink id="T23" fact_or_opinionID="F13" fact_or_opinionText="to turn a first-time shot" targetID="C5" targetText="team-mate" />
+</TAGS>
+</SoccEval1.2>

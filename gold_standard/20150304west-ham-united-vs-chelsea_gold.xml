@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/west-ham-united-vs-chelsea/1704045
+
+Mar 4, 2015 4:52:51 PM
+
+Eden Hazard's goal was all League Cup winner Chelsea needed to beat London rival West Ham in the Premier League on Wednesday.
+
+Chelsea followed up its League Cup triumph over Tottenham with another London derby victory on Wednesday, beating West Ham 1-0 as its assault on the Premier League title continued.
+
+The top-flight leader tasted Wembley joy at the weekend and Eden Hazard's first-half header proved enough to cap a winning return to league action, with Jose Mourinho's side staying five points ahead of Manchester City.
+
+Chelsea led 1-0 at the break thanks to Hazard's close-range header, although West Ham should have been level before the interval with Diafra Sakho nodding straight at Thibaut Courtois.
+
+Hazard impressed throughout and twice in the second half laid on great chances for Ramires, who was denied a goal by the frame of the post and a fine stop from Adrian.
+
+The result increases the pressure on West Ham boss Sam Allardyce, who saw his side's winless run in the league stretched to six matches, leaving the Hammers in 10th place.
+
+West Ham, which saw Winston Reid limp off in the eighth minute to be replaced by James Collins, gradually gained a foothold and Courtois - one of two changes from the League Cup final for the visitor - was quick off his line to deny Kevin Nolan after he was slipped in by Mark Noble. 
+
+But it was Mourinho's side which seized the advantage in the 22nd minute. Hazard's pass to Cesc Fabregas was worked right to Ramires and his cross picked out the unmarked Belgium international to nod home from six yards.
+
+Chelsea had the chance to make it 2-0 when Hazard sent Costa free in a swift breakaway, but the striker dawdled on the ball and allowed Carl Jenkinson to make a fine tackle.
+
+Jenkinson was then involved at the other end as his pinpoint cross found Sakho in space just six yards out, but his header was too close to Courtois and an excellent chance went begging.
+
+The hosts started the second half with positive intent and two dangerous Stewart Downing crosses caused confusion in Chelsea's defense.
+
+Chelsea reasserted control from thereon and the excellent Hazard played Ramires in behind the defense. The midfielder cut inside Collins before rolling his shot against the left-hand post.
+
+At the other end Gary Cahill made an excellent challenge to deny Sahko after Courtois spilled Enner Valencia's tame effort.
+
+Both teams saw penalty shouts dismissed by referee Andre Marriner in the closing stages. First Branislav Ivanovic felt Collins had handled his shot in the area, before West Ham substitute Nene was denied a similar claim against Cahill.
+
+It appeared as though substitute Willian would add a second for Chelsea in stoppage time, only for Aaron Cresswell to block his shot on the line - and that proved the last meaningful action as West Ham failed to score against Chelsea in the league for the fifth game running.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="93~104" text="Eden Hazard" playerID="101" />
+<Player id="P1" spans="462~473" text="Eden Hazard" playerID="101" />
+<Player id="P2" spans="662~668" text="Hazard" playerID="101" />
+<Player id="P3" spans="757~769" text="Diafra Sakho" playerID="102" />
+<Player id="P4" spans="790~806" text="Thibaut Courtois" playerID="103" />
+<Player id="P5" spans="809~815" text="Hazard" playerID="101" />
+<Player id="P6" spans="892~899" text="Ramires" playerID="104" />
+<Player id="P7" spans="969~975" text="Adrian" playerID="105" />
+<Player id="P8" spans="1171~1183" text="Winston Reid" playerID="106" />
+<Player id="P9" spans="1232~1245" text="James Collins" playerID="107" />
+<Player id="P10" spans="1279~1287" text="Courtois" playerID="103" />
+<Player id="P11" spans="1384~1395" text="Kevin Nolan" playerID="108" />
+<Player id="P12" spans="1423~1433" text="Mark Noble" playerID="109" />
+<Player id="P13" spans="1511~1517" text="Hazard" playerID="101" />
+<Player id="P14" spans="1528~1541" text="Cesc Fabregas" playerID="110" />
+<Player id="P15" spans="1562~1569" text="Ramires" playerID="104" />
+<Player id="P16" spans="1702~1708" text="Hazard" playerID="101" />
+<Player id="P17" spans="1714~1719" text="Costa" playerID="112" />
+<Player id="P18" spans="1795~1809" text="Carl Jenkinson" playerID="113" />
+<Player id="P19" spans="1834~1843" text="Jenkinson" playerID="113" />
+<Player id="P20" spans="1907~1912" text="Sakho" playerID="102" />
+<Player id="P21" spans="1974~1982" text="Courtois" playerID="103" />
+<Player id="P22" spans="2095~2110" text="Stewart Downing" playerID="114" />
+<Player id="P23" spans="2217~2223" text="Hazard" playerID="101" />
+<Player id="P24" spans="2231~2238" text="Ramires" playerID="104" />
+<Player id="P25" spans="2288~2295" text="Collins" playerID="107" />
+<Player id="P26" spans="2414~2419" text="Sahko" playerID="102" />
+<Player id="P27" spans="2366~2377" text="Gary Cahill" playerID="115" />
+<Player id="P28" spans="2426~2434" text="Courtois" playerID="103" />
+<Player id="P29" spans="2443~2457" text="Enner Valencia" playerID="116" />
+<Player id="P30" spans="2593~2600" text="Collins" playerID="107" />
+<Player id="P31" spans="2569~2587" text="Branislav Ivanovic" playerID="117" />
+<Player id="P32" spans="2662~2666" text="Nene" playerID="120" />
+<Player id="P33" spans="2702~2708" text="Cahill" playerID="115" />
+<Player id="P34" spans="2744~2751" text="Willian" playerID="118" />
+<Player id="P35" spans="2810~2825" text="Aaron Cresswell" playerID="119" />
+<Coref id="C0" spans="1367~1370" text="his" playerID="103" />
+<Coref id="C1" spans="1402~1404" text="he" playerID="103" />
+<Coref id="C2" spans="1574~1577" text="his" playerID="104" />
+<Coref id="C3" spans="1595~1629" text="the unmarked Belgium international" playerID="101" />
+<Coref id="C4" spans="1751~1762" text="the striker" playerID="112" />
+<Coref id="C5" spans="1882~1885" text="his" playerID="113" />
+<Coref id="C6" spans="1946~1949" text="his" playerID="102" />
+<Coref id="C7" spans="2262~2276" text="The midfielder" playerID="104" />
+<Coref id="C8" spans="2311~2314" text="his" playerID="104" />
+<Coref id="C9" spans="2613~2616" text="his" playerID="117" />
+<Coref id="C10" spans="2835~2838" text="his" playerID="118" />
+<Fact id="F0" spans="107~111" text="goal" time="last match" type="goal" factID="1" />
+<Fact id="F1" spans="476~493" text="first-half header" type="goal" time="last match" factID="1" />
+<Fact id="F2" spans="671~689" text="close-range header" time="last match" factID="1" type="goal" />
+<Fact id="F3" spans="770~777" text="nodding" time="last match" type="shot" factID="80" />
+<Fact id="F4" spans="866~887" text="laid on great chances" time="last match" type="assist" factID="3" />
+<Fact id="F5" spans="909~947" text="denied a goal by the frame of the post" time="last match" type="shot" factID="4" />
+<Fact id="F6" spans="952~963" text="a fine stop" time="last match" type="save" factID="5" />
+<Fact id="F7" spans="1184~1213" text="limp off in the eighth minute" time="last match" type="injury" factID="7" />
+<Fact id="F8" spans="1214~1231" text="to be replaced by" time="last match" type="substitute in" factID="6" />
+<Fact id="F9" spans="1357~1383" text="quick off his line to deny" time="last match" type="save" factID="8" />
+<Fact id="F10" spans="1520~1524" text="pass" time="last match" type="pass" factID="9" />
+<Fact id="F11" spans="1578~1583" text="cross" time="last match" type="assist" factID="10" />
+<Fact id="F12" spans="1630~1656" text="to nod home from six yards" time="last match" type="goal" factID="11" />
+<Fact id="F13" spans="1405~1422" text="was slipped in by" time="last match" type="tackle" factID="7" />
+<Fact id="F14" spans="1725~1745" text="in a swift breakaway" time="last match" type="movement" factID="13" />
+<Fact id="F15" spans="1709~1713" text="sent" time="last match" type="pass" factID="12" />
+<Fact id="F16" spans="1810~1831" text="to make a fine tackle" time="last match" type="tackle" factID="14" />
+<Fact id="F17" spans="1886~1900" text="pinpoint cross" time="last match" type="pass" factID="15" />
+<Fact id="F18" spans="1950~1956" text="header" time="last match" type="shot" factID="16" />
+<Fact id="F19" spans="2111~2118" text="crosses" time="last match" type="pass" factID="17" />
+<Fact id="F20" spans="2277~2287" text="cut inside" time="last match" type="movement" factID="18" />
+<Fact id="F21" spans="2224~2230" text="played" time="last match" type="pass" factID="19" />
+<Fact id="F22" spans="2315~2319" text="shot" time="last match" type="shot" factID="20" />
+<Fact id="F23" spans="2378~2413" text="made an excellent challenge to deny" time="last match" type="save" factID="21" />
+<Fact id="F24" spans="2617~2621" text="shot" time="last match" type="shot" factID="22" />
+<Fact id="F25" spans="2651~2661" text="substitute" time="last match" type="substitute in" factID="23" />
+<Fact id="F26" spans="2733~2743" text="substitute" time="last match" type="substitute in" factID="24" />
+<Fact id="F27" spans="2829~2834" text="block" time="last match" type="save" factID="25" />
+<Fact id="F28" spans="2839~2843" text="shot" time="last match" type="shot" factID="26" />
+<Fact id="F29" spans="1542~1561" text="was worked right to" time="last match" type="pass" factID="11" />
+<Opinion id="O0" spans="816~836" text="impressed throughout" time="last match" reported="false" type="general attribute" polarity="+" />
+<Opinion id="O2" spans="841~899" text="twice in the second half laid on great chances for Ramires" time="last match" reported="false" type="impact on team" polarity="+" />
+<Opinion id="O3" spans="1763~1782" text="dawdled on the ball" time="last match" reported="false" type="soccer skill" polarity="-" />
+<Opinion id="O4" spans="2203~2216" text="the excellent" time="last match" reported="false" polarity="+" type="general attribute" />
+<Opinion id="O5" spans="2460~2471" text="tame effort" time="last match" reported="false" type="soccer skill" polarity="-" />
+<Opinion id="O6" spans="2378~2419" text="made an excellent challenge to deny Sahko" time="last match" reported="false" polarity="+" type="soccer skill" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="goal" targetID="P0" targetText="Eden Hazard" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="first-half header" targetID="P1" targetText="Eden Hazard" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="close-range header" targetID="P2" targetText="Hazard" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="nodding" targetID="P3" targetText="Diafra Sakho" />
+<TargetLink id="T4" fact_or_opinionID="O0" fact_or_opinionText="impressed throughout" targetID="P5" targetText="Hazard" />
+<TargetLink id="T5" fact_or_opinionID="O2" fact_or_opinionText="twice in the second half laid on great chances for Ramires" targetID="P5" targetText="Hazard" />
+<TargetLink id="T6" fact_or_opinionID="F4" fact_or_opinionText="laid on great chances" targetID="P5" targetText="Hazard" />
+<TargetLink id="T7" fact_or_opinionID="F5" fact_or_opinionText="denied a goal by the frame of the post" targetID="P6" targetText="Ramires" />
+<TargetLink id="T8" fact_or_opinionID="F6" fact_or_opinionText="a fine stop" targetID="P7" targetText="Adrian" />
+<TargetLink id="T9" fact_or_opinionID="F7" fact_or_opinionText="limp off in the eighth minute" targetID="P8" targetText="Winston Reid" />
+<TargetLink id="T10" fact_or_opinionID="F8" fact_or_opinionText="to be replaced by" targetID="P9" targetText="James Collins" />
+<TargetLink id="T11" fact_or_opinionID="F9" fact_or_opinionText="quick off his line to deny" targetID="P11" targetText="Kevin Nolan" />
+<TargetLink id="T12" fact_or_opinionID="F13" fact_or_opinionText="was slipped in by" targetID="P12" targetText="Mark Noble" />
+<TargetLink id="T13" fact_or_opinionID="F11" fact_or_opinionText="cross" targetID="C2" targetText="his" />
+<TargetLink id="T14" fact_or_opinionID="F10" fact_or_opinionText="pass" targetID="P13" targetText="Hazard" />
+<TargetLink id="T15" fact_or_opinionID="F12" fact_or_opinionText="to nod home from six yards" targetID="C3" targetText="the unmarked Belgium international" />
+<TargetLink id="T16" fact_or_opinionID="F14" fact_or_opinionText="in a swift breakaway" targetID="P16" targetText="Hazard" />
+<TargetLink id="T17" fact_or_opinionID="F16" fact_or_opinionText="to make a fine tackle" targetID="P18" targetText="Carl Jenkinson" />
+<TargetLink id="T18" fact_or_opinionID="O3" fact_or_opinionText="dawdled on the ball" targetID="C4" targetText="the striker" />
+<TargetLink id="T19" fact_or_opinionID="F17" fact_or_opinionText="pinpoint cross" targetID="C5" targetText="his" />
+<TargetLink id="T20" fact_or_opinionID="F18" fact_or_opinionText="header" targetID="C6" targetText="his" />
+<TargetLink id="T21" fact_or_opinionID="F19" fact_or_opinionText="crosses" targetID="P22" targetText="Stewart Downing" />
+<TargetLink id="T22" fact_or_opinionID="O4" fact_or_opinionText="the excellent" targetID="P23" targetText="Hazard" />
+<TargetLink id="T23" fact_or_opinionID="F20" fact_or_opinionText="cut inside" targetID="C7" targetText="The midfielder" />
+<TargetLink id="T24" fact_or_opinionID="F22" fact_or_opinionText="shot" targetID="C8" targetText="his" />
+<TargetLink id="T25" fact_or_opinionID="F21" fact_or_opinionText="played" targetID="P23" targetText="Hazard" />
+<TargetLink id="T26" fact_or_opinionID="O6" fact_or_opinionText="made an excellent challenge to deny Sahko" targetID="P27" targetText="Gary Cahill" />
+<TargetLink id="T27" fact_or_opinionID="O5" fact_or_opinionText="tame effort" targetID="P29" targetText="Enner Valencia" />
+<TargetLink id="T28" fact_or_opinionID="F24" fact_or_opinionText="shot" targetID="C9" targetText="his" />
+<TargetLink id="T29" fact_or_opinionID="F25" fact_or_opinionText="substitute" targetID="P32" targetText="Nene" />
+<TargetLink id="T30" fact_or_opinionID="F26" fact_or_opinionText="substitute" targetID="P34" targetText="Willian" />
+<TargetLink id="T31" fact_or_opinionID="F27" fact_or_opinionText="block" targetID="P35" targetText="Aaron Cresswell" />
+<TargetLink id="T32" fact_or_opinionID="F28" fact_or_opinionText="shot" targetID="C10" targetText="his" />
+<TargetLink id="T33" fact_or_opinionID="F15" fact_or_opinionText="sent" targetID="P16" targetText="Hazard" />
+<TargetLink id="T34" fact_or_opinionID="F29" fact_or_opinionText="was worked right to" targetID="P15" targetText="Ramires" />
+</TAGS>
+</SoccEval1.2>
