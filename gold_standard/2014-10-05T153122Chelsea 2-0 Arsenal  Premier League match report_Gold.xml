@@ -101,5 +101,33 @@ Man of the match Eden Hazard (Chelsea)
 <Opinion id="O7" spans="4869~4886" text="a constant menace" time="last match" reported="false" type="soccer skill" polarity="+" />
 <Opinion id="O8" spans="5101~5110" text="rustiness" time="last match" polarity="-" type="general attribute" reported="false" />
 <Opinion id="O9" spans="5622~5638" text="Man of the match" time="last match" reported="false" polarity="+" type="accomplishment" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="lunged in two-footed on Cesc Fàbregas" targetID="P2" targetText="Danny Welbeck" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="head injury" targetID="C0" targetText="the goalkeeper" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="left flat out on his back" targetID="C1" targetText="he" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="collision with Alexis Sánchez" targetID="C3" targetText="his" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="suffering a relapse" targetID="P6" targetText="Courtois" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText=" blood coming from his right ear" targetID="P6" targetText="Courtois" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="was taken to hospital" targetID="C5" targetText="He" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="shot" targetID="P10" targetText="Jack Wilshere" />
+<TargetLink id="T8" fact_or_opinionID="F8" fact_or_opinionText="ball deflected off" targetID="C6" targetText="his" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="halting" targetID="P11" targetText="Laurent Koscielny" />
+<TargetLink id="T10" fact_or_opinionID="F10" fact_or_opinionText="brilliant run" targetID="P12" targetText="Hazard" />
+<TargetLink id="T11" fact_or_opinionID="F11" fact_or_opinionText="penalty" targetID="C7" targetText="his" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="gone past Santi Cazorla and Calum Chambers" targetID="C8" targetText="the Belgian" />
+<TargetLink id="T13" fact_or_opinionID="F13" fact_or_opinionText="to run clear" targetID="P20" targetText="Costa" />
+<TargetLink id="T14" fact_or_opinionID="F14" fact_or_opinionText="lob Wojciech Szczesny in the 78th minute" targetID="P20" targetText="Costa" />
+<TargetLink id="T15" fact_or_opinionID="F15" fact_or_opinionText="ninth goal" targetID="P22" targetText="Costa" />
+<TargetLink id="T16" fact_or_opinionID="F16" fact_or_opinionText="open-goal" targetID="C11" targetText="him" />
+<TargetLink id="T17" fact_or_opinionID="F17" fact_or_opinionText="the replacement for Courtois" targetID="P25" targetText="Petr Cech" />
+<TargetLink id="T18" fact_or_opinionID="O0" fact_or_opinionText="expertly taken penalty" targetID="P0" targetText="Eden Hazard" />
+<TargetLink id="T19" fact_or_opinionID="O1" fact_or_opinionText="penalty-box prowess" targetID="P1" targetText="Diego Costa" />
+<TargetLink id="T20" fact_or_opinionID="O2" fact_or_opinionText="should have been sent off for the scything challenge" targetID="P7" targetText="Gary Cahill" />
+<TargetLink id="T21" fact_or_opinionID="O3" fact_or_opinionText="Laurent Koscielny should have been shown a red card" targetID="P11" targetText="Laurent Koscielny" />
+<TargetLink id="T22" fact_or_opinionID="O4" fact_or_opinionText="would have been running clear on goal" targetID="C8" targetText="the Belgian" />
+<TargetLink id="T23" fact_or_opinionID="O5" fact_or_opinionText="could feasibly have been dismissed for two bookable offences" targetID="P15" targetText="Chambers" />
+<TargetLink id="T24" fact_or_opinionID="O6" fact_or_opinionText="brilliantly influential" targetID="P19" targetText="Fàbregas" />
+<TargetLink id="T25" fact_or_opinionID="O7" fact_or_opinionText="a constant menace" targetID="P23" targetText="Hazard" />
+<TargetLink id="T26" fact_or_opinionID="O8" fact_or_opinionText="rustiness" targetID="P25" targetText="Petr Cech" />
+<TargetLink id="T27" fact_or_opinionID="O9" fact_or_opinionText="Man of the match" targetID="P27" targetText="Eden Hazard" />
 </TAGS>
 </SoccEval1.2>

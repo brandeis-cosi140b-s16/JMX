@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[锘縣ttp://www.goal.com/en-us/match/newcastle-united-vs-chelsea/1703783
+
+Dec 6, 2014 9:54:42 AM
+
+Chelsea's unbeaten start to the season came to an end thanks to two second-half strikes from Papiss Cisse.
+
+Substitute Papiss Cisse struck twice as Newcastle United secured a 2-1 win to end Chelsea's 23-game unbeaten run in all competitions.
+
+The Senegal international fired home four minutes after coming on in the second half before adding what proved to be a decisive second goal with 12 minutes to play, ensuring Jose Mourinho has still never masterminded a Premier League win at St James' Park.
+
+Chelsea dominated the first half but failed to find a way through, with Willian and Cesc Fabregas both wasting good chances.
+
+The club was made to pay after 57 minutes, as Cisse netted his sixth league goal of the season by tapping home Sammy Ameobi's cross.
+
+Cisse then doubled Newcastle's advantage, and although Didier Driogba pulled a goal back after Steven Taylor had been sent off for a second bookable offense, for the second time in the space of a week Chelsea dropped points in the North East.
+
+Defeat enables Manchester City to close the gap to just three points if it beats Everton later on Saturday.
+
+Newcastle was able to celebrate a shock victory in which goalkeeper Jak Alnwick made some vital saves after coming on to make his debut at halftime following an injury to Rob Elliot.
+
+Alan Pardew rang the changes after Newcastle's draw at Burnley on Tuesday, with Fabricio Coloccini and Remy Cabella two of five players coming in.
+
+Chelsea welcomed back leading scorer Diego Costa from suspension at the expense of Drogba, while John Obi Mikel replaced the banned Nemanja Matic in midfield.
+
+The visiting side dominated possession in the first half and had its first sight of goal after 10 minutes, when Willian fired narrowly wide of Elliot's goal after good work from Costa and Eden Hazard.
+
+Chances continued to come for Chelsea but Willian was again guilty of missing a great opening 18 minutes with a curling effort 18 minutes in, before Cesc Fabregas saw a low shot deflected wide.
+
+Having soaked up plenty of pressure, Newcastle eventually began to pose more of an attacking threat and Thibaut Courtois had be alert to deny Jack Colback in the 31st minute, the midfielder collecting an Ayoze Perez pass inside the penalty area only to be denied by the Belgium goalkeeper.
+
+Newcastle's goalkeeping problems worsened at halftime as Elliot, in for the injured Tim Krul, limped off and was replaced by 21-year-old Alnwick.
+
+The debutant commanded his area well and having weathered another spell of Chelsea pressure, Newcastle opened the scoring.
+
+Sammy Ameobi made good ground down the left, Cahill failed to deal with his low cross and Cisse had the simple job of tapping home from close range.
+
+Mourinho introduced Andre Schurrle and Drogba from the bench and Chelsea began to lay siege on the Newcastle goal.
+
+Valiant defending from Coloccini and Taylor denied Costa on the turn, and Hazard saw a low shot hit the crossbar.
+
+Newcastle then punished Chelsea on the counterattack as Colback found Moussa Sissoko, he was unable to finish but the ball rolled to Cisse and the striker made no mistake.
+
+Taylor was then dismissed a second bookable offense for a foul on Schurrle soon led to Drogba heading home a Fabregas free kick after 83 minutes, setting up a tense finale.
+
+Alnwick came to Newcastle's rescue in the closing minutes with saves to deny Costa and Filipe Luis as Newcastle held on for all three points.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="187~199" text="Papiss Cisse" playerID="101" />
+<Player id="P1" spans="213~225" text="Papiss Cisse" playerID="101" />
+<Player id="P2" spans="667~674" text="Willian" playerID="102" />
+<Player id="P3" spans="679~692" text="Cesc Fabregas" playerID="103" />
+<Player id="P4" spans="767~772" text="Cisse" playerID="101" />
+<Player id="P5" spans="832~844" text="Sammy Ameobi" playerID="104" />
+<Player id="P6" spans="910~924" text="Didier Driogba" playerID="105" />
+<Player id="P7" spans="950~963" text="Steven Taylor" playerID="106" />
+<Player id="P8" spans="855~860" text="Cisse" playerID="101" />
+<Player id="P9" spans="1276~1287" text="Jak Alnwick" playerID="107" />
+<Player id="P10" spans="1379~1389" text="Rob Elliot" playerID="108" />
+<Player id="P11" spans="1472~1490" text="Fabricio Coloccini" playerID="109" />
+<Player id="P12" spans="1495~1507" text="Remy Cabella" playerID="110" />
+<Player id="P13" spans="1577~1588" text="Diego Costa" playerID="111" />
+<Player id="P14" spans="1623~1629" text="Drogba" playerID="105" />
+<Player id="P15" spans="1637~1651" text="John Obi Mikel" playerID="112" />
+<Player id="P16" spans="1672~1685" text="Nemanja Matic" playerID="113" />
+<Player id="P17" spans="1812~1819" text="Willian" playerID="102" />
+<Player id="P18" spans="1843~1849" text="Elliot" playerID="108" />
+<Player id="P19" spans="1878~1883" text="Costa" playerID="111" />
+<Player id="P20" spans="1888~1899" text="Eden Hazard" playerID="114" />
+<Player id="P21" spans="1944~1951" text="Willian" playerID="102" />
+<Player id="P22" spans="2051~2064" text="Cesc Fabregas" playerID="103" />
+<Player id="P23" spans="2201~2217" text="Thibaut Courtois" playerID="115" />
+<Player id="P24" spans="2239~2251" text="Jack Colback" playerID="116" />
+<Player id="P25" spans="2301~2312" text="Ayoze Perez" playerID="117" />
+<Player id="P26" spans="2445~2451" text="Elliot" playerID="108" />
+<Player id="P27" spans="2472~2480" text="Tim Krul" playerID="118" />
+<Player id="P28" spans="2525~2532" text="Alnwick" playerID="107" />
+<Player id="P29" spans="2659~2671" text="Sammy Ameobi" playerID="104" />
+<Player id="P30" spans="2704~2710" text="Cahill" playerID="120" />
+<Player id="P31" spans="2749~2754" text="Cisse" playerID="101" />
+<Player id="P32" spans="2829~2843" text="Andre Schurrle" playerID="121" />
+<Player id="P33" spans="2848~2854" text="Drogba" playerID="105" />
+<Player id="P34" spans="2948~2957" text="Coloccini" playerID="109" />
+<Player id="P35" spans="2962~2968" text="Taylor" playerID="106" />
+<Player id="P36" spans="2976~2981" text="Costa" playerID="111" />
+<Player id="P37" spans="2999~3005" text="Hazard" playerID="114" />
+<Player id="P38" spans="3096~3103" text="Colback" playerID="116" />
+<Player id="P39" spans="3110~3124" text="Moussa Sissoko" playerID="122" />
+<Player id="P40" spans="3173~3178" text="Cisse" playerID="101" />
+<Player id="P41" spans="3279~3287" text="Schurrle" playerID="121" />
+<Player id="P42" spans="3300~3306" text="Drogba" playerID="105" />
+<Player id="P43" spans="3322~3330" text="Fabregas" playerID="103" />
+<Player id="P44" spans="3213~3219" text="Taylor" playerID="106" />
+<Player id="P45" spans="3387~3394" text="Alnwick" playerID="107" />
+<Player id="P46" spans="3464~3469" text="Costa" playerID="111" />
+<Player id="P47" spans="3474~3485" text="Filipe Luis" playerID="123" />
+<Coref id="C0" spans="337~362" text="The Senegal international" playerID="101" />
+<Coref id="C1" spans="780~783" text="his" playerID="101" />
+<Coref id="C2" spans="1334~1337" text="his" playerID="107" />
+<Coref id="C3" spans="1562~1576" text="leading scorer" playerID="111" />
+<Coref id="C4" spans="2272~2286" text="the midfielder" playerID="116" />
+<Coref id="C5" spans="2535~2547" text="The debutant" playerID="107" />
+<Coref id="C6" spans="2558~2561" text="his" playerID="107" />
+<Coref id="C7" spans="2363~2385" text="the Belgium goalkeeper" playerID="115" />
+<Coref id="C8" spans="2731~2734" text="his" playerID="104" />
+<Coref id="C9" spans="3126~3128" text="he" playerID="122" />
+<Coref id="C10" spans="3183~3194" text="the striker" playerID="101" />
+<Fact id="F0" spans="158~181" text="two second-half strikes" time="last match" type="goal" factID="1" />
+<Fact id="F1" spans="158~181" text="two second-half strikes" time="last match" type="goal" factID="2" />
+<Fact id="F2" spans="226~238" text="struck twice" time="last match" type="goal" factID="1" />
+<Fact id="F3" spans="226~238" text="struck twice" type="goal" factID="2" time="last match" />
+<Fact id="F4" spans="363~373" text="fired home" time="last match" type="goal" factID="3" />
+<Fact id="F5" spans="393~421" text="coming on in the second half" time="last match" type="substitute in" factID="4" />
+<Fact id="F6" spans="429~500" text="adding what proved to be a decisive second goal with 12 minutes to play" type="goal" time="last match" factID="2" />
+<Fact id="F7" spans="773~815" text="netted his sixth league goal of the season" time="last match" type="goal" factID="1" />
+<Fact id="F8" spans="847~852" text="cross" time="last match" type="assist" factID="6" />
+<Fact id="F9" spans="819~852" text="tapping home Sammy Ameobi&apos;s cross" time="last match" factID="1" type="assist" />
+<Fact id="F10" spans="866~895" text="doubled Newcastle&apos;s advantage" time="last match" type="goal" factID="8" />
+<Fact id="F11" spans="925~943" text="pulled a goal back" time="last match" type="goal" factID="7" />
+<Fact id="F12" spans="964~981" text="had been sent off" time="last match" factID="5" type="foul" />
+<Fact id="F13" spans="988~1011" text="second bookable offense" time="last match" type="foul" factID="9" />
+<Fact id="F14" spans="1288~1309" text="made some vital saves" time="last match" type="save" factID="10" />
+<Fact id="F15" spans="1310~1355" text="after coming on to make his debut at halftime" type="substitute in" time="last match" factID="19" />
+<Fact id="F16" spans="1369~1375" text="injury" time="last match" type="injury" factID="11" />
+<Fact id="F17" spans="1651~1697" text=" replaced the banned Nemanja Matic in midfield" factID="11" time="last match" type="substitute in" />
+<Fact id="F18" spans="1686~1697" text="in midfield" type="positioning" factID="10" time="last match" />
+<Fact id="F19" spans="1820~1839" text="fired narrowly wide" time="last match" type="shot" factID="21" />
+<Fact id="F20" spans="2065~2094" text="saw a low shot deflected wide" type="shot" time="last match" factID="17" />
+<Fact id="F21" spans="2222~2238" text="be alert to deny" time="last match" type="save" factID="16" />
+<Fact id="F22" spans="2347~2362" text="to be denied by" type="save" time="last match" factID="4" />
+<Fact id="F23" spans="2313~2317" text="pass" time="last match" type="pass" factID="16" />
+<Fact id="F24" spans="2464~2471" text="injured" type="injury" time="current season" factID="18" />
+<Fact id="F25" spans="2453~2480" text="in for the injured Tim Krul" type="substitute in" factID="20" time="last match" />
+<Fact id="F26" spans="2482~2492" text="limped off" time="last match" type="injury" factID="19" />
+<Fact id="F27" spans="2497~2524" text="was replaced by 21-year-old" type="substitute in" time="last match" factID="25" />
+<Fact id="F28" spans="2672~2702" text="made good ground down the left" time="last match" factID="6" type="pass" />
+<Fact id="F29" spans="2735~2744" text="low cross" time="last match" factID="24" type="pass" />
+<Fact id="F30" spans="2777~2806" text="tapping home from close range" time="last match" type="goal" factID="21" />
+<Fact id="F31" spans="2818~2869" text="introduced Andre Schurrle and Drogba from the bench" type="substitute in" time="last match" factID="7" />
+<Fact id="F32" spans="2818~2869" text="introduced Andre Schurrle and Drogba from the bench" type="substitute in" time="last match" factID="9" />
+<Fact id="F33" spans="3006~3037" text="saw a low shot hit the crossbar" time="last match" type="shot" factID="11" />
+<Fact id="F34" spans="3104~3109" text="found" time="last match" type="pass" factID="23" />
+<Fact id="F35" spans="3195~3210" text="made no mistake" time="last match" type="goal" factID="2" />
+<Fact id="F36" spans="3220~3275" text="was then dismissed a second bookable offense for a foul" type="foul" time="last match" factID="13" />
+<Fact id="F37" spans="3307~3319" text="heading home" time="last match" type="goal" factID="25" />
+<Fact id="F38" spans="3331~3340" text="free kick" time="last match" type="shot" factID="30" />
+<Fact id="F39" spans="3450~3455" text="saves" time="last match" type="save" factID="27" />
+<Opinion id="O0" spans="693~718" text="both wasting good chances" reported="false" time="last match" type="soccer skill" polarity="-" />
+<Opinion id="O1" spans="693~718" text="both wasting good chances" polarity="-" reported="false" time="last match" type="soccer skill" />
+<Opinion id="O2" spans="1857~1877" text="after good work from" polarity="+" reported="false" type="soccer skill" time="last match" />
+<Opinion id="O3" spans="1857~1877" text="after good work from" polarity="+" reported="false" time="last match" type="soccer skill" />
+<Opinion id="O4" spans="1962~1995" text="guilty of missing a great opening" time="last match" reported="false" type="impact on team" polarity="-" />
+<Opinion id="O5" spans="2548~2571" text="commanded his area well" polarity="+" time="last match" type="soccer skill" reported="false" />
+<Opinion id="O6" spans="2925~2947" text="Valiant defending from" polarity="+" type="soccer skill" reported="false" time="last match" />
+<Opinion id="O7" spans="2925~2947" text="Valiant defending from" polarity="+" time="last match" type="soccer skill" reported="false" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="two second-half strikes" targetID="P0" targetText="Papiss Cisse" />
+<TargetLink id="T1" targetID="P0" targetText="Papiss Cisse" fact_or_opinionID="F1" fact_or_opinionText="two second-half strikes" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="struck twice" targetID="P1" targetText="Papiss Cisse" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="struck twice" targetID="P1" targetText="Papiss Cisse" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="fired home" targetID="C0" targetText="The Senegal international" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="coming on in the second half" targetID="C0" targetText="The Senegal international" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="adding what proved to be a decisive second goal with 12 minutes to play" targetID="C0" targetText="The Senegal international" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="netted his sixth league goal of the season" targetID="P4" targetText="Cisse" />
+<TargetLink id="T8" fact_or_opinionID="F8" fact_or_opinionText="cross" targetID="P5" targetText="Sammy Ameobi" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="tapping home Sammy Ameobi&apos;s cross" targetID="P4" targetText="Cisse" />
+<TargetLink id="T10" fact_or_opinionID="F10" fact_or_opinionText="doubled Newcastle&apos;s advantage" targetID="P8" targetText="Cisse" />
+<TargetLink id="T11" fact_or_opinionID="F11" fact_or_opinionText="pulled a goal back" targetID="P6" targetText="Didier Driogba" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="had been sent off" targetID="P7" targetText="Steven Taylor" />
+<TargetLink id="T13" fact_or_opinionID="F13" fact_or_opinionText="second bookable offense" targetID="P7" targetText="Steven Taylor" />
+<TargetLink id="T14" fact_or_opinionID="F14" fact_or_opinionText="made some vital saves" targetID="P9" targetText="Jak Alnwick" />
+<TargetLink id="T15" fact_or_opinionID="F15" fact_or_opinionText="after coming on to make his debut at halftime" targetID="P9" targetText="Jak Alnwick" />
+<TargetLink id="T16" fact_or_opinionID="F16" fact_or_opinionText="injury" targetID="P10" targetText="Rob Elliot" />
+<TargetLink id="T17" fact_or_opinionID="F17" fact_or_opinionText=" replaced the banned Nemanja Matic in midfield" targetID="P15" targetText="John Obi Mikel" />
+<TargetLink id="T18" fact_or_opinionID="F18" fact_or_opinionText="in midfield" targetID="P15" targetText="John Obi Mikel" />
+<TargetLink id="T19" fact_or_opinionID="F19" fact_or_opinionText="fired narrowly wide" targetID="P17" targetText="Willian" />
+<TargetLink id="T20" fact_or_opinionID="F20" fact_or_opinionText="saw a low shot deflected wide" targetID="P22" targetText="Cesc Fabregas" />
+<TargetLink id="T21" fact_or_opinionID="F21" fact_or_opinionText="be alert to deny" targetID="P23" targetText="Thibaut Courtois" />
+<TargetLink id="T22" fact_or_opinionID="F22" fact_or_opinionText="to be denied by" targetID="C7" targetText="the Belgium goalkeeper" />
+<TargetLink id="T23" fact_or_opinionID="F23" fact_or_opinionText="pass" targetID="P25" targetText="Ayoze Perez" />
+<TargetLink id="T24" fact_or_opinionID="F24" fact_or_opinionText="injured" targetID="P27" targetText="Tim Krul" />
+<TargetLink id="T25" fact_or_opinionID="F25" fact_or_opinionText="in for the injured Tim Krul" targetID="P26" targetText="Elliot" />
+<TargetLink id="T26" fact_or_opinionID="F26" fact_or_opinionText="limped off" targetID="P27" targetText="Tim Krul" />
+<TargetLink id="T27" fact_or_opinionID="F27" fact_or_opinionText="was replaced by 21-year-old" targetID="P28" targetText="Alnwick" />
+<TargetLink id="T28" fact_or_opinionID="F28" fact_or_opinionText="made good ground down the left" targetID="P29" targetText="Sammy Ameobi" />
+<TargetLink id="T29" fact_or_opinionID="F29" fact_or_opinionText="low cross" targetID="C8" targetText="his" />
+<TargetLink id="T30" fact_or_opinionID="F30" fact_or_opinionText="tapping home from close range" targetID="P31" targetText="Cisse" />
+<TargetLink id="T31" fact_or_opinionID="F31" fact_or_opinionText="introduced Andre Schurrle and Drogba from the bench" targetID="P32" targetText="Andre Schurrle" />
+<TargetLink id="T32" fact_or_opinionID="F32" fact_or_opinionText="introduced Andre Schurrle and Drogba from the bench" targetID="P33" targetText="Drogba" />
+<TargetLink id="T33" fact_or_opinionID="F33" fact_or_opinionText="saw a low shot hit the crossbar" targetID="P37" targetText="Hazard" />
+<TargetLink id="T34" fact_or_opinionID="F34" fact_or_opinionText="found" targetID="P38" targetText="Colback" />
+<TargetLink id="T35" fact_or_opinionID="F35" fact_or_opinionText="made no mistake" targetID="C10" targetText="the striker" />
+<TargetLink id="T36" fact_or_opinionID="F36" fact_or_opinionText="was then dismissed a second bookable offense for a foul" targetID="P44" targetText="Taylor" />
+<TargetLink id="T37" fact_or_opinionID="F37" fact_or_opinionText="heading home" targetID="P42" targetText="Drogba" />
+<TargetLink id="T38" fact_or_opinionID="F38" fact_or_opinionText="free kick" targetID="P43" targetText="Fabregas" />
+<TargetLink id="T39" fact_or_opinionID="F39" fact_or_opinionText="saves" targetID="P45" targetText="Alnwick" />
+<TargetLink id="T40" fact_or_opinionID="O0" fact_or_opinionText="both wasting good chances" targetID="P3" targetText="Cesc Fabregas" />
+<TargetLink id="T41" fact_or_opinionID="O1" fact_or_opinionText="both wasting good chances" targetID="P2" targetText="Willian" />
+<TargetLink id="T42" fact_or_opinionID="O2" fact_or_opinionText="after good work from" targetID="P19" targetText="Costa" />
+<TargetLink id="T43" fact_or_opinionID="O3" fact_or_opinionText="after good work from" targetID="P20" targetText="Eden Hazard" />
+<TargetLink id="T44" fact_or_opinionID="O4" fact_or_opinionText="guilty of missing a great opening" targetID="P21" targetText="Willian" />
+<TargetLink id="T45" fact_or_opinionID="O5" fact_or_opinionText="commanded his area well" targetID="C5" targetText="The debutant" />
+<TargetLink id="T46" fact_or_opinionID="O6" fact_or_opinionText="Valiant defending from" targetID="P34" targetText="Coloccini" />
+<TargetLink id="T47" fact_or_opinionID="O7" fact_or_opinionText="Valiant defending from" targetID="P35" targetText="Taylor" />
+</TAGS>
+</SoccEval1.2>

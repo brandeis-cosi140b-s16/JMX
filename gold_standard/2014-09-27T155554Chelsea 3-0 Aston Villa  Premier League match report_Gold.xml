@@ -130,5 +130,40 @@ Twenty minutes later, Aly Cissokho having in the meantime cleared Oscar's casual
 <Opinion id="O7" spans="1844~1898" text="played this game, and it was Villa who were in trouble" polarity="+" reported="false" time="last match" type="impact on team" />
 <Opinion id="O8" spans="2312~2323" text="tame effort" polarity="-" type="general attribute" reported="false" time="last match" />
 <Opinion id="O9" spans="3661~3792" text="beating Senderos with a drop of the shoulder that provoked not so much cheers from the nearby fans as a collective sigh of pleasure" polarity="+" time="last match" reported="false" type="other opinion" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="scored one" targetID="C0" targetText="The Chelsea striker" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="created another" targetID="C0" targetText="The Chelsea striker" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="before coming off" targetID="C0" targetText="The Chelsea striker" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="resting his suspect hamstrings" targetID="C0" targetText="The Chelsea striker" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="made only one save" targetID="P4" targetText="Thibaut Courtois" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="tame effort at the end of a long individual run in the 69th minute" targetID="P5" targetText="Alan Hutton" />
+<TargetLink id="T6" fact_or_opinionID="F8" fact_or_opinionText="sent scurrying down the right" targetID="C21" targetText="the Brazilian" />
+<TargetLink id="T7" fact_or_opinionID="F9" fact_or_opinionText="shot low and hard" targetID="C23" targetText="he" />
+<TargetLink id="T8" fact_or_opinionID="F10" fact_or_opinionText="pushed the ball straight back" targetID="P8" targetText="Brad Guzan" />
+<TargetLink id="T9" fact_or_opinionID="F11" fact_or_opinionText="pulled back" targetID="P9" targetText="Willian" />
+<TargetLink id="T10" fact_or_opinionID="F12" fact_or_opinionText="whose finish trundled through Philippe Senderos&apos;s legs on its way to goal" targetID="P10" targetText="Oscar" />
+<TargetLink id="T11" fact_or_opinionID="F13" fact_or_opinionText="ran" targetID="C25" targetText="he" />
+<TargetLink id="T12" fact_or_opinionID="F14" fact_or_opinionText="excellent backheel flick" targetID="P13" targetText="Costa" />
+<TargetLink id="T13" fact_or_opinionID="F15" fact_or_opinionText="set off down the centre" targetID="P13" targetText="Costa" />
+<TargetLink id="T14" fact_or_opinionID="F16" fact_or_opinionText="diligently shepherded him wide of goal" targetID="P14" targetText="Nathan Baker" />
+<TargetLink id="T15" fact_or_opinionID="F17" fact_or_opinionText="shot" targetID="C27" targetText="his" />
+<TargetLink id="T16" fact_or_opinionID="F18" fact_or_opinionText="beating Senderos with a drop of the shoulder" targetID="P15" targetText="Oscar" />
+<TargetLink id="T17" fact_or_opinionID="F19" fact_or_opinionText="scored with a powerful header" targetID="P18" targetText="Costa" />
+<TargetLink id="T18" fact_or_opinionID="F20" fact_or_opinionText="speared in a cross" targetID="P19" targetText="César Azpilicueta" />
+<TargetLink id="T19" fact_or_opinionID="F21" fact_or_opinionText="cleared Oscar&apos;s casual effort" targetID="P20" targetText="Aly Cissokho" />
+<TargetLink id="T20" fact_or_opinionID="F23" fact_or_opinionText="was found in too much space on the left" targetID="P22" targetText="Costa" />
+<TargetLink id="T21" fact_or_opinionID="F24" fact_or_opinionText="cut inside" targetID="C28" targetText="he" />
+<TargetLink id="T22" fact_or_opinionID="F25" fact_or_opinionText="cut inside a little more" targetID="C28" targetText="he" />
+<TargetLink id="T23" fact_or_opinionID="F26" fact_or_opinionText="sent in a shot" targetID="C28" targetText="he" />
+<TargetLink id="T24" fact_or_opinionID="F27" fact_or_opinionText="an empty net" targetID="C28" targetText="he" />
+<TargetLink id="T25" fact_or_opinionID="O0" fact_or_opinionText="in the rather more human shape" targetID="P0" targetText="Diego Costa" />
+<TargetLink id="T26" fact_or_opinionID="O1" fact_or_opinionText="imperfect display" targetID="C3" targetText="the Spaniard" />
+<TargetLink id="T27" fact_or_opinionID="O2" fact_or_opinionText="passing outside the penalty area was often imprecise" targetID="C3" targetText="the Spaniard" />
+<TargetLink id="T28" fact_or_opinionID="O3" fact_or_opinionText="his movement was constant and menacing" targetID="C4" targetText="his" />
+<TargetLink id="T29" fact_or_opinionID="O4" fact_or_opinionText="typically devastating" targetID="C6" targetText="he" />
+<TargetLink id="T30" fact_or_opinionID="O5" fact_or_opinionText="he is doing &quot;almost nothing&quot; in training" targetID="C7" targetText="he" />
+<TargetLink id="T31" fact_or_opinionID="O6" fact_or_opinionText="not training as he should" targetID="C10" targetText="him" />
+<TargetLink id="T32" fact_or_opinionID="O7" fact_or_opinionText="played this game, and it was Villa who were in trouble" targetID="C20" targetText="He" />
+<TargetLink id="T33" fact_or_opinionID="O8" fact_or_opinionText="tame effort" targetID="P5" targetText="Alan Hutton" />
+<TargetLink id="T34" fact_or_opinionID="O9" fact_or_opinionText="beating Senderos with a drop of the shoulder that provoked not so much cheers from the nearby fans as a collective sigh of pleasure" targetID="P15" targetText="Oscar" />
 </TAGS>
 </SoccEval1.2>

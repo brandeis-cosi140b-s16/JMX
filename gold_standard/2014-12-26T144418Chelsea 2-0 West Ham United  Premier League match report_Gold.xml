@@ -137,5 +137,27 @@ Attendance 41,598. Referee M Oliver.
 <Opinion id="O3" spans="3593~3616" text="untouchable in midfield" time="last match" reported="false" type="general attribute" polarity="+" />
 <Opinion id="O4" spans="3502~3537" text="guilty from point-blank range early" time="last match" reported="false" polarity="-" type="general attribute" />
 <Opinion id="O5" spans="3998~4028" text="duly lost the ball in midfield" time="last match" reported="false" type="general attribute" polarity="-" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="scored the goals" targetID="P1" targetText="John Terry" />
+<TargetLink id="T1" fact_or_opinionID="F0" fact_or_opinionText="scored the goals" targetID="P2" targetText="Diego Costa" />
+<TargetLink id="T2" fact_or_opinionID="F1" fact_or_opinionText="prevented a rout" targetID="P3" targetText="Adrián" />
+<TargetLink id="T3" fact_or_opinionID="F2" fact_or_opinionText="saves" targetID="C2" targetText="His" />
+<TargetLink id="T4" fact_or_opinionID="F3" fact_or_opinionText="flicked goalwards" targetID="P13" targetText="Cesc Fàbregas" />
+<TargetLink id="T5" fact_or_opinionID="F4" fact_or_opinionText="converted his 36th Premier League goal" targetID="P16" targetText="Terry" />
+<TargetLink id="T6" fact_or_opinionID="F5" fact_or_opinionText="to fling on" targetID="P21" targetText="Song" />
+<TargetLink id="T7" fact_or_opinionID="F5" fact_or_opinionText="to fling on" targetID="P22" targetText="Diafra Sakho" />
+<TargetLink id="T8" fact_or_opinionID="F6" fact_or_opinionText="slipped" targetID="P24" targetText="Hazard" />
+<TargetLink id="T9" fact_or_opinionID="F7" fact_or_opinionText="drilling a left-foot shot" targetID="C8" targetText="the Brazil-born forward" />
+<TargetLink id="T10" fact_or_opinionID="F8" fact_or_opinionText="a 13th league goal" targetID="C8" targetText="the Brazil-born forward" />
+<TargetLink id="T11" fact_or_opinionID="F9" fact_or_opinionText="drifting a header wide and then clipping a post" targetID="P29" targetText="Morgan Amalfitano" />
+<TargetLink id="T12" fact_or_opinionID="F10" fact_or_opinionText="Booked" targetID="P69" targetText="Collins" />
+<TargetLink id="T13" fact_or_opinionID="F10" fact_or_opinionText="Booked" targetID="P70" targetText="Cresswell" />
+<TargetLink id="T14" fact_or_opinionID="F10" fact_or_opinionText="Booked" targetID="P71" targetText="Reid" />
+<TargetLink id="T15" fact_or_opinionID="O1" fact_or_opinionText="outstanding" targetID="C2" targetText="His" />
+<TargetLink id="T16" fact_or_opinionID="O2" fact_or_opinionText="tearing into their markers and exploiting space" targetID="P6" targetText="Eden Hazard" />
+<TargetLink id="T17" fact_or_opinionID="O2" fact_or_opinionText="tearing into their markers and exploiting space" targetID="P7" targetText="Willian" />
+<TargetLink id="T18" fact_or_opinionID="O2" fact_or_opinionText="tearing into their markers and exploiting space" targetID="P8" targetText="Oscar" />
+<TargetLink id="T19" fact_or_opinionID="O3" fact_or_opinionText="untouchable in midfield" targetID="P18" targetText="Matic" />
+<TargetLink id="T20" fact_or_opinionID="O4" fact_or_opinionText="guilty from point-blank range early" targetID="P17" targetText="Oscar" />
+<TargetLink id="T21" fact_or_opinionID="O5" fact_or_opinionText="duly lost the ball in midfield" targetID="P23" targetText="Cheikhou Kouyaté" />
 </TAGS>
 </SoccEval1.2>

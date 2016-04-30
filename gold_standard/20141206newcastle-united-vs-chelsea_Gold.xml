@@ -154,5 +154,53 @@ Alnwick came to Newcastle's rescue in the closing minutes with saves to deny Cos
 <Opinion id="O5" spans="2548~2571" text="commanded his area well" polarity="+" time="last match" type="soccer skill" reported="false" />
 <Opinion id="O6" spans="2925~2947" text="Valiant defending from" polarity="+" type="soccer skill" reported="false" time="last match" />
 <Opinion id="O7" spans="2925~2947" text="Valiant defending from" polarity="+" time="last match" type="soccer skill" reported="false" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="two second-half strikes" targetID="P0" targetText="Papiss Cisse" />
+<TargetLink id="T1" targetID="P0" targetText="Papiss Cisse" fact_or_opinionID="F1" fact_or_opinionText="two second-half strikes" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="struck twice" targetID="P1" targetText="Papiss Cisse" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="struck twice" targetID="P1" targetText="Papiss Cisse" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="fired home" targetID="C0" targetText="The Senegal international" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="coming on in the second half" targetID="C0" targetText="The Senegal international" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="adding what proved to be a decisive second goal with 12 minutes to play" targetID="C0" targetText="The Senegal international" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="netted his sixth league goal of the season" targetID="P4" targetText="Cisse" />
+<TargetLink id="T8" fact_or_opinionID="F8" fact_or_opinionText="cross" targetID="P5" targetText="Sammy Ameobi" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="tapping home Sammy Ameobi&apos;s cross" targetID="P4" targetText="Cisse" />
+<TargetLink id="T10" fact_or_opinionID="F10" fact_or_opinionText="doubled Newcastle&apos;s advantage" targetID="P8" targetText="Cisse" />
+<TargetLink id="T11" fact_or_opinionID="F11" fact_or_opinionText="pulled a goal back" targetID="P6" targetText="Didier Driogba" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="had been sent off" targetID="P7" targetText="Steven Taylor" />
+<TargetLink id="T13" fact_or_opinionID="F13" fact_or_opinionText="second bookable offense" targetID="P7" targetText="Steven Taylor" />
+<TargetLink id="T14" fact_or_opinionID="F14" fact_or_opinionText="made some vital saves" targetID="P9" targetText="Jak Alnwick" />
+<TargetLink id="T15" fact_or_opinionID="F15" fact_or_opinionText="after coming on to make his debut at halftime" targetID="P9" targetText="Jak Alnwick" />
+<TargetLink id="T16" fact_or_opinionID="F16" fact_or_opinionText="injury" targetID="P10" targetText="Rob Elliot" />
+<TargetLink id="T17" fact_or_opinionID="F17" fact_or_opinionText=" replaced the banned Nemanja Matic in midfield" targetID="P15" targetText="John Obi Mikel" />
+<TargetLink id="T18" fact_or_opinionID="F18" fact_or_opinionText="in midfield" targetID="P15" targetText="John Obi Mikel" />
+<TargetLink id="T19" fact_or_opinionID="F19" fact_or_opinionText="fired narrowly wide" targetID="P17" targetText="Willian" />
+<TargetLink id="T20" fact_or_opinionID="F20" fact_or_opinionText="saw a low shot deflected wide" targetID="P22" targetText="Cesc Fabregas" />
+<TargetLink id="T21" fact_or_opinionID="F21" fact_or_opinionText="be alert to deny" targetID="P23" targetText="Thibaut Courtois" />
+<TargetLink id="T22" fact_or_opinionID="F22" fact_or_opinionText="to be denied by" targetID="C7" targetText="the Belgium goalkeeper" />
+<TargetLink id="T23" fact_or_opinionID="F23" fact_or_opinionText="pass" targetID="P25" targetText="Ayoze Perez" />
+<TargetLink id="T24" fact_or_opinionID="F24" fact_or_opinionText="injured" targetID="P27" targetText="Tim Krul" />
+<TargetLink id="T25" fact_or_opinionID="F25" fact_or_opinionText="in for the injured Tim Krul" targetID="P26" targetText="Elliot" />
+<TargetLink id="T26" fact_or_opinionID="F26" fact_or_opinionText="limped off" targetID="P27" targetText="Tim Krul" />
+<TargetLink id="T27" fact_or_opinionID="F27" fact_or_opinionText="was replaced by 21-year-old" targetID="P28" targetText="Alnwick" />
+<TargetLink id="T28" fact_or_opinionID="F28" fact_or_opinionText="made good ground down the left" targetID="P29" targetText="Sammy Ameobi" />
+<TargetLink id="T29" fact_or_opinionID="F29" fact_or_opinionText="low cross" targetID="C8" targetText="his" />
+<TargetLink id="T30" fact_or_opinionID="F30" fact_or_opinionText="tapping home from close range" targetID="P31" targetText="Cisse" />
+<TargetLink id="T31" fact_or_opinionID="F31" fact_or_opinionText="introduced Andre Schurrle and Drogba from the bench" targetID="P32" targetText="Andre Schurrle" />
+<TargetLink id="T32" fact_or_opinionID="F32" fact_or_opinionText="introduced Andre Schurrle and Drogba from the bench" targetID="P33" targetText="Drogba" />
+<TargetLink id="T33" fact_or_opinionID="F33" fact_or_opinionText="saw a low shot hit the crossbar" targetID="P37" targetText="Hazard" />
+<TargetLink id="T34" fact_or_opinionID="F34" fact_or_opinionText="found" targetID="P38" targetText="Colback" />
+<TargetLink id="T35" fact_or_opinionID="F35" fact_or_opinionText="made no mistake" targetID="C10" targetText="the striker" />
+<TargetLink id="T36" fact_or_opinionID="F36" fact_or_opinionText="was then dismissed a second bookable offense for a foul" targetID="P44" targetText="Taylor" />
+<TargetLink id="T37" fact_or_opinionID="F37" fact_or_opinionText="heading home" targetID="P42" targetText="Drogba" />
+<TargetLink id="T38" fact_or_opinionID="F38" fact_or_opinionText="free kick" targetID="P43" targetText="Fabregas" />
+<TargetLink id="T39" fact_or_opinionID="F39" fact_or_opinionText="saves" targetID="P45" targetText="Alnwick" />
+<TargetLink id="T40" fact_or_opinionID="O0" fact_or_opinionText="both wasting good chances" targetID="P3" targetText="Cesc Fabregas" />
+<TargetLink id="T41" fact_or_opinionID="O1" fact_or_opinionText="both wasting good chances" targetID="P2" targetText="Willian" />
+<TargetLink id="T42" fact_or_opinionID="O2" fact_or_opinionText="after good work from" targetID="P19" targetText="Costa" />
+<TargetLink id="T43" fact_or_opinionID="O3" fact_or_opinionText="after good work from" targetID="P20" targetText="Eden Hazard" />
+<TargetLink id="T44" fact_or_opinionID="O4" fact_or_opinionText="guilty of missing a great opening" targetID="P21" targetText="Willian" />
+<TargetLink id="T45" fact_or_opinionID="O5" fact_or_opinionText="commanded his area well" targetID="C5" targetText="The debutant" />
+<TargetLink id="T46" fact_or_opinionID="O6" fact_or_opinionText="Valiant defending from" targetID="P34" targetText="Coloccini" />
+<TargetLink id="T47" fact_or_opinionID="O7" fact_or_opinionText="Valiant defending from" targetID="P35" targetText="Taylor" />
 </TAGS>
 </SoccEval1.2>

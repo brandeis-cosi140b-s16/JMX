@@ -104,5 +104,36 @@ Bojan sent an effort whistling past the left-hand post deep into stoppage time, 
 <Opinion id="O3" spans="2419~2427" text="an error" time="last match" reported="false" type="other opinion" polarity="-" />
 <Opinion id="O4" spans="2701~2709" text="did well" time="last match" reported="false" type="general attribute" polarity="+" />
 <Opinion id="O5" spans="3105~3147" text="appeared to give Stoke something of a lift" time="last match" reported="false" type="impact on team" polarity="+" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="headed opener" targetID="P1" targetText="John Terry" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="corner" targetID="P2" targetText="Fabregas" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="scuffed shot" targetID="P3" targetText="Fabregas" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="injury" targetID="P4" targetText="Thibaut Courtois" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="shrugged off" targetID="P5" targetText="Terry" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="in the box" targetID="P5" targetText="Terry" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="get his head" targetID="P5" targetText="Terry" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="corner" targetID="P7" targetText="Fabregas" />
+<TargetLink id="T8" fact_or_opinionID="F8" fact_or_opinionText="providing a 12th assist of the season" targetID="C1" targetText="the Spaniard" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="cutback" targetID="P10" targetText="Branislav Ivanovic" />
+<TargetLink id="T10" fact_or_opinionID="F10" fact_or_opinionText="20-yard strike" targetID="P12" targetText="Steven N&apos;Zonzi" />
+<TargetLink id="T11" fact_or_opinionID="F11" fact_or_opinionText="well saved" targetID="P13" targetText="Courtois" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="fired just wide" targetID="P14" targetText="Costa" />
+<TargetLink id="T13" fact_or_opinionID="F13" fact_or_opinionText="booked for a lunging challenge" targetID="P16" targetText="Phil Bardsley" />
+<TargetLink id="T14" fact_or_opinionID="F14" fact_or_opinionText="an apparent tug on the shirt of Costa" targetID="P16" targetText="Phil Bardsley" />
+<TargetLink id="T15" fact_or_opinionID="F15" fact_or_opinionText="strike" targetID="P20" targetText="Willian" />
+<TargetLink id="T16" fact_or_opinionID="F17" fact_or_opinionText="a soft Fabregas strike" targetID="P21" targetText="Fabregas" />
+<TargetLink id="T17" fact_or_opinionID="F18" fact_or_opinionText="clinging onto a soft Fabregas strike" targetID="C3" targetText="his" />
+<TargetLink id="T18" fact_or_opinionID="F16" fact_or_opinionText="keep out a Willian strike" targetID="C3" targetText="his" />
+<TargetLink id="T19" fact_or_opinionID="F19" fact_or_opinionText="force the ball into the six-yard box" targetID="P22" targetText="Hazard" />
+<TargetLink id="T20" fact_or_opinionID="F20" fact_or_opinionText="introduction" targetID="P23" targetText="Charlie Adam" />
+<TargetLink id="T21" fact_or_opinionID="F21" fact_or_opinionText="diverting the ball into the back of the net" targetID="P24" targetText="Fabregas" />
+<TargetLink id="T22" fact_or_opinionID="F22" fact_or_opinionText="being played in" targetID="P25" targetText="Hazard" />
+<TargetLink id="T23" fact_or_opinionID="F23" fact_or_opinionText="limped off" targetID="P25" targetText="Hazard" />
+<TargetLink id="T24" fact_or_opinionID="F24" fact_or_opinionText="tackle" targetID="P26" targetText="Jonathan Walters" />
+<TargetLink id="T25" fact_or_opinionID="O0" fact_or_opinionText="starred" targetID="P0" targetText="Cesc Fabregas" />
+<TargetLink id="T26" fact_or_opinionID="O1" fact_or_opinionText="boosted by the return of Bojan Krkic" targetID="P8" targetText="Bojan Krkic" />
+<TargetLink id="T27" fact_or_opinionID="O2" fact_or_opinionText="failed to connect properly" targetID="P9" targetText="Diego Costa" />
+<TargetLink id="T28" fact_or_opinionID="O3" fact_or_opinionText="an error" targetID="P15" targetText="Ryan Shawcross" />
+<TargetLink id="T29" fact_or_opinionID="O4" fact_or_opinionText="did well" targetID="P19" targetText="Asmir Begovic" />
+<TargetLink id="T30" fact_or_opinionID="O5" fact_or_opinionText="appeared to give Stoke something of a lift" targetID="P23" targetText="Charlie Adam" />
 </TAGS>
 </SoccEval1.2>

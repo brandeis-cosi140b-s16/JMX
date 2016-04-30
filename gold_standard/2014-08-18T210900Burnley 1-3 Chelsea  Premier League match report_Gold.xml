@@ -116,5 +116,38 @@ Didier Drogba, back at the club where he fits best, came on as a second-half sub
 <Opinion id="O2" spans="3809~3817" text="culpable" time="last match" reported="false" polarity="-" type="impact on team" />
 <Opinion id="O3" spans="4804~4813" text="fits best" time="last match" reported="false" type="impact on team" polarity="+" />
 <Opinion id="O4" spans="4879~4888" text="old gifts" time="last match" reported="false" type="soccer skill" polarity="+" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="goal" targetID="P0" targetText="Scott Arfield" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="equaliser" targetID="C0" targetText="his" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="a wonderful exchange of passes" targetID="P3" targetText="André Schürrle" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="added the third" targetID="P4" targetText="Branislav Ivanovic" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="broke forward on the right" targetID="P8" targetText="Ivanovic" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="took a slight flick off" targetID="C2" targetText="His" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="scoring" targetID="C4" targetText="He" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="mazy run" targetID="P11" targetText="Eden Hazard" />
+<TargetLink id="T8" fact_or_opinionID="F8" fact_or_opinionText="turned the ball into" targetID="P12" targetText="Ivanovic" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="clipped a beautifully weighted pass" targetID="C6" targetText="the former Arsenal and Barcelona player" />
+<TargetLink id="T10" fact_or_opinionID="F10" fact_or_opinionText="stroked the ball past" targetID="C7" targetText="he" />
+<TargetLink id="T11" fact_or_opinionID="F11" fact_or_opinionText="dived" targetID="P17" targetText="Costa" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="intercepted" targetID="C8" targetText="he" />
+<TargetLink id="T13" fact_or_opinionID="F13" fact_or_opinionText="back-pass" targetID="P18" targetText="Ben Mee" />
+<TargetLink id="T14" fact_or_opinionID="F14" fact_or_opinionText="swung over a corner from the left" targetID="P20" targetText="Fábregas" />
+<TargetLink id="T15" fact_or_opinionID="F15" fact_or_opinionText="volley in Chelsea&apos;s third goal" targetID="P21" targetText="Ivanovic" />
+<TargetLink id="T16" fact_or_opinionID="F16" fact_or_opinionText="underhit a pass" targetID="P23" targetText="Kieran Tripper" />
+<TargetLink id="T17" fact_or_opinionID="F17" fact_or_opinionText="goal" targetID="C9" targetText="his" />
+<TargetLink id="T18" fact_or_opinionID="F18" fact_or_opinionText="lashed the winning goal" targetID="P27" targetText="Blake" />
+<TargetLink id="T19" fact_or_opinionID="F19" fact_or_opinionText="strike" targetID="P28" targetText="Arfield" />
+<TargetLink id="T20" fact_or_opinionID="F20" fact_or_opinionText="had taken the goal brilliantly" targetID="P29" targetText="Arfield" />
+<TargetLink id="T21" fact_or_opinionID="F21" fact_or_opinionText=" firing through a crowded penalty area" targetID="P29" targetText="Arfield" />
+<TargetLink id="T22" fact_or_opinionID="F22" fact_or_opinionText="palmed away" targetID="C11" targetText="he" />
+<TargetLink id="T23" fact_or_opinionID="F23" fact_or_opinionText="effort" targetID="P33" targetText="Arfield" />
+<TargetLink id="T24" fact_or_opinionID="F24" fact_or_opinionText="substitute" targetID="P34" targetText="Didier Drogba" />
+<TargetLink id="T25" fact_or_opinionID="F25" fact_or_opinionText="taking down" targetID="P34" targetText="Didier Drogba" />
+<TargetLink id="T26" fact_or_opinionID="F26" fact_or_opinionText="long kick" targetID="P35" targetText="Courtois" />
+<TargetLink id="T27" fact_or_opinionID="F27" fact_or_opinionText="volleying a shot" targetID="P34" targetText="Didier Drogba" />
+<TargetLink id="T28" fact_or_opinionID="O0" fact_or_opinionText="superb" targetID="P5" targetText="Cesc Fábregas" />
+<TargetLink id="T29" fact_or_opinionID="O1" fact_or_opinionText="on the ball in a flash" targetID="C4" targetText="He" />
+<TargetLink id="T30" fact_or_opinionID="O2" fact_or_opinionText="culpable" targetID="P25" targetText="Mee" />
+<TargetLink id="T31" fact_or_opinionID="O3" fact_or_opinionText="fits best" targetID="C12" targetText="he" />
+<TargetLink id="T32" fact_or_opinionID="O4" fact_or_opinionText="old gifts" targetID="C13" targetText="his" />
 </TAGS>
 </SoccEval1.2>

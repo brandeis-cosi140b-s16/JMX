@@ -86,5 +86,24 @@ Hull rarely looked like hauling itself back into the match in the closing 20 min
 <Fact id="F16" spans="2853~2898" text="prodded past McGregor to put the match to bed" time="last match" type="goal" factID="2" />
 <Opinion id="O0" spans="1584~1599" text="underperforming" reported="false" polarity="-" type="growth-decline" time="current season" />
 <Opinion id="O1" spans="2797~2823" text="a well-worked through ball" time="last match" reported="false" type="soccer skill" polarity="+" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="headed it into a seventh-minute lead" targetID="P0" targetText="Eden Hazard" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="diverting the ball beyond goalkeeper" targetID="P3" targetText="Diego Costa" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="on the left wing" targetID="P5" targetText="Oscar" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="advancing" targetID="P6" targetText="Hazard" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="a precision cross" targetID="P5" targetText="Oscar" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="rose well to power home a header" targetID="C2" targetText="the unchallenged Belgian" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="The goal" targetID="P7" targetText="Hazard" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="was forced off" targetID="P9" targetText="Michael Dawson" />
+<TargetLink id="T8" targetID="P9" targetText="Michael Dawson" fact_or_opinionID="F8" fact_or_opinionText="injury" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="goal" targetID="P10" targetText="Hazard" />
+<TargetLink id="T10" fact_or_opinionID="F10" fact_or_opinionText="injured" targetID="P12" targetText="Thibaut Courtois" />
+<TargetLink id="T11" fact_or_opinionID="F11" fact_or_opinionText="resorted to using a hand" targetID="P14" targetText="David Meyler" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="earning a yellow card" targetID="C6" targetText="he" />
+<TargetLink id="T13" fact_or_opinionID="F13" fact_or_opinionText="sent a low drive trickling wide of the left-hand upright" targetID="P15" targetText="Jake Livermore" />
+<TargetLink id="T14" fact_or_opinionID="F14" fact_or_opinionText="was dismissed for a clumsy challenge" targetID="P16" targetText="Huddlestone" />
+<TargetLink id="T15" fact_or_opinionID="F15" fact_or_opinionText="found Costa with a well-worked through ball" targetID="P19" targetText="Hazard" />
+<TargetLink id="T16" fact_or_opinionID="F16" fact_or_opinionText="prodded past McGregor to put the match to bed" targetID="C7" targetText="the Spain international" />
+<TargetLink id="T17" fact_or_opinionID="O0" fact_or_opinionText="underperforming" targetID="P8" targetText="Hatem Ben Arfa" />
+<TargetLink id="T18" fact_or_opinionID="O1" fact_or_opinionText="a well-worked through ball" targetID="P19" targetText="Hazard" />
 </TAGS>
 </SoccEval1.2>

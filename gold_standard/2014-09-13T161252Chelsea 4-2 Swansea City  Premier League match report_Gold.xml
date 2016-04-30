@@ -80,7 +80,6 @@ Manchester City, five points adrift of the early leaders, will test that theory 
 <Coref id="C8" spans="1879~1881" text="he" playerID="108" />
 <Coref id="C9" spans="3189~3199" text="the winger" playerID="116" />
 <Coref id="C10" spans="3294~3303" text="the hosts" playerID="116" />
-<Coref id="C11" spans="3294~3303" text="the hosts" playerID="115" />
 <Coref id="C12" spans="3592~3595" text="his" playerID="108" />
 <Coref id="C13" spans="3633~3636" text="his" playerID="108" />
 <Coref id="C14" spans="4052~4063" text="The forward" playerID="104" />
@@ -127,5 +126,49 @@ Manchester City, five points adrift of the early leaders, will test that theory 
 <Opinion id="O17" spans="4157~4192" text="adding to the locals&apos; sense of glee" type="other opinion" polarity="+" time="last match" reported="false" />
 <Opinion id="O18" spans="4234~4248" text="was not missed" polarity="-" reported="false" type="impact on team" time="last match" />
 <Opinion id="O19" spans="5039~5052" text="irrepressible" reported="false" time="last match" polarity="+" type="general attribute" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="hat-trick" targetID="C0" targetText="his" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="a side-footed finish" targetID="P4" targetText="Lukasz Fabianski" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="scuffed shot" targetID="P5" targetText="Ramires" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="flocked to his aid in the middle" targetID="P8" targetText="Cesc Fàbregas" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="adding another two assists" targetID="P8" targetText="Cesc Fàbregas" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText=" has six this season" targetID="C6" targetText="he" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="pulling back" targetID="P10" targetText="Ashley Williams" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="finish" targetID="P11" targetText="Costa" />
+<TargetLink id="T8" fact_or_opinionID="F8" fact_or_opinionText="debut goal" targetID="P12" targetText="Loïc Rémy" />
+<TargetLink id="T9" fact_or_opinionID="F9" fact_or_opinionText="goal" targetID="P14" targetText="John Terry" />
+<TargetLink id="T10" fact_or_opinionID="F10" fact_or_opinionText="curling agonisingly wide with Thibaut Courtois beaten" targetID="C9" targetText="the winger" />
+<TargetLink id="T11" fact_or_opinionID="F11" fact_or_opinionText="stationed behind Costa" targetID="C10" targetText="the hosts" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="distribution" targetID="P20" targetText="Ki" />
+<TargetLink id="T13" fact_or_opinionID="F13" fact_or_opinionText="aggressive running" targetID="P21" targetText="Gylfi Sigurdsson" />
+<TargetLink id="T14" fact_or_opinionID="F13" fact_or_opinionText="aggressive running" targetID="P22" targetText="Jonjo Shelvey" />
+<TargetLink id="T15" fact_or_opinionID="F14" fact_or_opinionText="corner" targetID="C13" targetText="his" />
+<TargetLink id="T16" fact_or_opinionID="F15" fact_or_opinionText="converted" targetID="P24" targetText="Costa" />
+<TargetLink id="T17" fact_or_opinionID="F16" fact_or_opinionText="attempting to unnerve Branislav Ivanovic" targetID="P26" targetText="Jordi Amat" />
+<TargetLink id="T18" fact_or_opinionID="F17" fact_or_opinionText="introduction" targetID="P28" targetText="Ramires" />
+<TargetLink id="T19" fact_or_opinionID="F18" fact_or_opinionText="finishing" targetID="C14" targetText="The forward" />
+<TargetLink id="T20" fact_or_opinionID="F19" fact_or_opinionText="having replaced the scorer of the hat-trick" targetID="P31" targetText="Rémy" />
+<TargetLink id="T21" fact_or_opinionID="F20" fact_or_opinionText="nursing an ankle injury" targetID="P32" targetText="Didier Drogba" />
+<TargetLink id="T22" fact_or_opinionID="F21" fact_or_opinionText="exploited some defensive vulnerability" targetID="P33" targetText="Shelvey" />
+<TargetLink id="T23" fact_or_opinionID="O0" fact_or_opinionText=" weighed down by oppressive transfer fees and associated expectations" targetID="P1" targetText="Fernando Torres" />
+<TargetLink id="T24" fact_or_opinionID="O1" fact_or_opinionText="staggering introduction to life in the Premier League is merely maintained" targetID="P3" targetText="Diego Costa" />
+<TargetLink id="T25" fact_or_opinionID="O2" fact_or_opinionText="perfect record" targetID="C0" targetText="his" />
+<TargetLink id="T26" fact_or_opinionID="O3" fact_or_opinionText="scored seven times in four league appearances, from 14 shots" targetID="P35" targetText="Costa" />
+<TargetLink id="T27" fact_or_opinionID="O4" fact_or_opinionText="took 43 games to register that many" targetID="P6" targetText="Torres" />
+<TargetLink id="T28" fact_or_opinionID="O5" fact_or_opinionText="should prove more productive" targetID="P7" targetText="Costa" />
+<TargetLink id="T29" fact_or_opinionID="O6" fact_or_opinionText="telepathic relationship with Cesc Fàbregas" targetID="C4" targetText="his" />
+<TargetLink id="T30" fact_or_opinionID="O7" fact_or_opinionText="own productive start to life" targetID="C7" targetText="his" />
+<TargetLink id="T31" fact_or_opinionID="O8" fact_or_opinionText=" excellent" targetID="P9" targetText="Eden Hazard" />
+<TargetLink id="T32" fact_or_opinionID="O9" fact_or_opinionText=" a reminder of true quality" targetID="C8" targetText="he" />
+<TargetLink id="T33" fact_or_opinionID="O10" fact_or_opinionText="dictated much of the first half" targetID="P13" targetText="Ki Sung-yueng" />
+<TargetLink id="T34" fact_or_opinionID="O11" fact_or_opinionText="might have doubled their lead" targetID="P16" targetText="Bafétimbi Gomis" />
+<TargetLink id="T35" fact_or_opinionID="O11" fact_or_opinionText="might have doubled their lead" targetID="P17" targetText="Wayne Routledge" />
+<TargetLink id="T36" fact_or_opinionID="O12" fact_or_opinionText="out-muscled" targetID="P23" targetText="Fàbregas" />
+<TargetLink id="T37" fact_or_opinionID="O13" fact_or_opinionText="overpowered" targetID="P23" targetText="Fàbregas" />
+<TargetLink id="T38" fact_or_opinionID="O14" fact_or_opinionText="duly imposed his own qualities on the contest" targetID="P23" targetText="Fàbregas" />
+<TargetLink id="T39" fact_or_opinionID="O15" fact_or_opinionText="ineffective" targetID="P29" targetText="André Schürrle" />
+<TargetLink id="T40" fact_or_opinionID="O16" fact_or_opinionText="plunder" targetID="P30" targetText="Costa" />
+<TargetLink id="T41" fact_or_opinionID="O17" fact_or_opinionText="adding to the locals&apos; sense of glee" targetID="P31" targetText="Rémy" />
+<TargetLink id="T42" fact_or_opinionID="O18" fact_or_opinionText="was not missed" targetID="P32" targetText="Didier Drogba" />
+<TargetLink id="T43" fact_or_opinionID="O19" fact_or_opinionText="irrepressible" targetID="P34" targetText="Costa" />
 </TAGS>
 </SoccEval1.2>

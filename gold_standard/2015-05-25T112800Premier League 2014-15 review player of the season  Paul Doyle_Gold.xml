@@ -105,5 +105,34 @@ Referee of the season
 <Opinion id="O25" spans="3097~3105" text="strength" reported="false" type="soccer skill" polarity="+" time="current season" />
 <Opinion id="O26" spans="3121~3131" text="rare skill" reported="false" type="soccer skill" polarity="+" time="current season" />
 <Opinion id="O27" spans="3153~3174" text="always worth watching" reported="false" type="other opinion" polarity="+" time="current season" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="a save from a Leighton Baines penalty" targetID="C13" targetText="his" />
+<TargetLink id="T1" fact_or_opinionID="O0" fact_or_opinionText="nifty" targetID="P0" targetText="Eden Hazard" />
+<TargetLink id="T2" fact_or_opinionID="O1" fact_or_opinionText="successfully shouldered much of the creative burden for his team" targetID="C1" targetText="he" />
+<TargetLink id="T3" fact_or_opinionID="O2" fact_or_opinionText="snazzy dribbles" targetID="C2" targetText="his" />
+<TargetLink id="T4" fact_or_opinionID="O3" fact_or_opinionText="ingenious passes" targetID="C2" targetText="his" />
+<TargetLink id="T5" fact_or_opinionID="O4" fact_or_opinionText="decisive finishes" targetID="C2" targetText="his" />
+<TargetLink id="T6" fact_or_opinionID="O5" fact_or_opinionText="delivered performances that ridiculed the suggestion" targetID="C3" targetText="The centre-back" />
+<TargetLink id="T7" fact_or_opinionID="O6" fact_or_opinionText="led, masterfully, the title-winning defence for every minute of every match" targetID="C5" targetText="He" />
+<TargetLink id="T8" fact_or_opinionID="O7" fact_or_opinionText="helping to integrate young Kurt Zouma to the side" targetID="C5" targetText="He" />
+<TargetLink id="T9" fact_or_opinionID="O8" fact_or_opinionText="endured an iffy spell" targetID="P4" targetText="Gary Cahill" />
+<TargetLink id="T10" fact_or_opinionID="O9" fact_or_opinionText="chipped in with enough goals" targetID="P5" targetText="Terry" />
+<TargetLink id="T11" fact_or_opinionID="O10" fact_or_opinionText="the highest scoring defender" targetID="C6" targetText="him" />
+<TargetLink id="T12" fact_or_opinionID="O11" fact_or_opinionText="success" targetID="P8" targetText="Kane" />
+<TargetLink id="T13" fact_or_opinionID="O12" fact_or_opinionText="Tottenham fans were almost able to forget about Roberto Soldado and Emmanuel Adebayor" targetID="P8" targetText="Kane" />
+<TargetLink id="T14" fact_or_opinionID="O13" fact_or_opinionText="dynamism" targetID="C9" targetText="his" />
+<TargetLink id="T15" fact_or_opinionID="O14" fact_or_opinionText="deadliness" targetID="C9" targetText="his" />
+<TargetLink id="T16" fact_or_opinionID="O15" fact_or_opinionText="regularly discombobulating seasoned top-flight defenders" targetID="C9" targetText="his" />
+<TargetLink id="T17" fact_or_opinionID="O16" fact_or_opinionText="tidying up messes by the goofs around him" targetID="C10" targetText="the Spaniard" />
+<TargetLink id="T18" fact_or_opinionID="O17" fact_or_opinionText="agility" targetID="C12" targetText="their goalkeeper" />
+<TargetLink id="T19" fact_or_opinionID="O18" fact_or_opinionText="earned victories from matches United could otherwise have lost" targetID="C12" targetText="their goalkeeper" />
+<TargetLink id="T20" fact_or_opinionID="O19" fact_or_opinionText="when even the three goals they scored might not have been enough to secure a point if their goalkeeper had not excelled" targetID="C14" targetText="their goalkeeper" />
+<TargetLink id="T21" fact_or_opinionID="O20" fact_or_opinionText="should have scored more goals" targetID="C15" targetText="he" />
+<TargetLink id="T22" fact_or_opinionID="O21" fact_or_opinionText="there is no other player in the Premier League with the same ability to astonish as Bolasie" targetID="P14" targetText="Bolasie" />
+<TargetLink id="T23" fact_or_opinionID="O22" fact_or_opinionText="trickery" targetID="C16" targetText="His" />
+<TargetLink id="T24" fact_or_opinionID="O23" fact_or_opinionText="chief highlight of Crystal Palace&apos;s climb up the table and a regular source of exasperation for defenders" targetID="C16" targetText="His" />
+<TargetLink id="T25" fact_or_opinionID="O24" fact_or_opinionText="formidable speed" targetID="C17" targetText="his" />
+<TargetLink id="T26" fact_or_opinionID="O25" fact_or_opinionText="strength" targetID="C17" targetText="his" />
+<TargetLink id="T27" fact_or_opinionID="O26" fact_or_opinionText="rare skill" targetID="C17" targetText="his" />
+<TargetLink id="T28" fact_or_opinionID="O27" fact_or_opinionText="always worth watching" targetID="C18" targetText="the 25-year-old" />
 </TAGS>
 </SoccEval1.2>
