@@ -114,11 +114,11 @@ More importantly, the Spain international is a lethal finisher. Midway through t
 <Fact id="F9" spans="2660~2676" text="hamstring injury" type="injury" time="current season" factID="10" />
 <Fact id="F10" spans="2749~2764" text="a groin problem" type="injury" factID="11" time="current season" />
 <Fact id="F12" spans="3002~3014" text="25-yard shot" type="shot" time="last match" factID="12" />
-<Fact id="F13" spans="3276~3285" text="equaliser" type="goal" time="last match" factID="13" />
+<Fact id="F13" spans="3276~3285" text="equaliser" factID="13" time="last match" type="goal" />
 <Fact id="F14" spans="3325~3335" text="swung over" time="last match" type="pass" factID="14" />
 <Fact id="F15" spans="3362~3371" text="headed on" time="last match" type="shot" factID="15" />
 <Fact id="F16" spans="3401~3422" text="first attempt at goal" type="shot" time="last match" factID="16" />
-<Fact id="F17" spans="3444~3455" text="reflex save" time="last match" type="save" factID="17" />
+<Fact id="F17" spans="3444~3455" text="reflex save" time="last match" type="save" factID="22" />
 <Fact id="F18" spans="3551~3555" text="shot" type="goal" time="last match" factID="17" />
 <Fact id="F19" spans="4356~4365" text="selecting" time="last match" type="substitute in" factID="18" />
 <Fact id="F20" spans="5316~5333" text="ran down the left" time="last match" type="movement" factID="19" />

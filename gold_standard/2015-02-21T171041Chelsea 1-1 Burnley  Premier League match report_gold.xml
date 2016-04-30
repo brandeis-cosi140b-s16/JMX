@@ -113,7 +113,7 @@ Mourinho sought to shore up midfield and was intending to introduce Gary Cahill 
 <Fact id="F7" spans="2424~2435" text="fine volley" factID="7" type="shot" time="last match" />
 <Fact id="F8" spans="2445~2453" text="saved by" time="last match" type="save" factID="8" />
 <Fact id="F9" spans="2650~2682" text="skedaddling past three defenders" factID="9" type="movement" time="last match" />
-<Fact id="F10" spans="2710~2731" text="pulling the ball back" type="assist" factID="10" time="last match" />
+<Fact id="F10" spans="2710~2731" text="pulling the ball back" type="assist" time="last match" factID="21" />
 <Fact id="F11" spans="2745~2782" text="to tuck into the net from close range" time="last match" type="goal" factID="2" />
 <Fact id="F12" spans="3106~3123" text="made another stop" time="last match" type="save" factID="10" />
 <Fact id="F13" spans="3129~3148" text="a long-range effort" time="last match" factID="11" type="shot" />
@@ -135,7 +135,7 @@ Mourinho sought to shore up midfield and was intending to introduce Gary Cahill 
 <Fact id="F29" spans="5429~5440" text="a fine save" time="last match" type="save" factID="26" />
 <Fact id="F30" spans="5473~5477" text="shot" time="last match" type="shot" factID="27" />
 <Fact id="F31" spans="5574~5613" text="headed Trippier&apos;s delivery into the net" time="last match" type="goal" factID="3" />
-<Fact id="F32" spans="5592~5600" text="delivery" time="last match" type="assist" factID="28" />
+<Fact id="F32" spans="5592~5600" text="delivery" time="last match" type="assist" factID="29" />
 <Fact id="F33" spans="5721~5732" text="firing over" time="last match" type="shot" factID="28" />
 <Opinion id="O0" spans="2556~2565" text="ingenuity" type="general attribute" time="last match" reported="false" polarity="+" />
 <Opinion id="O1" spans="2621~2646" text="showcased his rare skills" time="last match" reported="false" type="soccer skill" polarity="+" />

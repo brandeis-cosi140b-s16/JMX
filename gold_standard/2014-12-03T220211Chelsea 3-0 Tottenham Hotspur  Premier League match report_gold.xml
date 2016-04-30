@@ -116,12 +116,12 @@ Willian was available to his right but Rémy expertly guided the ball past Llori
 <Fact id="F4" spans="1407~1416" text="replacing" time="last match" type="substitute in" factID="4" />
 <Fact id="F5" spans="1407~1416" text="replacing" type="substitute out" time="last match" factID="5" />
 <Fact id="F6" spans="1787~1798" text="yellow card" time="last match" type="foul" factID="6" />
-<Fact id="F7" spans="1956~1959" text="ban" time="current season" type="foul" factID="80" />
+<Fact id="F7" spans="1956~1959" text="ban" time="current season" type="foul" factID="19" />
 <Fact id="F8" spans="2902~2906" text="goal" time="last match" factID="2" type="goal" />
-<Fact id="F9" spans="3514~3557" text="sent a twisting header against the crossbar" time="last match" type="shot" factID="6" />
+<Fact id="F9" spans="3514~3557" text="sent a twisting header against the crossbar" time="last match" type="shot" factID="18" />
 <Fact id="F10" spans="3673~3700" text="drove into the penalty area" time="last match" type="movement" factID="7" />
 <Fact id="F12" spans="3705~3719" text="flashed a shot" type="goal" time="last match" factID="8" />
-<Fact id="F13" spans="4099~4106" text="one-two" time="last match" type="assist" factID="9" />
+<Fact id="F13" spans="4099~4106" text="one-two" time="last match" type="assist" factID="20" />
 <Fact id="F14" spans="4136~4148" text="opening goal" time="last match" type="goal" factID="1" />
 <Fact id="F15" spans="4248~4263" text="out of position" time="last match" type="positioning" factID="9" />
 <Fact id="F16" spans="4390~4406" text="a clash of heads" time="last match" type="injury" factID="10" />
