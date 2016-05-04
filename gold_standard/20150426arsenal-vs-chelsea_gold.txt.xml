@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/arsenal-vs-chelsea/1704155
+
+Apr 26, 2015 1:03:20 PM
+
+Chelsea was left to rue the non-award of what seemed a certain penalty for a foul on Oscar in Sunday's 0-0 draw with Arsenal.
+
+Chelsea and title rival Arsenal played out a feisty goalless Premier League draw at the Emirates Stadium with much of the discussion centering on four penalty shouts all turned down.
+
+The most  prominent involved David Ospina's clumsy first-half collision with Oscar in a keenly-contested stalemate that saw Cesc Fabregas booed on his return to his former club and Jose Mourinho maintain his unbeaten record against Arsene Wenger.
+
+With Diego Costa and Loic Remy injured, Oscar began as the figurehead of Chelsea's attack and was central to the game's biggest talking point as he touched a ball past the onrushing David Ospina.
+
+However, the Brazilian was speared by the Arsenal goalkeeper and, after the effort was cleared away by Hector Bellerin, Chelsea's frustrations were clear as referee Michael Oliver opted against awarding a spot kick and brandishing a possible red card.
+
+Fabregas then irked the home fans on his first Emirates appearance since leaving for Barcelona in 2011 when he was booked for a perceived dive in the area as a traditionally fiery contest began to heat up.
+
+The London derby struggled to reach the boil after the break, however, despite plenty of attacking intent on show, as Arsenal moved level on points with second-placed Manchester City.
+
+Chelsea, which extended its unbeaten run against Sunday's host to eight matches, can no longer win the title at Leicester City on Wednesday, but remains well on course - 10 points clear with a game in hand.
+
+Arsenal edged the initial stages, although Chelsea felt it should have earned an early penalty seven minutes in when Oscar went down under pressure from Bellerin.
+
+Contact was minimal and Oliver waved away protests before Arsenal continued to threaten - Olivier Giroud juggling the ball in the area before Gary Cahill dealt with the danger.
+
+Bellerin was then required to clear Oscar's goal-bound effort following a sublime ball from Fabregas, with Ospina's foul on the forward failing to merit sanctions.
+
+Mourinho was left distinctly unimpressed at the lack of a penalty or a card for the Colombian, although Oscar was able to continue after medical assistance.
+
+Oliver was again at the center of things 23 minutes in, as was Fabregas, who was adjudged to have dived in the box following a challenge from Santi Cazorla.
+
+It was then Arsenal's turn to unsuccessfully appeal for a spot kick when Cahill handled after the half-hour mark, Ramires forced Ospina into a smart save following a quick break and clever pass by Willian.
+
+Mourinho replaced Oscar with Didier Drogba at the break and the Chelsea boss saw his side play its part in an open start to the second period.
+
+Both sides countered quickly but struggled to find the final pass - Per Mertesacker miscuing a shot wide before substitute Danny Welbeck failed to sort his feet and fashion an effort following Nacho Monreal's cutback.
+
+Ultimately, Wenger failed to get the better of his opposite number at the 13th attempt, while Mourinho must wait until next Sunday's visit of Crystal Palace for an opportunity to secure Chelsea's fourth Premier League crown providing the club wins at Leicester.]]></TEXT>
+<TAGS>
+<Player id="P0" spans="171~176" text="Oscar" playerID="101" />
+<Player id="P1" spans="426~438" text="David Ospina" playerID="102" />
+<Player id="P2" spans="474~479" text="Oscar" playerID="101" />
+<Player id="P3" spans="521~534" text="Cesc Fabregas" playerID="103" />
+<Player id="P4" spans="650~661" text="Diego Costa" playerID="104" />
+<Player id="P5" spans="666~675" text="Loic Remy" playerID="105" />
+<Player id="P6" spans="685~690" text="Oscar" playerID="101" />
+<Player id="P7" spans="827~839" text="David Ospina" playerID="102" />
+<Player id="P8" spans="945~960" text="Hector Bellerin" playerID="107" />
+<Player id="P9" spans="1095~1103" text="Fabregas" playerID="103" />
+<Player id="P10" spans="1812~1817" text="Oscar" playerID="101" />
+<Player id="P11" spans="1848~1856" text="Bellerin" playerID="107" />
+<Player id="P12" spans="1949~1963" text="Olivier Giroud" playerID="108" />
+<Player id="P13" spans="2001~2012" text="Gary Cahill" playerID="109" />
+<Player id="P14" spans="2037~2045" text="Bellerin" playerID="107" />
+<Player id="P15" spans="2073~2078" text="Oscar" playerID="101" />
+<Player id="P16" spans="2129~2137" text="Fabregas" playerID="103" />
+<Player id="P17" spans="2144~2150" text="Ospina" playerID="102" />
+<Player id="P18" spans="2306~2311" text="Oscar" playerID="101" />
+<Player id="P19" spans="2423~2431" text="Fabregas" playerID="103" />
+<Player id="P20" spans="2502~2515" text="Santi Cazorla" playerID="110" />
+<Player id="P21" spans="2591~2597" text="Cahill" playerID="109" />
+<Player id="P22" spans="2632~2639" text="Ramires" playerID="111" />
+<Player id="P23" spans="2647~2653" text="Ospina" playerID="102" />
+<Player id="P24" spans="2715~2722" text="Willian" playerID="112" />
+<Player id="P25" spans="2743~2748" text="Oscar" playerID="101" />
+<Player id="P26" spans="2754~2767" text="Didier Drogba" playerID="113" />
+<Player id="P27" spans="2937~2952" text="Per Mertesacker" playerID="114" />
+<Player id="P28" spans="2992~3005" text="Danny Welbeck" playerID="115" />
+<Player id="P29" spans="3062~3075" text="Nacho Monreal" playerID="116" />
+<Coref id="C0" spans="544~547" text="his" playerID="103" />
+<Coref id="C1" spans="558~561" text="his" playerID="103" />
+<Coref id="C2" spans="790~792" text="he" playerID="101" />
+<Coref id="C3" spans="851~864" text="the Brazilian" playerID="101" />
+<Coref id="C4" spans="880~902" text="the Arsenal goalkeeper" playerID="102" />
+<Coref id="C5" spans="1132~1135" text="his" playerID="103" />
+<Coref id="C6" spans="1203~1205" text="he" playerID="103" />
+<Coref id="C7" spans="2161~2172" text="the forward" playerID="101" />
+<Coref id="C8" spans="2282~2295" text="the Colombian" playerID="102" />
+<Coref id="C9" spans="3021~3024" text="his" playerID="115" />
+<Fact id="F0" spans="161~167" text="a foul" time="last match" type="foul" factID="1" />
+<Fact id="F1" spans="441~468" text="clumsy first-half collision" time="last match" type="foul" factID="1" />
+<Fact id="F2" spans="676~683" text="injured" type="injury" time="present" factID="2" />
+<Fact id="F3" spans="793~839" text="touched a ball past the onrushing David Ospina" time="last match" type="shot" factID="2" />
+<Fact id="F4" spans="817~826" text="onrushing" time="last match" type="movement" factID="3" />
+<Fact id="F5" spans="865~879" text="was speared by" time="last match" type="foul" factID="1" />
+<Fact id="F6" spans="925~944" text="was cleared away by" time="last match" type="save" factID="4" />
+<Fact id="F7" spans="914~924" text="the effort" time="last match" type="shot" factID="3" />
+<Fact id="F8" spans="1203~1249" text="he was booked for a perceived dive in the area" time="last match" type="foul" factID="3" />
+<Fact id="F9" spans="1964~1993" text="juggling the ball in the area" time="last match" type="movement" factID="4" />
+<Fact id="F10" spans="2081~2098" text="goal-bound effort" time="last match" type="shot" factID="2" />
+<Fact id="F11" spans="2109~2128" text="a sublime ball from" type="pass" time="last match" factID="5" />
+<Fact id="F12" spans="2153~2160" text="foul on" time="last match" type="foul" factID="1" />
+<Fact id="F13" spans="2437~2474" text="was adjudged to have dived in the box" time="last match" type="movement" factID="10" />
+<Fact id="F15" spans="2640~2646" text="forced" time="last match" type="shot" factID="6" />
+<Fact id="F16" spans="2654~2671" text="into a smart save" time="last match" type="save" factID="7" />
+<Fact id="F17" spans="2682~2695" text="a quick break" time="last match" type="movement" factID="8" />
+<Fact id="F18" spans="2700~2711" text="clever pass" time="last match" type="pass" factID="14" />
+<Fact id="F19" spans="2734~2742" text="replaced" time="last match" type="substitute out" factID="10" />
+<Fact id="F21" spans="2734~2753" text="replaced Oscar with" time="last match" type="substitute in" factID="11" />
+<Fact id="F22" spans="2953~2973" text="miscuing a shot wide" time="last match" type="shot" factID="12" />
+<Fact id="F23" spans="2981~2991" text="substitute" time="last match" type="substitute in" factID="13" />
+<Fact id="F24" spans="3078~3085" text="cutback" time="last match" type="pass" factID="14" />
+<Opinion id="O0" spans="441~468" text="clumsy first-half collision" time="last match" reported="false" type="other opinion" polarity="-" />
+<Opinion id="O1" spans="535~540" text="booed" time="last match" reported="false" polarity="-" type="other opinion" />
+<Opinion id="O2" spans="691~734" text="began as the figurehead of Chelsea&apos;s attack" time="last match" reported="false" type="impact on team" polarity="+" />
+<Opinion id="O3" spans="743~786" text="central to the game&apos;s biggest talking point" time="last match" reported="false" type="other opinion" polarity="-" />
+<Opinion id="O4" spans="1109~1128" text="irked the home fans" time="last match" reported="false" type="other opinion" polarity="-" />
+<Opinion id="O5" spans="1818~1847" text="went down under pressure from" time="last match" reported="false" type="other opinion" polarity="+" />
+<Opinion id="O6" spans="3006~3049" text="failed to sort his feet and fashion an effo" time="last match" reported="false" polarity="-" type="other opinion" hypothetical="counterfactive" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="a foul" targetID="P0" targetText="Oscar" />
+<TargetLink id="T1" fact_or_opinionID="O0" fact_or_opinionText="clumsy first-half collision" targetID="P1" targetText="David Ospina" />
+<TargetLink id="T2" fact_or_opinionID="O1" fact_or_opinionText="booed" targetID="P3" targetText="Cesc Fabregas" />
+<TargetLink id="T3" fact_or_opinionID="F2" fact_or_opinionText="injured" targetID="P5" targetText="Loic Remy" />
+<TargetLink id="T4" fact_or_opinionID="F2" fact_or_opinionText="injured" targetID="P4" targetText="Diego Costa" />
+<TargetLink id="T5" fact_or_opinionID="O2" fact_or_opinionText="began as the figurehead of Chelsea&apos;s attack" targetID="P6" targetText="Oscar" />
+<TargetLink id="T6" fact_or_opinionID="O3" fact_or_opinionText="central to the game&apos;s biggest talking point" targetID="P6" targetText="Oscar" />
+<TargetLink id="T7" fact_or_opinionID="F3" fact_or_opinionText="touched a ball past the onrushing David Ospina" targetID="C2" targetText="he" />
+<TargetLink id="T8" fact_or_opinionID="F5" fact_or_opinionText="was speared by" targetID="C4" targetText="the Arsenal goalkeeper" />
+<TargetLink id="T9" fact_or_opinionID="F7" fact_or_opinionText="the effort" targetID="C3" targetText="the Brazilian" />
+<TargetLink id="T10" fact_or_opinionID="F6" fact_or_opinionText="was cleared away by" targetID="P8" targetText="Hector Bellerin" />
+<TargetLink id="T11" fact_or_opinionID="O4" fact_or_opinionText="irked the home fans" targetID="P9" targetText="Fabregas" />
+<TargetLink id="T12" fact_or_opinionID="F8" fact_or_opinionText="he was booked for a perceived dive in the area" targetID="C6" targetText="he" />
+<TargetLink id="T13" fact_or_opinionID="O5" fact_or_opinionText="went down under pressure from" targetID="P11" targetText="Bellerin" />
+<TargetLink id="T14" fact_or_opinionID="F9" fact_or_opinionText="juggling the ball in the area" targetID="P12" targetText="Olivier Giroud" />
+<TargetLink id="T15" fact_or_opinionID="F10" fact_or_opinionText="goal-bound effort" targetID="P15" targetText="Oscar" />
+<TargetLink id="T16" fact_or_opinionID="F11" fact_or_opinionText="a sublime ball from" targetID="P16" targetText="Fabregas" />
+<TargetLink id="T17" fact_or_opinionID="F12" fact_or_opinionText="foul on" targetID="P17" targetText="Ospina" />
+<TargetLink id="T18" fact_or_opinionID="F13" fact_or_opinionText="was adjudged to have dived in the box" targetID="P19" targetText="Fabregas" />
+<TargetLink id="T19" fact_or_opinionID="F15" fact_or_opinionText="forced" targetID="P22" targetText="Ramires" />
+<TargetLink id="T20" fact_or_opinionID="F16" fact_or_opinionText="into a smart save" targetID="P23" targetText="Ospina" />
+<TargetLink id="T21" fact_or_opinionID="F17" fact_or_opinionText="a quick break" targetID="P24" targetText="Willian" />
+<TargetLink id="T22" fact_or_opinionID="F18" fact_or_opinionText="clever pass" targetID="P24" targetText="Willian" />
+<TargetLink id="T23" fact_or_opinionID="F21" fact_or_opinionText="replaced Oscar with" targetID="P26" targetText="Didier Drogba" />
+<TargetLink id="T24" fact_or_opinionID="F21" fact_or_opinionText="replaced Oscar with" targetID="P25" targetText="Oscar" />
+<TargetLink id="T25" fact_or_opinionID="F22" fact_or_opinionText="miscuing a shot wide" targetID="P27" targetText="Per Mertesacker" />
+<TargetLink id="T26" fact_or_opinionID="F23" fact_or_opinionText="substitute" targetID="P28" targetText="Danny Welbeck" />
+<TargetLink id="T27" fact_or_opinionID="O6" fact_or_opinionText="failed to sort his feet and fashion an effo" targetID="P28" targetText="Danny Welbeck" />
+<TargetLink id="T28" fact_or_opinionID="F24" fact_or_opinionText="cutback" targetID="P29" targetText="Nacho Monreal" />
+</TAGS>
+</SoccEval1.2>
