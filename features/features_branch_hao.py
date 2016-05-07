@@ -129,9 +129,6 @@ from create_baseline_corpus import parse_ratings, strip_accents
 for roots, folders, files in os.walk("../gold_standard/"):
     for filename in files:
         xml=open(os.path.join(roots, filename), encoding="UTF-8").read()
-
-#filename="2014-08-18T210900Burnley 1-3 Chelsea  Premier League match report_Gold.xml"
-#xml = open('../gold_standard/2014-08-18T210900Burnley 1-3 Chelsea  Premier League match report_Gold.xml', encoding='utf8').read()
         bs = BeautifulSoup(xml, 'html.parser')
 
         date=filename.replace("-","")[:8]
