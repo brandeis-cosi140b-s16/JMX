@@ -123,21 +123,44 @@ def example():
     print(features.pprint())
 
 #####################################
-
-
 sys.path.append("../baseline")
-from create_baseline_corpus import parse_ratings
+from create_baseline_corpus import parse_ratings, strip_accents
 
+for roots, folders, files in os.walk("../gold_standard/"):
+    for filename in files:
+        xml=open(os.path.join(roots, filename), encoding="UTF-8").read()
 
+#filename="2014-08-18T210900Burnley 1-3 Chelsea  Premier League match report_Gold.xml"
+#xml = open('../gold_standard/2014-08-18T210900Burnley 1-3 Chelsea  Premier League match report_Gold.xml', encoding='utf8').read()
+        bs = BeautifulSoup(xml, 'html.parser')
 
-filename="2014-08-18T210900Burnley 1-3 Chelsea  Premier League match report_Gold.xml"
-date=filename.replace("-","")[:8]
-rating_folder="../ratings/"
+        date=filename.replace("-","")[:8]
+        rating_folder="../ratings/"
 
-#find corresponding rating file
-for root, folder, file in os.walk(rating_folder):
-    for f in file:
-        if f.startswith("r"+date):
-            rating_file=os.path.join(root,f)
+        #find corresponding rating file
+        for root, folder, file in os.walk(rating_folder):
+            for f in file:
+                if f.startswith("r"+date):
+                    rating_file=os.path.join(root,f)
 
-print(parse_ratings(open(rating_file)))
+        #parse rating into a dictionary
+        ratings=parse_ratings(open(rating_file))
+
+        #link playerid to rating, "-1" means player rating not found in file
+        playerid_rating_dic={}
+        for player_tag in bs.find_all("player"):
+            name=player_tag["text"].lower()
+            name=strip_accents(name)
+            has_rating=False
+            for d in ratings.values():
+                if len(name.split())>1:
+                    if d["names"][0].split("\\b")[1]==name or d["names"][2].split("\\b")[1]==name.split()[1:] or d["names"][1].split("\\b")[1]==name.split()[0]:
+                        playerid_rating_dic[player_tag["playerid"]]=[d["rating"],name]
+                        has_rating=True
+                elif len(name.split())==1:
+                    if d["names"][0].split("\\b")[1]==name or d["names"][2].split("\\b")[1]==name or d["names"][1].split("\\b")[1]==name:
+                        playerid_rating_dic[player_tag["playerid"]]=[d["rating"],name]
+                        has_rating=True
+            if has_rating==False:
+                playerid_rating_dic[player_tag["playerid"]]=[-1,name]
+        print(playerid_rating_dic)
