@@ -88,10 +88,10 @@ With a minute remaining, Coutinho's effort took a wicked deflection off Cahill a
 <Fact id="F17" spans="2894~2914" text="fizzing drive behind" time="last match" factID="16" type="movement" />
 <Fact id="F18" spans="3084~3091" text="a block" time="last match" factID="17" type="save" />
 <Fact id="F19" spans="3231~3262" text="effort took a wicked deflection" time="last match" factID="18" type="shot" />
-<Opinion id="O0" spans="1068~1097" text="was described as "a champion"" type="other opinion" polarity="+" time="present" reported="true" hypothetical="counterfactive" />
+<Opinion id="O0" spans="1068~1097" text="was described as &quot;a champion&quot;" type="other opinion" polarity="+" time="present" reported="true" hypothetical="counterfactive" />
 <Opinion id="O1" spans="3168~3180" text="shoot weakly" time="last match" reported="false" type="soccer skill" polarity="-" hypothetical="counterfactive" />
 <TargetLink id="T0" targetID="P0" targetText="John Terry" fact_or_opinionID="F0" fact_or_opinionText="fifth-minute opener" />
-<TargetLink id="T1" fact_or_opinionID="O0" fact_or_opinionText="was described as "a champion"" targetID="P2" targetText="Steven Gerrard" />
+<TargetLink id="T1" fact_or_opinionID="O0" fact_or_opinionText="was described as &quot;a champion&quot;" targetID="P2" targetText="Steven Gerrard" />
 <TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="spurn a golden opening" targetID="P4" targetText="Philippe Coutinho" />
 <TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="a dangerous challenge" targetID="P6" targetText="Raheem Sterling" />
 <TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="met with a firm downward header into the net" targetID="P7" targetText="Terry" />
