@@ -137,7 +137,7 @@ for roots, folders, files in os.walk("../gold_standard/"):
         #find corresponding rating file
         for root, folder, file in os.walk(rating_folder):
             for f in file:
-                if f.startswith("r"+date):
+                if f.startswith("r"+date) and "chelsea" in f:
                     rating_file=os.path.join(root,f)
 
         #parse rating into a dictionary
