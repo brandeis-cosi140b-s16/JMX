@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<SoccEval1.2>
+<TEXT><![CDATA[﻿http://www.goal.com/en-us/match/west-bromwich-albion-vs-chelsea/1704231
+
+May 18, 2015 5:05:14 PM
+
+Two goals from Saido Berahino and one from Chris Brunt saw West Brom defeat 10-man Chelsea in the Premier League.
+
+Saido Berahino's brace either side of a bizarre Cesc Fabregas red card helped to condemn champion Chelsea to only its third Premier League defeat of the season as West Brom claimed a 3-0 win at The Hawthorns on Monday.
+
+Back in the Albion side after starting on the bench at Newcastle last time out, Berahino netted his first goal in 10 games in all competitions with a fine early opener and followed that with a penalty just after halftime after being upended by John Terry.
+
+Fabregas was given his marching orders in between the striker's double for petulantly kicking the ball at Chris Brunt during a stoppage in play after the fit-again Diego Costa and Gareth McAuley grappled in the box.
+
+Brunt added the home side's third on the hour mark to put the seal on a memorable victory that ended Chelsea's 16-game unbeaten league run in the team's penultimate match of the season.
+
+Chelsea boss Jose Mourinho was gushing in his praise of West Brom counterpart Tony Pulis in the build-up to the match – hailing his "absolutely amazing" record – and the Welshman certainly had his players fired up for the visit of the champion.
+
+In a lively start, Thibaut Courtois got down well to turn Callum McManaman's angled drive behind and Fabregas evaded two tackles as he slalomed into the penalty area at the opposite end before firing straight at Boaz Myhill.
+
+Berahino took just nine minutes to repay Pulis' decision to recall him by putting Albion ahead in some style. Joleon Lescott rolled a simple pass that Berahino turned and ran on to before escaping the attentions of Gary Cahill and rifling right-footed into Courtois' bottom left-hand corner from 25 yards out.
+
+Just 29 minutes in, Fabregas was dismissed in unusual circumstances.
+
+McAuley and Costa were involved in an off-the-ball tangle in the penalty box that resulted in the latter being booked and play being stopped as the two sets of players voiced their views at referee Mike Jones.
+
+Fabregas, all on his own on the opposite side of the penalty area, inexplicably struck the dead ball back into the crowd of players and into the back of Brunt's head, prompting Jones to brandish a straight red.
+
+Filipe Luis stung Myhill's palms with a free kick that the Albion goalkeeper saw late and Courtois saved smartly with his feet to deny Brunt from James Morrison's through ball as an eventful opening 45 minutes came to a close.
+
+The drama continued straight after the interval as Terry bundled Berahino over in the box to concede a penalty within 30 seconds of the restart.
+
+A full-stretch Courtois got a hand to Berahino's spot kick, but it nestled in the bottom corner to make it 20 goals for the season in all competitions for the England Under-21 international and 14 in the league.
+
+Loic Remy struck the post from the edge of the area with Myhill well beaten 10 minutes later, but any hopes of a comeback were dashed by Brunt, who cut in from the right following a short-corner routine and lashed low past Courtois at his near post.]]></TEXT>
+<TAGS>
+<Player id="P21" spans="1948~1955" text="McAuley" playerID="113" />
+<Player id="P20" spans="1898~1906" text="Fabregas" playerID="103" />
+<Player id="P23" spans="2151~2156" text="Jones" playerID="214" />
+<Player id="P22" spans="1960~1965" text="Costa" playerID="106" />
+<Player id="P25" spans="2312~2317" text="Brunt" playerID="102" />
+<Player id="P24" spans="2159~2167" text="Fabregas" playerID="103" />
+<Player id="P27" spans="2371~2382" text="Filipe Luis" playerID="114" />
+<Player id="P26" spans="2336~2341" text="Jones" playerID="214" />
+<Player id="P29" spans="2461~2469" text="Courtois" playerID="108" />
+<Player id="P28" spans="2389~2395" text="Myhill" playerID="110" />
+<Player id="P30" spans="2506~2511" text="Brunt" playerID="102" />
+<Player id="P32" spans="2650~2655" text="Terry" playerID="105" />
+<Player id="P31" spans="2517~2531" text="James Morrison" playerID="115" />
+<Player id="P34" spans="2760~2768" text="Courtois" playerID="108" />
+<Player id="P33" spans="2664~2672" text="Berahino" playerID="101" />
+<Player id="P36" spans="2958~2967" text="Loic Remy" playerID="116" />
+<Player id="P35" spans="2783~2791" text="Berahino" playerID="101" />
+<Player id="P38" spans="3095~3100" text="Brunt" playerID="102" />
+<Player id="P37" spans="3015~3021" text="Myhill" playerID="110" />
+<Player id="P39" spans="3181~3189" text="Courtois" playerID="108" />
+<Player id="P0" spans="114~128" text="Saido Berahino" playerID="101" />
+<Player id="P1" spans="142~153" text="Chris Brunt" playerID="102" />
+<Player id="P2" spans="214~228" text="Saido Berahino" playerID="101" />
+<Player id="P3" spans="262~275" text="Cesc Fabregas" playerID="103" />
+<Player id="P4" spans="514~522" text="Berahino" playerID="101" />
+<Player id="P5" spans="678~688" text="John Terry" playerID="105" />
+<Player id="P6" spans="691~699" text="Fabregas" playerID="103" />
+<Player id="P7" spans="797~808" text="Chris Brunt" playerID="102" />
+<Player id="P8" spans="855~866" text="Diego Costa" playerID="106" />
+<Player id="P9" spans="871~885" text="Gareth McAuley" playerID="113" />
+<Player id="P10" spans="908~913" text="Brunt" playerID="102" />
+<Player id="P12" spans="1399~1415" text="Callum McManaman" playerID="109" />
+<Player id="P11" spans="1360~1376" text="Thibaut Courtois" playerID="108" />
+<Player id="P14" spans="1553~1564" text="Boaz Myhill" playerID="110" />
+<Player id="P13" spans="1442~1450" text="Fabregas" playerID="103" />
+<Player id="P16" spans="1677~1691" text="Joleon Lescott" playerID="111" />
+<Player id="P15" spans="1567~1575" text="Berahino" playerID="101" />
+<Player id="P18" spans="1782~1793" text="Gary Cahill" playerID="112" />
+<Player id="P17" spans="1718~1726" text="Berahino" playerID="101" />
+<Player id="P19" spans="1824~1832" text="Courtois" playerID="108" />
+<Coref id="C0" spans="530~533" text="his" playerID="101" />
+<Coref id="C1" spans="710~713" text="his" playerID="103" />
+<Coref id="C5" spans="1473~1475" text="he" playerID="103" />
+<Coref id="C6" spans="2176~2179" text="his" playerID="103" />
+<Coref id="C7" spans="2489~2492" text="his" playerID="108" />
+<Coref id="C8" spans="3193~3196" text="his" playerID="108" />
+<Coref id="C9" spans="2426~2447" text="the Albion goalkeeper" playerID="110" />
+<Fact id="F0" spans="103~108" text="goals" time="last match" type="goal" factID="1" />
+<Fact id="F1" spans="103~108" text="goals" time="last match" type="goal" factID="2" />
+<Fact id="F2" spans="129~141" text="and one from" time="last match" type="goal" factID="3" />
+<Fact id="F3" spans="276~284" text="red card" time="last match" type="foul" factID="4" />
+<Fact id="F4" spans="540~544" text="goal" time="last match" type="goal" factID="1" />
+<Fact id="F5" spans="582~601" text="a fine early opener" time="last match" type="goal" factID="1" />
+<Fact id="F6" spans="625~634" text="a penalty" time="last match" type="goal" factID="2" />
+<Fact id="F7" spans="655~677" text="after being upended by" time="last match" type="foul" factID="5" />
+<Fact id="F8" spans="700~729" text="was given his marching orders" time="last match" type="foul" factID="4" />
+<Fact id="F9" spans="886~905" text="grappled in the box" time="last match" type="positioning" factID="6" />
+<Fact id="F10" spans="886~905" text="grappled in the box" time="last match" type="positioning" factID="7" />
+<Fact id="F11" spans="914~941" text="added the home side&apos;s third" time="last match" type="goal" factID="3" />
+<Fact id="F12" spans="1377~1398" text="got down well to turn" time="last match" type="save" factID="8" />
+<Fact id="F13" spans="1418~1437" text="angled drive behind" time="last match" type="shot" factID="9" />
+<Fact id="F14" spans="1451~1469" text="evaded two tackles" time="last match" type="movement" factID="10" />
+<Fact id="F15" spans="1476~1506" text="slalomed into the penalty area" time="last match" type="positioning" factID="11" />
+<Fact id="F16" spans="1534~1552" text="firing straight at" time="last match" type="shot" factID="12" />
+<Fact id="F17" spans="1692~1712" text="rolled a simple pass" time="last match" type="pass" factID="13" />
+<Fact id="F18" spans="1727~1747" text="turned and ran on to" time="last match" type="movement" factID="14" />
+<Fact id="F19" spans="1798~1875" text="rifling right-footed into Courtois&apos; bottom left-hand corner from 25 yards out" time="last match" type="goal" factID="1" />
+<Fact id="F20" spans="1907~1920" text="was dismissed" time="last match" type="foul" factID="4" />
+<Fact id="F21" spans="2042~2065" text="the latter being booked" time="last match" type="foul" factID="15" />
+<Fact id="F22" spans="2356~2368" text="straight red" time="last match" factID="4" type="foul" />
+<Fact id="F23" spans="2383~2420" text="stung Myhill&apos;s palms with a free kick" time="last match" type="shot" factID="16" />
+<Fact id="F24" spans="2470~2483" text="saved smartly" time="last match" type="save" factID="17" />
+<Fact id="F25" spans="2498~2505" text="to deny" time="last match" type="shot" factID="18" />
+<Fact id="F26" spans="2534~2546" text="through ball" time="last match" type="pass" factID="19" />
+<Fact id="F28" spans="2656~2709" text="bundled Berahino over in the box to concede a penalty" time="last match" type="goal" factID="2" />
+<Fact id="F29" spans="2968~2983" text="struck the post" time="last match" type="shot" factID="20" />
+<Fact id="F30" spans="3102~3160" text="who cut in from the right following a short-corner routine" time="last match" type="positioning" factID="21" />
+<Fact id="F31" spans="3165~3206" text="lashed low past Courtois at his near post" time="last match" type="goal" factID="3" />
+<Opinion id="O0" spans="3022~3050" text="well beaten 10 minutes later" time="last match" reported="false" type="general attribute" polarity="-" />
+<TargetLink id="T0" fact_or_opinionID="F0" fact_or_opinionText="goals" targetID="P0" targetText="Saido Berahino" />
+<TargetLink id="T1" fact_or_opinionID="F1" fact_or_opinionText="goals" targetID="P0" targetText="Saido Berahino" />
+<TargetLink id="T2" fact_or_opinionID="F2" fact_or_opinionText="and one from" targetID="P1" targetText="Chris Brunt" />
+<TargetLink id="T3" fact_or_opinionID="F3" fact_or_opinionText="red card" targetID="P3" targetText="Cesc Fabregas" />
+<TargetLink id="T4" fact_or_opinionID="F4" fact_or_opinionText="goal" targetID="P4" targetText="Berahino" />
+<TargetLink id="T5" fact_or_opinionID="F5" fact_or_opinionText="a fine early opener" targetID="P4" targetText="Berahino" />
+<TargetLink id="T6" fact_or_opinionID="F6" fact_or_opinionText="a penalty" targetID="P4" targetText="Berahino" />
+<TargetLink id="T7" fact_or_opinionID="F7" fact_or_opinionText="after being upended by" targetID="P5" targetText="John Terry" />
+<TargetLink id="T8" fact_or_opinionID="F8" fact_or_opinionText="was given his marching orders" targetID="P6" targetText="Fabregas" />
+<TargetLink id="T9" fact_or_opinionID="F10" fact_or_opinionText="grappled in the box" targetID="P8" targetText="Diego Costa" />
+<TargetLink id="T10" fact_or_opinionID="F9" fact_or_opinionText="grappled in the box" targetID="P9" targetText="Gareth McAuley" />
+<TargetLink id="T11" fact_or_opinionID="F11" fact_or_opinionText="added the home side&apos;s third" targetID="P10" targetText="Brunt" />
+<TargetLink id="T12" fact_or_opinionID="F12" fact_or_opinionText="got down well to turn" targetID="P11" targetText="Thibaut Courtois" />
+<TargetLink id="T13" fact_or_opinionID="F13" fact_or_opinionText="angled drive behind" targetID="P12" targetText="Callum McManaman" />
+<TargetLink id="T14" fact_or_opinionID="F14" fact_or_opinionText="evaded two tackles" targetID="P13" targetText="Fabregas" />
+<TargetLink id="T15" fact_or_opinionID="F15" fact_or_opinionText="slalomed into the penalty area" targetID="C5" targetText="he" />
+<TargetLink id="T16" fact_or_opinionID="F16" fact_or_opinionText="firing straight at" targetID="C5" targetText="he" />
+<TargetLink id="T17" fact_or_opinionID="F17" fact_or_opinionText="rolled a simple pass" targetID="P16" targetText="Joleon Lescott" />
+<TargetLink id="T18" fact_or_opinionID="F18" fact_or_opinionText="turned and ran on to" targetID="P17" targetText="Berahino" />
+<TargetLink id="T19" fact_or_opinionID="F19" fact_or_opinionText="rifling right-footed into Courtois&apos; bottom left-hand corner from 25 yards out" targetID="P17" targetText="Berahino" />
+<TargetLink id="T20" fact_or_opinionID="F20" fact_or_opinionText="was dismissed" targetID="P20" targetText="Fabregas" />
+<TargetLink id="T21" fact_or_opinionID="F21" fact_or_opinionText="the latter being booked" targetID="P22" targetText="Costa" />
+<TargetLink id="T22" fact_or_opinionID="F22" fact_or_opinionText="straight red" targetID="P24" targetText="Fabregas" />
+<TargetLink id="T23" fact_or_opinionID="F23" fact_or_opinionText="stung Myhill&apos;s palms with a free kick" targetID="P27" targetText="Filipe Luis" />
+<TargetLink id="T24" fact_or_opinionID="F24" fact_or_opinionText="saved smartly" targetID="P29" targetText="Courtois" />
+<TargetLink id="T25" fact_or_opinionID="F25" fact_or_opinionText="to deny" targetID="P30" targetText="Brunt" />
+<TargetLink id="T26" fact_or_opinionID="F26" fact_or_opinionText="through ball" targetID="P31" targetText="James Morrison" />
+<TargetLink id="T27" fact_or_opinionID="F28" fact_or_opinionText="bundled Berahino over in the box to concede a penalty" targetID="P33" targetText="Berahino" />
+<TargetLink id="T28" fact_or_opinionID="F29" fact_or_opinionText="struck the post" targetID="P36" targetText="Loic Remy" />
+<TargetLink id="T29" fact_or_opinionID="O0" fact_or_opinionText="well beaten 10 minutes later" targetID="P37" targetText="Myhill" />
+<TargetLink id="T30" fact_or_opinionID="F30" fact_or_opinionText="who cut in from the right following a short-corner routine" targetID="P38" targetText="Brunt" />
+<TargetLink id="T31" fact_or_opinionID="F31" fact_or_opinionText="lashed low past Courtois at his near post" targetID="P38" targetText="Brunt" />
+</TAGS>
+</SoccEval1.2>
