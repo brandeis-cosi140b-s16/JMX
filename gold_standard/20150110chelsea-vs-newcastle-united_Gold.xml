@@ -70,7 +70,7 @@ As Newcastle labored in an attempt to get back into the game, Costa was then den
 <Coref id="C7" spans="2327~2335" text="the Serb" playerID="102" />
 <Coref id="C8" spans="2511~2534" text="the Spain international" playerID="104" />
 <Coref id="C9" spans="2590~2593" text="his" playerID="104" />
-<Coref id="C10" spans="2470~2472" text="he" playerID="115" />
+<Coref id="C10" spans="2470~2472" text="he" playerID="104" />
 <Fact id="F0" spans="110~133" text="gave the Blues the lead" time="last match" type="goal" factID="1" />
 <Fact id="F1" spans="176~193" text="before setting up" time="last match" type="assist" factID="3" />
 <Fact id="F2" spans="216~258" text="his 15th Premier League goal of the season" time="last match" type="goal" factID="1" />

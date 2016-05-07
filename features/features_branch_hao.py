@@ -126,38 +126,56 @@ def example():
 sys.path.append("../baseline")
 from create_baseline_corpus import parse_ratings, strip_accents
 
+#for roots, folders, files in os.walk("../gold_standard/"):
+    #for filename in files:
+
+def get_playerid_rating_dic(filename, roots="../gold_standard"):
+    """roots should be gold_standard root, filename is the name of the xml file"""
+    xml=open(os.path.join(roots, filename), encoding="UTF-8").read()
+    bs = BeautifulSoup(xml, 'html.parser')
+
+    date=filename.replace("-","")[:8]
+    rating_folder="../ratings/"
+
+    #find corresponding rating file
+    rating_file=""
+    for root, folder, file in os.walk(rating_folder):
+        for f in file:
+            if f.startswith("r"+date) and "chelsea" in f:
+                rating_file=os.path.join(root,f)
+                break
+    
+    #parse rating into a dictionary
+    ratings=parse_ratings(open(rating_file))
+
+    #link playerid to rating, "-1" means player rating not found in file
+    playerid_rating_dic={}
+    for player_tag in bs.find_all("player"):
+        name=player_tag["text"].lower()
+        name=strip_accents(name)
+        has_rating=False
+        for d in ratings.values():
+            if len(name.split())>1:
+                if d["names"][0].split("\\b")[1]==name or d["names"][2].split("\\b")[1]==name.split()[1:] or d["names"][1].split("\\b")[1]==name.split()[0]:
+                    playerid_rating_dic[player_tag["playerid"]]=[d["rating"],name]
+                    has_rating=True
+            elif len(name.split())==1:
+                if d["names"][0].split("\\b")[1]==name or d["names"][2].split("\\b")[1]==name or d["names"][1].split("\\b")[1]==name:
+                    playerid_rating_dic[player_tag["playerid"]]=[d["rating"],name]
+                    has_rating=True
+        if has_rating==False:
+            playerid_rating_dic[player_tag["playerid"]]=[-1,name]
+    return playerid_rating_dic
+
+
+data=[] #used for feature extraction
 for roots, folders, files in os.walk("../gold_standard/"):
     for filename in files:
-        xml=open(os.path.join(roots, filename), encoding="UTF-8").read()
-        bs = BeautifulSoup(xml, 'html.parser')
-
-        date=filename.replace("-","")[:8]
-        rating_folder="../ratings/"
-
-        #find corresponding rating file
-        for root, folder, file in os.walk(rating_folder):
-            for f in file:
-                if f.startswith("r"+date) and "chelsea" in f:
-                    rating_file=os.path.join(root,f)
-
-        #parse rating into a dictionary
-        ratings=parse_ratings(open(rating_file))
-
-        #link playerid to rating, "-1" means player rating not found in file
-        playerid_rating_dic={}
-        for player_tag in bs.find_all("player"):
-            name=player_tag["text"].lower()
-            name=strip_accents(name)
-            has_rating=False
-            for d in ratings.values():
-                if len(name.split())>1:
-                    if d["names"][0].split("\\b")[1]==name or d["names"][2].split("\\b")[1]==name.split()[1:] or d["names"][1].split("\\b")[1]==name.split()[0]:
-                        playerid_rating_dic[player_tag["playerid"]]=[d["rating"],name]
-                        has_rating=True
-                elif len(name.split())==1:
-                    if d["names"][0].split("\\b")[1]==name or d["names"][2].split("\\b")[1]==name or d["names"][1].split("\\b")[1]==name:
-                        playerid_rating_dic[player_tag["playerid"]]=[d["rating"],name]
-                        has_rating=True
-            if has_rating==False:
-                playerid_rating_dic[player_tag["playerid"]]=[-1,name]
-        print(playerid_rating_dic)
+        if "review" not in filename:
+            xml=open(os.path.join(roots, filename), "r", -1, "UTF-8").read()
+            bs=BeautifulSoup(xml, 'html.parser')
+            player_links = map_playerids_to_targets(bs)
+            player_ratings=get_playerid_rating_dic(filename,roots)
+            l=[[filename.replace("-","")[:8]+"-"+pid, player_links[pid],
+                player_ratings[pid][0], player_ratings[pid][1]] for pid in player_links.keys()]
+            data.extend(l)

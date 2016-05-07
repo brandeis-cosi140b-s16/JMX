@@ -72,7 +72,7 @@ With a minute remaining, Coutinho's effort took a wicked deflection off Cahill a
 <Coref id="C4" spans="1174~1176" text="he" playerID="102" />
 <Coref id="C5" spans="1772~1784" text="the Spaniard" playerID="105" />
 <Coref id="C6" spans="1902~1916" text="The midfielder" playerID="105" />
-<Coref id="C7" spans="3312~3326" text="the goalkeeper" playerID="108" />
+<Coref id="C7" spans="3312~3326" text="the goalkeeper" playerID="9" />
 <Fact id="F0" spans="111~124" text="cancelled out" time="last match" type="goal" factID="1" />
 <Fact id="F1" spans="138~157" text="fifth-minute opener" time="last match" type="goal" factID="2" />
 <Fact id="F2" spans="939~961" text="who put his side ahead" time="last match" type="goal" factID="2" />
