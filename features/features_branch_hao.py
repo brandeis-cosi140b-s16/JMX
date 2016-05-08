@@ -3,9 +3,13 @@ from nltk import FreqDist
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import sys, os
+import numpy as np
+from sklearn import linear_model
+from sklearn.metrics import precision_recall_fscore_support
 
 STOPWORDS = stopwords.words('english')
 STOPWORDS.extend([',', '.'])
+ALL_RATINGS = [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0]
 
 # merged_ types = dict of merged opinion types
 
@@ -167,15 +171,80 @@ def get_playerid_rating_dic(filename, roots="../gold_standard"):
             playerid_rating_dic[player_tag["playerid"]]=[-1,name]
     return playerid_rating_dic
 
+def for_ref(data):
+    with open("rawdata_for_ref.csv","w", encoding="UTF-8", newline='') as f:
+        wr=csv.writer(f,delimiter=",",quoting=csv.QUOTE_ALL)
+        for l in data:
+            wr.writerow([str(i) for i in l])
 
-data=[] #used for feature extraction
+def create_rawset(roots, filename):
+    if "review" not in filename:
+        xml=open(os.path.join(roots, filename), "r", -1, "UTF-8").read()
+        bs=BeautifulSoup(xml, 'html.parser')
+        player_links = map_playerids_to_targets(bs)
+        player_ratings=get_playerid_rating_dic(filename,roots)
+        l=[[filename.replace("-","")[:8]+"-"+pid, player_links[pid],
+            player_ratings[pid][0], player_ratings[pid][1]] for pid in player_links.keys()]
+        return l
+
+def doc_tag_counts(train_raw):
+    """return dictionary mapping docid to tag total counts"""
+    d={}
+    for l in train_raw:
+        if l[2]!=-1:
+            d[l[0][:8]]=d.get(l[0][:8],0)+len(l[1])
+    return d
+
+
+##feature: fact mentions
+def create_X(train_raw, types=['goal','shot','movement','assist']):
+    doc_tags=doc_tag_counts(train_raw)
+    train_X=[]
+    for l in train_raw:
+        if l[2]!=-1:
+            feature_list=[sum(1 for t in l[1] if t.name=='fact' and t['type']==tp)/doc_tags[l[0][:8]] for tp in types]
+            
+            ##add more features here
+            
+            train_X.append(feature_list)
+    return train_X
+
+def rating_convert(num_list):
+    return np.asarray([ALL_RATINGS[list(np.absolute([i-num for i in ALL_RATINGS])).index(
+        min(list(np.absolute([i-num for i in ALL_RATINGS]))))] for num in num_list])
+
+allfiles=[]
+train_raw=[] #used for feature extraction
+test_raw=[] #used for feature extraction
 for roots, folders, files in os.walk("../gold_standard/"):
     for filename in files:
-        if "review" not in filename:
-            xml=open(os.path.join(roots, filename), "r", -1, "UTF-8").read()
-            bs=BeautifulSoup(xml, 'html.parser')
-            player_links = map_playerids_to_targets(bs)
-            player_ratings=get_playerid_rating_dic(filename,roots)
-            l=[[filename.replace("-","")[:8]+"-"+pid, player_links[pid],
-                player_ratings[pid][0], player_ratings[pid][1]] for pid in player_links.keys()]
-            data.extend(l)
+        allfiles.append(filename)
+        np.random.shuffle(allfiles)
+        
+        train=allfiles[:int(len(allfiles)*.9)]
+        test=allfiles[int(len(allfiles)*.9):]
+
+    for f in train:
+        if "review" not in f:
+            train_raw.extend(create_rawset(roots,f))
+    for f in test:
+        if "review" not in f:
+            test_raw.extend(create_rawset(roots,f))
+
+train_X=create_X(train_raw)#FACT_TYPES
+train_X=np.asarray(train_X)
+train_y=[l[2] for l in train_raw if l[2]!=-1]
+train_y=np.asarray(train_y)
+
+test_X=create_X(test_raw)#FACT_TYPES
+test_X=np.asarray(test_X)
+test_y=[l[2] for l in test_raw if l[2]!=-1]
+test_y=np.asarray(test_y)
+
+regr = linear_model.LinearRegression()
+regr.fit(train_X, train_y)
+
+pred=rating_convert(regr.predict(test_X))
+
+print("%3s %5s %5s %5s" % ("","P","R","F"))
+print("micro %4.2f, %4.2f, %4.2f" % precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1])
