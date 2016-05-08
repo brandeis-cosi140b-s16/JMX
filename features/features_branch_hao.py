@@ -2,10 +2,11 @@ from bs4 import BeautifulSoup
 from nltk import FreqDist
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-import sys, os
+import sys, os, itertools
 import numpy as np
-from sklearn import linear_model
+from sklearn import linear_model,ensemble,svm
 from sklearn.metrics import precision_recall_fscore_support
+from scipy.stats import pearsonr
 
 STOPWORDS = stopwords.words('english')
 STOPWORDS.extend([',', '.'])
@@ -77,9 +78,9 @@ def total_polarity(player_tag_list):
         if tag.name == 'opinion':
             if tag['polarity']  == '+':
                 total += 1
-            else:
+            elif tag['polarity']=='-':
                 total -= 1
-    return {'total_polarity': total}
+    return total
 
 def player_mentions(player_id, parsed_xml):
     """Counts the number of times a player was mentioned with either a Player
@@ -102,36 +103,6 @@ def tag_unigram(player_tag_list, tag_name):
                 unigrams[token] += 1
     return unigrams
 
-###########################
-
-def example():
-    xml = open('../gold_standard/2014-08-18T210900Burnley 1-3 Chelsea  Premier League match report_Gold.xml', encoding='utf8').read()
-    bs = BeautifulSoup(xml, 'html.parser')
-    player_links = map_playerids_to_targets(bs)
-    player_id = '103'
-    features = fact_mentions(player_links[player_id])
-    print(features)
-    features = fact_unique(player_links[player_id])
-    print(features)
-    features = opin_type_and_polarity(player_links[player_id])
-    print(features)
-    features = total_polarity(player_links[player_id])
-    print(features)
-    features = player_mentions(player_id, bs)
-    print(features)
-    features = tag_unigram(player_links[player_id], 'fact')
-    print(features.pprint())
-    features = tag_unigram(player_links[player_id], 'opinion')
-    print(features.pprint())
-    features = tag_unigram(player_links[player_id], 'coref')
-    print(features.pprint())
-
-#####################################
-sys.path.append("../baseline")
-from create_baseline_corpus import parse_ratings, strip_accents
-
-#for roots, folders, files in os.walk("../gold_standard/"):
-    #for filename in files:
 
 def get_playerid_rating_dic(filename, roots="../gold_standard"):
     """roots should be gold_standard root, filename is the name of the xml file"""
@@ -195,16 +166,35 @@ def doc_tag_counts(train_raw):
             d[l[0][:8]]=d.get(l[0][:8],0)+len(l[1])
     return d
 
-
-##feature: fact mentions
-def create_X(train_raw, types=['goal','shot','movement','assist']):
+##features
+def create_X(train_raw):
     doc_tags=doc_tag_counts(train_raw)
     train_X=[]
     for l in train_raw:
         if l[2]!=-1:
-            feature_list=[sum(1 for t in l[1] if t.name=='fact' and t['type']==tp)/doc_tags[l[0][:8]] for tp in types]
+            feature_list=[]
+            #fact
+            feature_list.append(sum(1 for t in l[1] if t.name=='fact' and t['type']=="goal")/doc_tags[l[0][:8]])#goal
+            feature_list.append(sum(1 for t in l[1] if t.name=='fact' and (t['type']=="assist" or t['type']=="pass"))/doc_tags[l[0][:8]])#assist/pass
+            feature_list.append(sum(1 for t in l[1] if t.name=='fact' and t['type']=="shot")/doc_tags[l[0][:8]])#shot
+            feature_list.append(sum(1 for t in l[1] if t.name=='fact' and (t['type']=="movement" or t['type']=="positioning"))/doc_tags[l[0][:8]])#movement/positioning
+            feature_list.append(sum(1 for t in l[1] if t.name=='fact' and t['type']=="substitute out")/doc_tags[l[0][:8]])#sub out
+            feature_list.append(sum(1 for t in l[1] if t.name=='fact' and t['type']=="substitute in")/doc_tags[l[0][:8]])#sub in
+            feature_list.append(sum(1 for t in l[1] if t.name=='fact' and t['type']=="injury")/doc_tags[l[0][:8]])#injury
+            feature_list.append(sum(1 for t in l[1] if t.name=='fact' and t['type']=="tackle")/doc_tags[l[0][:8]])#tackle
+            feature_list.append(sum(1 for t in l[1] if t.name=='fact' and t['type']=="save")/doc_tags[l[0][:8]])#save
+            feature_list.append(sum(1 for t in l[1] if t.name=='fact' and t['type']=="foul")/doc_tags[l[0][:8]])#foul
+
+            #opinion
+            feature_list.append(total_polarity(l[1]))
+            feature_list.append(sum(1 for t in l[1] if t.name=='opinion' and t['type']=="soccer skill")/doc_tags[l[0][:8]])#soccer skill
+            feature_list.append(sum(1 for t in l[1] if t.name=='opinion' and (t['type']=="accomplishment" or t['type']=="growth-decline"))/doc_tags[l[0][:8]])#accomplishment/growth-decline
+            feature_list.append(sum(1 for t in l[1] if t.name=='opinion' and t['type']=="general attribute")/doc_tags[l[0][:8]])#general attribute
+            feature_list.append(sum(1 for t in l[1] if t.name=='opinion' and t['type']=="impact on team")/doc_tags[l[0][:8]])#impact on team
+            feature_list.append(sum(1 for t in l[1] if t.name=='opinion' and t['type']=="other opinion")/doc_tags[l[0][:8]])#other opinion
             
-            ##add more features here
+            #fact or opinion total count
+            feature_list.append(len(l[1]))
             
             train_X.append(feature_list)
     return train_X
@@ -213,38 +203,100 @@ def rating_convert(num_list):
     return np.asarray([ALL_RATINGS[list(np.absolute([i-num for i in ALL_RATINGS])).index(
         min(list(np.absolute([i-num for i in ALL_RATINGS]))))] for num in num_list])
 
-allfiles=[]
-train_raw=[] #used for feature extraction
-test_raw=[] #used for feature extraction
-for roots, folders, files in os.walk("../gold_standard/"):
-    for filename in files:
-        allfiles.append(filename)
+def main(show_result=True,show_correlate=True):
+    allfiles=[]
+    train_raw=[] #used for feature extraction
+    test_raw=[] #used for feature extraction
+    for roots, folders, files in os.walk("../gold_standard/"):
+        for filename in files:
+            allfiles.append(filename)
+            
         np.random.shuffle(allfiles)
         
         train=allfiles[:int(len(allfiles)*.9)]
         test=allfiles[int(len(allfiles)*.9):]
 
-    for f in train:
-        if "review" not in f:
-            train_raw.extend(create_rawset(roots,f))
-    for f in test:
-        if "review" not in f:
-            test_raw.extend(create_rawset(roots,f))
+        for f in train:
+            if "review" not in f:
+                train_raw.extend(create_rawset(roots,f))
+        for f in test:
+            if "review" not in f:
+                test_raw.extend(create_rawset(roots,f))
 
-train_X=create_X(train_raw)#FACT_TYPES
-train_X=np.asarray(train_X)
-train_y=[l[2] for l in train_raw if l[2]!=-1]
-train_y=np.asarray(train_y)
+    train_X=create_X(train_raw)
+    train_X=np.asarray(train_X)
+    train_y=[l[2] for l in train_raw if l[2]!=-1]
+    train_y=np.asarray(train_y)
 
-test_X=create_X(test_raw)#FACT_TYPES
-test_X=np.asarray(test_X)
-test_y=[l[2] for l in test_raw if l[2]!=-1]
-test_y=np.asarray(test_y)
+    test_X=create_X(test_raw)
+    test_X=np.asarray(test_X)
+    test_y=[l[2] for l in test_raw if l[2]!=-1]
+    test_y=np.asarray(test_y)
 
-regr = linear_model.LinearRegression()
-regr.fit(train_X, train_y)
+    #linear regression
+    regr=linear_model.LinearRegression()
+    regr.fit(train_X, train_y)
+    pred=rating_convert(regr.predict(test_X))
+    result_lr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
+    if show_result:
+        print("LR: %5s %5s %5s" % ("P","R","F"))
+        print("micro %4.2f, %4.2f, %4.2f" % result_lr)
 
-pred=rating_convert(regr.predict(test_X))
+    #svr
+    svr=svm.SVR()
+    svr.fit(train_X,train_y)
+    pred=rating_convert(regr.predict(test_X))
+    result_svr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
+    if show_result:
+        print("SVR:%5s %5s %5s" % ("P","R","F"))
+        print("micro %4.2f, %4.2f, %4.2f" % result_svr)
 
-print("%3s %5s %5s %5s" % ("","P","R","F"))
-print("micro %4.2f, %4.2f, %4.2f" % precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1])
+    #maxent
+    maxent=linear_model.LogisticRegression()
+    maxent.fit(train_X,train_y.astype(str))
+    pred=maxent.predict(test_X)
+    result_maxent=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
+    if show_result:
+        print("ME: %5s %5s %5s" % ("P","R","F"))
+        print("micro %4.2f, %4.2f, %4.2f" % result_maxent)
+
+    #random forest
+    rf=ensemble.RandomForestClassifier()
+    rf.fit(train_X,train_y.astype(str))
+    pred=rf.predict(test_X)
+    result_rf=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
+    if show_result:
+        print("RF: %5s %5s %5s" % ("P","R","F"))
+        print("micro %4.2f, %4.2f, %4.2f" % result_rf)
+
+    if show_correlate:
+        print("\ncorrelated features with sig:")
+        for i,j in itertools.combinations(range(train_X.shape[1]),2):
+            if pearsonr(train_X[:,i],train_X[:,j])[1]<0.001:
+                print(i,j,pearsonr(train_X[:,i],train_X[:,j]))
+        print()
+    return result_lr, result_svr, result_maxent, result_rf
+
+if __name__=="__main__":
+    sys.path.append("../baseline")
+    from create_baseline_corpus import parse_ratings, strip_accents
+    results_lr=[]
+    results_svr=[]
+    results_maxent=[]
+    results_rf=[]
+    itr=10
+    for i in range(itr):
+        print("iteration "+str(i+1)+"/"+str(itr)+"\n")
+        l=main(0,0)
+        results_lr.append(l[0])
+        results_svr.append(l[1])
+        results_maxent.append(l[2])
+        results_rf.append(l[3])
+    print("LR average:")
+    print(np.mean(np.asarray(results_lr),0))
+    print("SVR average:")
+    print(np.mean(np.asarray(results_svr),0))
+    print("MaxEnt average:")
+    print(np.mean(np.asarray(results_maxent),0))
+    print("RF average:")
+    print(np.mean(np.asarray(results_rf),0))
