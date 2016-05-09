@@ -251,7 +251,7 @@ def main(allfiles,leaveout,show_result=True,show_correlate=True):
     #svr
     svr=svm.SVR()
     svr.fit(train_X,train_y)
-    pred=rating_convert(regr.predict(test_X))
+    pred=rating_convert(svr.predict(test_X))
     result_svr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
     if show_result:
         print("SVR:%5s %5s %5s" % ("P","R","F"))
@@ -311,8 +311,8 @@ if __name__=="__main__":
 #LR average:
 #[ 0.36187642  0.36187642  0.36187642]
 #SVR average:
-#[ 0.36187642  0.36187642  0.36187642]
+#[ 0.36008913  0.36008913  0.36008913]
 #MaxEnt average:
 #[ 0.36371296  0.36371296  0.36371296]
 #RF average:
-#[ 0.27971995  0.27971995  0.27971995]
+#[ 0.29619737  0.29619737  0.29619737]
