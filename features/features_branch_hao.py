@@ -203,25 +203,30 @@ def rating_convert(num_list):
     return np.asarray([ALL_RATINGS[list(np.absolute([i-num for i in ALL_RATINGS])).index(
         min(list(np.absolute([i-num for i in ALL_RATINGS]))))] for num in num_list])
 
-def main(show_result=True,show_correlate=True):
+def getallfiles(folder="../gold_standard/"):
     allfiles=[]
-    train_raw=[] #used for feature extraction
-    test_raw=[] #used for feature extraction
     for roots, folders, files in os.walk("../gold_standard/"):
         for filename in files:
             allfiles.append(filename)
-            
-        np.random.shuffle(allfiles)
-        
-        train=allfiles[:int(len(allfiles)*.9)]
-        test=allfiles[int(len(allfiles)*.9):]
+    return allfiles
 
-        for f in train:
-            if "review" not in f:
-                train_raw.extend(create_rawset(roots,f))
-        for f in test:
-            if "review" not in f:
-                test_raw.extend(create_rawset(roots,f))
+def main(allfiles,leaveout,show_result=True,show_correlate=True):
+#    allfiles=[]
+    train_raw=[] #used for feature extraction
+    test_raw=[] #used for feature extraction
+#    for roots, folders, files in os.walk("../gold_standard/"):
+#        for filename in files:
+#            allfiles.append(filename)
+            
+    train=allfiles[:leaveout]+allfiles[leaveout+2:]
+    test=allfiles[leaveout:leaveout+2]
+
+    for f in train:
+        if "review" not in f:
+            train_raw.extend(create_rawset("../gold_standard/",f))
+    for f in test:
+        if "review" not in f:
+            test_raw.extend(create_rawset("../gold_standard/",f))
 
     train_X=create_X(train_raw)
     train_X=np.asarray(train_X)
@@ -236,6 +241,7 @@ def main(show_result=True,show_correlate=True):
     #linear regression
     regr=linear_model.LinearRegression()
     regr.fit(train_X, train_y)
+
     pred=rating_convert(regr.predict(test_X))
     result_lr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
     if show_result:
@@ -284,10 +290,10 @@ if __name__=="__main__":
     results_svr=[]
     results_maxent=[]
     results_rf=[]
-    itr=10
+    itr=33
     for i in range(itr):
         print("iteration "+str(i+1)+"/"+str(itr)+"\n")
-        l=main(0,0)
+        l=main(getallfiles(),i,show_result=0,show_correlate=0)
         results_lr.append(l[0])
         results_svr.append(l[1])
         results_maxent.append(l[2])
@@ -300,3 +306,13 @@ if __name__=="__main__":
     print(np.mean(np.asarray(results_maxent),0))
     print("RF average:")
     print(np.mean(np.asarray(results_rf),0))
+
+#Cross-Validation (leave out 2 test files each time)
+#LR average:
+#[ 0.36187642  0.36187642  0.36187642]
+#SVR average:
+#[ 0.36187642  0.36187642  0.36187642]
+#MaxEnt average:
+#[ 0.36371296  0.36371296  0.36371296]
+#RF average:
+#[ 0.27971995  0.27971995  0.27971995]
