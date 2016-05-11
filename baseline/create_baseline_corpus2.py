@@ -7,7 +7,7 @@ Project: SoccEval
 
 This program creates a JSON corpus of sentences regarding a particular player
 during a given match and that player's rating for that match, which can be used
-to train a classifier. The corpus is saved as ratings_corpus.json.
+to train a classifier. The corpus is saved as ratings_corpus2.json.
 
 To run:
     python create_baseline_corpus.py
