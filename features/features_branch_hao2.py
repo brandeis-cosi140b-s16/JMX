@@ -7,6 +7,7 @@ import numpy as np
 from sklearn import linear_model,ensemble,svm
 from sklearn.metrics import precision_recall_fscore_support
 from scipy.stats import pearsonr
+from scipy.linalg import svd
 
 STOPWORDS = stopwords.words('english')
 STOPWORDS.extend([',', '.'])
@@ -227,12 +228,21 @@ def main(allfiles,leaveout,show_result=True,show_correlate=True):
     train_X=create_X(train_raw)
     train_X=np.asarray(train_X)
     print(train_X.shape)
+    
+    U,E,Vt=svd(train_X,False)
+    V=np.transpose(Vt)
+    train_X=np.dot(train_X,V[:,0:6])
+    
     train_y=[l[2] for l in train_raw if l[2]!=-1]
     train_y=np.asarray(train_y)
-    print(train_y.shape)
 
     test_X=create_X(test_raw)
     test_X=np.asarray(test_X)
+
+    U,E,Vt=svd(test_X,False)
+    V=np.transpose(Vt)
+    test_X=np.dot(test_X,V[:,0:6])
+    
     test_y=[l[2] for l in test_raw if l[2]!=-1]
     test_y=np.asarray(test_y)
 
@@ -241,37 +251,10 @@ def main(allfiles,leaveout,show_result=True,show_correlate=True):
     regr.fit(train_X, train_y)
 
     pred=rating_convert(regr.predict(test_X))
-    result_lr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='macro')[:-1]
+    result_lr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
     if show_result:
         print("LR: %5s %5s %5s" % ("P","R","F"))
         print("micro %4.2f, %4.2f, %4.2f" % result_lr)
-
-    #svr
-    svr=svm.SVR()
-    svr.fit(train_X,train_y)
-    pred=rating_convert(svr.predict(test_X))
-    result_svr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='macro')[:-1]
-    if show_result:
-        print("SVR:%5s %5s %5s" % ("P","R","F"))
-        print("micro %4.2f, %4.2f, %4.2f" % result_svr)
-
-    #maxent
-    maxent=linear_model.LogisticRegression()
-    maxent.fit(train_X,train_y.astype(str))
-    pred=maxent.predict(test_X)
-    result_maxent=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='macro')[:-1]
-    if show_result:
-        print("ME: %5s %5s %5s" % ("P","R","F"))
-        print("micro %4.2f, %4.2f, %4.2f" % result_maxent)
-
-    #random forest
-    rf=ensemble.RandomForestClassifier()
-    rf.fit(train_X,train_y.astype(str))
-    pred=rf.predict(test_X)
-    result_rf=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='macro')[:-1]
-    if show_result:
-        print("RF: %5s %5s %5s" % ("P","R","F"))
-        print("micro %4.2f, %4.2f, %4.2f" % result_rf)
 
     if show_correlate:
         print("\ncorrelated features with sig:")
@@ -279,31 +262,19 @@ def main(allfiles,leaveout,show_result=True,show_correlate=True):
             if pearsonr(train_X[:,i],train_X[:,j])[1]<0.001:
                 print(i,j,pearsonr(train_X[:,i],train_X[:,j]))
         print()
-    return result_lr, result_svr, result_maxent, result_rf
+    return result_lr
 
 if __name__=="__main__":
     sys.path.append("../baseline")
     from create_baseline_corpus import parse_ratings, strip_accents
     results_lr=[]
-    results_svr=[]
-    results_maxent=[]
-    results_rf=[]
     itr=33
     for i in range(itr):
         print("iteration "+str(i+1)+"/"+str(itr)+"\n")
-        l=main(getallfiles(),i,show_result=0,show_correlate=0)
-        results_lr.append(l[0])
-        results_svr.append(l[1])
-        results_maxent.append(l[2])
-        results_rf.append(l[3])
+        l=main(getallfiles(),i,show_result=1,show_correlate=0)
+        results_lr.append(l)
     print("LR average:")
     print(np.mean(np.asarray(results_lr),0))
-    print("SVR average:")
-    print(np.mean(np.asarray(results_svr),0))
-    print("MaxEnt average:")
-    print(np.mean(np.asarray(results_maxent),0))
-    print("RF average:")
-    print(np.mean(np.asarray(results_rf),0))
 
 #Cross-Validation (leave out 2 test files each time)
 #LR average:
