@@ -5,27 +5,21 @@ Class: Natural Language Annotation for Machine Learning
 Term: Spring 2016
 Project: SoccEval
 
-This program either trains a classifier or loads an existing one and tests it
-via k-fold cross validation on a portion of the documents from the file
-ratings_corpus2.json, printing information regarding the classifier's averaged
-precision and recall for each class.
-
-NOTE: Loading previously trained classifiers doesn't not currently work correctly.
+This program either trains a classifier and tests it via k-fold cross-validation
+on a portion of the documents from the file ratings_corpus2.json, printing
+information regarding the classifier's averaged precision and recall for each
+class.
 
 To run:
-    python test_baseline.py <command> <classifier>
+    python test_baseline.py <classifier>
 
-<command> should be:
-    - 'new' to create the classifier from scratch.
-    - 'load' to load an existing classifier.
 <classifier> should be
     - 'maxent' to create or load a MaxEnt classifier.
     - 'decision_tree' to create or load a decision tree classifier.
-    - 'lr' to create or load a linear regression classifier.
-    - 'svm' to create or load a support vector machine classifier.
+    - 'svr' to create or load a support vector machine classifier.
 """
 
-import json, nltk, pickle, re, sys
+import json, math, nltk, sys
 from itertools import combinations
 from nltk import FreqDist
 from nltk.corpus import stopwords
@@ -64,7 +58,7 @@ def unigram_freqs(document):
               if token.lower() not in STOPWORDS]
     return FreqDist(tokens)
 
-def select_folds(input_list, k=10):
+def select_folds(input_list, k=17):
     """Separates a list into folds for cross-validation.
 
     Args:
@@ -73,15 +67,11 @@ def select_folds(input_list, k=10):
     Returns:
         A list of k lists, each comprising a fold.
     """
-    fold_size = len(input_list) // k
+    fold_size = math.ceil(len(input_list) / k)
     folds = []
     for i in range(0, len(input_list), fold_size):
         fold = input_list[i:i+fold_size]
-        if len(fold) < fold_size:
-            for x in range(len(fold)):
-                folds[x].append(fold[x])
-        else:
-            folds.append(fold)
+        folds.append(fold)
     return folds
 
 def extract_features(document, feature_functions):
@@ -122,11 +112,12 @@ def update_scores(avg_scores, fold_scores):
         avg_scores['by_label'][rating]['r'] += fold_scores['by_label'][rating]['r']
         avg_scores['by_label'][rating]['f'] += fold_scores['by_label'][rating]['f']
         
-def average_scores(avg_scores, k=10):
+def average_scores(avg_scores, k=17):
     """Averages the overall scores from the k-fold cross validation.
 
     Args:
         avg_scores: the raw scores.
+        k: the number of folds used in cross-validation.
     """
     avg_scores['micro']['p'] /= k
     avg_scores['micro']['r'] /= k
@@ -140,13 +131,10 @@ def average_scores(avg_scores, k=10):
         avg_scores['by_label'][rating]['f'] /= k
 
 def test_iteration(i, train_set, test_dict, feature_sets_by_match,
-                   classifier_type='decision_tree', command='new'):
+                   classifier_type='decision_tree'):
     """Performs one iteration of the k-fold cross validation, returing a dict
     containing overall micro and macro score averages, in addition to scores for
     each label.
-
-    For efficient retesting, this function saves pickled versions of classifier
-    objects if they are trained from scratch, as they take some time to train.
 
     Args:
         i: the iteration of the k-fold cross validation.
@@ -155,31 +143,20 @@ def test_iteration(i, train_set, test_dict, feature_sets_by_match,
             the test set.
         feature_sets_by_match: feature respresentations of documents organized
             by match.
-        classifier: the type of classifier to use.
-        command: 'new' to train and save a new classifier, 'load' to use a
-            previously trained classifier.
+        classifier_type: the type of classifier to use.
     Returns:
         A dict containing overall micro and macro score averages, in addition
         to scores for each label.
     """
-    #classifier = nltk.classify.scikitlearn.SklearnClassifier(svm.SVR()).train(train_set)
     classifier = ''
-    if command == 'new':
-        if classifier_type == 'decision_tree':
-            #classifier = nltk.classify.DecisionTreeClassifier.train(train_set)
-            classifier = nltk.classify.scikitlearn.SklearnClassifier(tree.DecisionTreeClassifier()).train(train_set)
-        elif classifier_type == 'maxent':
-            #classifier = nltk.classify.maxent.MaxentClassifier.train(train_set)
-            classifier = nltk.classify.scikitlearn.SklearnClassifier(linear_model.LogisticRegression()).train(train_set)
-        elif classifier_type == 'svm':
-            classifier = nltk.classify.scikitlearn.SklearnClassifier(svm.SVR()).train(train_set)
-        classifier_file = open('_'.join([classifier_type, str(i)]), 'wb')
-        pickle.dump(classifier, classifier_file)
-        classifier_file.close()
-    elif command == 'load':
-        classifier_file = open('_'.join([classifier_type, str(i)]), 'rb')
-        classifier = pickle.load(classifier_file)
-        classifier_file.close()
+    if classifier_type == 'decision_tree':
+        #classifier = nltk.classify.DecisionTreeClassifier.train(train_set)
+        classifier = nltk.classify.scikitlearn.SklearnClassifier(tree.DecisionTreeClassifier(random_state=8246)).train(train_set)
+    elif classifier_type == 'maxent':
+        #classifier = nltk.classify.maxent.MaxentClassifier.train(train_set)
+        classifier = nltk.classify.scikitlearn.SklearnClassifier(linear_model.LogisticRegression()).train(train_set)
+    elif classifier_type == 'svr':
+        classifier = nltk.classify.scikitlearn.SklearnClassifier(svm.SVR()).train(train_set)
     
     pred_sets = initialize_sets(ALL_RATINGS)
     gold_sets = initialize_sets(ALL_RATINGS)
@@ -249,7 +226,7 @@ def test_iteration(i, train_set, test_dict, feature_sets_by_match,
 
     return fold_scores
 
-def main(command, classifier_type):
+def main(classifier_type):
     
     feature_functions = [unigram_boolean]
     
@@ -273,14 +250,16 @@ def main(command, classifier_type):
         else:
             feature_sets_by_match[prefix][doc_id] = (features, rating)
 
+    # Initialize the average scores.
     avg_scores = {'micro': {'p': 0, 'r': 0, 'f': 0},
                   'macro': {'p': 0, 'r': 0, 'f': 0},
                   'by_label': {rating: {'p': 0, 'r': 0, 'f': 0}
                                for rating in ALL_RATINGS}
                   }
 
-    folds = select_folds(sorted(matches), 15)
+    folds = select_folds(sorted(matches), 17)
 
+    # Separate folds into a test and training data.
     for i in range(len(folds)):
         train_folds = folds[:i]
         train_folds.extend(folds[i+1:])
@@ -296,14 +275,16 @@ def main(command, classifier_type):
                 test_dict[match][doc_id] = {'features': feature_sets_by_match[match][doc_id][0]}
                 test_dict[match][doc_id]['gold'] = feature_sets_by_match[match][doc_id][1]
 
-        print('iteration {}:'.format(i))
-        fold_scores = test_iteration(i, train_set, test_dict, feature_sets_by_match,
-                                     classifier_type=classifier_type, command=command)
+        print('\niteration {}:'.format(i))
+        fold_scores = test_iteration(i, train_set, test_dict,
+                                     feature_sets_by_match,
+                                     classifier_type=classifier_type)
         update_scores(avg_scores, fold_scores)
         
-    average_scores(avg_scores, k=15)
+    average_scores(avg_scores, k=17)
     micro = [avg_scores['micro'][label] for label in ['p', 'r', 'f']]
     macro = [avg_scores['macro'][label] for label in ['p', 'r', 'f']]
+    print('\n-----AVERAGE SCORES-----')
     print('MICRO P: {:.3}, R: {:.3}, F: {:.3}'.format(micro[0], micro[1], micro[2]))
     print('MACRO P: {:.3}, R: {:.3}, F: {:.3}'.format(macro[0], macro[1], macro[2]))
     for label in ALL_RATINGS:
@@ -314,8 +295,7 @@ def main(command, classifier_type):
     
 
 if __name__ == '__main__':
-    command = sys.argv[1]
-    classifier_type = sys.argv[2]
-    if command not in ['new', 'load'] or classifier_type not in ['decision_tree', 'lr', 'maxent', 'svm']:
-        raise Exception('Invalid command-line argument')
-    main(command, classifier_type)
+    classifier_type = sys.argv[1]
+    if classifier_type not in ['decision_tree', 'maxent', 'svr']:
+        raise Exception('Invalid classifier type')
+    main(classifier_type)
