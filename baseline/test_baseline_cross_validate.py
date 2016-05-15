@@ -245,7 +245,7 @@ def test_iteration(i, train_set, test_dict, feature_sets_by_match,
         fold_scores['by_label'][label]['r'] = r
         fold_scores['by_label'][label]['f'] = f
         f = float(f)
-        print('<{}> P: {:.2}, R: {:.2}, F: {:.2}'.format(label, p, r, f))
+        print('<{}> P: {:.3}, R: {:.3}, F: {:.3}'.format(label, p, r, f))
 
     return fold_scores
 
@@ -304,13 +304,13 @@ def main(command, classifier_type):
     average_scores(avg_scores, k=15)
     micro = [avg_scores['micro'][label] for label in ['p', 'r', 'f']]
     macro = [avg_scores['macro'][label] for label in ['p', 'r', 'f']]
-    print('MICRO P: {:.2}, R: {:.2}, F: {:.2}'.format(micro[0], micro[1], micro[2]))
-    print('MACRO P: {:.2}, R: {:.2}, F: {:.2}'.format(macro[0], macro[1], macro[2]))
+    print('MICRO P: {:.3}, R: {:.3}, F: {:.3}'.format(micro[0], micro[1], micro[2]))
+    print('MACRO P: {:.3}, R: {:.3}, F: {:.3}'.format(macro[0], macro[1], macro[2]))
     for label in ALL_RATINGS:
         p = avg_scores['by_label'][label]['p']
         r = avg_scores['by_label'][label]['r']
         f = avg_scores['by_label'][label]['f']
-        print('<{}> P: {:.2}, R: {:.2}, F: {:.2}'.format(label, p, r, f))
+        print('<{}> P: {:.3}, R: {:.3}, F: {:.3}'.format(label, p, r, f))
     
 
 if __name__ == '__main__':
