@@ -76,7 +76,7 @@ def select_folds(input_list, k=10):
     fold_size = len(input_list) // k
     folds = []
     for i in range(0, len(input_list), fold_size):
-        fold = input_list[i:i+k]
+        fold = input_list[i:i+fold_size]
         if len(fold) < fold_size:
             for x in range(len(fold)):
                 folds[x].append(fold[x])
@@ -97,33 +97,6 @@ def extract_features(document, feature_functions):
     for feature_function in feature_functions:
         features.update(feature_function(document))  
     return features
-
-def split_data(feature_representation, test_portion=0.1):
-    """Separates the given document featuresets into a test set and a training
-    set. At least one document for each label will be included in the test set.
-
-    Args:
-        feature_representation: a list of document feature sets.
-        test_portion: the portion of documents to place in the test set.
-    Returns:
-        A tuple of the training set and test set.
-    """
-    if test_portion >= 1:
-        raise Exception('test_portion must be less than 1!')
-    cutoff = int(test_portion * len(feature_representation))
-    #train_set = feature_representation[cutoff:]
-    #test_set = feature_representation[:cutoff]
-    train_set = []
-    test_set = []
-    for label in ALL_RATINGS:
-        rating_set = [pair for pair in feature_representation
-                      if pair[1] == label]
-        cutoff = int(test_portion * len(rating_set))
-        if cutoff == 0:
-            cutoff += 1
-        train_set.extend(rating_set[cutoff:])
-        test_set.extend(rating_set[:cutoff])
-    return train_set, test_set
 
 def initialize_sets(labels):
     """Creates a dict mapping each item in labels to an empty set.
@@ -213,7 +186,7 @@ def test_iteration(i, train_set, test_dict, feature_sets_by_match,
     pred_list = []
     gold_list = []
 
-    # Classify predictions and add them to relvant dicts and lists.
+    # Classify predictions and add them to relevant dicts and lists.
     for match in test_dict:
         for doc_id in test_dict[match]:
             test_doc = test_dict[match][doc_id]['features']
@@ -287,7 +260,6 @@ def main(command, classifier_type):
     matches = set()
     for doc_id in corpus:
         matches.add(doc_id.split('_')[0])
-    folds = select_folds(list(matches))
     
     feature_sets_by_match = {}
     for doc_id, entry in corpus.items():
@@ -306,7 +278,9 @@ def main(command, classifier_type):
                   'by_label': {rating: {'p': 0, 'r': 0, 'f': 0}
                                for rating in ALL_RATINGS}
                   }
-    
+
+    folds = select_folds(sorted(matches), 15)
+
     for i in range(len(folds)):
         train_folds = folds[:i]
         train_folds.extend(folds[i+1:])
@@ -327,7 +301,7 @@ def main(command, classifier_type):
                                      classifier_type=classifier_type, command=command)
         update_scores(avg_scores, fold_scores)
         
-    average_scores(avg_scores)
+    average_scores(avg_scores, k=15)
     micro = [avg_scores['micro'][label] for label in ['p', 'r', 'f']]
     macro = [avg_scores['macro'][label] for label in ['p', 'r', 'f']]
     print('MICRO P: {:.2}, R: {:.2}, F: {:.2}'.format(micro[0], micro[1], micro[2]))

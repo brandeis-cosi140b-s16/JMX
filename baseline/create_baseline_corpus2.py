@@ -7,7 +7,8 @@ Project: SoccEval
 
 This program creates a JSON corpus of sentences regarding a particular player
 during a given match and that player's rating for that match, which can be used
-to train a classifier. The corpus is saved as ratings_corpus2.json.
+to train a classifier. The corpus is saved as ratings_corpus2.json. The data
+used in contained in the path baseline/data.
 
 To run:
     python create_baseline_corpus.py
@@ -42,31 +43,16 @@ def get_match_filepath(ratings_path, source):
     match_filename = ratings_filename[2:]
     match_path = ''
     if source == 'goal':
-        match_path = r'../goal_articles/all/' + match_filename
+        match_path = r'data/goal/' + match_filename
     elif source == 'guardian':
         date_match = re.match(r'^(\d{4})(\d{2})(\d{2})', match_filename)
         date = '-'.join(date_match.groups())
-        filename_with_spaces = match_filename.replace('-', ' ')
-        team1, team2 = re.search(r'([a-z\- ]+)? vs ([a-z\- ]+)',
-                                 filename_with_spaces).groups()
-        team_dict = {
-            'queens park rangers': 'qpr',
-            'tottenham hotspur': 'tottenham',
-            'west ham united': 'west ham',
-            }
-        if team1 in team_dict:
-            team1 = team_dict[team1]
-        if team2 in team_dict:
-            team2 = team_dict[team2]
-        guardian_root = r'../guardian_articles/matchreportsCLT/'
+        guardian_root = r'data/guardian/'
         for root, dirs, files in os.walk(guardian_root):
             if root == guardian_root:
                 for f in files:
                     if f.startswith(date):
-                        match1 = re.search(team1, f, re.I)
-                        match2 = re.search(team2, f, re.I)
-                        if match1 and match2:
-                            match_path = guardian_root + f
+                        match_path = guardian_root + f
     else:
         raise Exception("source must be 'goal' or 'guardian'")
     return match_path
@@ -222,7 +208,7 @@ def main():
     filepaths = []
     for root, dirs, files in os.walk(ratings_dir):
         for filename in files:
-            if filename.endswith('txt'):
+            if filename.endswith('txt') and 'chelsea' in filename:
                 filepaths.append(os.path.join(root, filename))
     
     corpus = create_ratings_corpus(filepaths, 'goal')
