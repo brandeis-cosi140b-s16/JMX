@@ -241,7 +241,7 @@ def main(allfiles,leaveout,show_result=True,show_correlate=True):
     regr.fit(train_X, train_y)
 
     pred=rating_convert(regr.predict(test_X))
-    result_lr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='macro')[:-1]
+    result_lr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
     if show_result:
         print("LR: %5s %5s %5s" % ("P","R","F"))
         print("micro %4.2f, %4.2f, %4.2f" % result_lr)
@@ -250,7 +250,7 @@ def main(allfiles,leaveout,show_result=True,show_correlate=True):
     svr=svm.SVR()
     svr.fit(train_X,train_y)
     pred=rating_convert(svr.predict(test_X))
-    result_svr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='macro')[:-1]
+    result_svr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
     if show_result:
         print("SVR:%5s %5s %5s" % ("P","R","F"))
         print("micro %4.2f, %4.2f, %4.2f" % result_svr)
@@ -259,7 +259,7 @@ def main(allfiles,leaveout,show_result=True,show_correlate=True):
     maxent=linear_model.LogisticRegression()
     maxent.fit(train_X,train_y.astype(str))
     pred=maxent.predict(test_X)
-    result_maxent=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='macro')[:-1]
+    result_maxent=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
     if show_result:
         print("ME: %5s %5s %5s" % ("P","R","F"))
         print("micro %4.2f, %4.2f, %4.2f" % result_maxent)
@@ -268,7 +268,7 @@ def main(allfiles,leaveout,show_result=True,show_correlate=True):
     rf=ensemble.RandomForestClassifier()
     rf.fit(train_X,train_y.astype(str))
     pred=rf.predict(test_X)
-    result_rf=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='macro')[:-1]
+    result_rf=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
     if show_result:
         print("RF: %5s %5s %5s" % ("P","R","F"))
         print("micro %4.2f, %4.2f, %4.2f" % result_rf)
@@ -289,7 +289,7 @@ if __name__=="__main__":
     results_maxent=[]
     results_rf=[]
     itr=33
-    for i in range(itr):
+    for i in range(0,itr,2):
         print("iteration "+str(i+1)+"/"+str(itr)+"\n")
         l=main(getallfiles(),i,show_result=0,show_correlate=0)
         results_lr.append(l[0])
@@ -318,3 +318,19 @@ if __name__=="__main__":
 #RF average:
 #micro [ 0.29619737  0.29619737  0.29619737]
 #macro [ 0.16338427  0.19074843  0.16353147]
+
+"""
+2-fold cross-validation
+LR average:
+[ 0.36448562  0.36448562  0.36448562]
+[ 0.21857773  0.25239348  0.20428389]
+SVR average:
+[ 0.36335682  0.36335682  0.36335682]
+[ 0.2064776   0.23254237  0.1938022 ]
+MaxEnt average:
+[ 0.36708799  0.36708799  0.36708799]
+[ 0.14651793  0.21894332  0.16007204]
+RF average:
+[ 0.2831313   0.2831313   0.2831313 ]
+[ 0.17646824  0.18805369  0.17108128]
+"""

@@ -251,7 +251,7 @@ def main(allfiles,leaveout,show_result=True,show_correlate=True):
     regr.fit(train_X, train_y)
 
     pred=rating_convert(regr.predict(test_X))
-    result_lr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='micro')[:-1]
+    result_lr=precision_recall_fscore_support(test_y.astype(str), pred.astype(str), average='macro')[:-1]
     if show_result:
         print("LR: %5s %5s %5s" % ("P","R","F"))
         print("micro %4.2f, %4.2f, %4.2f" % result_lr)
@@ -269,23 +269,16 @@ if __name__=="__main__":
     from create_baseline_corpus import parse_ratings, strip_accents
     results_lr=[]
     itr=33
-    for i in range(itr):
+    for i in range(0,itr,2):
         print("iteration "+str(i+1)+"/"+str(itr)+"\n")
         l=main(getallfiles(),i,show_result=1,show_correlate=0)
         results_lr.append(l)
     print("LR average:")
     print(np.mean(np.asarray(results_lr),0))
 
-#Cross-Validation (leave out 2 test files each time)
-#LR average:
-#micro [ 0.36187642  0.36187642  0.36187642]
-#macro [ 0.21170611  0.24231756  0.20131911]
-#SVR average:
-#micro [ 0.36008913  0.36008913  0.36008913]
-#macro [ 0.19568459  0.2231912   0.18682987]
-#MaxEnt average:
-#micro [ 0.36371296  0.36371296  0.36371296]
-#macro [ 0.14039413  0.20882193  0.15348743]
-#RF average:
-#micro [ 0.29619737  0.29619737  0.29619737]
-#macro [ 0.16338427  0.19074843  0.16353147]
+"""
+2-fold cross validation
+LR-SVD
+[ 0.32750464  0.32750464  0.32750464]
+[ 0.21584892  0.21645611  0.18675579]
+"""
